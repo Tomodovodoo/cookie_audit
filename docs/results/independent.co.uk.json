@@ -24,8 +24,8 @@
       "reason": "Accept is offered on the first layer; no direct refusal control was detected."
     },
     "prominence": {
-      "status": "fail",
-      "reason": "No refusal control detected alongside the first-layer accept control."
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
     },
     "before": {
       "status": "unknown",

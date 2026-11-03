@@ -3,7 +3,7 @@ import re
 from urllib.parse import urlsplit
 
 ACCEPT = re.compile(r'^(alles |alle |alle cookies |all |cookies )?(accepteren|accepteer|accept|aanvaarden|akkoord|toestaan|agree|allow)( all| alles| alle cookies| cookies| and continue| en doorgaan| en sluiten)?$|^(ja,? ik (accepteer|ga akkoord)|accept all cookies|allow all cookies|alle cookies accepteren|i accept|(?:yes,? )?i agree|ik ga akkoord|toestemming geven|ja,? alles toestaan|akkoord met persoonlijke advertenties)$',re.I)
-REJECT = re.compile(r'weigeren|weiger|reject|refuse|decline|deny|afwijzen|verwerpen|niet (accepteren|akkoord|toestaan)|zonder (te )?(accepteren|akkoord|toestemming)|(?:alleen|enkel) (strikt )?(noodzakelijk|essenti[eë]le|functione[e]?l|vereiste|verplicht|standaard)|only (strictly )?(necessary|essential|required)|necessary (cookies )?only|do not (accept|consent|agree)|without (accepting|consenting)|geen toestemming|^liever niet$|no,? thanks|nee,? (bedankt|liever niet)',re.I)
+REJECT = re.compile(r'weigeren|weiger|reject|refuse|decline|deny|afwijzen|verwerpen|niet (accepteren|akkoord|toestaan)|zonder (te )?(accepteren|akkoord|toestemming)|(?:alleen|enkel) (strikt )?(noodzakelijk|essenti[eë]le|functione[e]?l|vereiste|verplicht|standaard)|only (strictly )?(necessary|essential|required)|(?:necessary|essential|required) (cookies )?only|do not (accept|consent|agree)|without (accepting|consenting)|geen toestemming|^liever niet$|no,? thanks|nee,? (bedankt|liever niet)',re.I)
 SETTINGS = re.compile(r'^(instellen|(?:individuele )?instellingen( beheren)?|voorkeuren(?: instellen| aanpassen| beheren)?|voorkeur (wijzigen|aanpassen)|stel voorkeuren in|aanpassen|settings|preferences|set preferences|show purposes|doeleinden weergeven|manage cookies\+?|manage preferences|privacy[ -]?(instellingen|preferences)|cookie[s -]*(instellingen|settings|preferences|voorkeuren|aanpassen)( bekijken| instellen)?|toestemmingsinstellingen|meer opties|meer informatie|zelf instellen)$',re.I)
 SAVE = re.compile(r'^(opslaan|keuze opslaan|voorkeuren opslaan|selectie opslaan|save|save preferences|save settings|confirm choices|bevestigen|bevestig (mijn )?keuze)$',re.I)
 MARKETING_COOKIE = re.compile(r'^(_fbp|_fbc|_gcl_au|_gcl_aw|IDE|_uetvid|_uetsid|cto_bundle|cto_bidid|anj|uuid2|_ttp|_scid|li_fat_id)$')
@@ -11,6 +11,10 @@ ANALYTICS_COOKIE = re.compile(r'^(_ga($|_)|_gid$|_gat|_pk_id|AMCV_|s_vi$|_clck$|
 BLOCK = re.compile(r'^(just a moment|even geduld|access denied|attention required|403 forbidden|404 not found|500 internal server error|502 bad gateway|503 service unavailable|504 gateway|robot or human|security check|security verification)|IP address is blocked|temporarily blocked|verify (?:that )?you are (?:a )?human|checking your browser|unusual traffic|bevestig dat je (een mens|geen robot)|toegang geweigerd',re.I)
 
 def result(status, reason): return {'status':status,'reason':reason}
+def unfinished_refusal(before,state):
+    initial=(before.get('frames') or [{}])[0];current=(state.get('frames') or [{}])[0]
+    flow=re.compile(r'checkout|purchase|payment|privacy[- ]?abonnement|ad[- ]?lite|subscription|subscribe|abonneren|bestellen',re.I)
+    return bool((state.get('url')!=before.get('url') and flow.search(state.get('url','')+' '+current.get('title',''))) or (current.get('title')!=initial.get('title') and flow.search(current.get('title',''))))
 def advertising_consent_remains(state):
     for receipt in state.get('consent_state',{}).get('providers',[]):
         if receipt.get('provider')=='Cookiebot' and receipt.get('hasResponse') and 'marketing' in receipt.get('optionalGranted',[]):return True

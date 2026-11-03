@@ -21,6 +21,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "url(\"data:image/png;base64,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\")",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -28,7 +30,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-1",
@@ -46,6 +49,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -53,7 +58,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-2",
@@ -71,6 +77,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -78,7 +86,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-3",
@@ -96,6 +105,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -103,7 +114,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-4",
@@ -121,6 +133,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -128,7 +142,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-5",
@@ -146,6 +161,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -153,7 +170,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-6",
@@ -171,6 +189,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -178,7 +198,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-7",
@@ -196,6 +217,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -203,7 +226,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-8",
@@ -221,6 +245,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -228,7 +254,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-9",
@@ -246,6 +273,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -253,7 +282,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-10",
@@ -271,6 +301,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -278,7 +310,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-11",
@@ -296,6 +329,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -303,7 +338,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-12",
@@ -321,6 +357,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -328,7 +366,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-13",
@@ -346,6 +385,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -353,7 +394,8 @@
             "padding": "1px 6px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-14",
@@ -371,6 +413,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -378,7 +422,8 @@
             "padding": "0px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-15",
@@ -396,6 +441,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -403,7 +450,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-16",
@@ -421,6 +469,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -428,7 +478,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-17",
@@ -446,6 +497,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -453,7 +506,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-18",
@@ -471,6 +525,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 0)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 0,
@@ -478,7 +534,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-19",
@@ -496,6 +553,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgb(0, 15, 245)",
             "effectiveBackground": "rgb(0, 15, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -503,7 +562,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-20",
@@ -521,6 +581,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -528,7 +590,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-21",
@@ -546,6 +609,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgb(0, 15, 245)",
             "effectiveBackground": "rgb(0, 15, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -553,7 +618,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-22",
@@ -571,6 +637,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -578,7 +646,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-23",
@@ -596,6 +665,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgb(0, 15, 245)",
             "effectiveBackground": "rgb(0, 15, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -603,7 +674,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-24",
@@ -621,6 +693,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -628,7 +702,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-25",
@@ -646,6 +721,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgb(0, 15, 245)",
             "effectiveBackground": "rgb(0, 15, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -653,7 +730,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-26",
@@ -671,6 +749,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -678,7 +758,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-27",
@@ -696,6 +777,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgb(0, 15, 245)",
             "effectiveBackground": "rgb(0, 15, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -703,7 +786,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-28",
@@ -721,6 +805,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -728,7 +814,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-29",
@@ -746,6 +833,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgb(0, 15, 245)",
             "effectiveBackground": "rgb(0, 15, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "700",
             "borderWidth": 1.77778,
@@ -753,7 +842,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-30",
@@ -771,6 +861,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(255, 255, 255, 0.03)",
             "effectiveBackground": "rgba(255, 255, 255, 0.03)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -778,7 +870,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-31",
@@ -796,6 +889,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(255, 255, 255, 0.03)",
             "effectiveBackground": "rgba(255, 255, 255, 0.03)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -803,7 +898,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-32",
@@ -821,6 +917,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(255, 255, 255, 0.03)",
             "effectiveBackground": "rgba(255, 255, 255, 0.03)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -828,7 +926,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-33",
@@ -846,6 +945,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(255, 255, 255, 0.03)",
             "effectiveBackground": "rgba(255, 255, 255, 0.03)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -853,7 +954,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-34",
@@ -871,6 +973,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(255, 255, 255, 0.03)",
             "effectiveBackground": "rgba(255, 255, 255, 0.03)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -878,7 +982,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-35",
@@ -896,6 +1001,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(255, 255, 255, 0.03)",
             "effectiveBackground": "rgba(255, 255, 255, 0.03)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -903,7 +1010,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-36",
@@ -921,6 +1029,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(255, 255, 255, 0.03)",
             "effectiveBackground": "rgba(255, 255, 255, 0.03)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -928,7 +1038,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-37",
@@ -946,6 +1057,8 @@
             "color": "rgb(204, 204, 204)",
             "background": "rgb(242, 242, 242)",
             "effectiveBackground": "rgb(242, 242, 242)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0.888889,
@@ -953,7 +1066,8 @@
             "padding": "0px"
           },
           "disabled": true,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-38",
@@ -971,6 +1085,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0.888889,
@@ -978,7 +1094,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-39",
@@ -996,6 +1113,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 20,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1003,7 +1122,8 @@
             "padding": "1px 0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-40",
@@ -1021,6 +1141,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1028,7 +1150,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-41",
@@ -1046,6 +1169,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1053,7 +1178,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-42",
@@ -1071,6 +1197,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1078,7 +1206,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-43",
@@ -1096,6 +1225,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1103,7 +1234,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-44",
@@ -1121,6 +1253,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1128,7 +1262,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-45",
@@ -1146,6 +1281,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1153,7 +1290,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-46",
@@ -1171,6 +1309,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1178,7 +1318,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-47",
@@ -1196,6 +1337,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1203,7 +1346,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-48",
@@ -1221,6 +1365,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1228,7 +1374,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-49",
@@ -1246,6 +1393,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1253,7 +1402,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-50",
@@ -1271,6 +1421,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1278,7 +1430,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-51",
@@ -1296,6 +1449,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1303,7 +1458,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-52",
@@ -1321,6 +1477,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1328,7 +1486,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-53",
@@ -1346,6 +1505,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1353,7 +1514,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-54",
@@ -1371,6 +1533,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1378,7 +1542,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-55",
@@ -1396,6 +1561,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1403,7 +1570,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-56",
@@ -1421,6 +1589,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1428,7 +1598,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-57",
@@ -1446,6 +1617,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1453,7 +1626,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-58",
@@ -1471,6 +1645,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1478,7 +1654,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-59",
@@ -1496,6 +1673,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1503,7 +1682,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-60",
@@ -1521,6 +1701,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1528,7 +1710,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-61",
@@ -1546,6 +1729,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1553,7 +1738,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-62",
@@ -1571,6 +1757,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1578,7 +1766,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-63",
@@ -1596,6 +1785,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1603,7 +1794,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-64",
@@ -1621,6 +1813,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1628,7 +1822,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-65",
@@ -1646,6 +1841,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1653,7 +1850,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-66",
@@ -1671,6 +1869,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1678,7 +1878,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-67",
@@ -1696,6 +1897,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1703,7 +1906,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-68",
@@ -1721,6 +1925,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1728,7 +1934,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-69",
@@ -1746,6 +1953,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1753,7 +1962,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-70",
@@ -1771,6 +1981,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1778,7 +1990,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-71",
@@ -1796,6 +2009,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1803,7 +2018,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-72",
@@ -1821,6 +2037,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1828,7 +2046,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-73",
@@ -1846,6 +2065,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1853,7 +2074,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-74",
@@ -1871,6 +2093,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1878,7 +2102,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-75",
@@ -1896,6 +2121,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1903,7 +2130,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-76",
@@ -1921,6 +2149,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1928,7 +2158,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-77",
@@ -1946,6 +2177,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1953,7 +2186,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-78",
@@ -1971,6 +2205,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1978,7 +2214,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-79",
@@ -1996,6 +2233,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2003,7 +2242,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-80",
@@ -2021,6 +2261,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2028,7 +2270,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-81",
@@ -2046,6 +2289,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2053,7 +2298,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-82",
@@ -2071,6 +2317,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2078,7 +2326,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-83",
@@ -2096,6 +2345,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2103,7 +2354,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-84",
@@ -2121,6 +2373,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2128,7 +2382,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-85",
@@ -2146,6 +2401,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2153,7 +2410,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-86",
@@ -2171,6 +2429,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2178,7 +2438,8 @@
             "padding": "4px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-87",
@@ -2196,6 +2457,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0.888889,
@@ -2203,7 +2466,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-88",
@@ -2221,6 +2485,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0.888889,
@@ -2228,7 +2494,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-89",
@@ -2246,6 +2513,8 @@
             "color": "rgb(51, 51, 51)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(250, 250, 253)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0.888889,
@@ -2253,7 +2522,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-90",
@@ -2271,6 +2541,8 @@
             "color": "rgb(0, 15, 245)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "url(\"data:image/png;base64,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\")",
+            "contrastReliable": false,
             "fontSize": 18,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2278,7 +2550,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-91",
@@ -2296,6 +2569,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2303,7 +2578,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-92",
@@ -2321,6 +2597,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2328,7 +2606,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-93",
@@ -2346,6 +2625,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2353,7 +2634,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-94",
@@ -2371,6 +2653,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2378,7 +2662,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-95",
@@ -2396,6 +2681,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2403,7 +2690,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-96",
@@ -2421,6 +2709,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2428,7 +2718,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-97",
@@ -2446,6 +2737,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2453,7 +2746,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-98",
@@ -2471,6 +2765,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2478,7 +2774,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         },
         {
           "id": "ca-99",
@@ -2496,6 +2793,8 @@
             "color": "rgb(74, 74, 74)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2503,7 +2802,8 @@
             "padding": "8px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "b5f74920ac4b4c8292b0d93e307a4059"
         }
       ],
       "webdriver": false,
@@ -2512,6 +2812,7 @@
         "width": 1365,
         "height": 900
       },
+      "frame_id": "b5f74920ac4b4c8292b0d93e307a4059",
       "frame_url": "https://www.sky.com/"
     },
     {
@@ -2525,6 +2826,7 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "a080247ce16846eca997b91c44943948",
       "frame_url": "about:"
     },
     {
@@ -2538,6 +2840,7 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "deaad727b7494dbcb5df8b494c49847e",
       "frame_url": "https://a2900460605.cdn.optimizely.com/client_storage/a2900460605.html"
     },
     {
@@ -2551,20 +2854,8 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "5c5ddfa5ecfe4b86a78ee7f199fb0e97",
       "frame_url": "https://lpcdn.lpsnmedia.net/le_secure_storage/3.36.1-release_2314911046/storage.secure.min.html"
-    },
-    {
-      "url": "https://resources.digital-cloud.medallia.eu/liveApp/2.63.4/react-invite-app-web.html",
-      "title": "Invitation to provide feedback",
-      "text": "\n  \n\n  \n\n\n\n",
-      "controls": [],
-      "webdriver": false,
-      "language": "nl-NL",
-      "viewport": {
-        "width": 0,
-        "height": 0
-      },
-      "frame_url": "https://resources.digital-cloud.medallia.eu/liveApp/2.63.4/react-invite-app-web.html"
     },
     {
       "url": "nullblank",
@@ -2577,12 +2868,48 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "744103638e2b45f0a75ee174598d1877",
       "frame_url": "about:"
     }
   ],
   "frame_errors": [],
   "url": "https://www.sky.com/",
-  "captured_at": "2026-11-03T15:32:12.152508+00:00",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "specialFeaturesGranted": [
+          "1",
+          "2"
+        ],
+        "vendorsConsented": 39,
+        "legitimateInterestPurposes": [
+          "2",
+          "7",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T16:08:01.997666+00:00",
   "cookies": [
     {
       "name": "countryAKA",
@@ -2597,7 +2924,7 @@
       "name": "optimizelyEndUserId",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1809271925.963269,
+      "expires": 1809274075.442078,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2606,7 +2933,7 @@
       "name": "bm_sz",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1793734316.433401,
+      "expires": 1793736466.361745,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2624,16 +2951,7 @@
       "name": "optimizelySession",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1809271917,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "uuid",
-      "domain": ".sky.com",
-      "path": "/",
-      "expires": 1828279917.522103,
+      "expires": 1809274067,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2642,7 +2960,7 @@
       "name": "_sp_v1_ss",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1796311925.226008,
+      "expires": 1796314075.03491,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2651,7 +2969,7 @@
       "name": "_sp_v1_p",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1796311917.861721,
+      "expires": 1796314067.209351,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2660,7 +2978,7 @@
       "name": "_sp_v1_data",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1796311925.226079,
+      "expires": 1796314075.034974,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2669,17 +2987,17 @@
       "name": "_sp_su",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1825255917.862212,
+      "expires": 1825258067.209748,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
-      "name": "ak_bmsc",
+      "name": "uuid",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1793727116.863256,
-      "httpOnly": true,
+      "expires": 1828282067.318792,
+      "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
@@ -2687,7 +3005,7 @@
       "name": "_abck",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1825255918.29211,
+      "expires": 1825258068.099346,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -2696,7 +3014,7 @@
       "name": "LPVID",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1825255919,
+      "expires": 1825258068,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2711,10 +3029,19 @@
       "sameSite": "Lax"
     },
     {
+      "name": "ak_bmsc",
+      "domain": ".sky.com",
+      "path": "/",
+      "expires": 1793729266.316011,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
       "name": "consentUUID",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1809271925.225763,
+      "expires": 1809274075.034748,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2723,7 +3050,25 @@
       "name": "consentDate",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1809271925.225949,
+      "expires": 1809274075.034859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zpstorage_ZjA1M2ZlMGQtOWM0OS00ZjMyLTkyOTQtOWQyMDEwNGM4MDViziwww.sky.com",
+      "domain": ".www.sky.com",
+      "path": "/",
+      "expires": 1825258076,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "zsc",
+      "domain": ".zeotap.com",
+      "path": "/",
+      "expires": 1793808475.109144,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2738,31 +3083,103 @@
       "sameSite": "None"
     },
     {
+      "name": "zc",
+      "domain": ".zeotap.com",
+      "path": "/",
+      "expires": 1825258076.110902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1825258075.274297,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801498075.269018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801498075.269081,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
       "name": "s_ecid",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1828279926.605751,
+      "expires": 1828282076.140899,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "_cs_mk",
+      "name": "_ga_DSGHMHEECV",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1793721725,
+      "expires": 1828282075.229074,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "s_cc",
+      "name": "_ga",
       "domain": ".sky.com",
       "path": "/",
-      "expires": -1,
+      "expires": 1828282075.229542,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
+    },
+    {
+      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_consent",
+      "domain": ".sky.com",
+      "path": "/",
+      "expires": 1809274075.249895,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_identity",
+      "domain": ".sky.com",
+      "path": "/",
+      "expires": 1827850075.24997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_iab_persist",
+      "domain": ".sky.com",
+      "path": "/",
+      "expires": 1809274075.250003,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_cluster",
+      "domain": ".sky.com",
+      "path": "/",
+      "expires": 1793723875.324292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
     },
     {
       "name": "AMCVS_0ABA4673527831C00A490D45%40AdobeOrg",
@@ -2777,88 +3194,43 @@
       "name": "AMCV_0ABA4673527831C00A490D45%40AdobeOrg",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1828279925.391833,
+      "expires": 1828282075.250936,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_consent",
+      "name": "_cs_mk",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1809271925.430444,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_identity",
-      "domain": ".sky.com",
-      "path": "/",
-      "expires": 1827847925.430507,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_iab_persist",
-      "domain": ".sky.com",
-      "path": "/",
-      "expires": 1809271925.430539,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "kndctr_0ABA4673527831C00A490D45_AdobeOrg_cluster",
-      "domain": ".sky.com",
-      "path": "/",
-      "expires": 1793721725.64296,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_ga_DSGHMHEECV",
-      "domain": ".sky.com",
-      "path": "/",
-      "expires": 1828279925.458919,
+      "expires": 1793723875,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "_ga",
+      "name": "s_cc",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1828279925.459531,
+      "expires": -1,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "zpstorage_ZjA1M2ZlMGQtOWM0OS00ZjMyLTkyOTQtOWQyMDEwNGM4MDViziwww.sky.com",
-      "domain": ".www.sky.com",
+      "name": "IDE",
+      "domain": ".doubleclick.net",
       "path": "/",
-      "expires": 1825255926,
-      "httpOnly": false,
+      "expires": 1827418075.268319,
+      "httpOnly": true,
       "secure": true,
-      "sameSite": "Lax"
+      "sameSite": "None"
     },
     {
-      "name": "aam_uuid",
-      "domain": ".sky.com",
+      "name": "TDCPM",
+      "domain": ".adsrvr.org",
       "path": "/",
-      "expires": 1796311926,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "zsc",
-      "domain": ".zeotap.com",
-      "path": "/",
-      "expires": 1793806325.641528,
+      "expires": 1825258075.274335,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2873,73 +3245,19 @@
       "sameSite": "None"
     },
     {
-      "name": "zc",
-      "domain": ".zeotap.com",
-      "path": "/",
-      "expires": 1825255926.622622,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "bm_sv",
+      "name": "aam_uuid",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1793727125.963363,
+      "expires": 1796314076,
       "httpOnly": false,
-      "secure": true,
+      "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "XANDR_PANID",
-      "domain": ".adnxs.com",
-      "path": "/",
-      "expires": 1801495926.077315,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "uuid2",
-      "domain": ".adnxs.com",
-      "path": "/",
-      "expires": 1801495926.077385,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "TDID",
-      "domain": ".adsrvr.org",
-      "path": "/",
-      "expires": 1825255926.057202,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "IDE",
-      "domain": ".doubleclick.net",
-      "path": "/",
-      "expires": 1827415926.033324,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "TDCPM",
-      "domain": ".adsrvr.org",
-      "path": "/",
-      "expires": 1825255926.057265,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "ad-id",
       "domain": ".amazon-adsystem.com",
       "path": "/",
-      "expires": 1814455925.26086,
+      "expires": 1814458075.426294,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -2948,16 +3266,25 @@
       "name": "ad-privacy",
       "domain": ".amazon-adsystem.com",
       "path": "/",
-      "expires": 1828279926.260921,
+      "expires": 1828282075.426351,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
+      "name": "bm_sv",
+      "domain": ".sky.com",
+      "path": "/",
+      "expires": 1793729275.442178,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
       "name": "__adal_ses",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1793721726,
+      "expires": 1793723876,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2966,7 +3293,7 @@
       "name": "__adal_id",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1828279926.663334,
+      "expires": 1828282076.153625,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2975,7 +3302,7 @@
       "name": "__adal_ca",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1809271926,
+      "expires": 1809274076,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2984,7 +3311,7 @@
       "name": "__adal_cw",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1794324726,
+      "expires": 1794326876,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2993,7 +3320,7 @@
       "name": "_cs_c",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1827883927,
+      "expires": 1827886077,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -3002,7 +3329,7 @@
       "name": "_cs_id",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1827883927,
+      "expires": 1827886077,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -3011,7 +3338,7 @@
       "name": "_cs_s",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1793721727,
+      "expires": 1793723877,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -3020,7 +3347,7 @@
       "name": "_cs_s_ctx",
       "domain": "www.sky.com",
       "path": "/",
-      "expires": 1793721727,
+      "expires": 1793723877,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -3029,7 +3356,7 @@
       "name": "ClicktaleReplayLink",
       "domain": ".sky.com",
       "path": "/",
-      "expires": 1825255927,
+      "expires": 1825258077,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -3040,43 +3367,41 @@
       "origin": "https://www.sky.com",
       "localKeys": [
         "_sp_user_consent_5763",
-        "ONSITE_SESSION_TAB_135813321369",
         "mast-popups-tray-dismissed",
         "adal_out_queue_adalyserTracker_get",
         "CT_UID",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$event_queue",
         "com.adobe.reactor.core.maxFrequency.RL7ab2a021fb8e475aa14d5d8dc38f0b8f.pageView",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$session_state",
-        "_gcl_ls",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$layer_map",
         "loglevel",
         "zpstorage_ZjA1M2ZlMGQtOWM0OS00ZjMyLTkyOTQtOWQyMDEwNGM4MDVicookieSyncTS",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$layer_map",
         "mprtcl-v4_89B5D010",
         "kampyle_userid",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$visitor_profile",
         "lpLastVisit-66659534",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$event_queue",
         "kampyleUserSessionsCount",
         "branch_session_first",
         "com.adobe.reactor.core.visitorTracking.sessionCount",
         "com.adobe.alloy.instance.alloy.validation.clientId",
         "com.adobe.reactor.core.visitorTracking.pagesViewed",
         "CSID",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$variation_map",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$variation_map",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$contextual_mab",
         "mprtcl-v4_89B5D010-id-cache",
         "com.grafana.faro.session",
         "mast-alerts-tray-dismissed",
         "com.adobe.alloy.0ABA4673527831C00A490D45_AdobeOrg.consentHashes.Adobe.2.0",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$tracker_optimizely",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$contextual_mab",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$layer_states",
         "c_t",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$visitor_profile",
         "kampyleUserSession",
         "lsprevpage",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$tracker_optimizely",
         "com.adobe.reactor.core.maxFrequency.RLbe6288d433354207862208af6497edf2.pageView",
         "kampyleUserPercentile",
         "com.adobe.alloy.0ABA4673527831C00A490D45_AdobeOrg.consentHashes.IAB TCF.2.0",
         "kampyleSessionPageCounter",
         "_cs_cu",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$layer_states",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$session_state",
         "mprtcl-tos-89B5D010"
       ],
       "sessionKeys": [
@@ -3108,43 +3433,41 @@
       "origin": "null",
       "localKeys": [
         "_sp_user_consent_5763",
-        "ONSITE_SESSION_TAB_135813321369",
         "mast-popups-tray-dismissed",
         "adal_out_queue_adalyserTracker_get",
         "CT_UID",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$event_queue",
         "com.adobe.reactor.core.maxFrequency.RL7ab2a021fb8e475aa14d5d8dc38f0b8f.pageView",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$session_state",
-        "_gcl_ls",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$layer_map",
         "loglevel",
         "zpstorage_ZjA1M2ZlMGQtOWM0OS00ZjMyLTkyOTQtOWQyMDEwNGM4MDVicookieSyncTS",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$layer_map",
         "mprtcl-v4_89B5D010",
         "kampyle_userid",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$visitor_profile",
         "lpLastVisit-66659534",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$event_queue",
         "kampyleUserSessionsCount",
         "branch_session_first",
         "com.adobe.reactor.core.visitorTracking.sessionCount",
         "com.adobe.alloy.instance.alloy.validation.clientId",
         "com.adobe.reactor.core.visitorTracking.pagesViewed",
         "CSID",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$variation_map",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$variation_map",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$contextual_mab",
         "mprtcl-v4_89B5D010-id-cache",
         "com.grafana.faro.session",
         "mast-alerts-tray-dismissed",
         "com.adobe.alloy.0ABA4673527831C00A490D45_AdobeOrg.consentHashes.Adobe.2.0",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$tracker_optimizely",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$contextual_mab",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$layer_states",
         "c_t",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$visitor_profile",
         "kampyleUserSession",
         "lsprevpage",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$tracker_optimizely",
         "com.adobe.reactor.core.maxFrequency.RLbe6288d433354207862208af6497edf2.pageView",
         "kampyleUserPercentile",
         "com.adobe.alloy.0ABA4673527831C00A490D45_AdobeOrg.consentHashes.IAB TCF.2.0",
         "kampyleSessionPageCounter",
         "_cs_cu",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$layer_states",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$session_state",
         "mprtcl-tos-89B5D010"
       ],
       "sessionKeys": [
@@ -3185,51 +3508,44 @@
       ]
     },
     {
-      "origin": "https://resources.digital-cloud.medallia.eu",
-      "localKeys": [],
-      "sessionKeys": []
-    },
-    {
       "origin": "null",
       "localKeys": [
         "_sp_user_consent_5763",
-        "ONSITE_SESSION_TAB_135813321369",
         "mast-popups-tray-dismissed",
         "adal_out_queue_adalyserTracker_get",
         "CT_UID",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$event_queue",
         "com.adobe.reactor.core.maxFrequency.RL7ab2a021fb8e475aa14d5d8dc38f0b8f.pageView",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$session_state",
-        "_gcl_ls",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$layer_map",
         "loglevel",
         "zpstorage_ZjA1M2ZlMGQtOWM0OS00ZjMyLTkyOTQtOWQyMDEwNGM4MDVicookieSyncTS",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$layer_map",
         "mprtcl-v4_89B5D010",
         "kampyle_userid",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$visitor_profile",
         "lpLastVisit-66659534",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$event_queue",
         "kampyleUserSessionsCount",
         "branch_session_first",
         "com.adobe.reactor.core.visitorTracking.sessionCount",
         "com.adobe.alloy.instance.alloy.validation.clientId",
         "com.adobe.reactor.core.visitorTracking.pagesViewed",
         "CSID",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$variation_map",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$variation_map",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$contextual_mab",
         "mprtcl-v4_89B5D010-id-cache",
         "com.grafana.faro.session",
         "mast-alerts-tray-dismissed",
         "com.adobe.alloy.0ABA4673527831C00A490D45_AdobeOrg.consentHashes.Adobe.2.0",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$tracker_optimizely",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$contextual_mab",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$layer_states",
         "c_t",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$visitor_profile",
         "kampyleUserSession",
         "lsprevpage",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$tracker_optimizely",
         "com.adobe.reactor.core.maxFrequency.RLbe6288d433354207862208af6497edf2.pageView",
         "kampyleUserPercentile",
         "com.adobe.alloy.0ABA4673527831C00A490D45_AdobeOrg.consentHashes.IAB TCF.2.0",
         "kampyleSessionPageCounter",
         "_cs_cu",
-        "optimizely_data$$b642265a56c2c2057e57a28a623194ed$$a2900460605$$layer_states",
+        "optimizely_data$$e6b5578f3ebbdc8144cfca7856998b3f$$a2900460605$$session_state",
         "mprtcl-tos-89B5D010"
       ],
       "sessionKeys": [
@@ -3260,514 +3576,442 @@
   ],
   "requests": [
     {
-      "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RC6962f6e63fe9485dbeebca5fb3139bf5-source.min.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:04.865573+00:00"
-    },
-    {
-      "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RCc4f6246c5e1d41b0a80adcf0434423c3-source.min.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:04.908771+00:00"
-    },
-    {
-      "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RC82311085097f4702aed34e84194e6679-source.min.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.027089+00:00"
-    },
-    {
       "url": "https://cdn.privacy-mgmt.com/consent/tcfv2/consent/v2/5763/consent-all",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.063170+00:00"
-    },
-    {
-      "url": "https://www.dwin1.com/11005.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.077028+00:00"
-    },
-    {
-      "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RCf33652037d3c4bd283411a2686004be9-source.min.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.078486+00:00"
-    },
-    {
-      "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RCa1a425a87dee4894bde69d9d676cd9e1-source.min.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.173250+00:00"
+      "at": "2026-11-03T16:07:54.920224+00:00"
     },
     {
       "url": "https://cdn.privacy-mgmt.com/mms/v2/choice_select",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.174300+00:00"
+      "at": "2026-11-03T16:07:54.985209+00:00"
     },
     {
       "url": "https://cdn.privacy-mgmt.com/consent/tcfv2/consent/v2/5763/consent-all",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T15:32:05.197096+00:00"
-    },
-    {
-      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.233626+00:00"
+      "at": "2026-11-03T16:07:55.008737+00:00"
     },
     {
       "url": "https://resources.digital-cloud.medallia.eu/wdceu/578810/onsite/embed.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.243009+00:00"
+      "at": "2026-11-03T16:07:55.048668+00:00"
     },
     {
       "url": "https://app.link/_r",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.243532+00:00"
+      "at": "2026-11-03T16:07:55.049137+00:00"
     },
     {
       "url": "https://www.googletagmanager.com/gtag/js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.244549+00:00"
+      "at": "2026-11-03T16:07:55.049853+00:00"
     },
     {
       "url": "https://apps.rokt-api.com/js/v2/us2-ed4c380d26d7f94f9d6848c8299a0903/app.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.245893+00:00"
+      "at": "2026-11-03T16:07:55.057192+00:00"
     },
     {
-      "url": "https://content.zeotap.com/sdk/zeotap.min.js",
-      "resource_type": "script",
+      "url": "https://spl.zeotap.com/fp",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.057922+00:00"
+    },
+    {
+      "url": "https://spl.zeotap.com/fp",
+      "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.247864+00:00"
+      "at": "2026-11-03T16:07:55.058261+00:00"
     },
     {
       "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RC2d8931e60ee447afb2056522edd3ee9f-source.min.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.248301+00:00"
-    },
-    {
-      "url": "https://smetrics.sky.com/id",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.269077+00:00"
-    },
-    {
-      "url": "https://smetrics.sky.com/ee/v1/privacy/set-consent",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.271274+00:00"
+      "at": "2026-11-03T16:07:55.058872+00:00"
     },
     {
       "url": "https://resources.digital-cloud.medallia.eu/wdceu/578810/onsite/generic1790760496035.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.292334+00:00"
+      "at": "2026-11-03T16:07:55.083210+00:00"
+    },
+    {
+      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.083623+00:00"
     },
     {
       "url": "https://www.googletagmanager.com/gtag/js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.343426+00:00"
-    },
-    {
-      "url": "https://resources.digital-cloud.medallia.eu/wdceu/578810/onsite/onsiteData1792583974175.json",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.358078+00:00"
-    },
-    {
-      "url": "https://apps.rokt-api.com/identity/v1/identify",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.382467+00:00"
-    },
-    {
-      "url": "https://smetrics.sky.com/b/ss/bskybdtmskycomprod/10/JS-2.25.0-LGU4/s58211091219257",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.394717+00:00"
-    },
-    {
-      "url": "https://region1.analytics.google.com/g/collect",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.474506+00:00"
-    },
-    {
-      "url": "https://stats.g.doubleclick.net/g/collect",
-      "resource_type": "ping",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.475008+00:00"
-    },
-    {
-      "url": "https://www.google.nl/ads/ga-audiences",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.478555+00:00"
-    },
-    {
-      "url": "https://www.sky.com/csp-reports",
-      "resource_type": "other",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.480568+00:00"
-    },
-    {
-      "url": "https://resources.digital-cloud.medallia.eu/wdceu/578810/forms/38787/invitationData1782728999196_en.json",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.492288+00:00"
-    },
-    {
-      "url": "https://resources.digital-cloud.medallia.eu/liveApp/2.63.4/react-invite-app-web.html",
-      "resource_type": "document",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.495032+00:00"
-    },
-    {
-      "url": "https://analytics-fe.digital-cloud.medallia.eu/api/web/events",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.498050+00:00"
-    },
-    {
-      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.500269+00:00"
-    },
-    {
-      "url": "https://api2.branch.io/v1/open",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.528605+00:00"
-    },
-    {
-      "url": "https://spl.zeotap.com/fp",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.541689+00:00"
-    },
-    {
-      "url": "https://smetrics.sky.com/ee/irl1/v1/interact",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.547468+00:00"
-    },
-    {
-      "url": "https://spl.zeotap.com/fp",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.550868+00:00"
-    },
-    {
-      "url": "https://smetrics.sky.com/ee/irl1/v1/interact",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.551918+00:00"
-    },
-    {
-      "url": "https://smetrics.sky.com/ee/irl1/v1/interact",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.552506+00:00"
-    },
-    {
-      "url": "https://apps.rokt.com/sync",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.553373+00:00"
-    },
-    {
-      "url": "https://analytics-fe.digital-cloud.medallia.eu/api/web/events",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.557318+00:00"
-    },
-    {
-      "url": "https://resources.digital-cloud.medallia.eu/liveApp/2.63.4/css/react-invite-web-style.css",
-      "resource_type": "stylesheet",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.558278+00:00"
-    },
-    {
-      "url": "https://resources.digital-cloud.medallia.eu/liveApp/2.63.4/js/invite-react-app.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.559127+00:00"
-    },
-    {
-      "url": "https://resources.digital-cloud.medallia.eu/wdceu/578810/onsite/domains-configuration.json",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.740728+00:00"
-    },
-    {
-      "url": "https://cookiesync.us2.mparticle.com/v1/sync",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.805915+00:00"
+      "at": "2026-11-03T16:07:55.123370+00:00"
     },
     {
       "url": "https://ib.adnxs.com/getuid",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.810737+00:00"
+      "at": "2026-11-03T16:07:55.125303+00:00"
     },
     {
       "url": "https://cm.g.doubleclick.net/pixel",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.813866+00:00"
+      "at": "2026-11-03T16:07:55.126074+00:00"
     },
     {
       "url": "https://match.adsrvr.org/track/cmf/generic",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.814163+00:00"
+      "at": "2026-11-03T16:07:55.126826+00:00"
     },
     {
       "url": "https://aax-eu.amazon-adsystem.com/s/dcm",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.814782+00:00"
+      "at": "2026-11-03T16:07:55.127181+00:00"
     },
     {
       "url": "https://mwzeom.zeotap.com/mw",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.815777+00:00"
+      "at": "2026-11-03T16:07:55.128320+00:00"
     },
     {
       "url": "https://cms.quantserve.com/pixel/p-2vLHuZkZPAz2_.gif",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.816072+00:00"
+      "at": "2026-11-03T16:07:55.128643+00:00"
+    },
+    {
+      "url": "https://smetrics.sky.com/id",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.132145+00:00"
+    },
+    {
+      "url": "https://smetrics.sky.com/ee/v1/privacy/set-consent",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.132911+00:00"
+    },
+    {
+      "url": "https://resources.digital-cloud.medallia.eu/wdceu/578810/onsite/onsiteData1792583974175.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.142865+00:00"
+    },
+    {
+      "url": "https://apps.rokt-api.com/identity/v1/identify",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.158074+00:00"
+    },
+    {
+      "url": "https://region1.analytics.google.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.241487+00:00"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.241940+00:00"
+    },
+    {
+      "url": "https://www.google.nl/ads/ga-audiences",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.242995+00:00"
     },
     {
       "url": "https://www.sky.com/csp-reports",
       "resource_type": "other",
       "method": "POST",
-      "at": "2026-11-03T15:32:05.816770+00:00"
-    },
-    {
-      "url": "https://api2.branch.io/v1/pageview",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.819823+00:00"
-    },
-    {
-      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.846354+00:00"
-    },
-    {
-      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:05.986658+00:00"
+      "at": "2026-11-03T16:07:55.243355+00:00"
     },
     {
       "url": "https://cm.g.doubleclick.net/pixel",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:05.989412+00:00"
-    },
-    {
-      "url": "https://ib.adnxs.com/bounce",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T15:32:05.993638+00:00"
-    },
-    {
-      "url": "https://match.adsrvr.org/track/cmb/generic",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T15:32:06.021385+00:00"
+      "at": "2026-11-03T16:07:55.245526+00:00"
     },
     {
       "url": "https://aax-eu.amazon-adsystem.com/s/dcm",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.023638+00:00"
+      "at": "2026-11-03T16:07:55.245850+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmb/generic",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.246107+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/bounce",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.246461+00:00"
+    },
+    {
+      "url": "https://analytics-fe.digital-cloud.medallia.eu/api/web/events",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.249265+00:00"
+    },
+    {
+      "url": "https://smetrics.sky.com/b/ss/bskybdtmskycomprod/10/JS-2.25.0-LGU4/s54317341462677",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.258226+00:00"
+    },
+    {
+      "url": "https://api2.branch.io/v1/open",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.259910+00:00"
+    },
+    {
+      "url": "https://smetrics.sky.com/ee/irl1/v1/interact",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.264788+00:00"
+    },
+    {
+      "url": "https://smetrics.sky.com/ee/irl1/v1/interact",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.265634+00:00"
+    },
+    {
+      "url": "https://smetrics.sky.com/ee/irl1/v1/interact",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.265997+00:00"
     },
     {
       "url": "https://mwzeom.zeotap.com/mw",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.046157+00:00"
+      "at": "2026-11-03T16:07:55.270556+00:00"
     },
     {
       "url": "https://mwzeom.zeotap.com/mw",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.074498+00:00"
+      "at": "2026-11-03T16:07:55.270893+00:00"
+    },
+    {
+      "url": "https://apps.rokt.com/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.277622+00:00"
     },
     {
       "url": "https://mwzeom.zeotap.com/mw",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.080903+00:00"
+      "at": "2026-11-03T16:07:55.278580+00:00"
+    },
+    {
+      "url": "https://cookiesync.us2.mparticle.com/v1/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.313612+00:00"
+    },
+    {
+      "url": "https://www.sky.com/csp-reports",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.314977+00:00"
+    },
+    {
+      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.331828+00:00"
+    },
+    {
+      "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RC7ff4bc9e021d47d58c746686e08d961c-source.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T16:07:55.388283+00:00"
+    },
+    {
+      "url": "https://api2.branch.io/v1/pageview",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.412690+00:00"
+    },
+    {
+      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.587275+00:00"
+    },
+    {
+      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:55.840066+00:00"
     },
     {
       "url": "https://assets.adobedtm.com/eee7eee0aaaa/7e9fedb7001a/61dfde1344b1/RC3d8e0aa5f7e142848e7150c11c6b2879-source.min.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.279622+00:00"
-    },
-    {
-      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T15:32:06.308202+00:00"
+      "at": "2026-11-03T16:07:56.045906+00:00"
     },
     {
       "url": "https://c5.adalyser.com/adalyser.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.472546+00:00"
+      "at": "2026-11-03T16:07:56.067566+00:00"
     },
     {
-      "url": "https://smetrics.sky.com/b/ss/bskybdtmskycomprod/10/JS-2.25.0-LGU4/s57479731614809",
+      "url": "https://smetrics.sky.com/b/ss/bskybdtmskycomprod/10/JS-2.25.0-LGU4/s52995712251197",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.489538+00:00"
+      "at": "2026-11-03T16:07:56.068035+00:00"
     },
     {
       "url": "https://spl.zeotap.com/fp",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.489968+00:00"
+      "at": "2026-11-03T16:07:56.068708+00:00"
     },
     {
       "url": "https://c5.adalyser.com/tracking/track/v3/p",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:32:06.749955+00:00"
+      "at": "2026-11-03T16:07:56.155082+00:00"
     },
     {
       "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:32:06.891669+00:00"
+      "at": "2026-11-03T16:07:56.343712+00:00"
     },
     {
       "url": "https://cdnssl.clicktale.net/www57/ptc/f6b8576e-a5af-4703-a106-a31794a75f12.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:07.448428+00:00"
+      "at": "2026-11-03T16:07:57.065821+00:00"
     },
     {
       "url": "https://c.clicktale.net/pageview",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T15:32:07.826652+00:00"
+      "at": "2026-11-03T16:07:57.213924+00:00"
     },
     {
       "url": "https://c.clicktale.net/pageEvent",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:07.861343+00:00"
+      "at": "2026-11-03T16:07:57.234207+00:00"
     },
     {
       "url": "https://c.clicktale.net/pageEvent",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:07.878552+00:00"
+      "at": "2026-11-03T16:07:57.235510+00:00"
     },
     {
       "url": "https://c.clicktale.net/pageEvent",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:07.879056+00:00"
+      "at": "2026-11-03T16:07:57.235901+00:00"
     },
     {
       "url": "https://c.clicktale.net/pageEvent",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:07.880044+00:00"
+      "at": "2026-11-03T16:07:57.236575+00:00"
     },
     {
       "url": "https://c.clicktale.net/pageEvent",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:07.880732+00:00"
+      "at": "2026-11-03T16:07:57.237202+00:00"
     },
     {
       "url": "https://k-aeu1.clicktale.net/v2/recording",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T15:32:07.925327+00:00"
+      "at": "2026-11-03T16:07:57.290400+00:00"
     },
     {
       "url": "https://c.clicktale.net/dvar",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:07.941559+00:00"
+      "at": "2026-11-03T16:07:57.294079+00:00"
     },
     {
       "url": "https://k-aeu1.clicktale.net/v2/recording",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T15:32:07.941898+00:00"
+      "at": "2026-11-03T16:07:57.301990+00:00"
     },
     {
       "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:32:07.974827+00:00"
+      "at": "2026-11-03T16:07:57.331449+00:00"
+    },
+    {
+      "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T16:07:57.586750+00:00"
     },
     {
       "url": "https://c.clicktale.net/dvar",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:08.172161+00:00"
+      "at": "2026-11-03T16:07:57.634282+00:00"
     },
     {
       "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:32:08.223396+00:00"
+      "at": "2026-11-03T16:07:57.839017+00:00"
     },
     {
       "url": "https://lo0.v.liveperson.net/api/js/66659534",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:32:09.166140+00:00"
+      "at": "2026-11-03T16:07:58.392330+00:00"
     },
     {
       "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:32:09.468375+00:00"
+      "at": "2026-11-03T16:07:58.836793+00:00"
     },
     {
       "url": "https://c.clicktale.net/pageEvent",
       "resource_type": "xhr",
       "method": "GET",
-      "at": "2026-11-03T15:32:09.918573+00:00"
+      "at": "2026-11-03T16:07:59.485169+00:00"
     },
     {
       "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:32:09.965609+00:00"
+      "at": "2026-11-03T16:07:59.595093+00:00"
     },
     {
       "url": "https://digifaro-digital.uk.monitoringsolutions.sky:8000/collect",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:32:11.467028+00:00"
+      "at": "2026-11-03T16:08:00.841570+00:00"
     }
   ],
   "tracking": {
@@ -3789,11 +4033,6 @@
   "uncertain_signals": [
     {
       "kind": "analytics_cookie",
-      "name": "AMCV_0ABA4673527831C00A490D45%40AdobeOrg",
-      "domain": ".sky.com"
-    },
-    {
-      "kind": "analytics_cookie",
       "name": "_ga_DSGHMHEECV",
       "domain": ".sky.com"
     },
@@ -3803,12 +4042,9 @@
       "domain": ".sky.com"
     },
     {
-      "kind": "listed_endpoint",
-      "url": "https://www.dwin1.com/11005.js",
-      "categories": [
-        "Advertising",
-        "FingerprintingGeneral"
-      ]
+      "kind": "analytics_cookie",
+      "name": "AMCV_0ABA4673527831C00A490D45%40AdobeOrg",
+      "domain": ".sky.com"
     },
     {
       "kind": "listed_endpoint",
@@ -3819,35 +4055,6 @@
     },
     {
       "kind": "listed_endpoint",
-      "url": "https://content.zeotap.com/sdk/zeotap.min.js",
-      "categories": [
-        "Advertising"
-      ]
-    },
-    {
-      "kind": "listed_endpoint",
-      "url": "https://region1.analytics.google.com/g/collect",
-      "categories": [
-        "Analytics"
-      ]
-    },
-    {
-      "kind": "listed_endpoint",
-      "url": "https://stats.g.doubleclick.net/g/collect",
-      "categories": [
-        "Advertising",
-        "FingerprintingGeneral"
-      ]
-    },
-    {
-      "kind": "listed_endpoint",
-      "url": "https://api2.branch.io/v1/open",
-      "categories": [
-        "Advertising"
-      ]
-    },
-    {
-      "kind": "listed_endpoint",
       "url": "https://spl.zeotap.com/fp",
       "categories": [
         "Advertising"
@@ -3858,20 +4065,6 @@
       "url": "https://spl.zeotap.com/fp",
       "categories": [
         "Advertising"
-      ]
-    },
-    {
-      "kind": "listed_endpoint",
-      "url": "https://apps.rokt.com/sync",
-      "categories": [
-        "Advertising"
-      ]
-    },
-    {
-      "kind": "listed_endpoint",
-      "url": "https://cookiesync.us2.mparticle.com/v1/sync",
-      "categories": [
-        "Analytics"
       ]
     },
     {
@@ -3920,14 +4113,14 @@
     },
     {
       "kind": "listed_endpoint",
-      "url": "https://api2.branch.io/v1/pageview",
+      "url": "https://region1.analytics.google.com/g/collect",
       "categories": [
-        "Advertising"
+        "Analytics"
       ]
     },
     {
       "kind": "listed_endpoint",
-      "url": "https://cm.g.doubleclick.net/pixel",
+      "url": "https://stats.g.doubleclick.net/g/collect",
       "categories": [
         "Advertising",
         "FingerprintingGeneral"
@@ -3935,14 +4128,7 @@
     },
     {
       "kind": "listed_endpoint",
-      "url": "https://ib.adnxs.com/bounce",
-      "categories": [
-        "Advertising"
-      ]
-    },
-    {
-      "kind": "listed_endpoint",
-      "url": "https://match.adsrvr.org/track/cmb/generic",
+      "url": "https://cm.g.doubleclick.net/pixel",
       "categories": [
         "Advertising",
         "FingerprintingGeneral"
@@ -3957,7 +4143,22 @@
     },
     {
       "kind": "listed_endpoint",
-      "url": "https://mwzeom.zeotap.com/mw",
+      "url": "https://match.adsrvr.org/track/cmb/generic",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/bounce",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api2.branch.io/v1/open",
       "categories": [
         "Advertising"
       ]
@@ -3972,6 +4173,34 @@
     {
       "kind": "listed_endpoint",
       "url": "https://mwzeom.zeotap.com/mw",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://apps.rokt.com/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mwzeom.zeotap.com/mw",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cookiesync.us2.mparticle.com/v1/sync",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api2.branch.io/v1/pageview",
       "categories": [
         "Advertising"
       ]
@@ -4082,6 +4311,6 @@
       ]
     }
   ],
-  "screenshot": "accept-control.jpg",
-  "context_excerpt_limit": 400
+  "blocked": false,
+  "screenshot": "accept-control.jpg"
 }

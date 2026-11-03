@@ -4,7 +4,7 @@ Local, resumable consent screening with a static GitHub Pages register. The repo
 
 This is an observational tool, not an AP ruling or a GDPR compliance certificate. Read [the method](docs/methodology.html) before interpreting the green checks. The current source top 1,000 has 124 adult-filter exclusions, leaving 876 eligible domains. The audit reaches 1,000 targets by adding 124 separately labelled .nl domains from NetAPI's global ranking. These additions have global ranks only, not invented Netherlands ranks.
 
-The published run attempted all 1,000 targets: 919 visits were observed; 81 were blocked, incomplete, errored or timed out. There are 253 sites with at least one configured failure and 377 domains outside `.nl`. Of 5,000 individual checks, 2,861 remain inconclusive. This is not a measured accuracy score; many tracking signals need purpose/configuration review, and no-banner sites do not automatically receive refusal passes.
+The published run attempted all 1,000 targets: 919 visits were observed; 81 were blocked, incomplete, errored or timed out. There are 250 sites with at least one configured failure and 377 domains outside `.nl`. Of 5,000 individual checks, 2,871 remain inconclusive. This is not a measured accuracy score; many tracking signals need purpose/configuration review, and no-banner sites do not automatically receive refusal passes.
 
 ## Run on Windows
 

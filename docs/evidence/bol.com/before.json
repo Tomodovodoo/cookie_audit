@@ -279,5 +279,7 @@
   "tracking": {
     "status": "unknown",
     "reason": "Browser-agent UI observation has no complete network/HttpOnly-cookie capture."
-  }
+  },
+  "signals": [],
+  "uncertain_signals": []
 }

@@ -4,28 +4,28 @@
   "name": "sky.com",
   "company": null,
   "cohort": "NetAPI Netherlands top 1000",
-  "tested_at": "2026-11-03T15:31:44.836562+00:00",
+  "tested_at": "2026-11-03T16:07:20.982593+00:00",
   "run": {
-    "started_at": "2026-11-03T15:12:23.542623+00:00",
+    "started_at": "2026-11-03T16:07:20.469670+00:00",
     "browser_mode": "stock Chrome offscreen",
     "locale": "nl-NL",
     "timezone": "Europe/Amsterdam",
     "viewport": "1365x900",
     "wait_seconds": 7.0,
-    "workers": 16,
+    "workers": 1,
     "egress_country": "NL",
     "accept_control_enabled": true,
-    "version": "0.1.1",
+    "version": "0.2.1",
     "chrome_version": "156.0.8078.79"
   },
   "checks": {
     "reject": {
-      "status": "fail",
-      "reason": "Accept is offered on the first layer; no direct refusal control was detected."
+      "status": "pass",
+      "reason": "Refusal completed with one click and the choice interface disappeared."
     },
     "prominence": {
-      "status": "fail",
-      "reason": "No refusal control detected alongside the first-layer accept control."
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
     },
     "before": {
       "status": "unknown",
@@ -33,14 +33,19 @@
     },
     "after": {
       "status": "unknown",
-      "reason": "A completed refusal journey was not observed."
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
     },
     "persists": {
-      "status": "unknown",
-      "reason": "A completed refusal journey was not observed."
+      "status": "pass",
+      "reason": "Refusal survived a reload of the resulting page."
     }
   },
-  "steps": [],
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Essential cookies only"
+    }
+  ],
   "evidence": "evidence/sky.com/before.json",
   "accept_control": {
     "completed": true,

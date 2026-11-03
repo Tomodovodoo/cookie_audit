@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:02:15.643521+00:00",
+  "generated_at": "2026-11-03T16:12:07.427189+00:00",
   "custom_cohort": false,
   "input_manifest": "sites.json",
   "sources": {
@@ -2017,77 +2017,6 @@
       ],
       "failures": 2,
       "passes": 0
-    },
-    {
-      "rank": 79,
-      "domain": "dailymail.com",
-      "name": "dailymail.com",
-      "company": null,
-      "cohort": "NetAPI Netherlands top 1000",
-      "tested_at": "2026-11-03T15:01:30.004625+00:00",
-      "run": {
-        "started_at": "2026-11-03T15:01:29.505074+00:00",
-        "browser_mode": "stock Chrome offscreen",
-        "locale": "nl-NL",
-        "timezone": "Europe/Amsterdam",
-        "viewport": "1365x900",
-        "wait_seconds": 7.0,
-        "workers": 12,
-        "egress_country": "NL",
-        "accept_control_enabled": true,
-        "version": "0.1.1",
-        "chrome_version": "156.0.8078.79"
-      },
-      "checks": {
-        "reject": {
-          "status": "pass",
-          "reason": "Refusal completed with one click and the choice interface disappeared."
-        },
-        "prominence": {
-          "status": "pass",
-          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
-        },
-        "before": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        },
-        "after": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        },
-        "persists": {
-          "status": "pass",
-          "reason": "Refusal survived a reload of the resulting page."
-        }
-      },
-      "steps": [
-        {
-          "action": "reject",
-          "label": "Reject and Purchase Daily Mail Essential"
-        }
-      ],
-      "evidence": "evidence/dailymail.com/before.json",
-      "accept_control": {
-        "completed": true,
-        "tracking": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        }
-      },
-      "outcome": "observed",
-      "http_status": 200,
-      "title": "UK Home | Daily Mail Online",
-      "rules_version": "0.2.0",
-      "result_file": "results/dailymail.com.json",
-      "screenshot": "evidence/dailymail.com/before.jpg",
-      "capture_files": [
-        "evidence/dailymail.com/accept-control.json",
-        "evidence/dailymail.com/before.json",
-        "evidence/dailymail.com/reject-1.json",
-        "evidence/dailymail.com/reload.json"
-      ],
-      "failures": 2,
-      "passes": 3
     },
     {
       "rank": 81,
@@ -12534,82 +12463,6 @@
       "passes": 3
     },
     {
-      "rank": 932,
-      "domain": "independent.co.uk",
-      "name": "independent.co.uk",
-      "company": null,
-      "cohort": "NetAPI Netherlands top 1000",
-      "tested_at": "2026-11-03T15:43:33.211606+00:00",
-      "run": {
-        "started_at": "2026-11-03T15:37:14.555246+00:00",
-        "browser_mode": "stock Chrome offscreen",
-        "locale": "nl-NL",
-        "timezone": "Europe/Amsterdam",
-        "viewport": "1365x900",
-        "wait_seconds": 7.0,
-        "workers": 16,
-        "egress_country": "NL",
-        "accept_control_enabled": true,
-        "version": "0.2.0",
-        "chrome_version": "156.0.8078.79"
-      },
-      "checks": {
-        "reject": {
-          "status": "fail",
-          "reason": "Accept is offered on the first layer; no direct refusal control was detected."
-        },
-        "prominence": {
-          "status": "fail",
-          "reason": "No refusal control detected alongside the first-layer accept control."
-        },
-        "before": {
-          "status": "unknown",
-          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
-        },
-        "after": {
-          "status": "unknown",
-          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
-        },
-        "persists": {
-          "status": "pass",
-          "reason": "Refusal survived a reload of the resulting page."
-        }
-      },
-      "steps": [
-        {
-          "action": "settings",
-          "label": "SHOW PURPOSES"
-        },
-        {
-          "action": "reject",
-          "label": "Reject All"
-        }
-      ],
-      "evidence": "evidence/independent.co.uk/before.json",
-      "accept_control": {
-        "completed": true,
-        "tracking": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        }
-      },
-      "outcome": "observed",
-      "http_status": 200,
-      "title": "News | The Independent | Today's headlines and latest breaking news",
-      "rules_version": "0.2.0",
-      "result_file": "results/independent.co.uk.json",
-      "screenshot": "evidence/independent.co.uk/before.jpg",
-      "capture_files": [
-        "evidence/independent.co.uk/accept-control.json",
-        "evidence/independent.co.uk/before.json",
-        "evidence/independent.co.uk/reject-1.json",
-        "evidence/independent.co.uk/reject-2.json",
-        "evidence/independent.co.uk/reload.json"
-      ],
-      "failures": 2,
-      "passes": 1
-    },
-    {
       "rank": 947,
       "domain": "kickstarter.com",
       "name": "kickstarter.com",
@@ -13269,70 +13122,6 @@
         "evidence/yandex.com/accept-control.json",
         "evidence/yandex.com/before.json",
         "evidence/yandex.com/reject-1.json"
-      ],
-      "failures": 2,
-      "passes": 0
-    },
-    {
-      "rank": 1000,
-      "domain": "sky.com",
-      "name": "sky.com",
-      "company": null,
-      "cohort": "NetAPI Netherlands top 1000",
-      "tested_at": "2026-11-03T15:31:44.836562+00:00",
-      "run": {
-        "started_at": "2026-11-03T15:12:23.542623+00:00",
-        "browser_mode": "stock Chrome offscreen",
-        "locale": "nl-NL",
-        "timezone": "Europe/Amsterdam",
-        "viewport": "1365x900",
-        "wait_seconds": 7.0,
-        "workers": 16,
-        "egress_country": "NL",
-        "accept_control_enabled": true,
-        "version": "0.1.1",
-        "chrome_version": "156.0.8078.79"
-      },
-      "checks": {
-        "reject": {
-          "status": "fail",
-          "reason": "Accept is offered on the first layer; no direct refusal control was detected."
-        },
-        "prominence": {
-          "status": "fail",
-          "reason": "No refusal control detected alongside the first-layer accept control."
-        },
-        "before": {
-          "status": "unknown",
-          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
-        },
-        "after": {
-          "status": "unknown",
-          "reason": "A completed refusal journey was not observed."
-        },
-        "persists": {
-          "status": "unknown",
-          "reason": "A completed refusal journey was not observed."
-        }
-      },
-      "steps": [],
-      "evidence": "evidence/sky.com/before.json",
-      "accept_control": {
-        "completed": true,
-        "tracking": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        }
-      },
-      "outcome": "observed",
-      "http_status": 200,
-      "title": "Discover TV, Broadband & Mobile Phone Packages with Sky",
-      "rules_version": "0.2.0",
-      "result_file": "results/sky.com.json",
-      "screenshot": "evidence/sky.com/before.jpg",
-      "capture_files": [
-        "evidence/sky.com/accept-control.json",
-        "evidence/sky.com/before.json"
       ],
       "failures": 2,
       "passes": 0
@@ -14340,6 +14129,77 @@
       "screenshot": "evidence/instructure.com/before.jpg",
       "capture_files": [
         "evidence/instructure.com/before.json"
+      ],
+      "failures": 1,
+      "passes": 1
+    },
+    {
+      "rank": 79,
+      "domain": "dailymail.com",
+      "name": "dailymail.com",
+      "company": null,
+      "cohort": "NetAPI Netherlands top 1000",
+      "tested_at": "2026-11-03T15:01:30.004625+00:00",
+      "run": {
+        "started_at": "2026-11-03T15:01:29.505074+00:00",
+        "browser_mode": "stock Chrome offscreen",
+        "locale": "nl-NL",
+        "timezone": "Europe/Amsterdam",
+        "viewport": "1365x900",
+        "wait_seconds": 7.0,
+        "workers": 12,
+        "egress_country": "NL",
+        "accept_control_enabled": true,
+        "version": "0.1.1",
+        "chrome_version": "156.0.8078.79"
+      },
+      "checks": {
+        "reject": {
+          "status": "unknown",
+          "reason": "Refusal led to an unfinished purchase/subscription flow, not verified refusal."
+        },
+        "prominence": {
+          "status": "pass",
+          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+        },
+        "before": {
+          "status": "fail",
+          "reason": "Known advertising identifier cookies were present without consent."
+        },
+        "after": {
+          "status": "unknown",
+          "reason": "No completed refusal on the audited website was observed."
+        },
+        "persists": {
+          "status": "unknown",
+          "reason": "Reload of a purchase/subscription flow does not establish refusal persistence."
+        }
+      },
+      "steps": [
+        {
+          "action": "reject",
+          "label": "Reject and Purchase Daily Mail Essential"
+        }
+      ],
+      "evidence": "evidence/dailymail.com/before.json",
+      "accept_control": {
+        "completed": true,
+        "tracking": {
+          "status": "fail",
+          "reason": "Known advertising identifier cookies were present without consent."
+        }
+      },
+      "outcome": "observed",
+      "http_status": 200,
+      "title": "UK Home | Daily Mail Online",
+      "rules_version": "0.2.0",
+      "result_file": "results/dailymail.com.json",
+      "screenshot": "evidence/dailymail.com/before.jpg",
+      "capture_files": [
+        "evidence/dailymail.com/accept-control.json",
+        "evidence/dailymail.com/before.json",
+        "evidence/dailymail.com/reject-1.json",
+        "evidence/dailymail.com/reload.json"
       ],
       "failures": 1,
       "passes": 1
@@ -16561,77 +16421,6 @@
       "passes": 0
     },
     {
-      "rank": 726,
-      "domain": "noorderland.nl",
-      "name": "noorderland.nl",
-      "company": null,
-      "cohort": "NetAPI Netherlands top 1000",
-      "tested_at": "2026-11-03T15:24:55.072619+00:00",
-      "run": {
-        "started_at": "2026-11-03T15:12:23.542623+00:00",
-        "browser_mode": "stock Chrome offscreen",
-        "locale": "nl-NL",
-        "timezone": "Europe/Amsterdam",
-        "viewport": "1365x900",
-        "wait_seconds": 7.0,
-        "workers": 16,
-        "egress_country": "NL",
-        "accept_control_enabled": true,
-        "version": "0.1.1",
-        "chrome_version": "156.0.8078.79"
-      },
-      "checks": {
-        "reject": {
-          "status": "pass",
-          "reason": "Refusal completed with one click and the choice interface disappeared."
-        },
-        "prominence": {
-          "status": "pass",
-          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
-        },
-        "before": {
-          "status": "unknown",
-          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
-        },
-        "after": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        },
-        "persists": {
-          "status": "pass",
-          "reason": "Refusal survived a reload of the resulting page."
-        }
-      },
-      "steps": [
-        {
-          "action": "reject",
-          "label": "Weigeren & betalen"
-        }
-      ],
-      "evidence": "evidence/noorderland.nl/before.json",
-      "accept_control": {
-        "completed": true,
-        "tracking": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        }
-      },
-      "outcome": "observed",
-      "http_status": 200,
-      "title": "Noorderland | Noorderland brengt je het beste van de noordelijke provincies: natuur, cultuur, geschiedenis, uittips en culinaire verrassingen.",
-      "rules_version": "0.2.0",
-      "result_file": "results/noorderland.nl.json",
-      "screenshot": "evidence/noorderland.nl/before.jpg",
-      "capture_files": [
-        "evidence/noorderland.nl/accept-control.json",
-        "evidence/noorderland.nl/before.json",
-        "evidence/noorderland.nl/reject-1.json",
-        "evidence/noorderland.nl/reload.json"
-      ],
-      "failures": 1,
-      "passes": 3
-    },
-    {
       "rank": 728,
       "domain": "motoroccasion.nl",
       "name": "motoroccasion.nl",
@@ -16754,77 +16543,6 @@
         "evidence/thestone.nl/before.json",
         "evidence/thestone.nl/reject-1.json",
         "evidence/thestone.nl/reload.json"
-      ],
-      "failures": 1,
-      "passes": 3
-    },
-    {
-      "rank": 740,
-      "domain": "elegance.nl",
-      "name": "elegance.nl",
-      "company": null,
-      "cohort": "NetAPI Netherlands top 1000",
-      "tested_at": "2026-11-03T15:25:10.374535+00:00",
-      "run": {
-        "started_at": "2026-11-03T15:12:23.542623+00:00",
-        "browser_mode": "stock Chrome offscreen",
-        "locale": "nl-NL",
-        "timezone": "Europe/Amsterdam",
-        "viewport": "1365x900",
-        "wait_seconds": 7.0,
-        "workers": 16,
-        "egress_country": "NL",
-        "accept_control_enabled": true,
-        "version": "0.1.1",
-        "chrome_version": "156.0.8078.79"
-      },
-      "checks": {
-        "reject": {
-          "status": "pass",
-          "reason": "Refusal completed with one click and the choice interface disappeared."
-        },
-        "prominence": {
-          "status": "pass",
-          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
-        },
-        "before": {
-          "status": "unknown",
-          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
-        },
-        "after": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        },
-        "persists": {
-          "status": "pass",
-          "reason": "Refusal survived a reload of the resulting page."
-        }
-      },
-      "steps": [
-        {
-          "action": "reject",
-          "label": "Weigeren & betalen"
-        }
-      ],
-      "evidence": "evidence/elegance.nl/before.json",
-      "accept_control": {
-        "completed": true,
-        "tracking": {
-          "status": "fail",
-          "reason": "Known advertising identifier cookies were present without consent."
-        }
-      },
-      "outcome": "observed",
-      "http_status": 200,
-      "title": "Elegance | De eerste glossy van Nederland | Sinds 1937 | Laat je inspireren door sterke vrouwen, kunst, cultuur, mode, reizen, beauty en gastronomie.",
-      "rules_version": "0.2.0",
-      "result_file": "results/elegance.nl.json",
-      "screenshot": "evidence/elegance.nl/before.jpg",
-      "capture_files": [
-        "evidence/elegance.nl/accept-control.json",
-        "evidence/elegance.nl/before.json",
-        "evidence/elegance.nl/reject-1.json",
-        "evidence/elegance.nl/reload.json"
       ],
       "failures": 1,
       "passes": 3
@@ -17167,6 +16885,82 @@
       ],
       "failures": 1,
       "passes": 1
+    },
+    {
+      "rank": 932,
+      "domain": "independent.co.uk",
+      "name": "independent.co.uk",
+      "company": null,
+      "cohort": "NetAPI Netherlands top 1000",
+      "tested_at": "2026-11-03T15:43:33.211606+00:00",
+      "run": {
+        "started_at": "2026-11-03T15:37:14.555246+00:00",
+        "browser_mode": "stock Chrome offscreen",
+        "locale": "nl-NL",
+        "timezone": "Europe/Amsterdam",
+        "viewport": "1365x900",
+        "wait_seconds": 7.0,
+        "workers": 16,
+        "egress_country": "NL",
+        "accept_control_enabled": true,
+        "version": "0.2.0",
+        "chrome_version": "156.0.8078.79"
+      },
+      "checks": {
+        "reject": {
+          "status": "fail",
+          "reason": "Accept is offered on the first layer; no direct refusal control was detected."
+        },
+        "prominence": {
+          "status": "pass",
+          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+        },
+        "before": {
+          "status": "unknown",
+          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+        },
+        "after": {
+          "status": "unknown",
+          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+        },
+        "persists": {
+          "status": "pass",
+          "reason": "Refusal survived a reload of the resulting page."
+        }
+      },
+      "steps": [
+        {
+          "action": "settings",
+          "label": "SHOW PURPOSES"
+        },
+        {
+          "action": "reject",
+          "label": "Reject All"
+        }
+      ],
+      "evidence": "evidence/independent.co.uk/before.json",
+      "accept_control": {
+        "completed": true,
+        "tracking": {
+          "status": "fail",
+          "reason": "Known advertising identifier cookies were present without consent."
+        }
+      },
+      "outcome": "observed",
+      "http_status": 200,
+      "title": "News | The Independent | Today's headlines and latest breaking news",
+      "rules_version": "0.2.0",
+      "result_file": "results/independent.co.uk.json",
+      "screenshot": "evidence/independent.co.uk/before.jpg",
+      "capture_files": [
+        "evidence/independent.co.uk/accept-control.json",
+        "evidence/independent.co.uk/before.json",
+        "evidence/independent.co.uk/reject-1.json",
+        "evidence/independent.co.uk/reject-2.json",
+        "evidence/independent.co.uk/reload.json"
+      ],
+      "failures": 1,
+      "passes": 2
     },
     {
       "rank": 937,
@@ -19561,8 +19355,8 @@
       },
       "checks": {
         "reject": {
-          "status": "pass",
-          "reason": "Refusal completed with one click and the choice interface disappeared."
+          "status": "unknown",
+          "reason": "Refusal led to an unfinished purchase/subscription flow, not verified refusal."
         },
         "prominence": {
           "status": "pass",
@@ -19574,11 +19368,11 @@
         },
         "after": {
           "status": "unknown",
-          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+          "reason": "No completed refusal on the audited website was observed."
         },
         "persists": {
-          "status": "pass",
-          "reason": "Refusal survived a reload of the resulting page."
+          "status": "unknown",
+          "reason": "Reload of a purchase/subscription flow does not establish refusal persistence."
         }
       },
       "steps": [
@@ -19608,7 +19402,7 @@
         "evidence/theguardian.com/reload.json"
       ],
       "failures": 0,
-      "passes": 4
+      "passes": 2
     },
     {
       "rank": 33,
@@ -20837,6 +20631,7 @@
           "reason": "Recorded refusal survived reload."
         }
       },
+      "rules_version": "0.2.0",
       "result_file": "results/bol.com.json",
       "screenshot": "evidence/bol.com/before.png",
       "capture_files": [
@@ -48126,6 +47921,77 @@
       "passes": 5
     },
     {
+      "rank": 726,
+      "domain": "noorderland.nl",
+      "name": "noorderland.nl",
+      "company": null,
+      "cohort": "NetAPI Netherlands top 1000",
+      "tested_at": "2026-11-03T15:24:55.072619+00:00",
+      "run": {
+        "started_at": "2026-11-03T15:12:23.542623+00:00",
+        "browser_mode": "stock Chrome offscreen",
+        "locale": "nl-NL",
+        "timezone": "Europe/Amsterdam",
+        "viewport": "1365x900",
+        "wait_seconds": 7.0,
+        "workers": 16,
+        "egress_country": "NL",
+        "accept_control_enabled": true,
+        "version": "0.1.1",
+        "chrome_version": "156.0.8078.79"
+      },
+      "checks": {
+        "reject": {
+          "status": "unknown",
+          "reason": "Refusal led to an unfinished purchase/subscription flow, not verified refusal."
+        },
+        "prominence": {
+          "status": "pass",
+          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+        },
+        "before": {
+          "status": "unknown",
+          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+        },
+        "after": {
+          "status": "unknown",
+          "reason": "No completed refusal on the audited website was observed."
+        },
+        "persists": {
+          "status": "unknown",
+          "reason": "Reload of a purchase/subscription flow does not establish refusal persistence."
+        }
+      },
+      "steps": [
+        {
+          "action": "reject",
+          "label": "Weigeren & betalen"
+        }
+      ],
+      "evidence": "evidence/noorderland.nl/before.json",
+      "accept_control": {
+        "completed": true,
+        "tracking": {
+          "status": "fail",
+          "reason": "Known advertising identifier cookies were present without consent."
+        }
+      },
+      "outcome": "observed",
+      "http_status": 200,
+      "title": "Noorderland | Noorderland brengt je het beste van de noordelijke provincies: natuur, cultuur, geschiedenis, uittips en culinaire verrassingen.",
+      "rules_version": "0.2.0",
+      "result_file": "results/noorderland.nl.json",
+      "screenshot": "evidence/noorderland.nl/before.jpg",
+      "capture_files": [
+        "evidence/noorderland.nl/accept-control.json",
+        "evidence/noorderland.nl/before.json",
+        "evidence/noorderland.nl/reject-1.json",
+        "evidence/noorderland.nl/reload.json"
+      ],
+      "failures": 0,
+      "passes": 1
+    },
+    {
       "rank": 729,
       "domain": "woonnetrijnmond.nl",
       "name": "woonnetrijnmond.nl",
@@ -48468,6 +48334,77 @@
       ],
       "failures": 0,
       "passes": 0
+    },
+    {
+      "rank": 740,
+      "domain": "elegance.nl",
+      "name": "elegance.nl",
+      "company": null,
+      "cohort": "NetAPI Netherlands top 1000",
+      "tested_at": "2026-11-03T15:25:10.374535+00:00",
+      "run": {
+        "started_at": "2026-11-03T15:12:23.542623+00:00",
+        "browser_mode": "stock Chrome offscreen",
+        "locale": "nl-NL",
+        "timezone": "Europe/Amsterdam",
+        "viewport": "1365x900",
+        "wait_seconds": 7.0,
+        "workers": 16,
+        "egress_country": "NL",
+        "accept_control_enabled": true,
+        "version": "0.1.1",
+        "chrome_version": "156.0.8078.79"
+      },
+      "checks": {
+        "reject": {
+          "status": "unknown",
+          "reason": "Refusal led to an unfinished purchase/subscription flow, not verified refusal."
+        },
+        "prominence": {
+          "status": "pass",
+          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+        },
+        "before": {
+          "status": "unknown",
+          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+        },
+        "after": {
+          "status": "unknown",
+          "reason": "No completed refusal on the audited website was observed."
+        },
+        "persists": {
+          "status": "unknown",
+          "reason": "Reload of a purchase/subscription flow does not establish refusal persistence."
+        }
+      },
+      "steps": [
+        {
+          "action": "reject",
+          "label": "Weigeren & betalen"
+        }
+      ],
+      "evidence": "evidence/elegance.nl/before.json",
+      "accept_control": {
+        "completed": true,
+        "tracking": {
+          "status": "fail",
+          "reason": "Known advertising identifier cookies were present without consent."
+        }
+      },
+      "outcome": "observed",
+      "http_status": 200,
+      "title": "Elegance | De eerste glossy van Nederland | Sinds 1937 | Laat je inspireren door sterke vrouwen, kunst, cultuur, mode, reizen, beauty en gastronomie.",
+      "rules_version": "0.2.0",
+      "result_file": "results/elegance.nl.json",
+      "screenshot": "evidence/elegance.nl/before.jpg",
+      "capture_files": [
+        "evidence/elegance.nl/accept-control.json",
+        "evidence/elegance.nl/before.json",
+        "evidence/elegance.nl/reject-1.json",
+        "evidence/elegance.nl/reload.json"
+      ],
+      "failures": 0,
+      "passes": 1
     },
     {
       "rank": 742,
@@ -58311,6 +58248,77 @@
       ],
       "failures": 0,
       "passes": 1
+    },
+    {
+      "rank": 1000,
+      "domain": "sky.com",
+      "name": "sky.com",
+      "company": null,
+      "cohort": "NetAPI Netherlands top 1000",
+      "tested_at": "2026-11-03T16:07:20.982593+00:00",
+      "run": {
+        "started_at": "2026-11-03T16:07:20.469670+00:00",
+        "browser_mode": "stock Chrome offscreen",
+        "locale": "nl-NL",
+        "timezone": "Europe/Amsterdam",
+        "viewport": "1365x900",
+        "wait_seconds": 7.0,
+        "workers": 1,
+        "egress_country": "NL",
+        "accept_control_enabled": true,
+        "version": "0.2.1",
+        "chrome_version": "156.0.8078.79"
+      },
+      "checks": {
+        "reject": {
+          "status": "pass",
+          "reason": "Refusal completed with one click and the choice interface disappeared."
+        },
+        "prominence": {
+          "status": "pass",
+          "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+        },
+        "before": {
+          "status": "unknown",
+          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+        },
+        "after": {
+          "status": "unknown",
+          "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+        },
+        "persists": {
+          "status": "pass",
+          "reason": "Refusal survived a reload of the resulting page."
+        }
+      },
+      "steps": [
+        {
+          "action": "reject",
+          "label": "Essential cookies only"
+        }
+      ],
+      "evidence": "evidence/sky.com/before.json",
+      "accept_control": {
+        "completed": true,
+        "tracking": {
+          "status": "fail",
+          "reason": "Known advertising identifier cookies were present without consent."
+        }
+      },
+      "outcome": "observed",
+      "http_status": 200,
+      "title": "Discover TV, Broadband & Mobile Phone Packages with Sky",
+      "rules_version": "0.2.0",
+      "result_file": "results/sky.com.json",
+      "screenshot": "evidence/sky.com/before.jpg",
+      "capture_files": [
+        "evidence/sky.com/accept-control.json",
+        "evidence/sky.com/before.json",
+        "evidence/sky.com/reject-1.json",
+        "evidence/sky.com/reload.json"
+      ],
+      "failures": 0,
+      "passes": 3
     },
     {
       "rank": null,

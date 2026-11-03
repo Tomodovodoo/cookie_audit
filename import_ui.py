@@ -4,7 +4,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 from datetime import datetime
 from audit import ROOT,save,sanitise_state
-from rules import ACCEPT,REJECT,candidates,ui_rules,result
+from rules import ACCEPT,REJECT,candidates,ui_rules,result,unfinished_refusal
 
 def main(domain,source,country):
     site=next(s for s in json.loads((ROOT/'data/sites.json').read_text(encoding='utf-8')) if s['domain']==domain)
@@ -26,9 +26,9 @@ def main(domain,source,country):
     elapsed=lambda a,b:(datetime.fromisoformat(b.replace('Z','+00:00'))-datetime.fromisoformat(a.replace('Z','+00:00'))).total_seconds()
     if min(elapsed(action['clicked_at'],refused['captured_at']),elapsed(action['reload_started_at'],reloaded['captured_at']))<7:raise ValueError('Observe at least seven seconds after each action.')
     ease,prominence=ui_rules(before)
-    complete=not candidates(refused,ACCEPT)
+    complete=not candidates(refused,ACCEPT) and not unfinished_refusal(before,refused)
     if ease['status']=='pass':ease=result('pass' if complete else 'unknown','Recorded one-click refusal completed.' if complete else 'Refusal completion could not be verified.')
-    persistence=result('unknown','Refusal did not complete.') if not complete else result('fail','Choice interface returned after reload.') if candidates(reloaded,ACCEPT) else result('pass','Recorded refusal survived reload.')
+    persistence=result('unknown','Refusal did not complete.') if not complete or unfinished_refusal(before,reloaded) else result('fail','Choice interface returned after reload.') if candidates(reloaded,ACCEPT) else result('pass','Recorded refusal survived reload.')
     viewport=before['frames'][0]['viewport']
     row={**site,'tested_at':before['captured_at'],'outcome':'observed','evidence':f'evidence/{domain}/before.json','steps':[{'action':'reject','label':action['label']}],
          'run':{'browser_mode':'browser agent, incognito; UI-only','locale':before['frames'][0]['language'],'viewport':f'{viewport["width"]}x{viewport["height"]} initial DOM; stage viewports in captures','egress_country':country,'wait_seconds':7,'accept_control_enabled':False,'version':'ui-import-1'},

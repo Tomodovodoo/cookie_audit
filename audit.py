@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
 from playwright.async_api import async_playwright
-from rules import ACCEPT, REJECT, SETTINGS, BLOCK, candidates, result, tracking, ui_rules,advertising_consent_remains
+from rules import ACCEPT, REJECT, SETTINGS, BLOCK, candidates, result, tracking, ui_rules,advertising_consent_remains,unfinished_refusal
 from exclusions import excluded
 
 ROOT=Path(__file__).parent
@@ -186,22 +186,23 @@ async def audit_site(browser,site,args,mapping,metadata):
                 # A surviving choice interface is not evidence of successful rejection.
                 if not candidates(state,ACCEPT):break
         final_main=state['frames'][0] if state['frames'] else {}
-        complete=refusal_clicked and not candidates(state,ACCEPT) and bool(state['frames']) and not state['frame_errors'] and not state.get('blocked') and not BLOCK.search(final_main.get('text','')[:1200]) and not BLOCK.search(final_main.get('title',''))
+        complete=refusal_clicked and not candidates(state,ACCEPT) and not unfinished_refusal(before,state) and bool(state['frames']) and not state['frame_errors'] and not state.get('blocked') and not BLOCK.search(final_main.get('text','')[:1200]) and not BLOCK.search(final_main.get('title',''))
         if complete:
             row['checks']['after']=state['tracking']
             if len(row['steps'])>1 and accept_seen:row['checks']['reject']=result('fail',f'Refusal required {len(row["steps"])} clicks; acceptance was offered directly.')
             elif row['checks']['reject']['status']=='pass':row['checks']['reject']=result('pass','Refusal completed with one click and the choice interface disappeared.')
             if advertising_consent_remains(state):row['checks']['reject']=result('fail','After refusal, the consent manager still reported advertising or special-feature consent. See the captured consent_state receipt.')
             requests.clear()
-            reload_status=await navigate(page,page.url,args.wait)
+            reload_status=await navigate(page,entry_url,args.wait)
             reloaded=await snapshot(page,context,requests,folder,'reload',mapping)
             rm=reloaded['frames'][0] if reloaded['frames'] else {}
-            if not rm or (reload_status and reload_status>=400) or reloaded['frame_errors'] or reloaded.get('blocked') or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
+            if not rm or (reload_status and reload_status>=400) or reloaded['frame_errors'] or reloaded.get('blocked') or unfinished_refusal(before,reloaded) or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
             elif candidates(reloaded,ACCEPT):row['checks']['persists']=result('fail','Consent interface reappeared after refusing and reloading.')
             else:row['checks']['persists']=result('pass','Refusal survived a reload of the resulting page.')
             row['checks']['after']=max([row['checks']['after'],reloaded['tracking']],key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
         else:
             if row['checks']['reject']['status']=='pass':row['checks']['reject']=result('unknown','A refusal control exists, but completion could not be verified.')
+            if unfinished_refusal(before,state) and row['checks']['reject']['status']!='fail':row['checks']['reject']=result('unknown','Refusal led to an unfinished purchase/subscription flow, not verified refusal.')
             row['checks']['after']=result('unknown','A completed refusal journey was not observed.')
             row['checks']['persists']=result('unknown','A completed refusal journey was not observed.')
         # Isolated acceptance control, never reuse the rejected context.

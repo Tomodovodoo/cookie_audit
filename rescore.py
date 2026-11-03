@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 from audit import ROOT,save,tracker_map,sanitise_state
-from rules import result,tracking,ui_rules,advertising_consent_remains
+from rules import result,tracking,ui_rules,advertising_consent_remains,unfinished_refusal
 def main():
     mapping=tracker_map();count=0
     for path in (ROOT/'docs/results').glob('*.json'):
@@ -40,6 +40,10 @@ def main():
             if checks:row['checks']['after']=max(checks,key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
         if (states.get('reload',{}).get('frame_errors') or states.get('reload',{}).get('blocked')) and row['checks']['persists']['status'] in ('pass','fail'):row['checks']['persists']=result('unknown','Reload was blocked or could not be fully inspected.')
         if refusal and advertising_consent_remains(refusal):row['checks']['reject']=result('fail','After refusal, the consent manager still reported advertising or special-feature consent. See the captured consent_state receipt.')
+        if refusal and unfinished_refusal(states['before'],refusal):
+            if row['checks']['reject']['status']!='fail':row['checks']['reject']=result('unknown','Refusal led to an unfinished purchase/subscription flow, not verified refusal.')
+            row['checks']['after']=result('unknown','No completed refusal on the audited website was observed.')
+            row['checks']['persists']=result('unknown','Reload of a purchase/subscription flow does not establish refusal persistence.')
         row['rules_version']='0.2.0';save(path,row);count+=1
     print(f'Rescored {count} observed results. Captures and timestamps retained.')
 if __name__=='__main__':main()
