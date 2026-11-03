@@ -23,10 +23,16 @@ def main():
             if row.get('steps') and len(row['steps'])>1:pass
             else:row['checks']['reject']=result('unknown','Refusal control recognised by updated rules; journey needs a new capture.')
         row['checks']['before']=states['before']['tracking']
+        refusal=states.get('reject-'+str(len(row.get('steps',[]))))
+        if refusal and refusal.get('frame_errors'):
+            if row['checks']['reject']['status']=='pass':row['checks']['reject']=result('unknown','Refusal interface could not be fully inspected.')
+            row['checks']['after']=result('unknown','Refusal completion could not be verified across all frames.')
+            row['checks']['persists']=result('unknown','Refusal completion could not be verified across all frames.')
         if row['checks']['persists']['status'] in ('pass','fail'):
             names=sorted(n for n in states if n.startswith('reject-') and int(n.split('-')[1])<=len(row.get('steps',[])))
             checks=[states[n]['tracking'] for n in ([names[-1]] if names else [])+(['reload'] if 'reload' in states else [])]
             if checks:row['checks']['after']=max(checks,key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
+        if states.get('reload',{}).get('frame_errors') and row['checks']['persists']['status']=='pass':row['checks']['persists']=result('unknown','Reload frames could not be fully inspected.')
         row['rules_version']='0.1.1';save(path,row);count+=1
     print(f'Rescored {count} observed results. Captures and timestamps retained.')
 if __name__=='__main__':main()

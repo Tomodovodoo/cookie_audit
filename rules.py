@@ -3,8 +3,8 @@ import re
 from urllib.parse import urlsplit
 
 ACCEPT = re.compile(r'^(alles |alle |alle cookies |all |cookies )?(accepteren|accepteer|accept|aanvaarden|akkoord|toestaan|agree|allow)( all| alles| alle cookies| cookies| and continue| en doorgaan)?$|^(ja,? ik (accepteer|ga akkoord)|accept all cookies|allow all cookies|alle cookies accepteren)$',re.I)
-REJECT = re.compile(r'weigeren|weiger|reject|refuse|decline|deny|afwijzen|verwerpen|niet (accepteren|akkoord|toestaan)|zonder (te )?(accepteren|akkoord|toestemming)|alleen (noodzakelijke|essenti[eë]le|functionele|vereiste|standaard)|only (necessary|essential|required)|necessary (cookies )?only|do not (accept|consent)|geen toestemming|no,? thanks|nee,? (bedankt|liever niet)',re.I)
-SETTINGS = re.compile(r'^(instellen|instellingen|voorkeuren|aanpassen|settings|preferences|manage cookies\+?|manage preferences|cookie[s -]*(instellingen|settings|preferences|voorkeuren)( bekijken)?|toestemmingsinstellingen|meer opties|meer informatie|zelf instellen)$',re.I)
+REJECT = re.compile(r'weigeren|weiger|reject|refuse|decline|deny|afwijzen|verwerpen|niet (accepteren|akkoord|toestaan)|zonder (te )?(accepteren|akkoord|toestemming)|alleen (strikt )?(noodzakelijk|essenti[eë]le|functionele|vereiste|standaard)|only (strictly )?(necessary|essential|required)|necessary (cookies )?only|do not (accept|consent)|geen toestemming|no,? thanks|nee,? (bedankt|liever niet)',re.I)
+SETTINGS = re.compile(r'^(instellen|instellingen( beheren)?|voorkeuren|stel voorkeuren in|aanpassen|settings|preferences|manage cookies\+?|manage preferences|cookie[s -]*(instellingen|settings|preferences|voorkeuren)( bekijken)?|toestemmingsinstellingen|meer opties|meer informatie|zelf instellen)$',re.I)
 SAVE = re.compile(r'^(opslaan|keuze opslaan|voorkeuren opslaan|selectie opslaan|save|save preferences|save settings|confirm choices|bevestigen|bevestig (mijn )?keuze)$',re.I)
 MARKETING_COOKIE = re.compile(r'^(_fbp|_fbc|_gcl_au|_gcl_aw|IDE|_uetvid|_uetsid|cto_bundle|cto_bidid|anj|uuid2|_ttp|_scid|li_fat_id)$')
 ANALYTICS_COOKIE = re.compile(r'^(_ga($|_)|_gid$|_gat|_pk_id|AMCV_|s_vi$|_clck$|_hjSessionUser_)')

@@ -84,9 +84,14 @@ async def navigate(page,url,wait):
 
 async def audit_site(browser,site,args,mapping,metadata):
     folder=ROOT/'docs/evidence'/site['domain']
+    previous=ROOT/'docs/results'/f'{site["domain"]}.json'
+    archive=ROOT/'private/archive'/str(time.time_ns())/site['domain']
+    if previous.exists():
+        # Invalidate the local result first. An interrupted forced replacement must
+        # be resumed, never skipped with an old verdict pointing at new evidence.
+        archive.mkdir(parents=True,exist_ok=True);previous.rename(archive/'result.json')
     if folder.exists():
-        archive=ROOT/'private/archive'/str(time.time_ns())/site['domain']
-        archive.parent.mkdir(parents=True,exist_ok=True);folder.rename(archive)
+        archive.mkdir(parents=True,exist_ok=True);folder.rename(archive/'evidence')
     folder.mkdir(parents=True,exist_ok=True)
     row={**site,'tested_at':now(),'run':metadata,'checks':{},'steps':[],'evidence':f'evidence/{site["domain"]}/before.json'}
     contexts=[]
@@ -138,7 +143,7 @@ async def audit_site(browser,site,args,mapping,metadata):
                 # A surviving choice interface is not evidence of successful rejection.
                 if not candidates(state,ACCEPT):break
         final_main=state['frames'][0] if state['frames'] else {}
-        complete=refusal_clicked and not candidates(state,ACCEPT) and bool(state['frames']) and not BLOCK.search(final_main.get('text','')[:1200]) and not BLOCK.search(final_main.get('title',''))
+        complete=refusal_clicked and not candidates(state,ACCEPT) and bool(state['frames']) and not state['frame_errors'] and not BLOCK.search(final_main.get('text','')[:1200]) and not BLOCK.search(final_main.get('title',''))
         if complete:
             row['checks']['after']=state['tracking']
             if len(row['steps'])>1 and accept_seen:row['checks']['reject']=result('fail',f'Refusal required {len(row["steps"])} clicks; acceptance was offered directly.')
@@ -147,7 +152,7 @@ async def audit_site(browser,site,args,mapping,metadata):
             await navigate(page,page.url,args.wait)
             reloaded=await snapshot(page,context,requests,folder,'reload',mapping)
             rm=reloaded['frames'][0] if reloaded['frames'] else {}
-            if not rm or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
+            if not rm or reloaded['frame_errors'] or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
             elif candidates(reloaded,ACCEPT):row['checks']['persists']=result('fail','Consent interface reappeared after refusing and reloading.')
             else:row['checks']['persists']=result('pass','Refusal survived a reload of the resulting page.')
             row['checks']['after']=max([row['checks']['after'],reloaded['tracking']],key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
@@ -157,6 +162,7 @@ async def audit_site(browser,site,args,mapping,metadata):
             row['checks']['persists']=result('unknown','A completed refusal journey was not observed.')
         # Isolated acceptance control, never reuse the rejected context.
         if accept_seen and not args.skip_accept:
+            await context.close();contexts.remove(context)
             accepted=await browser.new_context(locale='nl-NL',timezone_id='Europe/Amsterdam',viewport={'width':1365,'height':900},accept_downloads=False)
             contexts.append(accepted); await accepted.route('**/*',guard)
             ap=await accepted.new_page(); ar=[]
