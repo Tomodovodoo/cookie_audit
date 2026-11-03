@@ -13,6 +13,7 @@ def main():
             state=sanitise_state(json.loads(p.read_text(encoding='utf-8')))
             if 'cookies' not in state:continue
             state['tracking'],state['signals'],state['uncertain_signals']=tracking(state['cookies'],state['requests'],mapping)
+            if state.get('limited_capture'):state['tracking']=result('unknown','Browser-agent UI observation has no complete network/HttpOnly-cookie capture.')
             if state.get('blocked'):state['tracking']=result('unknown','Block page, not a completed observation.')
             if state.get('frame_errors') and state['tracking']['status']=='pass':state['tracking']=result('unknown','Some frames could not be inspected.')
             states[p.stem]=state;save(p,state)

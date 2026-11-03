@@ -4,7 +4,7 @@ Local, resumable consent screening with a static GitHub Pages register. The repo
 
 This is an observational tool, not an AP ruling or a GDPR compliance certificate. Read [the method](docs/methodology.html) before interpreting the green checks. The current source top 1,000 has 124 adult-filter exclusions, leaving 876 eligible domains. The audit reaches 1,000 targets by adding 124 separately labelled .nl domains from NetAPI's global ranking. These additions have global ranks only, not invented Netherlands ranks.
 
-The published run attempted all 1,000 targets: 918 visits were observed; 82 were blocked, incomplete, errored or timed out. There are 253 sites with at least one configured failure and 377 domains outside `.nl`. Of 5,000 individual checks, 2,864 remain inconclusive. This is not a measured accuracy score; many tracking signals need purpose/configuration review, and no-banner sites do not automatically receive refusal passes.
+The published run attempted all 1,000 targets: 919 visits were observed; 81 were blocked, incomplete, errored or timed out. There are 253 sites with at least one configured failure and 377 domains outside `.nl`. Of 5,000 individual checks, 2,861 remain inconclusive. This is not a measured accuracy score; many tracking signals need purpose/configuration review, and no-banner sites do not automatically receive refusal passes.
 
 ## Run on Windows
 
@@ -71,3 +71,9 @@ The user supplied these references during implementation. They inform the follow
 Capture version 0.2.0 adds per-phase main-document HTTP status and frame-bound clicks. Earlier captures retain their version and do not claim that additional HTTP evidence. An input manifest may specify an HTTPS `url` on its listed domain or subdomain to audit a canonical landing page.
 
 Company groupings are dated observations. AutoTrack and Gaspedaal are grouped under AutoScout24 following the [2025 sale](https://www.mediahuis.com/en/news/autotrack-and-gaspedaal.nl-become-part-of-autoscout24); an older DPG consent-brand list still mentions them. RTL and Tweakers use DPG corporate sources, and FD/BNR use the [FD Mediagroep profile](https://fdmg.nl/over-ons/). Each grouped row links its source.
+
+## Browser-agent fallback
+
+Bol blocked the bulk browser, but its consent UI loaded in a separate incognito browser-agent session. Its published refusal/prominence/persistence results use that recorded UI journey; tracking stays inconclusive because a full network and HttpOnly-cookie capture was unavailable. This run used en-US browser language on the Dutch landing page. The initial DOM and screenshot viewport difference is recorded in the capture.
+
+`import_ui.py --domain example.com --source private/export --country NL` imports this kind of evidence for any listed site. The export contains `before.json`, `reject-1.json`, `reload.json` in the inspection schema, their referenced screenshots, and `action.json` with the refusal label, `clicked_at` and `reload_started_at` UTC timestamps. It requires complete frame inspection, a recognised initial refusal control, ordered captures and at least seven seconds after each action. The importer applies the same UI rules and always leaves tracking inconclusive. `rescore.py` preserves this limitation.

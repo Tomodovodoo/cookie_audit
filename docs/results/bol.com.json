@@ -4,44 +4,44 @@
   "name": "bol.com",
   "company": null,
   "cohort": "NetAPI Netherlands top 1000",
-  "url": "https://www.bol.com/nl/nl/",
-  "tested_at": "2026-11-03T15:37:15.097981+00:00",
+  "tested_at": "2026-11-03T15:58:34.700Z",
+  "outcome": "observed",
+  "evidence": "evidence/bol.com/before.json",
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Weigeren"
+    }
+  ],
   "run": {
-    "started_at": "2026-11-03T15:37:14.555246+00:00",
-    "browser_mode": "stock Chrome offscreen",
-    "locale": "nl-NL",
-    "timezone": "Europe/Amsterdam",
-    "viewport": "1365x900",
-    "wait_seconds": 7.0,
-    "workers": 16,
+    "browser_mode": "browser agent, incognito; UI-only",
+    "locale": "en-US",
+    "viewport": "1280x800 initial DOM; stage viewports in captures",
     "egress_country": "NL",
-    "accept_control_enabled": true,
-    "version": "0.2.0",
-    "chrome_version": "156.0.8078.79"
+    "wait_seconds": 7,
+    "accept_control_enabled": false,
+    "version": "ui-import-1"
   },
   "checks": {
     "reject": {
-      "status": "unknown",
-      "reason": "Page could not be assessed reliably (HTTP 200)."
+      "status": "pass",
+      "reason": "Recorded one-click refusal completed."
     },
     "prominence": {
-      "status": "unknown",
-      "reason": "Page could not be assessed reliably (HTTP 200)."
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
     },
     "before": {
       "status": "unknown",
-      "reason": "Page could not be assessed reliably (HTTP 200)."
+      "reason": "Browser-agent UI observation has no complete network/HttpOnly-cookie capture."
     },
     "after": {
       "status": "unknown",
-      "reason": "Page could not be assessed reliably (HTTP 200)."
+      "reason": "Browser-agent UI observation has no complete network/HttpOnly-cookie capture."
     },
     "persists": {
-      "status": "unknown",
-      "reason": "Page could not be assessed reliably (HTTP 200)."
+      "status": "pass",
+      "reason": "Recorded refusal survived reload."
     }
-  },
-  "steps": [],
-  "evidence": "evidence/bol.com/before.json",
-  "outcome": "blocked"
+  }
 }
