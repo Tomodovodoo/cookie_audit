@@ -1,0 +1,782 @@
+{
+  "frames": [
+    {
+      "url": "https://www.blooket.com/",
+      "title": "Blooket – Fun, Free, Educational Games for Everyone",
+      "text": "Blooket\nJoin a game\nLog in\nFun, free, educational games for everyone!\nSign up\n \n\nPronounced (\"Blue-kit\")\n\nClick to scroll down\n\nEasy Setup,\nLasting Results\n\nFind a question set from our library or create your own. Then, get started with a live or asynchronous game in just a few clicks!\n\nInstant Feedback\n\nEnsure every student is on track with detailed reports at the end of each game. Identify knowledge gaps and guide students toward success.\n\nFree, Fresh, and Fun\n\nKeep your students engaged with our ever-expanding library of game modes. We're always working on new ways to make learning fun!\n\nSerious Learning. Serious Fun.\n\nJoin the millions of educators around the world who have already discovered the power of Blooket!\n\nGet started\nHow It Works\nGet a question set\nChoose a game mode\nPlay, learn, and analyze\nEngagement for Everyone\n\nBlooket’s gameplay is designed for students from early elementary to high school and beyond!\n\nProduct\n\nUpgrade\nGroup Plans\n\nContact\n\nHelp Center\nFAQ\ncontact-us@blooket.com\n\nMore\n\nPrivacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart\n\nConnect\n\nCopyright © 2026 Blooket LLC. All Rights Reserved.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Blooket",
+          "tag": "A",
+          "context": "Blooket\nJoin a game\nLog in\nFun, free, educational games for everyone!\nSign up\n \n\nPronounced (\"Blue-kit\")\n\nClick to scroll down\n\nEasy Setup,\nLasting Results\n\nFind a question set from our library or create your own. Then, get started with a live or asynchronous game in just a few clicks!\n\nInstant Feedback\n\nEnsure every student is on track with detailed reports at the end of each game. Identify knowl",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 14.333333015441895,
+            "width": 257.0069580078125,
+            "height": 69.11111450195312
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(11, 194, 207)",
+            "effectiveBackground": "rgb(11, 194, 207)",
+            "fontSize": 52,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "5px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Join a game",
+          "tag": "A",
+          "context": "Blooket\nJoin a game\nLog in\nFun, free, educational games for everyone!\nSign up\n \n\nPronounced (\"Blue-kit\")\n\nClick to scroll down\n\nEasy Setup,\nLasting Results\n\nFind a question set from our library or create your own. Then, get started with a live or asynchronous game in just a few clicks!\n\nInstant Feedback\n\nEnsure every student is on track with detailed reports at the end of each game. Identify knowl",
+          "box": {
+            "x": 850.5555419921875,
+            "y": 29.61111068725586,
+            "width": 188,
+            "height": 46.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Log in",
+          "tag": "A",
+          "context": "Blooket\nJoin a game\nLog in\nFun, free, educational games for everyone!\nSign up\n \n\nPronounced (\"Blue-kit\")\n\nClick to scroll down\n\nEasy Setup,\nLasting Results\n\nFind a question set from our library or create your own. Then, get started with a live or asynchronous game in just a few clicks!\n\nInstant Feedback\n\nEnsure every student is on track with detailed reports at the end of each game. Identify knowl",
+          "box": {
+            "x": 1053.5555419921875,
+            "y": 29.61111068725586,
+            "width": 106.55555725097656,
+            "height": 46.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Sign up",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 523.1111450195312,
+            "y": 468.7430725097656,
+            "width": 304,
+            "height": 45
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Pronounced (\"Blue-kit\")",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 523.1111450195312,
+            "y": 518.7430419921875,
+            "width": 304,
+            "height": 43.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(117, 117, 117)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(117, 117, 117)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Click to scroll down",
+          "tag": "BUTTON",
+          "context": "Blooket\nJoin a game\nLog in\nFun, free, educational games for everyone!\nSign up\n \n\nPronounced (\"Blue-kit\")\n\nClick to scroll down\n\nEasy Setup,\nLasting Results\n\nFind a question set from our library or create your own. Then, get started with a live or asynchronous game in just a few clicks!\n\nInstant Feedback\n\nEnsure every student is on track with detailed reports at the end of each game. Identify knowl",
+          "box": {
+            "x": 0,
+            "y": 840,
+            "width": 1350.2222900390625,
+            "height": 37.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Get started",
+          "tag": "A",
+          "context": "Blooket\nJoin a game\nLog in\nFun, free, educational games for everyone!\nSign up\n \n\nPronounced (\"Blue-kit\")\n\nClick to scroll down\n\nEasy Setup,\nLasting Results\n\nFind a question set from our library or create your own. Then, get started with a live or asynchronous game in just a few clicks!\n\nInstant Feedback\n\nEnsure every student is on track with detailed reports at the end of each game. Identify knowl",
+          "box": {
+            "x": 575.1111450195312,
+            "y": 2878.298583984375,
+            "width": 200,
+            "height": 46.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(119, 81, 143)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Upgrade",
+          "tag": "A",
+          "context": "Product\n\nUpgrade\nGroup Plans\n\nContact\n\nHelp Center\nFAQ\ncontact-us@blooket.com\n\nMore\n\nPrivacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart\n\nConnect",
+          "box": {
+            "x": 206.42361450195312,
+            "y": 4349.66650390625,
+            "width": 70.11111450195312,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Group Plans",
+          "tag": "A",
+          "context": "Product\n\nUpgrade\nGroup Plans\n\nContact\n\nHelp Center\nFAQ\ncontact-us@blooket.com\n\nMore\n\nPrivacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart\n\nConnect",
+          "box": {
+            "x": 206.42361450195312,
+            "y": 4384.111328125,
+            "width": 99.78472137451172,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Help Center",
+          "tag": "A",
+          "context": "Product\n\nUpgrade\nGroup Plans\n\nContact\n\nHelp Center\nFAQ\ncontact-us@blooket.com\n\nMore\n\nPrivacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart\n\nConnect",
+          "box": {
+            "x": 407.47222900390625,
+            "y": 4349.66650390625,
+            "width": 97.25694274902344,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "FAQ",
+          "tag": "A",
+          "context": "Product\n\nUpgrade\nGroup Plans\n\nContact\n\nHelp Center\nFAQ\ncontact-us@blooket.com\n\nMore\n\nPrivacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart\n\nConnect",
+          "box": {
+            "x": 407.47222900390625,
+            "y": 4384.111328125,
+            "width": 35.53472137451172,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "contact-us@blooket.com",
+          "tag": "A",
+          "context": "Product\n\nUpgrade\nGroup Plans\n\nContact\n\nHelp Center\nFAQ\ncontact-us@blooket.com\n\nMore\n\nPrivacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart\n\nConnect",
+          "box": {
+            "x": 407.47222900390625,
+            "y": 4418.5556640625,
+            "width": 200.0208282470703,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Privacy Policy",
+          "tag": "A",
+          "context": "Privacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart",
+          "box": {
+            "x": 708.7569580078125,
+            "y": 4349.66650390625,
+            "width": 110.92361450195312,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Terms of Service",
+          "tag": "A",
+          "context": "Privacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart",
+          "box": {
+            "x": 708.7569580078125,
+            "y": 4384.111328125,
+            "width": 133.55555725097656,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Cookie Settings",
+          "tag": "A",
+          "context": "Cookie Settings",
+          "box": {
+            "x": 708.7569580078125,
+            "y": 4418.5556640625,
+            "width": 125.61805725097656,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Created by Ben Stewart",
+          "tag": "A",
+          "context": "Privacy Policy\nTerms of Service\nCookie Settings\nCreated by Ben Stewart",
+          "box": {
+            "x": 708.7569580078125,
+            "y": 4453,
+            "width": 193.7777862548828,
+            "height": 24.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(22, 113, 233)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.blooket.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.blooket.com/",
+  "captured_at": "2026-11-03T15:07:46.982562+00:00",
+  "cookies": [
+    {
+      "name": "_cfuvid",
+      "domain": ".blooket.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".blooket.com",
+      "path": "/",
+      "expires": 1825254445.122146,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".blooket.com",
+      "path": "/",
+      "expires": 1793720245.122218,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookieyes-consent",
+      "domain": ".blooket.com",
+      "path": "/",
+      "expires": 1825254452,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.blooket.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.blooket.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.348215+00:00"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/79e41bd3b1a75f452ac71716/script.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.409121+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.410011+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/styles/main.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.410420+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/styles/homepage.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.411246+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/owl.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.411935+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/chicks.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.412622+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/play-blue.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.413250+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/hero-mobile.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.413899+00:00"
+    },
+    {
+      "url": "https://log.cookieyes.com/api/v1/log",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:07:39.433300+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/play.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.435589+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/volume-up.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.436555+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.437014+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/down.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.437751+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/question-fallback.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.438486+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/graph-fallback.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.439155+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/wizard-fallback.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.439792+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/howitworks1.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.440413+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/howitworks2.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.441118+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/howitworks3.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.441823+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/fishing-fallback.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.442509+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/Facebook.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.443110+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/Instagram.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.444218+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/Youtube.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.445088+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/Twitter.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.445983+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/icons/TikTok.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.446805+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/scripts/homepage_header.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.447667+00:00"
+    },
+    {
+      "url": "https://unpkg.com/@rive-app/canvas-lite@2.26.3",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.448592+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/scripts/animations.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.449945+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/scripts/animations-deferred.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.450807+00:00"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/79e41bd3b1a75f452ac71716/banner.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.451643+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.454536+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.455417+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/titanone/v17/mFTzWbsGxbbS_J5cQcjClDgm.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.534923+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/nunito/v32/XRXV3I6Li01BKofINeaB.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.535411+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/question.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.536130+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/graph.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.536747+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/wizard.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.537374+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/BlookCheckers.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.538066+00:00"
+    },
+    {
+      "url": "https://www.blooket.com/assets/animations/fishing.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.538699+00:00"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/79e41bd3b1a75f452ac71716/vPoHaS0b.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.541196+00:00"
+    },
+    {
+      "url": "https://unpkg.com/@rive-app/canvas-lite@2.26.3/rive.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.541894+00:00"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/79e41bd3b1a75f452ac71716/config/ovR00iRE.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.570737+00:00"
+    },
+    {
+      "url": "https://unpkg.com/@rive-app/canvas-lite@2.26.3/rive.wasm",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.596333+00:00"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/79e41bd3b1a75f452ac71716/translations/3LBMJVeg.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.598002+00:00"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/client_data/79e41bd3b1a75f452ac71716/audit-table/Ws8WK7-7.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.631904+00:00"
+    },
+    {
+      "url": "https://cdn-cookieyes.com/assets/images/close.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.659681+00:00"
+    },
+    {
+      "url": "https://ac.blooket.com/www/assets/animations/owlV2.riv",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.756487+00:00"
+    },
+    {
+      "url": "https://ac.blooket.com/www/assets/animations/chicks.riv",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.757542+00:00"
+    },
+    {
+      "url": "https://ac.blooket.com/www/assets/animations/question.riv",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.757909+00:00"
+    },
+    {
+      "url": "https://ac.blooket.com/www/assets/animations/graph.riv",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:07:39.758570+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,62 @@
+{
+  "rank": null,
+  "global_rank": 35309,
+  "domain": "fnv.nl",
+  "name": "fnv.nl",
+  "company": null,
+  "cohort": "Supplemental .nl global ranking",
+  "tested_at": "2026-11-03T15:35:04.540259+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:33:22.185051+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "pass",
+      "reason": "Refusal completed with one click and the choice interface disappeared."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "pass",
+      "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+    },
+    "after": {
+      "status": "pass",
+      "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+    },
+    "persists": {
+      "status": "pass",
+      "reason": "Refusal survived a reload of the resulting page."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Weigeren"
+    }
+  ],
+  "evidence": "evidence/fnv.nl/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "FNV komt op voor jouw belangen! - FNV",
+  "rules_version": "0.2.0"
+}

@@ -1,0 +1,375 @@
+{
+  "frames": [
+    {
+      "url": "https://www.autowereld.nl/",
+      "title": "Access Denied",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.autowereld.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.autowereld.nl/",
+  "captured_at": "2026-11-03T15:21:14.990695+00:00",
+  "cookies": [
+    {
+      "name": "BCSessionID",
+      "domain": "n302.autowereld.nl",
+      "path": "/DG/DEFAULT",
+      "expires": 1828279263.063277,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "BCSessionID",
+      "domain": "amv.blueconic.net",
+      "path": "/DG/DEFAULT",
+      "expires": 1828279262.946669,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "xAuthId",
+      "domain": "myprivacy.dpgmedia.nl",
+      "path": "/",
+      "expires": 1827415243.558092,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authId",
+      "domain": "myprivacy.dpgmedia.nl",
+      "path": "/",
+      "expires": 1827415243.558151,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793726443.558174,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.e23f",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793721059,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp",
+      "domain": ".dpgmedia.net",
+      "path": "/",
+      "expires": 1825255262.573607,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_id.e23f",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1828279259.834498,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793726444.050604,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authId",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1796397660.293448,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aut-b",
+      "domain": "www.autowereld.nl",
+      "path": "/",
+      "expires": 1796311260.605281,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vwo_uuid_v2",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1825341661,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1793726461.901159,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vwo_uuid",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1825276213,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vwo_ds",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1796311261,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vis_opt_s",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1802359262,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vis_opt_test_cookie",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1828279262.245556,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.1950",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1793721062,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.1950",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1828279262.328339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1828279267.663849,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1793791262.400017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1793726462.457071,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BCSessionID",
+      "domain": "www.autowereld.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "domain": "amv.blueconic.net",
+      "path": "/",
+      "expires": 1794324062.946611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALB",
+      "domain": "n302.autowereld.nl",
+      "path": "/",
+      "expires": 1794324063.063108,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "domain": "n302.autowereld.nl",
+      "path": "/",
+      "expires": 1794324063.063233,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_vwo_sn",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1793721067,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_so",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1793805667.592377,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_97F29CJHM4",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1828279267.622706,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.autowereld.nl",
+      "path": "/",
+      "expires": 1796311267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1796397668.550037,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.autowereld.nl",
+      "localKeys": [
+        "usbl.3915d53d28df.c.d73495923f45",
+        "_vwo_385905_config",
+        "NRBA_SESSION::83f33e9a",
+        "pgConsentCache",
+        "vwoSn",
+        "snowplowOutQueue_snowplow_dpg"
+      ],
+      "sessionKeys": [
+        "pgConsentCache",
+        "ak_bm_tab_id"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:07.496067+00:00"
+    },
+    {
+      "url": "https://www.autowereld.nl/MqLBV2/YJMyi/KCff5/WA/XDm3JbiEED/Y3kmDQE/An0dK/lp7A0Ma",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:21:07.666124+00:00"
+    },
+    {
+      "url": "https://www.autowereld.nl/MqLBV2/YJMyi/KCff5/WA/XDm3JbiEED/Y3kmDQE/An0dK/lp7A0Ma",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:21:08.493916+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Block page, not a completed observation."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".autowereld.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_97F29CJHM4",
+      "domain": ".autowereld.nl"
+    }
+  ],
+  "context_excerpt_limit": 400,
+  "blocked": true
+}

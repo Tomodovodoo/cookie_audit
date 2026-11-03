@@ -1,0 +1,1062 @@
+{
+  "frames": [
+    {
+      "url": "https://doxygen.nl/",
+      "title": "Doxygen homepage",
+      "text": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about classes, functions, and variables to produce output in formats like HTML and PDF. By simplifying and standardizing the documentation process, Doxygen enhances collaboration and maintenance across diverse programming languages and project scales.\n\nMultiple formats\nMarkdown\nC++\nCross-referencing\nDiagrams\nConfiguration\nMultiple output formats\n\nDoxygen can generate documentation in various output formats, such as HTML, PDF (via LaTeX), Word (via RTF), and XML.\n\nThis flexibility allows developers to choose the format that best suits their needs or integrate the documentation into different systems.\n\nMarkdown\n\nMarkdown support in Doxygen allows you to combine the simplicity of Markdown with the powerful features of Doxygen for documenting code.\n\nNext to Markdown, Doxygen supports many commands like \\param, \\return, \\brief, etc., to provide additional information about functions, parameters, and return values.\n\nC++\n\nDoxygen provides robust support for documenting C++ code, recognizing the intricacies of the language and generating comprehensive documentation.\n\nNext to C++, Doxygen also supports C, Python, PHP, Java, C#, Objective-C, Fortran, VHDL, Splice, IDL, and Lex.\n\nCross-referencing\n\nDoxygen provides cross-referencing capabilities, allowing users to navigate between different parts of the documentation.\n\nDoxygen generates hyperlinks to related elements, making it easy to explore the codebase and understand the relationships between different components.\n\nDiagrams\n\nDoxygen can generate graphical representations of class hierarchies and collaboration diagrams, providing a visual overview of the relationships between classes and functions.\n\nConfiguration\n\nDoxygen provides a configuration file (Doxyfile) that allows users to customize the documentation generation process. You can control various settings, such as the output format, file inclusion/exclusion, and more.\n\nSponsored links\n(not related to doxygen)\nhome cleaning\nDomestic cleaning service\nWux.nl - software ontwikkeling\nFollow @doxygen\nBe notified\nSupport\nPrivacy\nLicense\ndoxygen.nl asks for your consent to use your personal data to:\nPersonalised advertising and content, advertising and content measurement, audience research and services development\nStore and/or access information on a device\nLearn more\n\nYour personal data will be processed and information from your device (cookies, unique identifiers, and other device data) may be stored by, accessed by and shared with 210 partners, or used specifically by this site. We and our partners may use precise geolocation data. List of partners.\n\nSome vendors may process your personal data on the basis of legitimate interest, which you can object to by managing your options below. Look for a link at the bottom of this page or in the site menu to manage or withdraw consent in privacy and cookie settings.\n\nConsent\n\nManage options",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Docs",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 255.1666717529297,
+            "y": 7,
+            "width": 46.95833206176758,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 74, 168)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "7.5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Changelog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.625,
+            "y": 7,
+            "width": 83.79166412353516,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 74, 168)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "7.5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Extensions",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 400.9166564941406,
+            "y": 7,
+            "width": 85.4375,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 74, 168)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "7.5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Examples",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 493.8541564941406,
+            "y": 7,
+            "width": 77.48611450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 74, 168)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "7.5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Download",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1071.7083740234375,
+            "y": 7,
+            "width": 100.95833587646484,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 135, 84)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "7.5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Version 1.18.0",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 462.0486145019531,
+            "y": 65.8888931274414,
+            "width": 98.74305725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 152, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 26, 72)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 152, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Multiple formats",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 93.91666412353516,
+            "y": 887.4861450195312,
+            "width": 177.5,
+            "height": 147.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "30px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Markdown",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 293.9166564941406,
+            "y": 887.4861450195312,
+            "width": 177.5,
+            "height": 147.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "30px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "C++",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 493.9166564941406,
+            "y": 887.4861450195312,
+            "width": 177.5,
+            "height": 147.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "30px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Cross-referencing",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 693.9166870117188,
+            "y": 887.4861450195312,
+            "width": 177.5,
+            "height": 147.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "30px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Diagrams",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 893.9166870117188,
+            "y": 887.4861450195312,
+            "width": 177.5,
+            "height": 147.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "30px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Configuration",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 1093.9166259765625,
+            "y": 887.4861450195312,
+            "width": 177.5,
+            "height": 147.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "30px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "commands",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 1050.65283203125,
+            "y": 1603.2708740234375,
+            "width": 77.84722137451172,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 188)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 188)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "home cleaning",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 638.25,
+            "y": 3596.4931640625,
+            "width": 88.8263931274414,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 188)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 188)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Domestic cleaning service",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 604.6111450195312,
+            "y": 3618.9931640625,
+            "width": 156.11111450195312,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 188)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 188)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Wux.nl - software ontwikkeling",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 590.1458129882812,
+            "y": 3641.4931640625,
+            "width": 185.03472900390625,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 188)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 188)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Follow @doxygen",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 131.4166717529297,
+            "y": 3843.548583984375,
+            "width": 97.33333587646484,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 26, 72)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Be notified",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 345.0555725097656,
+            "y": 3843.548583984375,
+            "width": 60.63888931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 26, 72)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Support",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 1092.71533203125,
+            "y": 3843.548583984375,
+            "width": 45.02777862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 26, 72)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 1152.7430419921875,
+            "y": 3843.548583984375,
+            "width": 39.57638931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 26, 72)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "License",
+          "tag": "A",
+          "context": "Docs\nChangelog\nExtensions\nExamples\n Download\n\n\n€ (EUR)\n$ (USD)\n\nVersion 1.18.0 is now available! Release date: 13 August 2026\n\nCode Documentation.\n\nAutomated.\n\nFree, open source, cross-platform.\n\nShow dark mode output\n\nDoxygen is a widely-used documentation generator tool in software development. It automates the generation of documentation from source code comments, parsing information about clas",
+          "box": {
+            "x": 1207.3194580078125,
+            "y": 3843.548583984375,
+            "width": 41.59722137451172,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 26, 72)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Learn more",
+          "tag": "BUTTON",
+          "context": "doxygen.nl asks for your consent to use your personal data to:\nPersonalised advertising and content, advertising and content measurement, audience research and services development\nStore and/or access information on a device\nLearn more\n\nYour personal data will be processed and information from your device (cookies, unique identifiers, and other device data) may be stored by, accessed by and shared",
+          "box": {
+            "x": 474.6666564941406,
+            "y": 440.5555725097656,
+            "width": 416,
+            "height": 27.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "List of partners.",
+          "tag": "A",
+          "context": "Your personal data will be processed and information from your device (cookies, unique identifiers, and other device data) may be stored by, accessed by and shared with 210 partners, or used specifically by this site. We and our partners may use precise geolocation data. List of partners.",
+          "box": {
+            "x": 786.2569580078125,
+            "y": 527.888916015625,
+            "width": 87.84722137451172,
+            "height": 16.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(32, 33, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Consent",
+          "tag": "BUTTON",
+          "context": "Consent",
+          "box": {
+            "x": 694.6666870117188,
+            "y": 655.8333129882812,
+            "width": 196,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Manage options",
+          "tag": "BUTTON",
+          "context": "Consent\n\nManage options",
+          "box": {
+            "x": 474.6666564941406,
+            "y": 655.8333129882812,
+            "width": 196,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://doxygen.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://doxygen.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:33:50.171602+00:00",
+  "cookies": [
+    {
+      "name": "ts",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1825256022.081017,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts_c",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1825256022.081092,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCCDCF",
+      "domain": ".doxygen.nl",
+      "path": "/",
+      "expires": 1827416022,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://doxygen.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://doxygen.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.716492+00:00"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.822478+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.822921+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.823763+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/tocbot.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.825342+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/doxygen_homepage.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.825910+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/en_GB/i/btn/btn_donate_SM.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.826869+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/DoxygenExample_dark.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.827581+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/DoxygenExample_light.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.828216+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/multiple_formats.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.828835+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/markdown_demo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.829451+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/bootstrap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.830426+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/tocbot.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.830985+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/doxygen_homepage.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.831631+00:00"
+    },
+    {
+      "url": "https://buttons.github.io/buttons.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.832225+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/doxygen.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.832787+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/download.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.833341+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/cplusplus_image_perspective.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.833895+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/cross_referencing_demo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.834443+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/diagrams_demo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.834994+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/config_demo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.835563+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.908613+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/documents.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.909195+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/markdown.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.909941+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/cplusplus.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.910558+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/cross_referencing.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.911253+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/diagrams.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.912020+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/assets/config.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.912651+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.913252+00:00"
+    },
+    {
+      "url": "https://api.github.com/repos/doxygen/doxygen",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:33:41.960006+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202610290101/show_ads_impl_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.010697+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/i/ca-pub-1917318012276499",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.099173+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.109401+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/el/AGSKWxVXLH4gBCVeB_J8o-2IvzZ80S_L190swSLGiRydyIXmUuf2i68mB-xfCCtUYBzTe4NrsoNfSGRAKEV0YYBpd9X421cMNCuG0ZnUFQ2_kqEHXXTEcu2JUdkt65KiJu8HitblvKettA==",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:42.297390+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/el/AGSKWxVXLH4gBCVeB_J8o-2IvzZ80S_L190swSLGiRydyIXmUuf2i68mB-xfCCtUYBzTe4NrsoNfSGRAKEV0YYBpd9X421cMNCuG0ZnUFQ2_kqEHXXTEcu2JUdkt65KiJu8HitblvKettA==",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:42.297841+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/el/AGSKWxVXLH4gBCVeB_J8o-2IvzZ80S_L190swSLGiRydyIXmUuf2i68mB-xfCCtUYBzTe4NrsoNfSGRAKEV0YYBpd9X421cMNCuG0ZnUFQ2_kqEHXXTEcu2JUdkt65KiJu8HitblvKettA==",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:42.299514+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxVgotcWoORCpfWsXpzLWfSx8xESfpJA8-OCPS5_ta6QgFS0NhOL1uE_CHBeyfw4V8BVEpuu8YiGHfhuZ1bpbLs7LoSOrM6Cir1sS7NHfZ0E9utsNuzSjlYhSCbqDqpFik5KZZDYxQ==",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.306865+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.541475+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.543878+00:00"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/kraXZubvzhGJqPW-dc-EXBUhg7T9Pv-K7z42ONaoq87-iEbv5NNS4cYFtk6jLL4F9V7uVw-JCMg4iZuRTajqEQJy40pO5YIHN1WW8BofFgonj7lwi9o=h60",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.552036+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/el/AGSKWxVXLH4gBCVeB_J8o-2IvzZ80S_L190swSLGiRydyIXmUuf2i68mB-xfCCtUYBzTe4NrsoNfSGRAKEV0YYBpd9X421cMNCuG0ZnUFQ2_kqEHXXTEcu2JUdkt65KiJu8HitblvKettA==",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:42.567280+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/el/AGSKWxVXLH4gBCVeB_J8o-2IvzZ80S_L190swSLGiRydyIXmUuf2i68mB-xfCCtUYBzTe4NrsoNfSGRAKEV0YYBpd9X421cMNCuG0ZnUFQ2_kqEHXXTEcu2JUdkt65KiJu8HitblvKettA==",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:42.568009+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/el/AGSKWxVXLH4gBCVeB_J8o-2IvzZ80S_L190swSLGiRydyIXmUuf2i68mB-xfCCtUYBzTe4NrsoNfSGRAKEV0YYBpd9X421cMNCuG0ZnUFQ2_kqEHXXTEcu2JUdkt65KiJu8HitblvKettA==",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:42.568572+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:42.649630+00:00"
+    },
+    {
+      "url": "https://doxygen.nl/doxygen.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:33:42.650563+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202610290101/show_ads_impl_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

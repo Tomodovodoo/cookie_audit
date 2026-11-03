@@ -1,0 +1,540 @@
+{
+  "frames": [
+    {
+      "url": "https://apps.moo.nl/login/",
+      "title": "Inloggen bij COOL",
+      "text": "Gebruikersaccount\nWachtwoord\nWachtwoord vergeten?\nInloggen\nof\nInloggen met een QR-code",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Wachtwoord vergeten?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 732.2291870117188,
+            "y": 235,
+            "width": 131.4375,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 149, 214)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 149, 214)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 501.6666564941406,
+            "y": 336,
+            "width": 362,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 95, 138)",
+            "effectiveBackground": "rgb(0, 95, 138)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(0, 95, 138)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Inloggen met een QR-code",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 501.6666564941406,
+            "y": 408,
+            "width": 362,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 95, 138)",
+            "background": "rgb(234, 235, 236)",
+            "effectiveBackground": "rgb(234, 235, 236)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(234, 235, 236)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://apps.moo.nl/login/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://apps.moo.nl/login/",
+  "captured_at": "2026-11-03T15:11:35.184196+00:00",
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.sXCBkHrVevs",
+      "domain": "apps.moo.nl",
+      "path": "/login",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "domain": "v2.moo.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNet.Correlation.MOO",
+      "domain": "v2.moo.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "domain": ".moo.nl",
+      "path": "/",
+      "expires": 1828278688.260892,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "domain": ".moo.nl",
+      "path": "/",
+      "expires": 1793805088,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-34965249-4",
+      "domain": ".moo.nl",
+      "path": "/",
+      "expires": 1793718748,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_D1XXYCRET2",
+      "domain": ".moo.nl",
+      "path": "/",
+      "expires": 1828278688.401443,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://apps.moo.nl",
+      "localKeys": [
+        "NRBA_SESSION::69e61787",
+        "ld:62948cc7b1bc7815c27510e5:$diagnostics"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://moo.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.407100+00:00"
+    },
+    {
+      "url": "https://v2.moo.nl/portal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.504868+00:00"
+    },
+    {
+      "url": "https://v2.moo.nl/portal/Account/Login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.528823+00:00"
+    },
+    {
+      "url": "https://sts.moo.nl/WebSTS/Oauth/Authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.548196+00:00"
+    },
+    {
+      "url": "https://sts.moo.nl/WebSTS/Account/FederationLogin",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.620614+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.636448+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.798131+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.799898+00:00"
+    },
+    {
+      "url": "https://ssl.gstatic.com/accounts/chrome/users-1.0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.800399+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/styles.8f2bd97c6b4e96cc.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.801147+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/runtime.be4021d919a10960.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.801806+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/polyfills.3fc41d87d247fc7b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.802456+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/main.3b07773e2293532d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.803069+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/clouds_background.bee09628703aa98b.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:11:27.871325+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/i18n/nl.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.162448+00:00"
+    },
+    {
+      "url": "https://app.launchdarkly.com/sdk/goals/62948cc7b1bc7815c27510e5",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.163100+00:00"
+    },
+    {
+      "url": "https://app.launchdarkly.com/sdk/evalx/62948cc7b1bc7815c27510e5/contexts/eyJraW5kIjoidXNlciIsImtleSI6IkFub255bW91cyIsIlR5cGUiOiJBbm9ueW1vdXMiLCJPcmdhbmlzYXRpb25LZXkiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJUZW5hbnRLZXkiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJEb21haW4iOm51bGwsImFub255bW91cyI6dHJ1ZX0",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.164079+00:00"
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-spa-1.324.1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.197045+00:00"
+    },
+    {
+      "url": "https://events.launchdarkly.com/events/diagnostic/62948cc7b1bc7815c27510e5",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.198367+00:00"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.206738+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/i18n/nl.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.226961+00:00"
+    },
+    {
+      "url": "https://apis.moo.nl/authenticationapi/api/ip/organisations",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.227923+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/images/cool_logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.228574+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/images/cloudwise_logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.230806+00:00"
+    },
+    {
+      "url": "https://clientstream.launchdarkly.com/eval/62948cc7b1bc7815c27510e5/eyJraW5kIjoidXNlciIsImtleSI6IkFub255bW91cyIsIlR5cGUiOiJBbm9ueW1vdXMiLCJPcmdhbmlzYXRpb25LZXkiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJUZW5hbnRLZXkiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJEb21haW4iOm51bGwsImFub255bW91cyI6dHJ1ZX0",
+      "resource_type": "eventsource",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.232658+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/images/cool_icon_circle.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.233170+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/cool_logo.b0bedffee81cd772.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.234511+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/cooler_cloudwise_logo.7410ad76d6e225df.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.234962+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/fonts/PublicSans.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.235564+00:00"
+    },
+    {
+      "url": "https://bam.eu01.nr-data.net/browser/connect/2/NRJS-18a07ec50ae2572b2c2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.245848+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/images/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.254786+00:00"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.266416+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.288831+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/feather.d01e515397f54375.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.324268+00:00"
+    },
+    {
+      "url": "https://apps.moo.nl/login/assets/images/icon_qr_code.svg",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:11:28.325747+00:00"
+    },
+    {
+      "url": "https://bam.eu01.nr-data.net/rum/2/NRJS-18a07ec50ae2572b2c2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.335104+00:00"
+    },
+    {
+      "url": "https://bam.eu01.nr-data.net/events/1/NRJS-18a07ec50ae2572b2c2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.335974+00:00"
+    },
+    {
+      "url": "https://bam.eu01.nr-data.net/jserrors/1/NRJS-18a07ec50ae2572b2c2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.337085+00:00"
+    },
+    {
+      "url": "https://bam.eu01.nr-data.net/events/1/NRJS-18a07ec50ae2572b2c2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.337885+00:00"
+    },
+    {
+      "url": "https://bam.eu01.nr-data.net/events/1/NRJS-18a07ec50ae2572b2c2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.338741+00:00"
+    },
+    {
+      "url": "https://bam.eu01.nr-data.net/ins/1/NRJS-18a07ec50ae2572b2c2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.339845+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:11:28.405563+00:00"
+    },
+    {
+      "url": "https://events.launchdarkly.com/events/bulk/62948cc7b1bc7815c27510e5",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:11:30.212700+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".moo.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gid",
+      "domain": ".moo.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gat_UA-34965249-4",
+      "domain": ".moo.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_D1XXYCRET2",
+      "domain": ".moo.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://js-agent.newrelic.com/nr-spa-1.324.1.min.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.eu01.nr-data.net/browser/connect/2/NRJS-18a07ec50ae2572b2c2",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.google-analytics.com/j/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.eu01.nr-data.net/rum/2/NRJS-18a07ec50ae2572b2c2",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.eu01.nr-data.net/events/1/NRJS-18a07ec50ae2572b2c2",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.eu01.nr-data.net/jserrors/1/NRJS-18a07ec50ae2572b2c2",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.eu01.nr-data.net/events/1/NRJS-18a07ec50ae2572b2c2",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.eu01.nr-data.net/events/1/NRJS-18a07ec50ae2572b2c2",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.eu01.nr-data.net/ins/1/NRJS-18a07ec50ae2572b2c2",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

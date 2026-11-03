@@ -1,0 +1,1240 @@
+{
+  "frames": [
+    {
+      "url": "https://www.buienalarm.nl/",
+      "title": "Buienalarm | Home",
+      "text": "Gebruik mijn huidige locatie\nLaatst bezochte locaties\nAmsterdam, Nederland\nRotterdam, Nederland\nUtrecht, Nederland\nDOWNLOAD DE APP\nWat doet Buienalarm?\n\nBuienalarm is een handige app voor je smartphone die je op tijd kan waarschuwen voor buien op jouw locatie. Dat doet de app door op de achtergrond je actuele locatie bij te houden en met regelmaat de neerslagverwachting voor die locatie te controleren.\n\nWat kun je met Buienalarm?\n\nDe app toont een grafiek waarin je de neerslagverwachting kunt zien voor de komende twee uur. Hoe hoger de grafiek komt, hoe meer neerslag er verwacht wordt. In de grafiekfunctie wordt aangegeven of het lichte, matige of zware regenval betreft. Daarnaast kun je ook de huidige temperatuur zien.\n\nWaarom de Buienalarm app downloaden?\n\nHet hele jaar door kan het in ons land regenen. Het komt vaak voor dat we kijken hoe lang een bui duurt als we er al middenin zitten, maar dan is het meestal al te laat! Met Buienalarm word je daarom vanzelf gewaarschuwd als een bui in aantocht is.\n\nAlgemeen\nContact\nDisclaimer en privacy\nPopulaire plekken\nAmsterdam\nUtrecht\nRotterdam\nGroningen\nMaastricht\nZwolle\nEindhoven\nNetwerk\nWeeronline\nI'm Weather\nWeerplaza\nWeerslag\n © 2026 - Buienalarm\nPrivacy instellingen",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Gebruik mijn huidige locatie",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 468,
+            "y": 281.0069580078125,
+            "width": 414.22222900390625,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(239, 246, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-1",
+          "text": "Amsterdam, Nederland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 484,
+            "y": 390.78472900390625,
+            "width": 187.43055725097656,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(31, 41, 55)",
+            "background": "rgb(239, 246, 255)",
+            "effectiveBackground": "rgb(239, 246, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-2",
+          "text": "Rotterdam, Nederland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 679.4305419921875,
+            "y": 390.78472900390625,
+            "width": 181.00694274902344,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(31, 41, 55)",
+            "background": "rgb(239, 246, 255)",
+            "effectiveBackground": "rgb(239, 246, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-3",
+          "text": "Utrecht, Nederland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 484,
+            "y": 434.78472900390625,
+            "width": 159.8541717529297,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(31, 41, 55)",
+            "background": "rgb(239, 246, 255)",
+            "effectiveBackground": "rgb(239, 246, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-4",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 103.11111450195312,
+            "y": 1244,
+            "width": 158.28472900390625,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-5",
+          "text": "Disclaimer en privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 103.11111450195312,
+            "y": 1280,
+            "width": 158.28472900390625,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-6",
+          "text": "Amsterdam",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3958435058594,
+            "y": 1244,
+            "width": 145.17361450195312,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-7",
+          "text": "Utrecht",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3958435058594,
+            "y": 1280,
+            "width": 145.17361450195312,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-8",
+          "text": "Rotterdam",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3958435058594,
+            "y": 1316,
+            "width": 145.17361450195312,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-9",
+          "text": "Groningen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3958435058594,
+            "y": 1352,
+            "width": 145.17361450195312,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-10",
+          "text": "Maastricht",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3958435058594,
+            "y": 1388,
+            "width": 145.17361450195312,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-11",
+          "text": "Zwolle",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3958435058594,
+            "y": 1424,
+            "width": 145.17361450195312,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-12",
+          "text": "Eindhoven",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3958435058594,
+            "y": 1460,
+            "width": 145.17361450195312,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-13",
+          "text": "Weeronline",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 502.5694580078125,
+            "y": 1244,
+            "width": 90.6388931274414,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-14",
+          "text": "I'm Weather",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 502.5694580078125,
+            "y": 1280,
+            "width": 90.6388931274414,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-15",
+          "text": "Weerplaza",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 502.5694580078125,
+            "y": 1316,
+            "width": 90.6388931274414,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-16",
+          "text": "Weerslag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 502.5694580078125,
+            "y": 1352,
+            "width": 90.6388931274414,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 93, 124)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        },
+        {
+          "id": "ca-17",
+          "text": "Privacy instellingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1104.611083984375,
+            "y": 1537.77783203125,
+            "width": 142.5,
+            "height": 21.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(42, 89, 181)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(42, 89, 181, 0.05)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "8da13dc544ad4e0ba804701414077b25"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "8da13dc544ad4e0ba804701414077b25",
+      "frame_url": "https://www.buienalarm.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "66c5a856ef724c099cbb113687ff0dfe",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "6d8d77f9917a4cc29322532c27a8fe07",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "faabbf0898e146b58bb495108630b8f3",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "74ea5bcbfde7442d9c11c5fa4bb8301e",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "ff8b549b30a4432e8102d199c9d8a773",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "ba75705f642e4b9e9a520306abcb065a",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.buienalarm.nl/data/_/service_worker/6al0/sw_iframe.html",
+      "title": "",
+      "text": "[Browser error/configuration or script text omitted.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "5798480ada2541ff814e155680bef309",
+      "frame_url": "https://www.buienalarm.nl/data/_/service_worker/6al0/sw_iframe.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.buienalarm.nl/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "tcloaded",
+        "cmpStatus": "loaded",
+        "purposesGranted": [],
+        "specialFeaturesGranted": [],
+        "vendorsConsented": 0,
+        "legitimateInterestPurposes": []
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:43:08.912417+00:00",
+  "cookies": [
+    {
+      "name": "cf_clearance",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1825256552.555082,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1828280582.369252,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FCCDCF",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1827416553,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1825342969,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1825342969,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_NQ2BLC4G4C",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1828280582.310524,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_YTLSL8SDSN",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1828280582.368448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1828280582.63698,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "domain": ".buienalarm.nl",
+      "path": "/",
+      "expires": 1793792582.637107,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.buienalarm.nl",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.buienalarm.nl",
+      "localKeys": [
+        "_GESPSK-esp.criteo.com",
+        "didomi_token",
+        "euconsent-v2",
+        "_GESPSK-rtbhouse",
+        "_GESPSK-openx"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.buienalarm.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.943182+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/site/assets/code/ad-script.umd.1.9.3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.114270+00:00"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.115076+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/css/site.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.129146+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.138955+00:00"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/160101/3364/pwt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.140211+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/site/buienalarm/logo_buienalarm.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.141459+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/site/buienalarm/apple-nl.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.141968+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/site/buienalarm/google-nl.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.286956+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/internationalsite/assets/logos/v0/rainLogo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.287447+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/js/site.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.288331+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/js/SnippetLanding.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.289288+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/js/SnippetLandingSearch.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.290024+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/js/SnippetBrandedFooter.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.290864+00:00"
+    },
+    {
+      "url": "https://html-load.com/sdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.291677+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/internationalsite/assets/icons/general/location.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.292593+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/internationalsite/assets/icons/general/cross.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.293481+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/internationalsite/assets/icons/general/gps.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.294233+00:00"
+    },
+    {
+      "url": "https://sdk.privacy-center.org/57fe2cce-0830-497c-a618-90af555dae38/loader.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.294902+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/site/buienalarm/bg-large.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.295603+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/fonts/open-sans-regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.296860+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/fonts/open-sans-700.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.299102+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/fonts/open-sans-500.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.299894+00:00"
+    },
+    {
+      "url": "https://ut.pubmatic.com/geo",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.309916+00:00"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.311984+00:00"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/160101/3364/65/config.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.312378+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/data/Wc5Ab/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.323219+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.365922+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.420072+00:00"
+    },
+    {
+      "url": "https://stg.html-load.com/sdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.592787+00:00"
+    },
+    {
+      "url": "https://sdk.privacy-center.org/sdk/0b37e7f856ef97d5fb5d2796fd13096d85d48105/modern/sdk.0b37e7f856ef97d5fb5d2796fd13096d85d48105.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.616872+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.819213+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/data/Wc5Ab/L-BqSd2fhrEi5iRyJKgNb_21cTXzK2Zv5YBRS1dfnGm32ygTnZvX_z2kPWgp8iR_19ciEYleYE7g9REeHAfIfebLJxudx9anLaYreCWiciDWhiVFi1EwS7XzQkwaA5wt6J1wF8rO2ap4o3kpdK16JuzWc0WJWWMY4v9P",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.841778+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.842562+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.843945+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/i/pub-1772393173576368",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.845127+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.167699+00:00"
+    },
+    {
+      "url": "https://static.criteo.net/js/ld/publishertag.prebid.js",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.199085+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.214752+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/el/AGSKWxWdUqn0mqfAgzg2XMHPyk63Tva3qRUEKkjrLJN9ZO14sM3HXQSj9BUJy_oro_F19eFgClKIfnDf18vLpnEbIFrKINPjvx5V1I4D-k-YIkQ9p9dDJvu52_MYGXsTeD8_8M-jOupVRQ==",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.350102+00:00"
+    },
+    {
+      "url": "https://sdk.privacy-center.org/sdk/0b37e7f856ef97d5fb5d2796fd13096d85d48105/modern/src_sdk_core_modules_integrations_sdk-integrations_providers_gcm_gcm_js.0b37e7f856ef97d5fb5d2796fd13096d85d48105.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.351375+00:00"
+    },
+    {
+      "url": "https://fundingchoicesmessages.google.com/f/AGSKWxVa1wwIrlNsit5DhsHBq3rCAPUkLRAikIiPdd9H_SlG0C_xmyt2jdE_Rx69DadunmQJag1DAdWQ9NA0pNmqu18qTDq_BI2QsbMSc2YmBtiFyGExsQygwqJVUZKw-7lAgWsER2Dm_w==",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.416212+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/data/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.416989+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.418101+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/data/_/service_worker/6al0/sw_iframe.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.445907+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/949459309/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.452096+00:00"
+    },
+    {
+      "url": "https://0.stg.html-load.com/l/dKU3fKP9O1_zOqQ3c18rgJ4vOZ0ybZTxb5AwO5M0O5Y5cZ83",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.476698+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.477174+00:00"
+    },
+    {
+      "url": "https://stg.html-load.com/l/dKU3fKP9O1A2gJfxdKUweF4ve5InOpQyeVAlfVAogpYxgD",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.481794+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.562064+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.562910+00:00"
+    },
+    {
+      "url": "https://stg.html-load.com/l/dKU3fKP9O1A2gJfxdKUweF4ve5InOpQyeVAlfVAogpYxgD",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:02.564124+00:00"
+    },
+    {
+      "url": "https://assets.infoplaza.io/internationalsite/assets/logos/v0/rainLogo.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.565558+00:00"
+    },
+    {
+      "url": "https://www.buienalarm.nl/data/_/service_worker/6al0/sw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:02.566708+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:07.388366+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".buienalarm.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_NQ2BLC4G4C",
+      "domain": ".buienalarm.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_YTLSL8SDSN",
+      "domain": ".buienalarm.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/160101/3364/pwt.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ut.pubmatic.com/geo",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/160101/3364/65/config.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.criteo.net/js/ld/publishertag.prebid.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/949459309/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

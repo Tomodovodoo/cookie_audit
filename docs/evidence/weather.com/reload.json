@@ -1,0 +1,545 @@
+{
+  "frames": [
+    {
+      "url": "https://weather.com/nl-NL/nl/north-holland/amsterdam/locality/amsterdam-oost/today",
+      "title": "Challenge Validation",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://weather.com/nl-NL/nl/north-holland/amsterdam/locality/amsterdam-oost/today"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/AgNFWGk/6F24BAQ",
+      "title": "Challenge Page",
+      "text": "Uw verzoek wordt verwerkt. Dien uw verzoek opnieuw in als de pagina niet automatisch wordt vernieuwd.",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 700,
+        "height": 80
+      },
+      "frame_url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/AgNFWGk/6F24BAQ"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/al5VFBU/qW04AAQ",
+      "title": "Akamai Challenge Page",
+      "text": "9\n\nPowered and protected by\n\nPrivacy",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 336.8819580078125,
+            "y": 180,
+            "width": 26.22916603088379,
+            "height": 8.88888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 8,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 2
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 700,
+        "height": 216
+      },
+      "frame_url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/al5VFBU/qW04AAQ"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://weather.com/nl-NL/nl/north-holland/amsterdam/locality/amsterdam-oost/today",
+  "captured_at": "2026-11-03T15:02:42.912566+00:00",
+  "cookies": [
+    {
+      "name": "bm_mi",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1793725339.169776,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "usprivacy",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1825254140,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1793725339.514541,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".stay22.com",
+      "path": "/",
+      "expires": 1793719940.556973,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wxu-metrics-session",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1793719940.736354,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1793725340.036972,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_su",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1825254141.140944,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "htjs_anonymous_id",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1825254148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "htjs_user_id",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1825254148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "domain": "weather.com",
+      "path": "/",
+      "expires": 1809270142,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "af_id",
+      "domain": ".appsflyersdk.com",
+      "path": "/",
+      "expires": 1827846142.529175,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "afUserId",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1828278142.547869,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_awl",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1827846142.458,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "af_id",
+      "domain": ".onelink.me",
+      "path": "/",
+      "expires": 1827846142.507951,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AF_SYNC",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1794322942,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "domain": "weather.com",
+      "path": "/",
+      "expires": 1825254148.479333,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "consentUUID",
+      "domain": "weather.com",
+      "path": "/",
+      "expires": 1825254148.479572,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "htjs_sesh",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1825254148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ci",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akaas_production",
+      "domain": "www.akamai.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sec_cpt",
+      "domain": ".weather.com",
+      "path": "/",
+      "expires": 1793725348.774378,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://weather.com",
+      "localKeys": [
+        "wxu-web/keyval:devSettings",
+        "wxu-web/keyval:user",
+        "wxu-web/keyval:mparticleUser",
+        "wxu-web/keyval:activeLocation",
+        "NRBA_SESSION",
+        "ss_incoming_params",
+        "persisted-queue:v1:19dea80454e1ae00931fff1ed9f741aabf669f230e3f41f0a32170b202f34487:dest-Hightouch.io:items",
+        "amp-exp-$default_instance-30BDRV",
+        "htjs_user_id",
+        "wxu-exp-exposed:0c095555-039b-4294-8bf8-30f5d58c42f7",
+        "EXP_unsent_$default_instance",
+        "EXP_client-a74_DEFAULT_USER_PROVIDER",
+        "conMeth",
+        "persisted-queue:v1:19dea80454e1ae00931fff1ed9f741aabf669f230e3f41f0a32170b202f34487:dest-Hightouch.io:seen",
+        "_sp_user_consent_33429",
+        "wxu-web/keyval:LOGIN_REDIRECT_PAGE",
+        "sid22",
+        "ss_webReferrer",
+        "wx-ht-location-viewed-last-fired",
+        "location-viewed-last-fired",
+        "htjs_anonymous_id",
+        "hip22",
+        "mprtcl-v4_B530D7A0-id-cache",
+        "_aQS02NTQzRUVDOEM5RUFBQjYxNkZFRTlFOTYtMQ",
+        "AF_SESSION",
+        "visitor_id_id22",
+        "wx-ht-identified",
+        "wx-ht-identities",
+        "htjs_user_traits",
+        "userConsents",
+        "mprtcl-tos-B530D7A0",
+        "htjs_sesh",
+        "_sp_non_keyed_local_state",
+        "hightouch-session-end-snapshot",
+        "wxu-exp-joinlist:0c095555-039b-4294-8bf8-30f5d58c42f7",
+        "_sp_local_state",
+        "mprtcl-v4_B530D7A0",
+        "metric-session-last-active-time"
+      ],
+      "sessionKeys": [
+        "AF_BANNERS_SESSION_ID",
+        "mprtcl-v4_B530D7A0-events",
+        "EXP_client-a74_DEFAULT_USER_PROVIDER",
+        "data-duration",
+        "EXP_sent_v2_$default_instance"
+      ]
+    },
+    {
+      "origin": "https://weather.com",
+      "localKeys": [
+        "wxu-web/keyval:devSettings",
+        "wxu-web/keyval:user",
+        "wxu-web/keyval:mparticleUser",
+        "wxu-web/keyval:activeLocation",
+        "NRBA_SESSION",
+        "ss_incoming_params",
+        "persisted-queue:v1:19dea80454e1ae00931fff1ed9f741aabf669f230e3f41f0a32170b202f34487:dest-Hightouch.io:items",
+        "amp-exp-$default_instance-30BDRV",
+        "htjs_user_id",
+        "wxu-exp-exposed:0c095555-039b-4294-8bf8-30f5d58c42f7",
+        "EXP_unsent_$default_instance",
+        "EXP_client-a74_DEFAULT_USER_PROVIDER",
+        "conMeth",
+        "persisted-queue:v1:19dea80454e1ae00931fff1ed9f741aabf669f230e3f41f0a32170b202f34487:dest-Hightouch.io:seen",
+        "_sp_user_consent_33429",
+        "wxu-web/keyval:LOGIN_REDIRECT_PAGE",
+        "sid22",
+        "ss_webReferrer",
+        "wx-ht-location-viewed-last-fired",
+        "location-viewed-last-fired",
+        "htjs_anonymous_id",
+        "hip22",
+        "mprtcl-v4_B530D7A0-id-cache",
+        "_aQS02NTQzRUVDOEM5RUFBQjYxNkZFRTlFOTYtMQ",
+        "AF_SESSION",
+        "visitor_id_id22",
+        "wx-ht-identified",
+        "wx-ht-identities",
+        "htjs_user_traits",
+        "userConsents",
+        "mprtcl-tos-B530D7A0",
+        "htjs_sesh",
+        "_sp_non_keyed_local_state",
+        "hightouch-session-end-snapshot",
+        "wxu-exp-joinlist:0c095555-039b-4294-8bf8-30f5d58c42f7",
+        "_sp_local_state",
+        "mprtcl-v4_B530D7A0",
+        "metric-session-last-active-time"
+      ],
+      "sessionKeys": [
+        "AF_BANNERS_SESSION_ID",
+        "mprtcl-v4_B530D7A0-events",
+        "EXP_client-a74_DEFAULT_USER_PROVIDER",
+        "data-duration",
+        "EXP_sent_v2_$default_instance"
+      ]
+    },
+    {
+      "origin": "https://weather.com",
+      "localKeys": [
+        "wxu-web/keyval:devSettings",
+        "wxu-web/keyval:user",
+        "wxu-web/keyval:mparticleUser",
+        "wxu-web/keyval:activeLocation",
+        "NRBA_SESSION",
+        "ss_incoming_params",
+        "persisted-queue:v1:19dea80454e1ae00931fff1ed9f741aabf669f230e3f41f0a32170b202f34487:dest-Hightouch.io:items",
+        "amp-exp-$default_instance-30BDRV",
+        "htjs_user_id",
+        "wxu-exp-exposed:0c095555-039b-4294-8bf8-30f5d58c42f7",
+        "EXP_unsent_$default_instance",
+        "EXP_client-a74_DEFAULT_USER_PROVIDER",
+        "conMeth",
+        "persisted-queue:v1:19dea80454e1ae00931fff1ed9f741aabf669f230e3f41f0a32170b202f34487:dest-Hightouch.io:seen",
+        "_sp_user_consent_33429",
+        "wxu-web/keyval:LOGIN_REDIRECT_PAGE",
+        "sid22",
+        "ss_webReferrer",
+        "wx-ht-location-viewed-last-fired",
+        "location-viewed-last-fired",
+        "htjs_anonymous_id",
+        "hip22",
+        "mprtcl-v4_B530D7A0-id-cache",
+        "_aQS02NTQzRUVDOEM5RUFBQjYxNkZFRTlFOTYtMQ",
+        "AF_SESSION",
+        "visitor_id_id22",
+        "wx-ht-identified",
+        "wx-ht-identities",
+        "htjs_user_traits",
+        "userConsents",
+        "mprtcl-tos-B530D7A0",
+        "htjs_sesh",
+        "_sp_non_keyed_local_state",
+        "hightouch-session-end-snapshot",
+        "wxu-exp-joinlist:0c095555-039b-4294-8bf8-30f5d58c42f7",
+        "_sp_local_state",
+        "mprtcl-v4_B530D7A0",
+        "metric-session-last-active-time"
+      ],
+      "sessionKeys": [
+        "AF_BANNERS_SESSION_ID",
+        "mprtcl-v4_B530D7A0-events",
+        "EXP_client-a74_DEFAULT_USER_PROVIDER",
+        "data-duration",
+        "EXP_sent_v2_$default_instance"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://weather.com/nl-NL/nl/north-holland/amsterdam/locality/amsterdam-oost/today",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.631605+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/fkVxMhk/QPVFX",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.804118+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/OC8KMVY/kaWUs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.810406+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/AgNFWGk/6F24BAQ",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.869816+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/al5VFBU/qW04AAQ",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.870580+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/bEZzNBk/OOz5X",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.919530+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/HBRgS0M/hJHdY",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.921418+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/LFoLCCw/jE1ks",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.922242+00:00"
+    },
+    {
+      "url": "https://weather.com/RKRv_lQ_WZI7/F3/WPRl5GGtoB/XhziED/VClN/bEZzNBk/OOz5X",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.923064+00:00"
+    },
+    {
+      "url": "https://www.akamai.com/site/ko/images/logo/akamai-logo1.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:35.928481+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:36.131720+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:36.679696+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:37.591682+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:38.193329+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:38.941622+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:39.967529+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:41.100059+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:41.603048+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:42.222205+00:00"
+    },
+    {
+      "url": "https://weather.com/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:42.877840+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

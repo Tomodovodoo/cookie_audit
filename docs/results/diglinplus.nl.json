@@ -1,0 +1,46 @@
+{
+  "rank": 855,
+  "domain": "diglinplus.nl",
+  "name": "diglinplus.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:42:58.135732+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://diglinplus.nl/"
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://diglinplus.nl/"
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://diglinplus.nl/"
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://diglinplus.nl/"
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://diglinplus.nl/"
+    }
+  },
+  "steps": [],
+  "outcome": "error",
+  "error": "Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://diglinplus.nl/"
+}

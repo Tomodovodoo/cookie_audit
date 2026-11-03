@@ -1,0 +1,61 @@
+{
+  "rank": 890,
+  "domain": "fandom.com",
+  "name": "fandom.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:43:10.898840+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "pass",
+      "reason": "Refusal completed with one click and the choice interface disappeared."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Reload was blocked or incomplete."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Reject All"
+    }
+  ],
+  "evidence": "evidence/fandom.com/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Fandom",
+  "rules_version": "0.2.0"
+}

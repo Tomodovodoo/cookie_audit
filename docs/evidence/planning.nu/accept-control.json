@@ -1,0 +1,1234 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dyflexis.com/login",
+      "title": "Login | Dyflexis",
+      "text": "Hello again!\n\nEnter your system name to continue\n\nSystem name\nContinue to login\nWhere can I find my system name?\nSPOT TALENT TODAY.\nKEEP IT TOMORROW.\n\nScore reviews in minutes, see all your talent in one grid, and make room for the conversation that actually develops people.\n\nSpot talent fast\nDecrease retention risks\nFaster growth\nPerformance Management\nSkills\nPerformance\nCapacity",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Where can I find my system name?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 565.7777709960938,
+            "y": 422,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Continue to login",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 290.6666564941406,
+            "y": 494,
+            "width": 320,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(247, 244, 243)",
+            "background": "rgb(1, 143, 220)",
+            "effectiveBackground": "rgb(1, 143, 220)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(247, 244, 243)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Where can I find my system name?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 333.84722900390625,
+            "y": 566,
+            "width": 233.63888549804688,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 173, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(8, 19, 40)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 173, 255)",
+            "padding": "2px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Performance Management",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 933.3333129882812,
+            "y": 348,
+            "width": 285.3125,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "8px 12px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Skills",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 933.3333129882812,
+            "y": 812,
+            "width": 63.17361068725586,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Performance",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1004.5069580078125,
+            "y": 812,
+            "width": 123.25,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Capacity",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1135.7569580078125,
+            "y": 812,
+            "width": 94.35416412353516,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Pause",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1281.3333740234375,
+            "y": 814,
+            "width": 28,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.dyflexis.com/login"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "https://framer.com/edit",
+      "title": "",
+      "text": "\n\n\n\n\n\n\n\t\n\t\t// Keep these keys in sync with DarkModeProvider.tsx\n\t\tvar userDarkMode = localStorage.getItem(\"dark-mode\") === \"true\"\n\t\tvar overrideSystem = localStorage.getItem(\"dark-mode-override-system\") === \"true\"\n\t\tvar systemDarkMode = matchMedia(\"(prefers-color-scheme: dark)\").matches\n\t\tvar isDarkMode = overrideSystem ? userDarkMode : systemDarkMode\n\t\tif (isDarkMode) {\n\t\t\tdocument.body.classList.add(\"framer-theme-dark\")\n\t\t}\n\n\t\t// Set release channel as class on body.\n\t\tvar framerReleaseChannel = window.framerRelease && window.framerRelease.channel\n\t\tif (framerReleaseChannel) {\n\t\t\tdocument.body.classList.add(\"framer-release-\" + framerReleaseChannel)\n\t\t}\n\n\t\n\n\n\n\n\n\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://framer.com/edit"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://flow.dyflexis.com/_/service_worker/6al0/sw_iframe.html",
+      "title": "",
+      "text": "[Browser error/configuration or script text omitted.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://flow.dyflexis.com/_/service_worker/6al0/sw_iframe.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.dyflexis.com/login",
+  "captured_at": "2026-11-03T15:28:23.593296+00:00",
+  "cookies": [
+    {
+      "name": "_gcl_au",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1801495686,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_stfv",
+      "domain": "www.dyflexis.com",
+      "path": "/",
+      "expires": 1828279687.267653,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.dyflexis.com",
+      "path": "/",
+      "expires": 1825255693,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1828279693.61321,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_JXVCB7BLGP",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1828279693.629003,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1828279694.0584,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPGSID",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1793721493.972549,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "FPLC",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1793791694.058468,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1801495686.058512,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1827415694.220885,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1801495694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1793806094,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1827415694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1825255694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bcookie",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1825255694.692114,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_gc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1809271694.692205,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793806094.692253,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "prism_800143491",
+      "domain": "prism.app-us1.com",
+      "path": "/",
+      "expires": 1796311694.703509,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "prism_800143491",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1796311694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1827415694.769969,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1794324494.770073,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1827415694.770149,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1827415694.805199,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1794324494.80524,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1793720294.805258,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793721494.820091,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1793806095,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.dyflexis.com",
+      "localKeys": [
+        "lastExternalReferrerTime",
+        "_uetvid_exp",
+        "snowplowOutQueue_leadinfo_cl1_post2",
+        "_li_ses.5182.expires",
+        "_uetsid_exp",
+        "snowplowOutQueue_leadinfo_cl1_post2.expires",
+        "_stfv",
+        "_uetvid",
+        "_li_ses.5182",
+        "lastExternalReferrer",
+        "_gcl_ls",
+        "gtmBrowserId",
+        "_li_id.5182.expires",
+        "_uetsid",
+        "_li_id.5182"
+      ],
+      "sessionKeys": [
+        "_cltk"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "lastExternalReferrerTime",
+        "_uetvid_exp",
+        "snowplowOutQueue_leadinfo_cl1_post2",
+        "_li_ses.5182.expires",
+        "_uetsid_exp",
+        "snowplowOutQueue_leadinfo_cl1_post2.expires",
+        "_stfv",
+        "_uetvid",
+        "_li_ses.5182",
+        "lastExternalReferrer",
+        "_gcl_ls",
+        "gtmBrowserId",
+        "_li_id.5182.expires",
+        "_uetsid",
+        "_li_id.5182"
+      ],
+      "sessionKeys": [
+        "_cltk"
+      ]
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.eu",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://framer.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "lastExternalReferrerTime",
+        "_uetvid_exp",
+        "snowplowOutQueue_leadinfo_cl1_post2",
+        "_li_ses.5182.expires",
+        "_uetsid_exp",
+        "snowplowOutQueue_leadinfo_cl1_post2.expires",
+        "_stfv",
+        "_uetvid",
+        "_li_ses.5182",
+        "lastExternalReferrer",
+        "_gcl_ls",
+        "gtmBrowserId",
+        "_li_id.5182.expires",
+        "_uetsid",
+        "_li_id.5182"
+      ],
+      "sessionKeys": [
+        "_cltk"
+      ]
+    },
+    {
+      "origin": "https://flow.dyflexis.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.211012+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/logconsent.ashx",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.223034+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979360703/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.638336+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979360703/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.638776+00:00"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/979360703/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:13.728170+00:00"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/979360703/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:13.728936+00:00"
+    },
+    {
+      "url": "https://flow.dyflexis.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.730111+00:00"
+    },
+    {
+      "url": "https://flow.dyflexis.com/_/service_worker/6al0/sw_iframe.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.733052+00:00"
+    },
+    {
+      "url": "https://flow.dyflexis.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.735090+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.736636+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.737478+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/6d4a7bcf-c4a0-4c4d-bf94-00ba46244e32/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.738349+00:00"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/979360703/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.809354+00:00"
+    },
+    {
+      "url": "https://www.google.nl/pagead/1p-user-list/979360703/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.811068+00:00"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/979360703/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.819418+00:00"
+    },
+    {
+      "url": "https://www.google.nl/pagead/1p-user-list/979360703/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.820558+00:00"
+    },
+    {
+      "url": "https://www.clarity.ms/tag/mfililz9mp",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.874934+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.875473+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.876303+00:00"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.877691+00:00"
+    },
+    {
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.878547+00:00"
+    },
+    {
+      "url": "https://diffuser-cdn.app-us1.com/diffuser/diffuser.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.879441+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.880319+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.881741+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.882142+00:00"
+    },
+    {
+      "url": "https://appwiki.nl/conversion",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.882784+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:13.884108+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/670772289/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.109921+00:00"
+    },
+    {
+      "url": "https://www.google.com/rmkt/collect/670772289/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:14.130334+00:00"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:14.134596+00:00"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/850687288466800",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.136283+00:00"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/collect",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.136622+00:00"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/wa/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:14.137983+00:00"
+    },
+    {
+      "url": "https://scripts.clarity.ms/0.8.75/clarity.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.138290+00:00"
+    },
+    {
+      "url": "https://region1.analytics.google.com/g/s/collect",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.139184+00:00"
+    },
+    {
+      "url": "https://www.google.nl/ads/ga-audiences",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.139491+00:00"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.140228+00:00"
+    },
+    {
+      "url": "https://prism.app-us1.com/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.141245+00:00"
+    },
+    {
+      "url": "https://flow.dyflexis.com/_/service_worker/6al0/sw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.146311+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/p/action/25079128.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.240114+00:00"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/670772289/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.376296+00:00"
+    },
+    {
+      "url": "https://www.google.nl/pagead/1p-user-list/670772289/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.381008+00:00"
+    },
+    {
+      "url": "https://www.facebook.com/tr/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.497941+00:00"
+    },
+    {
+      "url": "https://www.clarity.ms/tag/uet/25079128",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.563302+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/action/0",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.568274+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:28:14.589301+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:28:14.591828+00:00"
+    },
+    {
+      "url": "https://c.clarity.ms/c.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.619551+00:00"
+    },
+    {
+      "url": "https://px4.ads.linkedin.com/collect",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.659767+00:00"
+    },
+    {
+      "url": "https://c.bing.com/c.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.681898+00:00"
+    },
+    {
+      "url": "https://f.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:28:14.703015+00:00"
+    },
+    {
+      "url": "https://trackcmp.net/t_prism_sitemessages.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.709004+00:00"
+    },
+    {
+      "url": "https://c.clarity.ms/c.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:14.773092+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/images/wkQmlwSmNLPfOchlMNdv0VHy2U.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:16.355408+00:00"
+    },
+    {
+      "url": "https://collector.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:28:16.754149+00:00"
+    },
+    {
+      "url": "https://f.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:28:17.138223+00:00"
+    },
+    {
+      "url": "https://events.framer.com/anonymous",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:28:22.261763+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "_gcl_au",
+      "domain": ".dyflexis.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "IDE",
+      "domain": ".doubleclick.net"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_fbp",
+      "domain": ".dyflexis.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_uetsid",
+      "domain": ".dyflexis.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_uetvid",
+      "domain": ".dyflexis.com"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".dyflexis.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_JXVCB7BLGP",
+      "domain": ".dyflexis.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_clck",
+      "domain": ".dyflexis.com"
+    },
+    {
+      "kind": "multipurpose_identifier",
+      "name": "MUID",
+      "domain": ".bing.com"
+    },
+    {
+      "kind": "multipurpose_identifier",
+      "name": "MUID",
+      "domain": ".clarity.ms"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979360703/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/979360703/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.clarity.ms/tag/mfililz9mp",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/bat.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://diffuser-cdn.app-us1.com/diffuser/diffuser.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/670772289/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connect.facebook.net/signals/config/850687288466800",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://px.ads.linkedin.com/collect",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://px.ads.linkedin.com/wa/",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://scripts.clarity.ms/0.8.75/clarity.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.analytics.google.com/g/s/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://stats.g.doubleclick.net/g/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prism.app-us1.com/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/p/action/25079128.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.facebook.com/tr/",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.clarity.ms/tag/uet/25079128",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/action/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/actionp/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/actionp/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c.clarity.ms/c.gif",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://px4.ads.linkedin.com/collect",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://f.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://trackcmp.net/t_prism_sitemessages.php",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c.clarity.ms/c.gif",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://collector.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://f.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

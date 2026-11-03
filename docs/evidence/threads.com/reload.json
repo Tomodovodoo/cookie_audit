@@ -1,0 +1,444 @@
+{
+  "frames": [
+    {
+      "url": "https://www.threads.com/login/",
+      "title": "Threads • Aanmelden",
+      "text": "Kies hoe je een Threads-account wilt maken\nJe Instagram-account gebruiken\nJe mobiele nummer gebruiken\nAanmelden\n© 2026\nThreads-voorwaarden\nPrivacybeleid\nCookiebeleid\nCookie-instellingen\nEen probleem rapporteren",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Je Instagram-account gebruiken",
+          "tag": "A",
+          "context": "Kies hoe je een Threads-account wilt maken\nJe Instagram-account gebruiken\nJe mobiele nummer gebruiken\nAanmelden\n© 2026\nThreads-voorwaarden\nPrivacybeleid\nCookiebeleid\nCookie-instellingen\nEen probleem rapporteren",
+          "box": {
+            "x": 496.1111145019531,
+            "y": 441.5,
+            "width": 358,
+            "height": 68
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(56, 88, 152)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.4)",
+            "padding": "20px 24px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Je mobiele nummer gebruiken",
+          "tag": "DIV",
+          "context": "Kies hoe je een Threads-account wilt maken\nJe Instagram-account gebruiken\nJe mobiele nummer gebruiken\nAanmelden\n© 2026\nThreads-voorwaarden\nPrivacybeleid\nCookiebeleid\nCookie-instellingen\nEen probleem rapporteren",
+          "box": {
+            "x": 496.1111145019531,
+            "y": 525.5,
+            "width": 358,
+            "height": 68
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.4)",
+            "padding": "20px 24px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Aanmelden",
+          "tag": "A",
+          "context": "Kies hoe je een Threads-account wilt maken\nJe Instagram-account gebruiken\nJe mobiele nummer gebruiken\nAanmelden\n© 2026\nThreads-voorwaarden\nPrivacybeleid\nCookiebeleid\nCookie-instellingen\nEen probleem rapporteren",
+          "box": {
+            "x": 637.4305419921875,
+            "y": 617.9444580078125,
+            "width": 75.36111450195312,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Threads-voorwaarden",
+          "tag": "A",
+          "context": "© 2026\nThreads-voorwaarden\nPrivacybeleid\nCookiebeleid\nCookie-instellingen\nEen probleem rapporteren",
+          "box": {
+            "x": 428.7430725097656,
+            "y": 858.0555419921875,
+            "width": 115.7638931274414,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Privacybeleid",
+          "tag": "A",
+          "context": "© 2026\nThreads-voorwaarden\nPrivacybeleid\nCookiebeleid\nCookie-instellingen\nEen probleem rapporteren",
+          "box": {
+            "x": 556.5069580078125,
+            "y": 858.0555419921875,
+            "width": 69.49305725097656,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Cookiebeleid",
+          "tag": "A",
+          "context": "Cookiebeleid",
+          "box": {
+            "x": 638,
+            "y": 858.0555419921875,
+            "width": 69.125,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Cookie-instellingen",
+          "tag": "A",
+          "context": "Cookie-instellingen",
+          "box": {
+            "x": 719.125,
+            "y": 858.0555419921875,
+            "width": 102.21527862548828,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Een probleem rapporteren",
+          "tag": "DIV",
+          "context": "© 2026\nThreads-voorwaarden\nPrivacybeleid\nCookiebeleid\nCookie-instellingen\nEen probleem rapporteren",
+          "box": {
+            "x": 833.3402709960938,
+            "y": 858.0555419921875,
+            "width": 139.99305725097656,
+            "height": 16.79861068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.4)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.threads.com/login/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.threads.com/login/",
+  "captured_at": "2026-11-03T15:30:48.020925+00:00",
+  "cookies": [
+    {
+      "name": "csrftoken",
+      "domain": ".threads.com",
+      "path": "/",
+      "expires": 1828279824.792997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cb",
+      "domain": ".threads.com",
+      "path": "/",
+      "expires": 1828279833.11198,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpr",
+      "domain": ".threads.com",
+      "path": "/",
+      "expires": 1794324641,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.threads.com",
+      "localKeys": [
+        "barcelona_onboarding_waterfall_id",
+        "signal_flush_timestamp",
+        "Session",
+        "hb_timestamp",
+        "banzai:last_storage_flush"
+      ],
+      "sessionKeys": [
+        "TabId",
+        "original_referrer"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.threads.com/login/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.105450+00:00"
+    },
+    {
+      "url": "https://www.threads.com/ajax/bz",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:30:40.106848+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v5/ye/l/0,cross/EvPsyO1BsVqPGGFifmQavNfgQe914iiBfONMKn3YhINqU49pVNahkCk.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.378180+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4/yf/r/ZnEDCjdG2ou.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.394381+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iUTs4/yg/l/nl_NL-j/4XBXthl1W46.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.394937+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iJyN4/yy/l/nl_NL-j/aA_NM4bQK1-U06wFooLfBOR34DiuY5fKa5YFZ663T82ElBK6n6_KCaAVmmdQWWdoo1UJQawCi-ENEJIQw-NWAk1Lp0dcFHm2NG2JoKaD-khHTFl8avXV5A3mUSynYld4rbgq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.396474+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iKqD4/y7/l/nl_NL-j/7sQLX2RpOd3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.397170+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iOop4/y7/l/nl_NL-j/6-Fn2_Vt36U.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.397762+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iWys4/yY/l/nl_NL-j/oHnQicVC1oa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.398419+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iGI14/yV/l/nl_NL-j/80RIYZP3tTR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.399049+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4/yH/r/qiQ_dB73XW3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.399693+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4/yL/r/E1HJTAB_EHZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.400810+00:00"
+    },
+    {
+      "url": "https://www.threads.com/ajax/qm/",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:30:40.431568+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iOMb4/yp/l/nl_NL-j/k8sZRVH5ZiA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.775490+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4iqZ84/yL/l/nl_NL-j/C3dL3pFnJjbbboFG1MOP2Zfg53yaOQ74HswutnETuvBy1P6CxouNb86hMAeQNh6bNFWMMC3-u6hzhoCgAfznH4e9Pauf-N2HwiF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.776062+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4ivPl4/y2/l/nl_NL-j/hGJKV4LKOpL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.777120+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4i1kC4/ye/l/nl_NL-j/gu3fA73-2z5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.778034+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4/yZ/r/vo10gEDOtyV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.778889+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4in1Q4/yY/l/nl_NL-j/0_0xhB3FHlC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.779725+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/yC/r/JlaY6JCPfe-.avif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.780551+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4/yJ/r/oiEuCyWbI6E.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.781358+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/v4/yO/r/MBnams1_MAq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.782084+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/yT/r/W1XGDwD01g_.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.848013+00:00"
+    },
+    {
+      "url": "https://www.threads.com/ajax/bulk-route-definitions/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:30:40.849295+00:00"
+    },
+    {
+      "url": "https://www.threads.com/ajax/bulk-route-definitions/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:30:40.849778+00:00"
+    },
+    {
+      "url": "https://static.cdninstagram.com/rsrc.php/yP/r/0Qa-AOmHi0c.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:30:40.900327+00:00"
+    },
+    {
+      "url": "https://www.threads.com/ajax/bz",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:30:41.209848+00:00"
+    },
+    {
+      "url": "https://www.threads.com/ajax/bz",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:30:41.630871+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

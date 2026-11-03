@@ -1,0 +1,211 @@
+{
+  "frames": [
+    {
+      "url": "https://www.amazon.co.jp/",
+      "title": "Amazon.co.jp",
+      "text": "下のボタンをクリックしてショッピングを続けてください\nショッピングを続ける\n利用規約     プライバシー規約\n© 1996-2025, Amazon.com, Inc. or its affiliates",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "ショッピングを続ける",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 535.4444580078125,
+            "y": 201.22222900390625,
+            "width": 294.4444580078125,
+            "height": 29
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(17, 17, 17)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 193, 75)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(17, 17, 17)",
+            "padding": "0px 10px 0px 11px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "利用規約",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 600.5486450195312,
+            "y": 350,
+            "width": 44,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 102, 192)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 102, 192)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "プライバシー規約",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 676.7777709960938,
+            "y": 350,
+            "width": 88,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 102, 192)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 102, 192)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.amazon.co.jp/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.amazon.co.jp/",
+  "captured_at": "2026-11-03T15:31:04.828751+00:00",
+  "cookies": [
+    {
+      "name": "ak_bmsc",
+      "domain": ".amazon.co.jp",
+      "path": "/",
+      "expires": 1793727056.541373,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".amazon.co.jp",
+      "path": "/",
+      "expires": 1793727057.541552,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.amazon.co.jp",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://amazon.co.jp/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:30:56.419986+00:00"
+    },
+    {
+      "url": "https://www.amazon.co.jp/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:30:56.902893+00:00"
+    },
+    {
+      "url": "https://www.amazon.co.jp/_sec/verify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:30:57.155961+00:00"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/S/sash/6Uh4bsAwUkB3vJb.gif",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:30:57.179529+00:00"
+    },
+    {
+      "url": "https://www.amazon.co.jp/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:30:57.278765+00:00"
+    },
+    {
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUI-3c913031596ca78a3768f4e934b1cc02ce238101.secure.min._V1_.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:30:57.575866+00:00"
+    },
+    {
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/amazonui/sprites/aui_sprite_0007-1x._V383827579_.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:30:57.672428+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://amazon.co.jp/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.amazon.co.jp/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.amazon.co.jp/_sec/verify",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.amazon.co.jp/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/amazonui/sprites/aui_sprite_0007-1x._V383827579_.png",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

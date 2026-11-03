@@ -1,8 +1,10 @@
 # Cookie audit for the Netherlands
 
-Local, resumable consent screening with a static GitHub Pages register. The report is at https://Tomodovodoo.github.io/cookie_audit/ when Pages deployment completes.
+Local, resumable consent screening with a static GitHub Pages register. The report is at https://Tomodovodoo.github.io/cookie_audit/ with the published 3 November 2026 snapshot.
 
 This is an observational tool, not an AP ruling or a GDPR compliance certificate. Read [the method](docs/methodology.html) before interpreting the green checks. The current source top 1,000 has 124 adult-filter exclusions, leaving 876 eligible domains. The audit reaches 1,000 targets by adding 124 separately labelled .nl domains from NetAPI's global ranking. These additions have global ranks only, not invented Netherlands ranks.
+
+The published run attempted all 1,000 targets: 918 visits were observed; 82 were blocked, incomplete, errored or timed out. There are 253 sites with at least one configured failure and 377 domains outside `.nl`. Of 5,000 individual checks, 2,864 remain inconclusive. This is not a measured accuracy score; many tracking signals need purpose/configuration review, and no-banner sites do not automatically receive refusal passes.
 
 ## Run on Windows
 
@@ -25,7 +27,7 @@ Resume with the same audit command; completed rows are skipped. `--force` repeat
 ./.venv/Scripts/python.exe audit.py --domains bol.com,abnamro.nl,rabobank.nl,nrc.nl,ad.nl,marktplaats.nl --workers 3 --wait 7 --country NL --force
 ```
 
-The CLI supports 1–16 workers, an alternate `--chrome` executable, `--headless`, and `--limit`. Start with 4 workers; increasing concurrency can cause memory pressure, timeouts and site blocks. Each site takes several observation windows plus network loading and screenshots. A cohort of this size is a sustained crawl, not an instantaneous check. No API model or paid service is required.
+The CLI supports 1–16 workers, an alternate `--chrome` executable, `--headless`, and `--limit`. Use the same `--sites custom.json` argument for `audit.py` and `build.py` when supplying your own cohort. Start with 4 workers; increasing concurrency can cause memory pressure, timeouts and site blocks. Each site takes several observation windows plus network loading and screenshots. A cohort of this size is a sustained crawl, not an instantaneous check. No API model or paid service is required.
 
 Chrome is launched through Playwright with `--enable-automation` removed and `--disable-blink-features=AutomationControlled`. It remains detectable. This approach was used after separately launched Chrome exited before exposing its debugging port in this environment. Do not treat the flags as a promise to bypass bot protection.
 
@@ -65,3 +67,7 @@ The user supplied these references during implementation. They inform the follow
 - [ConsentCrawl](https://github.com/dumkydewilde/consentcrawl): demonstrates batch Playwright collection, CMP detection and before/after-acceptance comparison. We retain a separate refusal journey; acceptance-only comparison does not establish equal refusal ease.
 
 `consent-state.js` additionally records available IAB TCF and Cookiebot consent receipts without consent strings or user IDs. A stable post-refusal receipt still granting advertising or special-feature consent can flag an unsuccessful refusal. Absence of a supported receipt is not proof of success. Earlier captures without this field have not undergone that additional check. Subpage exploration and a trained multilingual classifier remain limitations of this first release, not implemented capabilities.
+
+Capture version 0.2.0 adds per-phase main-document HTTP status and frame-bound clicks. Earlier captures retain their version and do not claim that additional HTTP evidence. An input manifest may specify an HTTPS `url` on its listed domain or subdomain to audit a canonical landing page.
+
+Company groupings are dated observations. AutoTrack and Gaspedaal are grouped under AutoScout24 following the [2025 sale](https://www.mediahuis.com/en/news/autotrack-and-gaspedaal.nl-become-part-of-autoscout24); an older DPG consent-brand list still mentions them. RTL and Tweakers use DPG corporate sources, and FD/BNR use the [FD Mediagroep profile](https://fdmg.nl/over-ons/). Each grouped row links its source.

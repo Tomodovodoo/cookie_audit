@@ -1,0 +1,1703 @@
+{
+  "frames": [
+    {
+      "url": "https://www.rituals.com/",
+      "title": "Rituals Cosmetics Webshop | Country Selector",
+      "text": "Enable accessibility\nRITUALS\nSelect country and language\nCountry\nNetherlands (Netherlands)\nLanguage\nNederlands\nAPPLY SETTINGS\nSpain (English)Spain (Español)Croatia (English)Croatia (Hrvatska)Belgium (English)Belgium (Nederlands)Belgium (Français)Germany (English)Germany (Deutsch)Austria (English)Austria (Deutsch)Switzerland (English)Switzerland (Français)Switzerland (Deutsch)Hungary (English)Hungary (Hungarian)Bulgaria (English)Bulgaria (български)United States of America (English)United States of America (Español)Slovenia (English)Slovenia (Slovenian)Sweden (English)Sweden (Svenska)Portugal (English)Portugal (Português)Norway (English)Norway (Norsk)Latvia (English)Latvia (Latvian)Denmark (English)Denmark (Dansk)Luxembourg (Français)Lithuania (English)Lithuania (Lithuanian)Estonia (English)Estonia (Estonian)Hong Kong SAR PRC (English)Hong Kong SAR PRC (繁體中文)Netherlands (English)Netherlands (Nederlands)Italy (English)Italy (Italiano)Ireland (English)Finland (English)Finland (Suomi)Poland (English)Poland (Polski)France (English)France (Français)United Kingdom (English)Romania (English)Romania (Romanian)\nFeedback",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Enable accessibility",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 20,
+            "y": 832,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(216, 216, 220)",
+            "background": "rgb(36, 36, 38)",
+            "effectiveBackground": "rgb(36, 36, 38)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(68, 68, 70)",
+            "padding": "13px 0px 13px 44px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Netherlands (Netherlands)",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 466.6666564941406,
+            "y": 470.8888854980469,
+            "width": 432,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgb(250, 249, 247)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "12px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Nederlands",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 466.6666564941406,
+            "y": 566.888916015625,
+            "width": 432,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgb(250, 249, 247)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "12px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "APPLY SETTINGS",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 466.6666564941406,
+            "y": 638.888916015625,
+            "width": 432,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(102, 102, 102)",
+            "padding": "0px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Spain (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": -1,
+            "y": 1.6666666269302368,
+            "width": 102.09722137451172,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Spain (Español)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 101.09722137451172,
+            "y": 1.6666666269302368,
+            "width": 106.29166412353516,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Croatia (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 207.38888549804688,
+            "y": 1.6666666269302368,
+            "width": 112.30555725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Croatia (Hrvatska)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 319.6944580078125,
+            "y": 1.6666666269302368,
+            "width": 122.81944274902344,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Belgium (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 442.5138854980469,
+            "y": 1.6666666269302368,
+            "width": 119.63194274902344,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Belgium (Nederlands)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 562.1458129882812,
+            "y": 1.6666666269302368,
+            "width": 147.7777862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Belgium (Français)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 709.9236450195312,
+            "y": 1.6666666269302368,
+            "width": 125.61805725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Germany (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 835.5416870117188,
+            "y": 1.6666666269302368,
+            "width": 125.0138931274414,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Germany (Deutsch)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 960.5555419921875,
+            "y": 1.6666666269302368,
+            "width": 131.36111450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Austria (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1091.9166259765625,
+            "y": 1.6666666269302368,
+            "width": 111.8125,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Austria (Deutsch)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1203.7291259765625,
+            "y": 1.6666666269302368,
+            "width": 118.16666412353516,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Switzerland (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1321.8958740234375,
+            "y": 1.6666666269302368,
+            "width": 141.6666717529297,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Switzerland (Français)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1463.5625,
+            "y": 1.6666666269302368,
+            "width": 147.6527862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Switzerland (Deutsch)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1611.21533203125,
+            "y": 1.6666666269302368,
+            "width": 148.0208282470703,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Hungary (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1759.236083984375,
+            "y": 1.6666666269302368,
+            "width": 121.8888931274414,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Hungary (Hungarian)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1881.125,
+            "y": 1.6666666269302368,
+            "width": 144.04861450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Bulgaria (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2025.173583984375,
+            "y": 1.6666666269302368,
+            "width": 119.2013931274414,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Bulgaria (български)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2144.375,
+            "y": 1.6666666269302368,
+            "width": 145.70138549804688,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "United States of America (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2290.076416015625,
+            "y": 1.6666666269302368,
+            "width": 229.5902862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "United States of America (Español)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2519.666748046875,
+            "y": 1.6666666269302368,
+            "width": 233.7777862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Slovenia (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2753.444580078125,
+            "y": 1.6666666269302368,
+            "width": 120.41666412353516,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Slovenia (Slovenian)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2873.861083984375,
+            "y": 1.6666666269302368,
+            "width": 136.0208282470703,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Sweden (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3009.882080078125,
+            "y": 1.6666666269302368,
+            "width": 116.08333587646484,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Sweden (Svenska)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3125.96533203125,
+            "y": 1.6666666269302368,
+            "width": 120.91666412353516,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Portugal (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3246.882080078125,
+            "y": 1.6666666269302368,
+            "width": 120.30555725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Portugal (Português)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3367.1875,
+            "y": 1.6666666269302368,
+            "width": 138.94444274902344,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Norway (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3506.132080078125,
+            "y": 1.6666666269302368,
+            "width": 115.43055725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Norway (Norsk)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3621.5625,
+            "y": 1.6666666269302368,
+            "width": 106.94444274902344,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Latvia (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3728.507080078125,
+            "y": 1.6666666269302368,
+            "width": 103.77777862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Latvia (Latvian)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3832.28466796875,
+            "y": 1.6666666269302368,
+            "width": 102.73611450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Denmark (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 3935.020751953125,
+            "y": 1.6666666269302368,
+            "width": 126,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Denmark (Dansk)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 4061.020751953125,
+            "y": 1.6666666269302368,
+            "width": 119.17361450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Luxembourg (Français)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 4180.1943359375,
+            "y": 1.6666666269302368,
+            "width": 153.6666717529297,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "Lithuania (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 4333.861328125,
+            "y": 1.6666666269302368,
+            "width": 126.53472137451172,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "Lithuania (Lithuanian)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 4460.39599609375,
+            "y": 1.6666666269302368,
+            "width": 148.24305725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "Estonia (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 4608.63916015625,
+            "y": 1.6666666269302368,
+            "width": 114.11805725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "Estonia (Estonian)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 4722.7568359375,
+            "y": 1.6666666269302368,
+            "width": 123.40972137451172,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "Hong Kong SAR PRC (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 4846.16650390625,
+            "y": 1.6666666269302368,
+            "width": 203.86111450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "Hong Kong SAR PRC (繁體中文)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5050.02783203125,
+            "y": 1.6666666269302368,
+            "width": 218.9027862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "Netherlands (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5268.9306640625,
+            "y": 1.6666666269302368,
+            "width": 146.57638549804688,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "Netherlands (Nederlands)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5415.5068359375,
+            "y": 1.6666666269302368,
+            "width": 174.72222900390625,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "Italy (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5590.22900390625,
+            "y": 1.6666666269302368,
+            "width": 92.24305725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "Italy (Italiano)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5682.47216796875,
+            "y": 1.6666666269302368,
+            "width": 93.28472137451172,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "Ireland (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5775.7568359375,
+            "y": 1.6666666269302368,
+            "width": 111.0625,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-48",
+          "text": "Finland (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5886.8193359375,
+            "y": 1.6666666269302368,
+            "width": 114.3888931274414,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-49",
+          "text": "Finland (Suomi)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6001.20849609375,
+            "y": 1.6666666269302368,
+            "width": 108.65972137451172,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-50",
+          "text": "Poland (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6109.8681640625,
+            "y": 1.6666666269302368,
+            "width": 110.54861450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-51",
+          "text": "Poland (Polski)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6220.41650390625,
+            "y": 1.6666666269302368,
+            "width": 100.96527862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-52",
+          "text": "France (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6321.3818359375,
+            "y": 1.6666666269302368,
+            "width": 108.30555725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-53",
+          "text": "France (Français)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6429.6875,
+            "y": 1.6666666269302368,
+            "width": 114.29166412353516,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-54",
+          "text": "United Kingdom (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6543.97900390625,
+            "y": 1.6666666269302368,
+            "width": 174.1458282470703,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-55",
+          "text": "Romania (English)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6718.125,
+            "y": 1.6666666269302368,
+            "width": 123.75,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-56",
+          "text": "Romania (Romanian)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6841.875,
+            "y": 1.6666666269302368,
+            "width": 142.67361450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(26, 25, 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 249, 247)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 25, 25)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-57",
+          "text": "Feedback",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 0,
+            "y": 644,
+            "width": 30,
+            "height": 80
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(36, 34, 34)",
+            "effectiveBackground": "rgb(36, 34, 34)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.rituals.com/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.rituals.com/",
+  "captured_at": "2026-11-03T15:09:21.897394+00:00",
+  "cookies": [
+    {
+      "name": "OptanonAlertBoxClosed",
+      "domain": ".rituals.com",
+      "path": "/",
+      "expires": 1825254554,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "domain": "www.rituals.com",
+      "path": "/",
+      "expires": 1825254554,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".rituals.com",
+      "path": "/",
+      "expires": 1825254554,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.rituals.com",
+      "localKeys": [
+        "survi::languageCodes",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::statusrequestHandler_contacts",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::VisitorStore::statusrequestHandler_contacts",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::statusrequestHandler_respondent",
+        "_wt.gaEntries",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::statusrequestHandler_contacts",
+        "survi::tldToLanguageMap",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::VisitorStore::visitor",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::singleTabId:ebd7f5ee0ee85142",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::VisitorStore::statusrequestHandler_respondent",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::statusrequestHandler_respondent"
+      ],
+      "sessionKeys": [
+        "survi::c362d6381958fe8c74d959e3e8629f9f::unifiedSessionViews",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::visitInitialUrl",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::visitReferrerUrl",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::visitReferrerUrl",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::visitViews",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::visitViews",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::visitInitialUrl"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "survi::languageCodes",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::statusrequestHandler_contacts",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::VisitorStore::statusrequestHandler_contacts",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::statusrequestHandler_respondent",
+        "_wt.gaEntries",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::statusrequestHandler_contacts",
+        "survi::tldToLanguageMap",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::VisitorStore::visitor",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::singleTabId:ebd7f5ee0ee85142",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::VisitorStore::statusrequestHandler_respondent",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::statusrequestHandler_respondent"
+      ],
+      "sessionKeys": [
+        "survi::c362d6381958fe8c74d959e3e8629f9f::unifiedSessionViews",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::visitInitialUrl",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::visitReferrerUrl",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::visitReferrerUrl",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::visitViews",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::visitViews",
+        "survi::c362d6381958fe8c74d959e3e8629f9f::FeedbackButton::visitInitialUrl"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.rituals.com/_next/static/chunks/recorder.8a2cedfccbc74a95.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:09:14.778816+00:00"
+    },
+    {
+      "url": "https://privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.780530+00:00"
+    },
+    {
+      "url": "https://pat.webtrends-optimize.com/ots/ots/js-5.0/2723301/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.820455+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.914559+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.916092+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.930997+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.932113+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.932898+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/replay",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:14.982757+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.114622+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.166480+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.167655+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.168112+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.203099+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.343766+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.358306+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.360961+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.369661+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:15.370136+00:00"
+    },
+    {
+      "url": "https://browser-intake-datadoghq.eu/api/v2/replay",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:09:20.186364+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pat.webtrends-optimize.com/ots/ots/js-5.0/2723301/",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

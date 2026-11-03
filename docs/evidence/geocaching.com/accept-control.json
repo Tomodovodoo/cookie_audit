@@ -1,0 +1,801 @@
+{
+  "frames": [
+    {
+      "url": "https://www.geocaching.com/play",
+      "title": "Geocaching",
+      "text": "Ga naar inhoud\nNederlands \nEnglish\nБългарски\nCatalà\nČeština\nDansk\nDeutsch\nΕλληνικά\nEesti\nEspañol\nFrançais\nItaliano\n日本語\n한국어\nLatviešu\nLëtzebuergesch\nMagyar\nNederlands\nNorsk Bokmål\nPolski\nPortuguês\nRomână\nРусский\nSlovenščina\nSlovenčina\nSuomi\nSvenska\nInloggen\nRegistreren\nSluit je aan bij 's werelds grootste schattenjacht.\nVideo: Wat is geocaching (Engels).\n(78 seconden)\nEr zijn 7.666 geocaches in de buurt van Rotterdam.\n\nOm te starten heb je slechts een gratis geocachingaccount en de officiële Geocaching®-app of een GPS-apparaat nodig.\n\nBegin jouw avontuur in drie stappen!\n1. Maak een account\n\nMaak een account via de website of met de Geocaching®-app om de kaart met alle geocaches bij jou in de buurt te bekijken.\n\n2. Vind een geocache\n\nGebruik de app om naar een geocache in de buurt te navigeren. Vergeet niet een pen mee te nemen!\n\n3. Deel je ervaringen\n\nEenmaal gevonden kan je het logboek voorzien van jouw naam en datum. Verstop daarna de geocache precies zoals je hem gevonden hebt. Vergeet niet je ervaringen online te delen.\n\nGeocaching 101\nLearn about geocaching\n\nGeocaches are hidden by people like you all around the world. Learn the basics\n\nShop Geocaching\nThe official online store of Geocaching HQ\n\nExplore a wide variety of geocaching supplies, tools, trackables, and gear. Shop now\n\nLeer ons kennen\nVacatures\nWord een partner\nGeocacheplaatsingsrichtlijnen\nRegionale geocacherichtlijnen\nJuridisch\nRichtlijnen voor logogebruik\nParken en politie\nBeleid voor het melden van kwetsbaarheden\nOvereenkomst herroepen\nGeocachingwinkel\nWinkel (VS/Canada)\nInternationale verkopers\nNeem contact op\nKennisbank\nContact Support\nPersvragen\nTaal kiezen\nCopyright © 2000–2026 Groundspeak, Inc.  Alle rechten voorbehouden.  Groundspeak Gebruiksvoorwaarden Privacybeleid",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1084.9722900390625,
+            "y": 30.38888931274414,
+            "width": 69.25,
+            "height": 28.19444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "oklch(1 0 none)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "oklch(1 0 none)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Registreren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1176.2222900390625,
+            "y": 24,
+            "width": 150,
+            "height": 40.97222137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "oklch(1 0 none)",
+            "background": "oklch(0.5479 0.1342 155.31)",
+            "effectiveBackground": "oklch(0.5479 0.1342 155.31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "oklch(0.5479 0.1342 155.31)",
+            "padding": "10.5px 5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Speel de 'what is geocaching' video af",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 650.1111450195312,
+            "y": 277.4166564941406,
+            "width": 50,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "oklch(1 0 none)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(42, 42, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "oklch(1 0 none)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Learn about geocaching Geocaches are hidden by people like you all around the world. Learn the basics",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 259.1111145019531,
+            "y": 1329,
+            "width": 416,
+            "height": 285.5833435058594
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklch(0.4091 0 none)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "oklch(0.9701 0 none)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "oklch(0.4091 0 none)",
+            "padding": "0px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "The official online store of Geocaching HQ Explore a wide variety of geocaching supplies, tools, trackables, and gear. Shop now",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 675.1111450195312,
+            "y": 1329,
+            "width": 416,
+            "height": 285.5833435058594
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklch(0.4091 0 none)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "oklch(0.9701 0 none)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "oklch(0.4091 0 none)",
+            "padding": "0px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Vacatures",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 160.11111450195312,
+            "y": 1716.5416259765625,
+            "width": 67.91666412353516,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Word een partner",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 160.11111450195312,
+            "y": 1750.9444580078125,
+            "width": 120.23611450195312,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Geocacheplaatsingsrichtlijnen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 160.11111450195312,
+            "y": 1785.3472900390625,
+            "width": 201.0833282470703,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Regionale geocacherichtlijnen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 160.11111450195312,
+            "y": 1819.75,
+            "width": 201.18055725097656,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Richtlijnen voor logogebruik",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 434.7361145019531,
+            "y": 1716.5416259765625,
+            "width": 189.25694274902344,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Parken en politie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 434.7361145019531,
+            "y": 1750.9444580078125,
+            "width": 114.38194274902344,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Beleid voor het melden van kwetsbaarheden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 434.7361145019531,
+            "y": 1785.3472900390625,
+            "width": 297.2361145019531,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Overeenkomst herroepen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 434.7361145019531,
+            "y": 1819.75,
+            "width": 173.23611450195312,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Winkel (VS/Canada)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 805.4236450195312,
+            "y": 1716.5416259765625,
+            "width": 130.8333282470703,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Internationale verkopers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 805.4236450195312,
+            "y": 1750.9444580078125,
+            "width": 166.7152862548828,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Kennisbank",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1045.5833740234375,
+            "y": 1716.5416259765625,
+            "width": 80.33333587646484,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Contact Support",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1045.5833740234375,
+            "y": 1750.9444580078125,
+            "width": 110.71527862548828,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Persvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1045.5833740234375,
+            "y": 1785.3472900390625,
+            "width": 78.04166412353516,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(95, 69, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Taal kiezen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 160.11111450195312,
+            "y": 1874.5972900390625,
+            "width": 161.8333282470703,
+            "height": 41.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgb(115, 85, 54)",
+            "effectiveBackground": "rgb(115, 85, 54)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Groundspeak Gebruiksvoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 630.7361450195312,
+            "y": 1971.9305419921875,
+            "width": 241.95138549804688,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(131, 96, 63)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 876.3333129882812,
+            "y": 1971.9305419921875,
+            "width": 90.48611450195312,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(248, 237, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(131, 96, 63)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.geocaching.com/play"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.geocaching.com/play",
+  "captured_at": "2026-11-03T15:05:10.543313+00:00",
+  "cookies": [
+    {
+      "name": "_hjSessionUser_441815",
+      "domain": ".geocaching.com",
+      "path": "/",
+      "expires": 1825254296,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_441815",
+      "domain": ".geocaching.com",
+      "path": "/",
+      "expires": 1793720096,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjHasCachedUserAttributes",
+      "domain": "www.geocaching.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.geocaching.com",
+      "path": "/",
+      "expires": 1809356703,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "domain": ".geocaching.com",
+      "path": "/",
+      "expires": 1801494303,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "domain": ".geocaching.com",
+      "path": "/",
+      "expires": 1828278303.543164,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_WH86DS6J89",
+      "domain": ".geocaching.com",
+      "path": "/",
+      "expires": 1828278303.553017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_GRQE2910DL",
+      "domain": ".geocaching.com",
+      "path": "/",
+      "expires": 1828278303.559018,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.geocaching.com",
+      "localKeys": [
+        "_hjUserAttributes",
+        "_gcl_ls"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_hjUserAttributes",
+        "_gcl_ls"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.com",
+      "localKeys": [
+        "CookieConsentBulkSetting-1abe029a-a5e6-4587-acc9-7ef16e95bfa1"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_hjUserAttributes",
+        "_gcl_ls"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://consent.cookiebot.com/logconsent.ashx",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:03.484746+00:00"
+    },
+    {
+      "url": "https://region1.analytics.google.com/measurement/conversion",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:05:03.566588+00:00"
+    },
+    {
+      "url": "https://region1.analytics.google.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:05:03.567638+00:00"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:03.569201+00:00"
+    },
+    {
+      "url": "https://www.google.nl/ads/ga-audiences",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:03.570268+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/1abe029a-a5e6-4587-acc9-7ef16e95bfa1/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:03.571030+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:05:08.602606+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "_gcl_au",
+      "domain": ".geocaching.com"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_hjSessionUser_441815",
+      "domain": ".geocaching.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".geocaching.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_WH86DS6J89",
+      "domain": ".geocaching.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_GRQE2910DL",
+      "domain": ".geocaching.com"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.analytics.google.com/measurement/conversion",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.analytics.google.com/g/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://stats.g.doubleclick.net/g/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

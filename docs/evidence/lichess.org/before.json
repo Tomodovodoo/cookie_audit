@@ -1,0 +1,3025 @@
+{
+  "frames": [
+    {
+      "url": "https://lichess.org/",
+      "title": "lichess.org • Gratis online schaken",
+      "text": "Toegankelijkheid - Modus voor blinden inschakelen\nlichess.org\nSPELEN\nPUZZELS\nLEREN\nKIJKEN\nGEMEENSCHAP\nGEREEDSCHAP\nDONEER\nAANMELDEN\nREGISTREREN\nSuperBlitz Schild Arena\nBattle for the SuperBlitz Shield\n361 spelers • over 53 minuten\nCM loristavernier simul\n14 spelers • Neem deel\nLichess is een gratis (echt waar), vrije, advertentie-loze open source schaakserver. Over Lichess...\nSnel koppelen\nLobby\nCorrespondentie\n1+0\nBullet\n2+1\nBullet\n3+0\nBlitz\n3+2\nBlitz\n5+0\nBlitz\n5+3\nBlitz\n10+0\nRapid\n10+5\nRapid\n15+10\nRapid\n30+0\nKlassiek\n30+20\nKlassiek\nAangepast\nMaak een lobbypartij aan\nDaag een vriend uit\nSpeel tegen de computer\n110.062 spelers\n49.008 partijen bezig\nDoneer\nWord een Lichess Patroon\nFM\n hurricane18109\n2967\n0:51\nFM\n Heisenberg01\n3249\n0:57\nSwag Store\nSpeel schaken in stijl\nPuzzel van de dag\nZwart aan zet\nTimeless\nIM Lizard1\nNakamura–Duda: An Immortal Game\n27 okt 2026\nRoeselare\nEK Clubteams: ronde 1-2\n26 okt 2026\nRqtte\nChess Improvement Journey | Week 17\n25 okt 2026\nNM Chess-Network\nBodhana Sivanandan BREAKS Judit Polgar's 38-Year-Old Record!!\n23 okt 2026\nFM realcyberbird\nFun stats about the Lichess 2026 Autumn Marathon (3 0)\n30 okt 2026\nRuyLopez1000\nQueen vs Rook Endgame.\n26 okt 2026\nIM datajunkie\nChess players remember too much\n28 okt 2026\nDeepHuman_95\nWhat the knight?! Knight-weels and selfblocks\nTimeless\nFM amazingatlas\nDeveloped Is Not Active: Piece Activity vs Development\n1 uur geleden\n\nOur chess position evaluations dataset on Hugging Face crossed 1 billion rows! That's over 1,000,000,000 Stockfish evaluations from games played on Lichess, free to download for any purpose.\n\n3 uur geleden\n\nCongratulations to team K2N_chess by FM Konstantin Kostin for winning the 9th ChessMood 20/20 Grand Prix 2026 Qualifier with top scorers GM José Martínez Alcántara, @jiwuna, GM Shant Sargsyan, @dfsocial, FM Vladislav Sipetin, and many others! Thanks to all participating streamers and 1,301 registered players!\n\n43 uur geleden\n\nGet ready for our next Streamer Arenas on 02-11-2026 at 17:00 and 21-12-2026 at 17:00, with prizes for streamers whose teams finish in the top 4! If you're a streamer and want to participate with your team, register now.\n\n46 uur geleden\n\nWGM Sabina Foisor is now live for Round 6 of Lichess4545 Season 50! Tune in to Sabina Foisor's live commentary on Twitch.\n\n2 dagen geleden\n\nCongratulations to GM Oleksandr Bortnyk for winning our Bullet Titled Arena October 2026, ahead of GM Sergei Zhigalko, IM @BrightFalcon, GM Brandon Jacobson, and GM Artem Uskov!\n\n2 dagen geleden\n\nHappy Halloween! Celebrate with us in our 3+0 Halloween Gambit Arena at 23:00.\n\n2 dagen geleden\n\nOur October 1+0 Warm-up Arena starts today, 31-10-2026 at 18:00! Play against some of the titled players before they enter our Bullet Titled Arena at 20:00.\n\nAll updates »\nOpen toernooien\nMeer »\nSuperBlitz Schild\t\nover 53 minuten\n\t5h\t361\nSimultaans\nMeer »\nCM loristavernier\t20+60\t14\nOver Lichess\nVeelgestelde vragen (FAQ)\nContact\nMobiele app\nAlgemene voorwaarden\nPrivacy\nBroncode\nBlokkeer advertenties\nMastodon\nGitHub\nDiscord\nBluesky\nYouTube\nTwitch",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Toegankelijkheid - Modus voor blinden inschakelen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": -99999,
+            "y": 0,
+            "width": 335.7916564941406,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "lichess.org",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 7,
+            "y": -3,
+            "width": 178.81944274902344,
+            "height": 59.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 30,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "SPELEN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 185.81944274902344,
+            "y": 0,
+            "width": 71.0763931274414,
+            "height": 53
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) rgba(0, 0, 0, 0)",
+            "padding": "7px 9.8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "PUZZELS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 256.8958435058594,
+            "y": 0,
+            "width": 78.90277862548828,
+            "height": 53
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) rgba(0, 0, 0, 0)",
+            "padding": "7px 9.8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "LEREN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 335.7986145019531,
+            "y": 0,
+            "width": 63.6319465637207,
+            "height": 53
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) rgba(0, 0, 0, 0)",
+            "padding": "7px 9.8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "KIJKEN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 399.4305725097656,
+            "y": 0,
+            "width": 65.7013931274414,
+            "height": 53
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) rgba(0, 0, 0, 0)",
+            "padding": "7px 9.8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "GEMEENSCHAP",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 465.1319580078125,
+            "y": 0,
+            "width": 122.58333587646484,
+            "height": 53
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) rgba(0, 0, 0, 0)",
+            "padding": "7px 9.8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "GEREEDSCHAP",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 587.7152709960938,
+            "y": 0,
+            "width": 118.17361450195312,
+            "height": 53
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) color(srgb 0.37 0.37 0.37) rgba(0, 0, 0, 0)",
+            "padding": "7px 9.8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "DONEER",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 705.888916015625,
+            "y": 6,
+            "width": 106.47222137451172,
+            "height": 48.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(213, 144, 32)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(213, 144, 32)",
+            "padding": "0px 15.4px 0px 18.2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "AANMELDEN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1063.3819580078125,
+            "y": 9.916666984558105,
+            "width": 111.19444274902344,
+            "height": 39.27777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "11.2px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "REGISTREREN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1181.576416015625,
+            "y": 9.916666984558105,
+            "width": 118.60416412353516,
+            "height": 39.27777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(27, 120, 208)",
+            "effectiveBackground": "rgb(27, 120, 208)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "11.2px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Voorkeuren",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1300.1805419921875,
+            "y": -0.4444444477558136,
+            "width": 58.48611068725586,
+            "height": 60
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 15.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "SuperBlitz Schild Arena Battle for the SuperBlitz Shield 361 spelers • over 53 minuten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 13.652777671813965,
+            "y": 92.5,
+            "width": 321.59027099609375,
+            "height": 54.9444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "4.2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "CM loristavernier simul 14 spelers • Neem deel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 13.652777671813965,
+            "y": 147.44444274902344,
+            "width": 321.59027099609375,
+            "height": 52.38888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "4.2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "echt waar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 152.1458282470703,
+            "y": 229.8333282470703,
+            "width": 64.45833587646484,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Over Lichess...",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 13.652777671813965,
+            "y": 248.94444274902344,
+            "width": 318.15972900390625,
+            "height": 38.22222137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Snel koppelen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 350.2430725097656,
+            "y": 64.5,
+            "width": 230.00694274902344,
+            "height": 32.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(214, 79, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(214, 79, 0)",
+            "padding": "7px 2.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Lobby",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 580.25,
+            "y": 64.5,
+            "width": 182.0208282470703,
+            "height": 32.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77) rgb(77, 77, 77) rgba(0, 0, 0, 0)",
+            "padding": "7px 2.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Correspondentie",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 762.2708129882812,
+            "y": 64.5,
+            "width": 246.1527862548828,
+            "height": 32.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77) rgb(77, 77, 77) rgba(0, 0, 0, 0)",
+            "padding": "7px 2.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "1+0 Bullet",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 350.2430725097656,
+            "y": 106.16666412353516,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "2+1 Bullet",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 572.6319580078125,
+            "y": 106.16666412353516,
+            "width": 213.3958282470703,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "3+0 Blitz",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 795.0277709960938,
+            "y": 106.16666412353516,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "3+2 Blitz",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 350.2430725097656,
+            "y": 248,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "5+0 Blitz",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 572.6319580078125,
+            "y": 248,
+            "width": 213.3958282470703,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "5+3 Blitz",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 795.0277709960938,
+            "y": 248,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "10+0 Rapid",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 350.2430725097656,
+            "y": 389.8333435058594,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "10+5 Rapid",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 572.6319580078125,
+            "y": 389.8333435058594,
+            "width": 213.3958282470703,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "15+10 Rapid",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 795.0277709960938,
+            "y": 389.8333435058594,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "30+0 Klassiek",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 350.2430725097656,
+            "y": 531.6666870117188,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "30+20 Klassiek",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 572.6319580078125,
+            "y": 531.6666870117188,
+            "width": 213.3958282470703,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Aangepast",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 795.0277709960938,
+            "y": 531.6666870117188,
+            "width": 213.38888549804688,
+            "height": 132.8333282470703
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(120, 120, 120)",
+            "background": "color(srgb 1 1 1 / 0.5)",
+            "effectiveBackground": "color(srgb 1 1 1 / 0.5)",
+            "fontSize": 25,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(120, 120, 120)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Maak een lobbypartij aan",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1023.4236450195312,
+            "y": 274.8611145019531,
+            "width": 321.59027099609375,
+            "height": 53.7569465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 16.8,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "13.44px 16.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Daag een vriend uit",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1023.4236450195312,
+            "y": 337.6180725097656,
+            "width": 321.59027099609375,
+            "height": 53.7569465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 16.8,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "13.44px 16.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Speel tegen de computer",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1023.4236450195312,
+            "y": 400.375,
+            "width": 321.59027099609375,
+            "height": 53.7569465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 16.8,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "13.44px 16.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "110.062 spelers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1023.4236450195312,
+            "y": 626.2777709960938,
+            "width": 102.84027862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "49.008 partijen bezig",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1023.4236450195312,
+            "y": 645.388916015625,
+            "width": 137.5,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Doneer Word een Lichess Patroon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 13.652777671813965,
+            "y": 679.5,
+            "width": 321.59027099609375,
+            "height": 69.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18.2,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "9.1px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "FM hurricane18109 2967 0:51 FM Heisenberg01 3249 0:57",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 13.652777671813965,
+            "y": 764.25,
+            "width": 321.59027099609375,
+            "height": 361.8125
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "Swag Store Speel schaken in stijl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1023.4236450195312,
+            "y": 679.5,
+            "width": 321.59027099609375,
+            "height": 69.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18.2,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "9.1px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "Puzzel van de dag Zwart aan zet",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1023.4236450195312,
+            "y": 764.25,
+            "width": 321.59027099609375,
+            "height": 363.59027099609375
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "Timeless IM Lizard1 Nakamura–Duda: An Immortal Game",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 350.2430725097656,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "27 okt 2026 Roeselare EK Clubteams: ronde 1-2",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 574.576416015625,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "26 okt 2026 Rqtte Chess Improvement Journey | Week 17",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 798.9097290039062,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "25 okt 2026 NM Chess-Network Bodhana Sivanandan BREAKS Judit Polgar's 38-Year-Old Record!!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1023.2430419921875,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "23 okt 2026 FM realcyberbird Fun stats about the Lichess 2026 Autumn Marathon (3 0)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1247.576416015625,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "30 okt 2026 RuyLopez1000 Queen vs Rook Endgame.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1471.9097900390625,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "26 okt 2026 IM datajunkie Chess players remember too much",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1696.2430419921875,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "28 okt 2026 DeepHuman_95 What the knight?! Knight-weels and selfblocks",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1920.576416015625,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-48",
+          "text": "Timeless FM amazingatlas Developed Is Not Active: Piece Activity vs Development",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2144.90966796875,
+            "y": 920.0486450195312,
+            "width": 209.3333282470703,
+            "height": 206.23611450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(77, 77, 77)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(77, 77, 77)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-49",
+          "text": "1 uur geleden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 700.5,
+            "width": 110.14583587646484,
+            "height": 22.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-50",
+          "text": "chess position evaluations dataset on Hugging Face",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 430.03472900390625,
+            "y": 731.1180419921875,
+            "width": 339.90972900390625,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-51",
+          "text": "Stockfish",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 496,
+            "y": 750.2291870117188,
+            "width": 59.1944465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-52",
+          "text": "3 uur geleden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 809.451416015625,
+            "width": 110.14583587646484,
+            "height": 22.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-53",
+          "text": "K2N_chess",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 564.9652709960938,
+            "y": 840.0694580078125,
+            "width": 70.21527862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-54",
+          "text": "Konstantin Kostin",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 681.5347290039062,
+            "y": 840.0694580078125,
+            "width": 116.17361450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-55",
+          "text": "9th ChessMood 20/20 Grand Prix 2026 Qualifier",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 840.0694580078125,
+            "width": 526.4305419921875,
+            "height": 38.22222137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-56",
+          "text": "José Martínez Alcántara",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 827.7361450195312,
+            "y": 859.1805419921875,
+            "width": 154.2152862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-57",
+          "text": "@jiwuna",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 878.2916870117188,
+            "width": 55.97222137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-58",
+          "text": "Shant Sargsyan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 490.9166564941406,
+            "y": 878.2916870117188,
+            "width": 101.6875,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-59",
+          "text": "@dfsocial",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 600,
+            "y": 878.2916870117188,
+            "width": 62.98611068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-60",
+          "text": "Vladislav Sipetin",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 693.9861450195312,
+            "y": 878.2916870117188,
+            "width": 106.1388931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-61",
+          "text": "43 uur geleden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 937.513916015625,
+            "width": 119.35416412353516,
+            "height": 22.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-62",
+          "text": "02-11-2026 at 17:00",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 684.4236450195312,
+            "y": 968.1319580078125,
+            "width": 129.0625,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-63",
+          "text": "21-12-2026 at 17:00",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 845.888916015625,
+            "y": 968.1319580078125,
+            "width": 129.0625,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-64",
+          "text": "register now",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 582.2569580078125,
+            "y": 1006.3541870117188,
+            "width": 81.98611450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-65",
+          "text": "46 uur geleden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1046.46533203125,
+            "width": 119.35416412353516,
+            "height": 22.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-66",
+          "text": "Sabina Foisor's live commentary on Twitch",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1077.0833740234375,
+            "width": 571.4861450195312,
+            "height": 38.22222137451172
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-67",
+          "text": "2 dagen geleden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1136.3055419921875,
+            "width": 132.0833282470703,
+            "height": 22.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-68",
+          "text": "Oleksandr Bortnyk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 553.9583129882812,
+            "y": 1166.923583984375,
+            "width": 122.84027862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-69",
+          "text": "Bullet Titled Arena October 2026",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1166.923583984375,
+            "width": 562.8402709960938,
+            "height": 38.22222137451172
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-70",
+          "text": "Sergei Zhigalko",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 528.4097290039062,
+            "y": 1186.0347900390625,
+            "width": 101.27777862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-71",
+          "text": "@BrightFalcon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 658.1666870117188,
+            "y": 1186.0347900390625,
+            "width": 95.97222137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-72",
+          "text": "Brandon Jacobson",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 788.0625,
+            "y": 1186.0347900390625,
+            "width": 119.78472137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-73",
+          "text": "Artem Uskov",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1205.1458740234375,
+            "width": 84.13194274902344,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-74",
+          "text": "2 dagen geleden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1245.2569580078125,
+            "width": 132.0833282470703,
+            "height": 22.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-75",
+          "text": "Halloween Gambit Arena",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 711.3472290039062,
+            "y": 1275.875,
+            "width": 163.63194274902344,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-76",
+          "text": "2 dagen geleden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1315.986083984375,
+            "width": 132.0833282470703,
+            "height": 22.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-77",
+          "text": "Warm-up Arena",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 514.8055419921875,
+            "y": 1346.6041259765625,
+            "width": 103.72916412353516,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-78",
+          "text": "Bullet Titled Arena",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 659.3819580078125,
+            "y": 1365.71533203125,
+            "width": 120.625,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-79",
+          "text": "All updates »",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 401.0208435058594,
+            "y": 1405.826416015625,
+            "width": 104.125,
+            "height": 22.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "oklab(0.739121 0.0340818 0.108275)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16.1,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.739121 0.0340818 0.108275)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-80",
+          "text": "Open toernooien Meer »",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 686.8333129882812,
+            "y": 1142.84033203125,
+            "width": 658.1805419921875,
+            "height": 37.35416793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208) rgb(27, 120, 208) rgb(217, 217, 217)",
+            "padding": "4.2px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-81",
+          "text": "SuperBlitz Schild",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 692.4305419921875,
+            "y": 1187.1944580078125,
+            "width": 132.63888549804688,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-82",
+          "text": "Simultaans Meer »",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 686.8333129882812,
+            "y": 1228.951416015625,
+            "width": 658.1805419921875,
+            "height": 37.35416793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208) rgb(27, 120, 208) rgb(217, 217, 217)",
+            "padding": "4.2px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-83",
+          "text": "CM loristavernier",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 692.4305419921875,
+            "y": 1273.625,
+            "width": 146.4027862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 120, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 120, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-84",
+          "text": "Over Lichess",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 32.60416793823242,
+            "y": 1142.84033203125,
+            "width": 74.85416412353516,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-85",
+          "text": "Veelgestelde vragen (FAQ)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 121.73611450195312,
+            "y": 1142.84033203125,
+            "width": 155.5902862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-86",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 291.6041564941406,
+            "y": 1142.84033203125,
+            "width": 46.40277862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-87",
+          "text": "Mobiele app",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 352.28472900390625,
+            "y": 1142.84033203125,
+            "width": 72.74305725097656,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-88",
+          "text": "Algemene voorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 439.3055725097656,
+            "y": 1142.84033203125,
+            "width": 141.8958282470703,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-89",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 595.4791870117188,
+            "y": 1142.84033203125,
+            "width": 43.11805725097656,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-90",
+          "text": "Broncode",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 234.31944274902344,
+            "y": 1159.2847900390625,
+            "width": 56.36111068725586,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-91",
+          "text": "Blokkeer advertenties",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 304.9583435058594,
+            "y": 1159.2847900390625,
+            "width": 131.92361450195312,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-92",
+          "text": "Mastodon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 167.0833282470703,
+            "y": 1181.673583984375,
+            "width": 56.52777862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-93",
+          "text": "GitHub",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 237.88888549804688,
+            "y": 1181.673583984375,
+            "width": 39.51388931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-94",
+          "text": "Discord",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 291.6805725097656,
+            "y": 1181.673583984375,
+            "width": 42.36111068725586,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-95",
+          "text": "Bluesky",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348.3194580078125,
+            "y": 1181.673583984375,
+            "width": 42.99305725097656,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-96",
+          "text": "YouTube",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 405.59027099609375,
+            "y": 1181.673583984375,
+            "width": 48.09722137451172,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-97",
+          "text": "Twitch",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 467.96527099609375,
+            "y": 1181.673583984375,
+            "width": 36.15972137451172,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "color(srgb 0.37 0.37 0.37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 235, 233)",
+            "fontSize": 11.9,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "color(srgb 0.37 0.37 0.37)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://lichess.org/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://lichess.org/",
+  "captured_at": "2026-11-03T15:06:03.002406+00:00",
+  "cookies": [
+    {
+      "name": "lila2",
+      "domain": ".lichess.org",
+      "path": "/",
+      "expires": 1828278355.623049,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://lichess.org",
+      "localKeys": [
+        "surl18",
+        "playerCounter",
+        "surl18--bd"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://lichess.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.554361+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/css/lib.theme.all.2616f249.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.660681+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/css/site.e568daa5.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.667858+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/css/lobby.bd3aa567.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.668935+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/lichess.8c5aace8.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.669453+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/noto-sans-latin.086bfcad.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.670269+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/roboto-latin.20b535fa.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.671111+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/lichess-chess.02d5eb8f.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.671955+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/brown.d4a5fe34.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.678345+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/manifest.4e79f6f9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.679618+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/i18n/site.nl-NL.90663af3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.680741+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/i18n/timeago.nl-NL.232f7442.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.681865+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/i18n/preferences.nl-NL.c58b1d41.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.682802+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/i18n/variant.nl-NL.05800fbb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.683736+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/site.ZTMNNDLS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.684584+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.WBXB2KLO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.685440+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.5TZF4TIM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.686268+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.LR4IX3B7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.687129+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.ZCYKSOOW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.688062+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.JHEY5H3W.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.689340+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.P2KHB2MX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.690188+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.A4TIFLFO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.690992+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.RKXUA6CO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.691908+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.QF3FOUVW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.692726+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.7BTNHKB7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.694145+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.KN2SVXBL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.695195+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.C6ZBQ5OX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.696051+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.GNHOY3YV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.696885+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.5ZD55P5T.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.697682+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.FNESZ7M2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.698497+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.7SRJHU6I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.699283+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.ESLWIGQL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.700344+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.TCSZ7X4Z.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.701212+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.F3OXIU53.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.702034+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.LE4HQ5U6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.702800+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.UPGSM6ER.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.703582+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.CVAC3EKT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.704365+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.7ETH6MJF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.705189+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.VM6PD2NZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.706022+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.OZU3XCSV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.706814+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.P3MBULVA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.707615+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.KP33JN6G.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.708387+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.F3RV2MCN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.709341+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.7SZQKKEJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.710097+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.BVGQPJTT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.710931+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.E3TNULC6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.711739+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lobby.NGFW5LMI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.712594+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.MHO4X6LZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.713374+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.WKOVLVUZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.714369+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.IDTEKKFS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.715150+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.PRI5FJWB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.715898+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.5NGVJFIJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.716593+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/lib.BXR6YZEG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.717395+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/cash.min.cbb7928a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.789246+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/wK.09837f1f.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.789872+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/wQ.9c0a960b.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.790951+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/wR.05746153.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.791921+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/wB.8bf4f38c.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.792971+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/wN.43d8bed9.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.793946+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/wP.a8bd79f3.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.795697+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/bK.2dc3caba.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.796927+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/bQ.2d0162d1.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.797843+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/bR.5928b869.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.798634+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/bB.48ff9dba.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.799321+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/bN.72e1565f.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.800003+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/bP.93e11e46.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.800764+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/hashed/fire-silhouette.70958eda.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.802510+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.803513+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.804382+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.805204+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.805965+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.806797+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.807579+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.808391+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.809154+00:00"
+    },
+    {
+      "url": "https://image.lichess.org/display",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.809906+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/______5/flair/img/objects.card-file-box.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.810603+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/______5/flair/img/activity.party-popper.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.811376+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/______5/flair/img/objects.studio-microphone.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.812498+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/______5/flair/img/symbols.lichess-4545-flag.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.813267+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/______5/flair/img/activity.jack-o-lantern.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.814010+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/______5/flair/img/activity.lichess-bullet.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.814853+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/______5/flair/img/symbols.white-star.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.815794+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/logo/lichess-favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.946135+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/logo/lichess-favicon-64.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.989098+00:00"
+    },
+    {
+      "url": "https://lichess.org/assets/compiled/serviceWorker.KTBWYOV6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:55.993590+00:00"
+    },
+    {
+      "url": "https://lichess.org/player-count",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:05:57.510260+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

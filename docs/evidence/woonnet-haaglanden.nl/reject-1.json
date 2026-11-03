@@ -1,0 +1,147 @@
+{
+  "frames": [
+    {
+      "url": "https://www.woonnet-haaglanden.nl/",
+      "title": "Woonnet Haaglanden",
+      "text": "Hoog contrast\nMenu\nZoeken\nInschrijven\nInloggen\nZoek en vind je huurwoning\nBekijk het aanbod\nZo werkt het\nSpelregels\nWachttijd\nApp\nBetalen\nHuurinkomens­tabel\nContact\nMeeverhuizende personen\n\nReageer je op woningen en heb je meeverhuizende personen op je inschrijving? Let dan goed op! Vanaf 1 januari 2027 veranderen de regels wie er op je inschrijving mag staan. Lees meer over deze veranderingen en klik verder.\n\nBekijk de infographic\nKlik hier voor de veelgestelde vragen\nWijzigingen in de Spelregels\n\nDe spelregels en inschrijfvoorwaarden zijn per 1 juli 2026 gewijzigd. In deze infographic vind je de belangrijkste wijzigingen en wat deze voor jouw inschrijving of reacties op woningen kunnen betekenen. Lees welke regels zijn aangepast voor woningzoekenden op Woonnet Haaglanden.\n\nLees hier de regels\nDe seniorenmakelaar kan met je meedenken\n\nWil je verhuizen naar een woning die beter past bij je huidige of toekomstige woonwensen? De seniorenmakelaar informeert en adviseert je over de mogelijkheden om te verhuizen naar een woning die beter bij je past.\n\nKlik hier voor meer informatie\nNieuws\nNieuwe landelijke website helpt woningzoekenden sneller naar juiste verhuurwebsite voor sociale huurwoningen\n21 september 2026\nBelangrijke veranderingen per 2026 – zorg dat je gegevens kloppen\n30 december 2025\nSeniorenmakelaars kunnen eventueel ondersteunen bij doorstroming naar een gelijkvloerse woning\n22 december 2025\nBekijk nieuwsoverzicht\nWaarmee kunnen wij je helpen?\n\nOp deze website staat het gezamenlijke aanbod van alle woningcorporaties met woningbezit in de regio Haaglanden.\n\nGebruikersnaam vergeten\nWachtwoord vergeten\nVraag & Antwoord\nOnlangs verhuurd\nPrivacy\nCookies\nDisclaimer\nToegankeljikheid",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Open het cookie-instellingen widget",
+          "tag": "BUTTON",
+          "context": "Hoog contrast\nMenu\nZoeken\nInschrijven\nInloggen\nZoek en vind je huurwoning\nBekijk het aanbod\nZo werkt het\nSpelregels\nWachttijd\nApp\nBetalen\nHuurinkomens­tabel\nContact\nMeeverhuizende personen\n\nReageer je op woningen en heb je meeverhuizende personen op je inschrijving? Let dan goed op! Vanaf 1 januari 2027 veranderen de regels wie er op je inschrijving mag staan. Lees meer over deze veranderingen en ",
+          "box": {
+            "x": 10,
+            "y": 842,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.woonnet-haaglanden.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.woonnet-haaglanden.nl/",
+  "captured_at": "2026-11-03T15:25:28.463274+00:00",
+  "cookies": [
+    {
+      "name": "__Host-PHPSESSID",
+      "domain": "www.woonnet-haaglanden.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.woonnet-haaglanden.nl",
+      "path": "/",
+      "expires": 1809357921,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.woonnet-haaglanden.nl",
+      "localKeys": [
+        "i18nextLng"
+      ],
+      "sessionKeys": [
+        "lastUrl",
+        "currentUrl"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "i18nextLng"
+      ],
+      "sessionKeys": [
+        "lastUrl",
+        "currentUrl"
+      ]
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.eu",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://consent.cookiebot.eu/logconsent.ashx",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:21.436442+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/Scripts/widgetIcon.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:21.535027+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/71fdeae0-9a00-4814-bc14-d5e891feef7b/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:21.538060+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

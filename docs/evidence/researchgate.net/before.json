@@ -1,0 +1,226 @@
+{
+  "frames": [
+    {
+      "url": "https://www.researchgate.net/",
+      "title": "researchgate.net",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.researchgate.net/"
+    },
+    {
+      "url": "https://geo.captcha-delivery.com/captcha/",
+      "title": "Je bent geblokkeerd",
+      "text": "Toegang is tijdelijk beperkt\n\nWaarom deze blokkade? Iets in het gedrag van de browser trok onze aandacht.\n\nVerschillende mogelijkheden:\n\n je surft en klikt met bovenmenselijke snelheid\n iets op je computer blokkeert de werking van javascript\n u er zit een robot op hetzelfde netwerk (IP [IP redacted]) als jij\n\nProblemen om op de website te komen? Neem contact op met de helpdesk\n\nID: ca03f15e-9f02-34e7-747b-d62aa32266a2",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Neem contact op met de helpdesk",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 650.326416015625,
+            "y": 593.1180419921875,
+            "width": 212.9652862548828,
+            "height": 16.88888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 14,
+            "fontWeight": "100",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 1
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://geo.captcha-delivery.com/captcha/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.researchgate.net/",
+  "captured_at": "2026-11-03T14:58:26.718886+00:00",
+  "cookies": [
+    {
+      "name": "datadome",
+      "domain": ".researchgate.net",
+      "path": "/",
+      "expires": 1825253899.572138,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cfuvid",
+      "domain": ".researchgate.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".researchgate.net",
+      "path": "/",
+      "expires": 1825253899.829354,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".researchgate.net",
+      "path": "/",
+      "expires": 1793719699.829448,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.researchgate.net",
+      "localKeys": [],
+      "sessionKeys": [
+        "ddOriginalReferrer"
+      ]
+    },
+    {
+      "origin": "https://geo.captcha-delivery.com",
+      "localKeys": [
+        "datadome_ets2B205E52288E6D0CF00A1BB40B7A18"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": [
+        "ddOriginalReferrer"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://researchgate.net/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:19.454924+00:00"
+    },
+    {
+      "url": "https://www.researchgate.net/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:19.515437+00:00"
+    },
+    {
+      "url": "https://ct.captcha-delivery.com/i.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:19.594835+00:00"
+    },
+    {
+      "url": "https://geo.captcha-delivery.com/interstitial/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:19.658597+00:00"
+    },
+    {
+      "url": "https://www.researchgate.net/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:19.660349+00:00"
+    },
+    {
+      "url": "https://www.researchgate.net/cdn-cgi/challenge-platform/h/g/scripts/jsd/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:19.704994+00:00"
+    },
+    {
+      "url": "https://ct.captcha-delivery.com/interstitial.1.35.0.202611030.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:19.726351+00:00"
+    },
+    {
+      "url": "https://www.researchgate.net/cdn-cgi/challenge-platform/h/g/jsd/oneshot/5c2e6b612edd/0.20060518612290823:1793715035:5JHET6w2jmmEqwhOiCIPZEiy1N_6bzL06xkg-VfUMYA/a54c3c877bdafeb0",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:19.796368+00:00"
+    },
+    {
+      "url": "https://geo.captcha-delivery.com/interstitial/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:20.114872+00:00"
+    },
+    {
+      "url": "https://geo.captcha-delivery.com/captcha/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:20.140196+00:00"
+    },
+    {
+      "url": "https://static.captcha-delivery.com/captcha/assets/tpl/6dc485c0c428c35b53577b146dc6f9179f55ef9ad41b327a2a179998839364bf/index.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:20.230039+00:00"
+    },
+    {
+      "url": "https://static.captcha-delivery.com/common/fonts/roboto/font-face.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:20.230741+00:00"
+    },
+    {
+      "url": "https://static.captcha-delivery.com/captcha/assets/set/4818807655cc541430df555871066f3d0237831c/logo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:20.231071+00:00"
+    },
+    {
+      "url": "https://static.captcha-delivery.com/common/fonts/roboto/roboto.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:20.294026+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400
+}

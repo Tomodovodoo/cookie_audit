@@ -1,7 +1,7 @@
 {
   "frames": [
     {
-      "url": "https://www.bol.com/",
+      "url": "https://www.bol.com/nl/nl/",
       "title": "bol",
       "text": "[Block-page text omitted to protect network identifiers.]",
       "controls": [],
@@ -11,18 +11,23 @@
         "width": 1365,
         "height": 900
       },
-      "frame_url": "https://www.bol.com/"
+      "frame_id": "bdf5dae4e70f4dc38cbe5cc7e1d7d7e9",
+      "frame_url": "https://www.bol.com/nl/nl/"
     }
   ],
   "frame_errors": [],
-  "url": "https://www.bol.com/",
-  "captured_at": "2026-11-03T14:53:42.471996+00:00",
+  "url": "https://www.bol.com/nl/nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 403,
+  "captured_at": "2026-11-03T15:37:25.185819+00:00",
   "cookies": [
     {
       "name": "sbsd_o",
       "domain": ".bol.com",
       "path": "/",
-      "expires": 1793804015.14491,
+      "expires": 1793806637.409659,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -31,7 +36,7 @@
       "name": "bm_lso",
       "domain": ".www.bol.com",
       "path": "/",
-      "expires": 1796309615,
+      "expires": 1796312238,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -40,7 +45,7 @@
       "name": "sbsd_c",
       "domain": ".bol.com",
       "path": "/",
-      "expires": 1793718276.066153,
+      "expires": 1793720897.452022,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -49,7 +54,7 @@
       "name": "ak_bmsc",
       "domain": ".bol.com",
       "path": "/",
-      "expires": 1793724816.066262,
+      "expires": 1793727441.452106,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
@@ -58,7 +63,7 @@
       "name": "sbsd",
       "domain": ".bol.com",
       "path": "/",
-      "expires": 1796396017.008282,
+      "expires": 1796398642.687893,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -67,7 +72,7 @@
       "name": "bm_sv",
       "domain": ".bol.com",
       "path": "/",
-      "expires": 1793724817.008406,
+      "expires": 1793727441.688122,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -84,66 +89,60 @@
   ],
   "requests": [
     {
-      "url": "https://bol.com/",
+      "url": "https://www.bol.com/nl/nl/",
       "resource_type": "document",
       "method": "GET",
-      "at": "2026-11-03T14:53:34.958748+00:00"
+      "at": "2026-11-03T15:37:17.069832+00:00"
     },
     {
-      "url": "https://www.bol.com/",
-      "resource_type": "document",
-      "method": "GET",
-      "at": "2026-11-03T14:53:34.990885+00:00"
-    },
-    {
-      "url": "https://www.bol.com/.well-known/sbsd/0a2717",
+      "url": "https://www.bol.com/.well-known/sbsd/dcc727",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:35.164869+00:00"
+      "at": "2026-11-03T15:37:17.561496+00:00"
     },
     {
-      "url": "https://www.bol.com/.well-known/sbsd/0a2717",
+      "url": "https://www.bol.com/.well-known/sbsd/dcc727",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:53:35.986027+00:00"
+      "at": "2026-11-03T15:37:21.299664+00:00"
     },
     {
-      "url": "https://www.bol.com/",
+      "url": "https://www.bol.com/nl/nl/",
       "resource_type": "document",
       "method": "GET",
-      "at": "2026-11-03T14:53:36.076115+00:00"
+      "at": "2026-11-03T15:37:21.553742+00:00"
     },
     {
-      "url": "https://www.bol.com/.well-known/sbsd/0a2717",
+      "url": "https://www.bol.com/.well-known/sbsd/dcc727",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:36.176691+00:00"
+      "at": "2026-11-03T15:37:21.707573+00:00"
     },
     {
       "url": "https://assets.s-bol.com/fonts/Produkt-Bold-Web.woff2",
       "resource_type": "font",
       "method": "GET",
-      "at": "2026-11-03T14:53:36.187847+00:00"
+      "at": "2026-11-03T15:37:21.728905+00:00"
     },
     {
       "url": "https://assets.s-bol.com/fonts/Graphik-Regular-Web.woff2",
       "resource_type": "font",
       "method": "GET",
-      "at": "2026-11-03T14:53:36.188276+00:00"
+      "at": "2026-11-03T15:37:21.737472+00:00"
     },
     {
-      "url": "https://www.bol.com/.well-known/sbsd/0a2717",
+      "url": "https://www.bol.com/.well-known/sbsd/dcc727",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:53:36.675421+00:00"
+      "at": "2026-11-03T15:37:22.561879+00:00"
     }
   ],
   "tracking": {
-    "status": "pass",
-    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+    "status": "unknown",
+    "reason": "A block or incomplete page cannot establish absence of tracking."
   },
   "signals": [],
   "uncertain_signals": [],
-  "context_excerpt_limit": 400,
-  "blocked": true
+  "blocked": true,
+  "context_excerpt_limit": 400
 }

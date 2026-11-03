@@ -5,7 +5,9 @@ from audit import ROOT,save,sanitise_state
 def main():
     archived=0;count=0
     for result_path in (ROOT/'docs/results').glob('*.json'):
-        row=json.loads(result_path.read_text(encoding='utf-8'))
+        row=sanitise_state(json.loads(result_path.read_text(encoding='utf-8')))
+        if row.get('evidence') and not (ROOT/'docs'/row['evidence']).exists():row.pop('evidence')
+        save(result_path,row)
         folder=ROOT/'docs/evidence'/row['domain']
         if not folder.exists():continue
         keep=set()

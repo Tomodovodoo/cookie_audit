@@ -1,0 +1,209 @@
+{
+  "frames": [
+    {
+      "url": "https://www.cardmarket.com/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.cardmarket.com/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/7m5kp/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/7m5kp/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.cardmarket.com/",
+  "captured_at": "2026-11-03T15:13:24.112033+00:00",
+  "cookies": [
+    {
+      "name": "cf_chl_rc_m",
+      "domain": "www.cardmarket.com",
+      "path": "/",
+      "expires": 1793722397,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".cardmarket.com",
+      "path": "/",
+      "expires": 1793720599.570436,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.cardmarket.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://cardmarket.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:16.659872+00:00"
+    },
+    {
+      "url": "https://www.cardmarket.com//",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:16.815082+00:00"
+    },
+    {
+      "url": "https://cardmarket.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:16.931464+00:00"
+    },
+    {
+      "url": "https://www.cardmarket.com//",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:16.991736+00:00"
+    },
+    {
+      "url": "https://www.cardmarket.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:17.088278+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:17.299362+00:00"
+    },
+    {
+      "url": "https://www.cardmarket.com/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c5270aca0fa7b/Q_MoQJfp84CipgiVH1AhEEF9TC3dgkkE.HJ11mhR7yA-1793718796-1.2.1.1-NrneD2VDL1ERn94Lr8aFRrIgj.ZUsabV5Jz01JAEt7dGeihBgmOuobmU6obrgAxv",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:17.349750+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/jkh7g/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:17.443134+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c52739e534c4d/ChMpIKvGCiI7BpneLBC2U1fhiZB4q-QExHUebsyIJWKFnY-G7qHGN4JXsXoh-LV33mH_zFVhycKKF5rwUYVk0Ac7kFb_xV5eOw44UjHxM7UeNUWUMN4Ec6VfHzfkmUNCig",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:17.693728+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c52739e534c4d/1793718797634/4edbd7c371048a878e2555151b82d175ea723d1be332e4c242492cd16011610a/CqjKtnNPKjc8UcflhWYylm_ZfxW2WLAkmuS8VNppA-fN7ushZE9Yl6ji8luwXrRgUZxZTMYXlPV55iyoqTviIY8U9fBwY0kEOFv7my5GSTvSCRgCxamTYO--vED9h5i_t3pkdfYc_LHALDqhL85iYH4fN837P_5XZz650PLjwGVDYABc7bCE59EjVvbrnimJ-8VqLpOfEeSJH9BHNkzABGfJ1sw4EC5s5mIw-CC1vuFpv0VFtN5yx568fjblG5AAOmjSJKZnvjDFBA4Tee4Blr6-JEVZzUAQjM2S9LhCB0e7CVGiqZh3vr6MVz-vtpqTF1jaVy3FaU_dRbGemgvSejguWiGXrFKF0sgzmB2TP2gdt7iJ9AaPwXlTGL_K1DHdSXB4d3N3jQsznzulWVAMZ1MkwpzMWgv7S9MMnk8hdDC211lItU4ban3RhZEEsAOkrmeeTS34YeTZcpyDehv1Ox-Z0ssTHl--PhniqCY87cWi3pqo31en5SDZ0NqQ8JR6LuT07PaSmy-_tbrn0R6JakMZEQYlEwaii-FvnnBS5y68eEuwVdsIvpl9eEPkYA1WfwJtaM0dDOPkjTLZp4rjXX7yRep7eYCoiiEsMuoVCtPc6Dt32lsVsuUOgN7u9LU8ri28nZBtQWLhq3SuCWMmG5zq5AA",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:18.020224+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c52739e534c4d/ChMpIKvGCiI7BpneLBC2U1fhiZB4q-QExHUebsyIJWKFnY-G7qHGN4JXsXoh-LV33mH_zFVhycKKF5rwUYVk0Ac7kFb_xV5eOw44UjHxM7UeNUWUMN4Ec6VfHzfkmUNCig",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:18.032084+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c52739e534c4d/1793718797640/CjFlfwRBOdov4IECYo_xAszLZKhcgDeKLAKpHZZqbHNHOrt5BVc9is3E8rNylVIFWayos4nvu4Zli0MSH2IG2282CtZIg8QAl23KmAk5kkhhZpIci_sclQxFST4kOXEuyaArbjlqdxc2yQY7g-jukF_zGaQISqGAoUTaOeGwnR9ydTpieXjVtkb4ybssusTe1yg8IvLtXdbzH2xVtNYNtM98RYLsHaF_UZn3VS3wah4Gz3Ib7qOSBcioc0Mh3komqzNhTj0MPwltnXuTbd6IqtUdnoqKT5SRnHQ3XDC1lTH9P9ma7ZIneArR1eM84oQ_MfITre1-qanhrCCQuFK-G4MOIQOY3_BqJwvVxZwBcXyOgPdQ4kZVv7DARfyiev7Jd0--GFnywjTj3Sw-AabJq51oHufxBy8c-i3NnIyxV-HwGKxd5pf9Ya11Sy2Xc4nTSJRcXV4rNFgNMFtUBAHuQ0KU6LodCft-oDR68rXc8NsGXgEMDj71OnKQHcF677LiIUPbPUBNXUzXjAbfxoMuIN1S1AHgWFcrqaPpd395zUXCtJ3xXfXZMWUts976aeh6YhbUSoUBsdXJNN0OeifZvt4Krg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:19.232487+00:00"
+    },
+    {
+      "url": "https://www.cardmarket.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:19.248515+00:00"
+    },
+    {
+      "url": "https://www.cardmarket.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:19.305298+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:19.507449+00:00"
+    },
+    {
+      "url": "https://www.cardmarket.com/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c527ed978fa7b/XfuWGHgbkc0h1n7fYNfuBn.SJ0MfQoZ2eKSFrb66FuY-1793718799-1.2.1.1-3VaIABV8ez9AN9bH5YcbrE1281YoDOoWy8Nhe7R8BC8gmwIFU.c7rV_UMYTAArft",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:19.543147+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/7m5kp/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:19.669759+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c52817c7c1717/Cn6wxnlpsPIstaRvjJ7bn7QxH2hx4WCtiQsCU6eBF0HsyMJE5RUPpsykDCimbZF1826LQkE24xXZvY79cQ0M9rhz_cbOwWysaQHpt6kzqODKnmTykeOFNhfnLAefZld0Rg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:20.079858+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c52817c7c1717/Cn6wxnlpsPIstaRvjJ7bn7QxH2hx4WCtiQsCU6eBF0HsyMJE5RUPpsykDCimbZF1826LQkE24xXZvY79cQ0M9rhz_cbOwWysaQHpt6kzqODKnmTykeOFNhfnLAefZld0Rg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:20.456771+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c52817c7c1717/1793718800029/c7e2d8cfff91e3593bdea810013f10e5fbfc5d653361a8166ecceb021f21e829/Ch9MqLFmP9hk2ZdjuQdYZIZ8oYRhvy88Y4X4ZKarJPb6p6DWWq9BMCWgmFYm4-5C6MqdxwX5yAqxZ5Qz7cdjMsqwzgGPaMT_XXU-6nnz_-61FflerDIFZmg9WwLUzN-NE0-qNML5uF_goObMC7USmnxHdFRr_781q_LWHe0zHvYEanNw2d1VgPWtMQlVK0nKNyG7s6Pxhi1HWgltJDK9WKUvLwNvv5QWfJ8gJK5mSOtReElItU0NPY4lJF0m3TVSFHWOjiLG71s3RLkoFfCgCNr70mH8H1WNLM6g_ENASDVeMo7oSCEQEhAhcAAmeN-A7Zae8BQLyxhODFQ3Z3XGfpqzvXWRqqe9nVwj47pauosj1_uoYz2XlIaVy94MOYuBJmBsV9CSejU53rR_JkT-wziZA8P1QvDHoufcp9pZrx1An0AHJBjsdPw3dKzhFmHiZ_jU-bcHZLl_ptxbIOWr3dZtbCuI5I01tj6UKC2e5aj6iKTaISjpU9ca3Kdu8osZEpyr-NnJe4IZ1kOh5VSbfK1NJRz5iExusL97prqDifSu2Rs-rAT1f0rGjTzCUrK9Go206Ftw9G3-7h6ecBpPGrLpfGF_LXs5JvGTGxfF1hm_EuD6gtKuRrRuE7vFqsAqlIJhVgUV_jEGjrKURjYzCEC5APA",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:20.464688+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c52817c7c1717/1793718800029/ChlfqP9SdU0KrbNvZCPKfxZJEDFy4hNZTOgf9HzPBbtXMrNKnooJzUIxT_BrczyS43LPsA0IIPUwCp8RwtfwZhKRjcnIJGPbgB_AshTVSkUpSgr3mb0uah5h9x6UKvTUJ4AZxynXgruklHOJpJTFzKPVPhAkCkmCEfFn5Zn3o0M1wfVu0rO-BFKffq_jMTDiW-wAcY7vYXQ50cCLZJgp4X4S7bq9Ld0lYqXoNnfkWuBI3Ikn7OMahicUGzNpFpuo-g_sPrePFFGP5EqllpFdOXHEIGhHJvYmehHxn_2vSqzdY4-1vqvU5jktRPbf8nqlKF152kyJH6yVKGLlgk4uAB4rgUTk8SBV58ryl85jfEyFbeZmqpU0AhU0s3Ywf_o88Kmo2FTT2Rlt2nQqW2NBiGMgu4AxDWzobsS6y5_nEI2YBGyVRplrHZ3sbB2kUbU-IwcFj3NKUnCO6swhE8Om_p1Q6uZ6tnlE5zSN4Q-BUZhPuGFUR3zxaRCqc4MucoRM3Lj1mcYu4DSOOH6RKOVxW_kQHIR7jb1qDHMU2Ybo7FpK0NSNWNEzIC3Pfo-Mv4UuMH95MWl9oYFBcuoIyXeyrAWSjA",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:20.510654+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c52817c7c1717/Cn6wxnlpsPIstaRvjJ7bn7QxH2hx4WCtiQsCU6eBF0HsyMJE5RUPpsykDCimbZF1826LQkE24xXZvY79cQ0M9rhz_cbOwWysaQHpt6kzqODKnmTykeOFNhfnLAefZld0Rg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:21.430755+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400,
+  "blocked": true
+}

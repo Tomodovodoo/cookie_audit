@@ -1,0 +1,140 @@
+{
+  "frames": [
+    {
+      "url": "https://miljuschka.nl/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://miljuschka.nl/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/qpcaa/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/qpcaa/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://miljuschka.nl/",
+  "captured_at": "2026-11-03T15:23:16.275072+00:00",
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "domain": ".miljuschka.nl",
+      "path": "/",
+      "expires": 1793721189.362528,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://miljuschka.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://miljuschka.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:23:08.478864+00:00"
+    },
+    {
+      "url": "https://miljuschka.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:23:08.623540+00:00"
+    },
+    {
+      "url": "https://miljuschka.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:23:08.740033+00:00"
+    },
+    {
+      "url": "https://miljuschka.nl/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:23:08.851051+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:23:09.247852+00:00"
+    },
+    {
+      "url": "https://miljuschka.nl/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c60e32972d934/ucvG6soRMQrVBj6dlZ8lAl9cphujlJfaCP0l3TjI0do-1793719388-1.2.1.1-MkBfJG.MySbzGhK7z7qKp2QRGSIk8VXV4Z35AWlu1BnMy0phjjnW1JYsTdl7YkBL",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:23:09.299030+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/qpcaa/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:23:09.509241+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c60e81d740be1/CqtxvoP1iNTcuFwl1WdarBZUOzID9njMMANZRJNE6_jPuXSQVtrvNSPy_aNrFIJUpsJD-8xLAHmuWEIXiU_K8UfArbbvI5BTdjlKOJ06c8Yb4EOs6LGOy8FK-LutXnwXGg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:23:10.298727+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c60e81d740be1/1793719390926/86207f2111f338eb48691ac4de1ed008d96553940a9d598133b9f06ac0786b5b/CsGBvwEEfdpqpHdgEWeV6DguN74GHIleQjIkMGDaN1ScDi4cjRD48mPrWd9QSVtLfkodpOoyCLDv0Zc-pGjEzQvSizWwYlXw9dag7jndHtgAnXbwa9DzZsEnHhhepjL6LnC_bg-exsxfGSs0cSfB8u_xA-Svs9P-qqdoOlhJqAABrFaPWzdOJueV290kEvLQPjE1UvF_WhQeyrFzgFtUZmZLhQSFvJka4iXAloKBEI17QNlBLam8qUrjRzZECCOuCJKc_7g9T4qIF5rg4JbFYScFkAwes6shAOvFkmRXgc3BM87cjLHIe5TCQekxeLyzhBxG3gIwunJpPStxb94Cqw7s_4lglyPa6T2JxZf4bVuOnthz5NVdqyAfws27r_eLuNRsS92eZfdljk80fI_V4igTr5keI2Orj_CreW0VN6gOlNpb3CNFIMTD_8e5vpYlmczWYOgrhGCuSsyGfz3VIcigMsV_BNim_F5si-M6LRvAQRYmLEpsElFkMrwYMLxMocEeubPJ20sIBeCi_jrnFs_nleEeuxlRX7iAFB9LxXKS-AI0hQ-TH8czcKqTK-Qta65Vua094aQFjM9YFuXp1-9ZPBkVIcIGO-PBZf5VR72_9ZLjhxfx-BztD4SE2ZlQGgPBe2fqq72OTqBIhx9FsmdcACo",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:23:11.616122+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c60e81d740be1/CqtxvoP1iNTcuFwl1WdarBZUOzID9njMMANZRJNE6_jPuXSQVtrvNSPy_aNrFIJUpsJD-8xLAHmuWEIXiU_K8UfArbbvI5BTdjlKOJ06c8Yb4EOs6LGOy8FK-LutXnwXGg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:23:11.616535+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c60e81d740be1/1793719390931/CjVmkb8zjGGuYnBJKgSEHIi3xY_f1FqPVCGgWjU4bHZj1iFulaL35Jz9M2fU4rLjDgfxlnLeuukvvqJz373ep_SAtzboxFOG4FWClrXCiFWcwdJ4UigBT9AMAoZ5YhuDTiTUc6A6zVy5sK8AT8vyBqDiDqzv8WBaj6VYHx9mhdVjKpk6rfFqK33wX41xaGJrC-G5Xyah0BIo1IQqTPs_9heuQyysvFdnrkj4XAOUtLsnTvpFkf2sE0hRGprJX6kqmSyu15TEiUNYzQOn0h2xND640dbp-qqPAiUr9cs4WuOK5yaP1wrqn_CvavL0AFCrng14lyzjy513hlFsVHkeDxeGb_eQ21lEhpMxtjxMVGFujVEngeduuH-i3Kt68s6WA_9f-fM8vgyhcxEt2CJpW7xwtP3J6pxgXh3gs4yp2vNPbWs9djKYA89tu1IgRr46MYoLwPzK2b0_Izw9DLlBzNkblj-mdvXTOWiamVhSA9UlXFT1Y9UEtO2MlSWo70o7RSi1fhUWMhJ-5KhRYo9pIHY0OBg6GHhtogEgOIhX_XiwSEqgOm2vUG5r6d9cXDELMcBJxxFbbvaMNuLSrg933syD",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:23:11.992792+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c60e81d740be1/CqtxvoP1iNTcuFwl1WdarBZUOzID9njMMANZRJNE6_jPuXSQVtrvNSPy_aNrFIJUpsJD-8xLAHmuWEIXiU_K8UfArbbvI5BTdjlKOJ06c8Yb4EOs6LGOy8FK-LutXnwXGg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:23:14.672920+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

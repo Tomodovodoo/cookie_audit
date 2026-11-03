@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "url": "https://office365.com/",
+      "title": "Web App - Unavailable",
+      "text": "Error 403 - Forbidden\n\nThe web app you have attempted to reach has blocked your access.",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://office365.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://office365.com/",
+  "captured_at": "2026-11-03T15:02:25.989300+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://office365.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://office365.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:18.471001+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400
+}

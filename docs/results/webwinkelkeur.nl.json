@@ -1,0 +1,62 @@
+{
+  "rank": null,
+  "global_rank": 35554,
+  "domain": "webwinkelkeur.nl",
+  "name": "webwinkelkeur.nl",
+  "company": null,
+  "cohort": "Supplemental .nl global ranking",
+  "tested_at": "2026-11-03T15:35:05.218806+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:33:22.185051+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "fail",
+      "reason": "Accept is offered on the first layer; no direct refusal control was detected."
+    },
+    "prominence": {
+      "status": "fail",
+      "reason": "No refusal control detected alongside the first-layer accept control."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    }
+  },
+  "steps": [
+    {
+      "action": "settings",
+      "label": "Voorkeuren"
+    }
+  ],
+  "evidence": "evidence/webwinkelkeur.nl/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Webshop Keurmerk & Webwinkel Reviews: Vanaf €12.- per maand - WebwinkelKeur",
+  "rules_version": "0.2.0"
+}

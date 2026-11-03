@@ -21,6 +21,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -28,7 +30,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-1",
@@ -46,6 +49,8 @@
             "color": "rgb(36, 36, 36)",
             "background": "rgb(250, 187, 34)",
             "effectiveBackground": "rgb(250, 187, 34)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 15,
             "fontWeight": "600",
             "borderWidth": 1.77778,
@@ -53,7 +58,8 @@
             "padding": "4px 8px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-2",
@@ -71,6 +77,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -78,7 +86,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-3",
@@ -96,6 +105,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -103,7 +114,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-4",
@@ -121,6 +133,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -128,7 +142,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-5",
@@ -146,6 +161,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 14,
             "fontWeight": "700",
             "borderWidth": 0,
@@ -153,7 +170,8 @@
             "padding": "16px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-6",
@@ -171,6 +189,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgb(242, 242, 242)",
             "effectiveBackground": "rgb(242, 242, 242)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -178,7 +198,8 @@
             "padding": "16px 12px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-7",
@@ -196,6 +217,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -203,7 +226,8 @@
             "padding": "16px 16px 0px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-8",
@@ -221,6 +245,8 @@
             "color": "rgb(75, 98, 206)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0.888889,
@@ -228,7 +254,8 @@
             "padding": "4px 8px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-9",
@@ -246,6 +273,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0.888889,
@@ -253,7 +282,8 @@
             "padding": "4px 8px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-10",
@@ -271,6 +301,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -278,7 +310,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-11",
@@ -296,6 +329,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -303,7 +338,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-12",
@@ -321,6 +357,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -328,7 +366,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-13",
@@ -346,6 +385,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -353,7 +394,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-14",
@@ -371,6 +413,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -378,7 +422,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-15",
@@ -396,6 +441,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -403,7 +450,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-16",
@@ -421,6 +469,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -428,7 +478,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-17",
@@ -446,6 +497,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -453,7 +506,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-18",
@@ -471,6 +525,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -478,7 +534,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-19",
@@ -496,6 +553,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -503,7 +562,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-20",
@@ -521,6 +581,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -528,7 +590,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-21",
@@ -546,6 +609,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -553,7 +618,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-22",
@@ -571,6 +637,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -578,7 +646,8 @@
             "padding": "16px 16px 16px 2px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-23",
@@ -596,6 +665,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 15,
             "fontWeight": "600",
             "borderWidth": 0.888889,
@@ -603,7 +674,8 @@
             "padding": "1px 6px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-24",
@@ -621,6 +693,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 15,
             "fontWeight": "600",
             "borderWidth": 1.77778,
@@ -628,7 +702,8 @@
             "padding": "1px 6px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-25",
@@ -646,6 +721,8 @@
             "color": "rgb(36, 36, 36)",
             "background": "rgb(250, 187, 34)",
             "effectiveBackground": "rgb(250, 187, 34)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 15,
             "fontWeight": "600",
             "borderWidth": 1.77778,
@@ -653,7 +730,8 @@
             "padding": "1px 6px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         }
       ],
       "webdriver": false,
@@ -662,6 +740,7 @@
         "width": 1365,
         "height": 900
       },
+      "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e",
       "frame_url": "https://myprivacy.dpgmedia.nl/consent"
     },
     {
@@ -675,18 +754,23 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "d8ef630f2ef040debfdb671a5b128a50",
       "frame_url": "about:"
     }
   ],
   "frame_errors": [],
   "url": "https://myprivacy.dpgmedia.nl/consent",
-  "captured_at": "2026-11-03T15:00:57.874410+00:00",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:45:37.389792+00:00",
   "cookies": [
     {
       "name": "brand",
       "domain": "ad.nl",
       "path": "/",
-      "expires": 1801494043.275041,
+      "expires": 1801496720.999366,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -695,7 +779,7 @@
       "name": "brand",
       "domain": "www.ad.nl",
       "path": "/",
-      "expires": 1801494043.379074,
+      "expires": 1801496721.104415,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -704,7 +788,7 @@
       "name": "ak_bmsc",
       "domain": ".www.ad.nl",
       "path": "/",
-      "expires": 1793725243.379131,
+      "expires": 1793727921.104474,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
@@ -713,7 +797,7 @@
       "name": "bm_s",
       "domain": ".ad.nl",
       "path": "/",
-      "expires": 1796396443.379167,
+      "expires": 1796399121.104502,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -722,7 +806,7 @@
       "name": "bm_so",
       "domain": ".ad.nl",
       "path": "/",
-      "expires": 1793804443.379197,
+      "expires": 1793807121.104532,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -731,7 +815,7 @@
       "name": "xAuthId",
       "domain": "myprivacy.dpgmedia.nl",
       "path": "/",
-      "expires": 1827414043.535539,
+      "expires": 1827416721.250432,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -740,7 +824,7 @@
       "name": "authId",
       "domain": "myprivacy.dpgmedia.nl",
       "path": "/",
-      "expires": 1827414043.535605,
+      "expires": 1827416721.250492,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -749,7 +833,7 @@
       "name": "ak_bmsc",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1793725243.535627,
+      "expires": 1793727921.250526,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
@@ -758,7 +842,7 @@
       "name": "bm_sv",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1793725243.864779,
+      "expires": 1793727921.483875,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -767,7 +851,7 @@
       "name": "_sp_ses.e23f",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1793719850,
+      "expires": 1793722529,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -776,7 +860,7 @@
       "name": "sp",
       "domain": ".dpgmedia.net",
       "path": "/",
-      "expires": 1825254050.873297,
+      "expires": 1825256729.473139,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -785,7 +869,7 @@
       "name": "_sp_id.e23f",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1828278050.853406,
+      "expires": 1828280729.446236,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -812,7 +896,7 @@
       "url": "https://c.dpgmedia.net/a/b",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:00:50.851753+00:00"
+      "at": "2026-11-03T15:45:29.445203+00:00"
     }
   ],
   "tracking": {
@@ -821,6 +905,7 @@
   },
   "signals": [],
   "uncertain_signals": [],
+  "blocked": false,
   "screenshot": "reject-1.jpg",
   "context_excerpt_limit": 400
 }

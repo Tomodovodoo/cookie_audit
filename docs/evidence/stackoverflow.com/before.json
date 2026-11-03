@@ -1,0 +1,5416 @@
+{
+  "frames": [
+    {
+      "url": "https://stackoverflow.com/questions",
+      "title": "Newest Questions - Stack Overflow",
+      "text": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Questions\nAsk Question\n24,134,854 questions\nNewest\nActive\nBountied\nUnanswered\nMore\n Filter\nScore of 1\n1\nvote\n0 answers\n0\nanswers\n5 views\n5\nviews\nWeird behaviors with std::future in a DLL\nSo I have a C++ project that compiles to a DLL with a C style interface and have noticed that when debugging error handling that the async thread one of the classes creates ends up hanging and ...\nc++windowsdllc++17stdasync\njacob moore\n11\nreputation score 11\nasked 6 mins ago\nScore of -1\n-1\nvotes\n0 answers\n0\nanswers\n28 views\n28\nviews\nHow do I create a JS object (rather than an array) from HTML table values?\nI'm trying to get data to post to PHP, based on user input into a table where they can add and remove rows. Currently I'm using .get().map(), which gives me arrays, but I'm struggling to understand ...\n javascriptphphtmljquery\nEireni 'Fikia' Moutoussi\n19\nreputation score 19\nasked 21 mins ago\nScore of -1\n-1\nvotes\n0 answers\n0\nanswers\n14 views\n14\nviews\nSimilar Blocks on DWG can't be seelcted or doesn't have dbId after translation with Model derivative\nthis the second time I'm posting this question and I hope it isn't closed, I'm translating 2D DWG files (DWG 2018, ~50-100 MB, pure vector, no XREFs) with the APS Model Derivative API for display in ...\nautodesk-forgeautodesk-viewerautodeskautodesk-model-derivative\nAirFlight\n95\nreputation score 95\nasked 31 mins ago\nScore of 0\n0\nvotes\n1 answer\n1\nanswer\n11 views\n11\nviews\nvisOptions \"width\" and \"height\" are not respected\nWhen I specify the network's width and height as 100%, I expect my widget to cover the whole page. But the widget is placed inside a container of the class \"visNetwork html-widget html-fill-item ...\n rvisnetwork\nlailaps\n13.8k\nreputation score 13823\nasked 32 mins ago\nScore of -1\n-1\nvotes\n0 answers\n0\nanswers\n25 views\n25\nviews\nPython asyncio function sometimes returns None instead of the expected result [duplicate]\nI'm working on a Python application that uses asyncio to execute multiple asynchronous tasks. However, I'm experiencing an unexpected issue where some function calls return None, even though the ...\npythonpython-asyncio\nuser33272367\n11\nreputation score 11\nasked 44 mins ago\nScore of -5\n-5\nvotes\n0 answers\n0\nanswers\n25 views\n25\nviews\nJPA save inside rabbitmq listener\nI am trying to save an entity consumed inside a queue using rabbit mq. I have encountered some problems. First of all : The consumed event will give me an entity which already has an id. My user ...\nspring-boothibernatespring-data-jpaspring-rabbit\nMoldovan Alexandru\n1\nreputation score 1\nasked 53 mins ago\nScore of -4\n-4\nvotes\n0 answers\n0\nanswers\n34 views\n34\nviews\nIs it possible to change the font size of the Agent panel?\nI am wondering whether it is possible to change the font size of the content within the Agent panel in Android Studio. I tried the accessibility settings, but the font size changes for all elements.\nandroid-studio\nΓDΛ\n11.4k\nreputation score 11445\nasked 1 hour ago\nScore of 0\n0\nvotes\n1 answer\n1\nanswer\n96 views\n96\nviews\nHow to restrict Django REST Framework API endpoints based on user roles?\nenter image description here How can I implement centralized role-based access control for multiple Django REST Framework API endpoints without adding permission checks individually to every API view? ...\ndjangodjango-rest-frameworkpermissions\nuser33271381\n1\nreputation score 1\nasked 2 hours ago\nScore of -9\n-9\nvotes\n0 answers\n0\nanswers\n158 views\n158\nviews\npygame OOP display [closed]\nim using OOP to code my pygame visual novel project for school, but ive run into a problem where my code is working (i know bc pygame hasnt given me any errors and other parts of subroutines/methods/...\nooppygame\nAustine\n1\nreputation score 1\nasked 3 hours ago\nScore of -2\n-2\nvotes\n0 answers\n0\nanswers\n85 views\n85\nviews\nWhy is spring.config.import from application.yml not overridden by profile-specific configuration?\nI'm using Spring Boot 2.7 with Spring Cloud Vault and trying to understand how spring.config.import behaves when defined in profile-specific configuration files. My goal is to import different Vault ...\nspringspring-bootspring-cloud-vault-config\nMFH\n365\nreputation score 365\nasked 4 hours ago\nScore of 0\n0\nvotes\n0 answers\n0\nanswers\n84 views\n84\nviews\nOptimize kusto request query plan by moving filtering upstream?\nI am working on an Application Insights workbook. It will include many filters, for example: let isSuccessFilter = tobool('{isSuccessFilter:value}'); let resultCodesExcludeFilter = dynamic([{...\n kql\nfservantdev\n1,049\nreputation score 1049\nasked 5 hours ago\nScore of 0\n0\nvotes\n0 answers\n0\nanswers\n55 views\n55\nviews\nStatus of geo:asWKT on GeoSPARQL\nThe specification of geo:asWKT on GeoSPARQL is defined as a DatatypeProperty: :asWKT a rdf:Property, owl:DatatypeProperty ; rdfs:subPropertyOf :hasSerialization ; rdfs:domain :Geometry ; ...\nadviceowlprotegegeosparql\nHervé Girod\n665\nreputation score 665\nasked 5 hours ago\nScore of 3\n3\nvotes\n0 answers\n0\nanswers\n76 views\n76\nviews\nAn inspection cursor remains readable after its JDBC Statement is closed\nAn inspection-page cursor should be closed when its owning statement is disposed. With Apache IoTDB 2.0.10, JDBC driver 2.0.10, table dialect, and Java 17.0.9, I can still advance the cursor after ...\njavajdbcapache-iotdb\nSarah Turner\n76\nreputation score 76\nasked 6 hours ago\nScore of -1\n-1\nvotes\n1 answer\n1\nanswer\n76 views\n76\nviews\nstartTransition behaves differently if useTransition is used\nI am working through some React internals and here in \"Suspense with Transitions\" states when Suspense would show fallback and when it would not. I could read this: When a render suspends, ...\nreactjsreact-hooksreact-suspense\nMichał Turczyn\n42.6k\nreputation score 42595\nasked 6 hours ago\nScore of -5\n-5\nvotes\n0 answers\n0\nanswers\n92 views\n92\nviews\nRun gutter icons for markdown code blocks missing after update in IDEA\nAfter a recent update to IntelliJ IDEA, the run gutter icons (green triangles) for executing bash/shell code blocks inside Markdown files have disappeared. Here is what I have already tried and ...\nintellij-ideamarkdown\nDeathcore\n27\nreputation score 27\nasked 7 hours ago\n\n\n1\n2\n3\n4\n5\n…\n1608991\nNext\n15\n30\n50\nper page\nTry Stack Overflow for Agents\nVerified knowledge for the agentic era\n\nPaste this into your AI coding assistant:\n\nHelp me join Stack Overflow for Agents here. Read https://agents.stackoverflow.com/skill.md, then start onboarding.\n\nSupports Claude Code, Cursor, Codex, Windsurf and more.\n\nExplore Stack Overflow for Agents\nThe Overflow Blog\nIt’s ok that computers are (sometimes) better than us\nOh, your agents need OAuth2, too\nFeatured on Meta\nWe’ve reworked automatic question deletion. Let’s talk about why\nHow can we improve duplicate handling?\nPolicy: Generative AI (e.g., ChatGPT) is banned\nYou're doing it wrong: A plea for sanity in close voting\nCollectives\nsee all\nPHP\n19k Members\nJoin\nA collective where developers working with PHP can learn and connect about the open source scripting language.\nR Language\n17k Members\nJoin\nA collective where data scientists and AI researchers gather to find, share, and learn about R and other subtags like knitr and dplyr.\nOpenAI\n4k Members\nJoin\nA collective for developers utilizing OpenAI's foundational models and APIs to build, integrate, and innovate. The OpenAI Collective is organized and managed by the Stack Overflow community as a resource for developers.\nHot Network Questions\nWi-Fi stops working after sleep. Only a cold boot brings it back\nCan you hide a dwarf planet/planet in the Solar System?\nBurrows–Wheeler quine\nCalculating Safety Stock based on percentiles of real observations\nIs it acceptable to retrain a machine learning model after conference acceptance if the original weights were not saved?\nWhen tiling a walk in-shower, how can I ensure the linear drain doesn't protude above the tiles?\nDaniel 2:44 how should we understand the ‘Fifth Kingdom’?\nIn 2 Timothy 3:17, what is the interpretation for \"man of God\"? Is the reference general or specific to calling\nHow can this expression, obtained as a result of calculating an improper integral, be simplified?\nAre there academic situations in which artificial mathematical motivation has merit?\nHas loyalty to an institution become more highly valued than mobility?\nCan the white wire of 14/3 cable be used to supply power in a 3-way switch circuit?\nmore hot questions\nSTACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange Inc; user contributions licensed under CC BY-SA . rev 2026.11.2.47243\n\nWe care about your privacy\nWe and our 265 partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting Accept all enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting Necessary cookies only or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Customize settings link on the bottom of the webpage. Your choices will have effect within our Website. For more details, refer to our Privacy Policy.Cookie policy\nWe and our partners perform the following based on your settings:\n\nUse precise geolocation data. Actively scan device characteristics for identification. Understand audiences through statistics or combinations of data from different sources. Store and/or access information on a device. Develop and improve services. Create profiles to personalise content. Use limited data to select advertising. Measure content performance. Measure advertising performance. Use limited data to select content. Create profiles for personalised advertising. Use profiles to select personalised advertising. Use profiles to select personalised content.\nList of partners (vendors)\n\nUse precise geolocation data\nActively scan device characteristics for identification\nUnderstand audiences through statistics or combinations of data from different sources\nStore and/or access information on a device\nCreate profiles to personalise content\nDevelop and improve services\nUse limited data to select advertising\nMeasure content performance\nUse limited data to select content\nMeasure advertising performance\nCreate profiles for personalised advertising\nUse profiles to select personalised advertising\nUse profiles to select personalised content\nPersonalised advertising and content, advertising and content measurement, and audience research\nAccept all\nNecessary cookies only\nCustomize settings",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Stack Overflow Home",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 2.6666667461395264,
+            "width": 191,
+            "height": 52.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "About",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 234.11111450195312,
+            "y": 14.38888931274414,
+            "width": 62.07638931274414,
+            "height": 28.99305534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 107, 116)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 107, 116)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Products",
+          "tag": "BUTTON",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 300.1875,
+            "y": 14.38888931274414,
+            "width": 77.99305725097656,
+            "height": 28.99305534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 107, 116)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 107, 116)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Stack Internal",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 382.1805725097656,
+            "y": 14.38888931274414,
+            "width": 107.90972137451172,
+            "height": 28.99305534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 107, 116)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 107, 116)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Help Center and other resources",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 1090.8819580078125,
+            "y": 2.6666667461395264,
+            "width": 38,
+            "height": 52.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 107, 116)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 107, 116)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Site switcher",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 1128.8819580078125,
+            "y": 2.6666667461395264,
+            "width": 38,
+            "height": 52.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 107, 116)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 107, 116)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Log in",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 1166.8819580078125,
+            "y": 12.5,
+            "width": 58.02777862548828,
+            "height": 32.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "8px 10.4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Sign up",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 1228.9097900390625,
+            "y": 12.5,
+            "width": 66.2013931274414,
+            "height": 32.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(27, 117, 208)",
+            "effectiveBackground": "rgb(27, 117, 208)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10.4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 80,
+            "width": 164,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Questions",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 113,
+            "width": 164,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(12, 13, 14)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(12, 13, 14)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "AI Assist",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 146,
+            "width": 164,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Tags",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 178,
+            "width": 164,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Stack Overflow for Agents",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 235,
+            "width": 164,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Challenges",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 291,
+            "width": 164,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Chat",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 323,
+            "width": 164,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Articles",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 356,
+            "width": 164,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Users",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 388,
+            "width": 164,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Companies",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 445,
+            "width": 164,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Developer Story",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 43.11111068725586,
+            "y": 478,
+            "width": 164,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "COLLECTIVES",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 51.11111068725586,
+            "y": 543,
+            "width": 156,
+            "height": 14.38194465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 107, 116)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 107, 116)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Explore all Collectives",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 51.11111068725586,
+            "y": 581.0972290039062,
+            "width": 121.625,
+            "height": 27.27083396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 11,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Create a workspace",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 51.11111068725586,
+            "y": 852.326416015625,
+            "width": 148,
+            "height": 27.65972328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(27, 117, 208)",
+            "effectiveBackground": "rgb(27, 117, 208)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "6.6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Ask Question",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 860.6111450195312,
+            "y": 80,
+            "width": 98.5,
+            "height": 37.5694465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(27, 117, 208)",
+            "effectiveBackground": "rgb(27, 117, 208)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "10.4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Newest",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 530.1041870117188,
+            "y": 145.4583282470703,
+            "width": 61.70833206176758,
+            "height": 27.75694465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(227, 230, 232)",
+            "effectiveBackground": "rgb(227, 230, 232)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5.85px 9px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Active",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 591.8125,
+            "y": 145.4583282470703,
+            "width": 54.9375,
+            "height": 27.75694465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5.85px 9px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Bountied",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 646.75,
+            "y": 145.4583282470703,
+            "width": 71.33333587646484,
+            "height": 27.75694465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5.85px 9px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Unanswered",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 718.0833129882812,
+            "y": 145.4583282470703,
+            "width": 89.36805725097656,
+            "height": 27.75694465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5.85px 9px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "More",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 807.451416015625,
+            "y": 145.4583282470703,
+            "width": 63.3194465637207,
+            "height": 27.75694465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5.85px 22.5px 5.85px 9px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Filter",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 890.6597290039062,
+            "y": 141.93055725097656,
+            "width": 68.4513931274414,
+            "height": 34.8125
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "9.6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Weird behaviors with std::future in a DLL",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 204.9375,
+            "width": 302.15972900390625,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "c++",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 271.2569580078125,
+            "width": 32.5069465637207,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "windows",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 386.5069580078125,
+            "y": 271.2569580078125,
+            "width": 59.6319465637207,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "dll",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 452.1388854980469,
+            "y": 271.2569580078125,
+            "width": 24.02777862548828,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "c++17",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 482.1666564941406,
+            "y": 271.2569580078125,
+            "width": 46.3125,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "stdasync",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 534.4791870117188,
+            "y": 271.2569580078125,
+            "width": 58.32638931274414,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "jacob moore",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 762.3611450195312,
+            "y": 278.22222900390625,
+            "width": 66.77777862548828,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "How do I create a JS object (rather than an array) from HTML table values?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 329.0208435058594,
+            "width": 556.2986450195312,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "javascript",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 377.5625,
+            "y": 395.40972900390625,
+            "width": 63.8125,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "php",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 447.375,
+            "y": 395.40972900390625,
+            "width": 31.88888931274414,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "html",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 485.2638854980469,
+            "y": 395.40972900390625,
+            "width": 36.07638931274414,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "jquery",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 527.3402709960938,
+            "y": 395.40972900390625,
+            "width": 46.08333206176758,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "Eireni 'Fikia' Moutoussi",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 702.138916015625,
+            "y": 402.34027099609375,
+            "width": 120.53472137451172,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "Similar Blocks on DWG can't be seelcted or doesn't have dbId after translation with Model derivative",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 453.1736145019531,
+            "width": 499.6944580078125,
+            "height": 42.67361068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "autodesk-forge",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 541.7222290039062,
+            "width": 96.14583587646484,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "autodesk-viewer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 450.1458435058594,
+            "y": 541.7222290039062,
+            "width": 102.74305725097656,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "autodesk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 558.888916015625,
+            "y": 541.7222290039062,
+            "width": 61.36805725097656,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "autodesk-model-derivative",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 626.2569580078125,
+            "y": 541.7222290039062,
+            "width": 161.9583282470703,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "AirFlight",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 778.2569580078125,
+            "y": 577.6527709960938,
+            "width": 44.41666793823242,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-48",
+          "text": "visOptions \"width\" and \"height\" are not respected",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 623.4861450195312,
+            "width": 373.8611145019531,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-49",
+          "text": "r",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 377.5625,
+            "y": 689.875,
+            "width": 14.55555534362793,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-50",
+          "text": "visnetwork",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 398.1180725097656,
+            "y": 689.875,
+            "width": 71.72916412353516,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-51",
+          "text": "lailaps",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 772.7291870117188,
+            "y": 696.8055419921875,
+            "width": 33.07638931274414,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-52",
+          "text": "Python asyncio function sometimes returns None instead of the expected result [duplicate]",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 747.638916015625,
+            "width": 549.4930419921875,
+            "height": 42.67361068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-53",
+          "text": "python",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 836.1875,
+            "width": 50.1944465637207,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-54",
+          "text": "python-asyncio",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 404.1944580078125,
+            "y": 836.1875,
+            "width": 97.00694274902344,
+            "height": 23.93055534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-55",
+          "text": "user33272367",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 748.5902709960938,
+            "y": 843.1527709960938,
+            "width": 74.08333587646484,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-56",
+          "text": "JPA save inside rabbitmq listener",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 893.951416015625,
+            "width": 244.48611450195312,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-57",
+          "text": "spring-boot",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 960.2708129882812,
+            "width": 77.05555725097656,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-58",
+          "text": "hibernate",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 431.0555725097656,
+            "y": 960.2708129882812,
+            "width": 63.99305725097656,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-59",
+          "text": "spring-data-jpa",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 501.0486145019531,
+            "y": 960.2708129882812,
+            "width": 97.33333587646484,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-60",
+          "text": "spring-rabbit",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 604.3819580078125,
+            "y": 960.2708129882812,
+            "width": 84.47222137451172,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-61",
+          "text": "Moldovan Alexandru",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 719.4722290039062,
+            "y": 996.201416015625,
+            "width": 110.10416412353516,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-62",
+          "text": "Is it possible to change the font size of the Agent panel?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1042.0347900390625,
+            "width": 421.2430725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-63",
+          "text": "android-studio",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1108.3541259765625,
+            "width": 94.06944274902344,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-64",
+          "text": "ΓDΛ",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 790.9861450195312,
+            "y": 1115.3194580078125,
+            "width": 21.625,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-65",
+          "text": "How to restrict Django REST Framework API endpoints based on user roles?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1166.1180419921875,
+            "width": 566.5486450195312,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-66",
+          "text": "django",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1232.4375,
+            "width": 49.10416793823242,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-67",
+          "text": "django-rest-framework",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 403.1041564941406,
+            "y": 1232.4375,
+            "width": 141.0833282470703,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-68",
+          "text": "permissions",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 550.1875,
+            "y": 1232.4375,
+            "width": 76.77083587646484,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-69",
+          "text": "user33271381",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 757.2083129882812,
+            "y": 1239.40283203125,
+            "width": 74.08333587646484,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-70",
+          "text": "pygame OOP display [closed]",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1290.201416015625,
+            "width": 220.17361450195312,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-71",
+          "text": "oop",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1356.5208740234375,
+            "width": 31.89583396911621,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-72",
+          "text": "pygame",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 385.8958435058594,
+            "y": 1356.5208740234375,
+            "width": 54.93055725097656,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-73",
+          "text": "Austine",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 791.625,
+            "y": 1363.486083984375,
+            "width": 39.66666793823242,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-74",
+          "text": "Why is spring.config.import from application.yml not overridden by profile-specific configuration?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1414.2847900390625,
+            "width": 563.2916870117188,
+            "height": 42.67361068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-75",
+          "text": "spring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1502.8333740234375,
+            "width": 45.42361068725586,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-76",
+          "text": "spring-boot",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 399.4236145019531,
+            "y": 1502.8333740234375,
+            "width": 77.05555725097656,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-77",
+          "text": "spring-cloud-vault-config",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 482.4791564941406,
+            "y": 1502.8333740234375,
+            "width": 154.54861450195312,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-78",
+          "text": "MFH",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 792.326416015625,
+            "y": 1509.798583984375,
+            "width": 25.15972328186035,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-79",
+          "text": "Optimize kusto request query plan by moving filtering upstream?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1560.5972900390625,
+            "width": 488.5069580078125,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-80",
+          "text": "kql",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 377.5625,
+            "y": 1626.986083984375,
+            "width": 27.21527862548828,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-81",
+          "text": "fservantdev",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 746.2291870117188,
+            "y": 1633.9166259765625,
+            "width": 61.09722137451172,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-82",
+          "text": "Status of geo:asWKT on GeoSPARQL",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1684.75,
+            "width": 271.8958435058594,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-83",
+          "text": "advice",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1751.0694580078125,
+            "width": 65.83333587646484,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-84",
+          "text": "owl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 419.8333435058594,
+            "y": 1751.0694580078125,
+            "width": 30.09722328186035,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-85",
+          "text": "protege",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 455.9305725097656,
+            "y": 1751.0694580078125,
+            "width": 54.32638931274414,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-86",
+          "text": "geosparql",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 516.2569580078125,
+            "y": 1751.0694580078125,
+            "width": 65.59722137451172,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-87",
+          "text": "Hervé Girod",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 753.7986450195312,
+            "y": 1758.0347900390625,
+            "width": 63.6875,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-88",
+          "text": "An inspection cursor remains readable after its JDBC Statement is closed",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1808.8333740234375,
+            "width": 540.638916015625,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-89",
+          "text": "java",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1875.15283203125,
+            "width": 32.43055725097656,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-90",
+          "text": "jdbc",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 386.4305725097656,
+            "y": 1875.15283203125,
+            "width": 33.8194465637207,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-91",
+          "text": "apache-iotdb",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 426.25,
+            "y": 1875.15283203125,
+            "width": 84.59027862548828,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-92",
+          "text": "Sarah Turner",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 757.0625,
+            "y": 1882.1180419921875,
+            "width": 67.3263931274414,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-93",
+          "text": "startTransition behaves differently if useTransition is used",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1932.9166259765625,
+            "width": 425.84722900390625,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-94",
+          "text": "reactjs",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 1999.236083984375,
+            "width": 46.57638931274414,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-95",
+          "text": "react-hooks",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 400.5763854980469,
+            "y": 1999.236083984375,
+            "width": 76.08333587646484,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-96",
+          "text": "react-suspense",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 482.65972900390625,
+            "y": 1999.236083984375,
+            "width": 92.98611450195312,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-97",
+          "text": "Michał Turczyn",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 728.0069580078125,
+            "y": 2006.201416015625,
+            "width": 79.5138931274414,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-98",
+          "text": "Run gutter icons for markdown code blocks missing after update in IDEA",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 2057,
+            "width": 544.5208129882812,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-99",
+          "text": "intellij-idea",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 348,
+            "y": 2123.319580078125,
+            "width": 73.84722137451172,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-100",
+          "text": "markdown",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 427.84722900390625,
+            "y": 2123.319580078125,
+            "width": 70.19444274902344,
+            "height": 23.93055534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgb(241, 242, 243)",
+            "effectiveBackground": "rgb(241, 242, 243)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(241, 242, 243)",
+            "padding": "0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-101",
+          "text": "Deathcore",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 769.7083129882812,
+            "y": 2130.28466796875,
+            "width": 54.68055725097656,
+            "height": 12
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-102",
+          "text": "2",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 260.7916564941406,
+            "y": 2223.132080078125,
+            "width": 24.79166603088379,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-103",
+          "text": "3",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 289.5833435058594,
+            "y": 2223.132080078125,
+            "width": 24.79166603088379,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-104",
+          "text": "4",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 318.375,
+            "y": 2223.132080078125,
+            "width": 24.79166603088379,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-105",
+          "text": "5",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 347.1666564941406,
+            "y": 2223.132080078125,
+            "width": 24.79166603088379,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-106",
+          "text": "1608991",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 407.2708435058594,
+            "y": 2223.132080078125,
+            "width": 66.83333587646484,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-107",
+          "text": "Next",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 478.1041564941406,
+            "y": 2223.132080078125,
+            "width": 44.67361068725586,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-108",
+          "text": "15",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 782.701416015625,
+            "y": 2223.132080078125,
+            "width": 31.79861068725586,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(93, 45, 5)",
+            "effectiveBackground": "rgb(93, 45, 5)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-109",
+          "text": "30",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 818.5,
+            "y": 2223.132080078125,
+            "width": 31.79861068725586,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-110",
+          "text": "50",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 854.2986450195312,
+            "y": 2223.132080078125,
+            "width": 31.79861068725586,
+            "height": 26.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-111",
+          "text": "Copy onboarding snippet",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1228.3333740234375,
+            "y": 210.93055725097656,
+            "width": 25,
+            "height": 24.99305534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(167, 173, 180)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-112",
+          "text": "Explore Stack Overflow for Agents",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 1000,
+            "y": 327.3541564941406,
+            "width": 210.15972900390625,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(246, 246, 254)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-113",
+          "text": "It’s ok that computers are (sometimes) better than us",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1022.1805419921875,
+            "y": 420.6805725097656,
+            "width": 220.05555725097656,
+            "height": 32.54861068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(253, 247, 231)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-114",
+          "text": "Oh, your agents need OAuth2, too",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1022.1805419921875,
+            "y": 466.6666564941406,
+            "width": 196.9791717529297,
+            "height": 15.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(253, 247, 231)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-115",
+          "text": "We’ve reworked automatic question deletion. Let’s talk about why",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1022.1805419921875,
+            "y": 539.5486450195312,
+            "width": 206.1041717529297,
+            "height": 32.54861068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(253, 247, 231)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-116",
+          "text": "How can we improve duplicate handling?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1022.1805419921875,
+            "y": 585.5347290039062,
+            "width": 236.26388549804688,
+            "height": 15.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(253, 247, 231)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-117",
+          "text": "Policy: Generative AI (e.g., ChatGPT) is banned",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1022.1805419921875,
+            "y": 617.638916015625,
+            "width": 215.9166717529297,
+            "height": 32.54861068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(253, 247, 231)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-118",
+          "text": "You're doing it wrong: A plea for sanity in close voting",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1022.1805419921875,
+            "y": 663.625,
+            "width": 236.79861450195312,
+            "height": 32.54861068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(253, 247, 231)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-119",
+          "text": "see all",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 1230.6319580078125,
+            "y": 743.9444580078125,
+            "width": 35.59027862548828,
+            "height": 13
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-120",
+          "text": "PHP",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1044,
+            "y": 774.388916015625,
+            "width": 27.45138931274414,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(12, 13, 14)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(12, 13, 14)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-121",
+          "text": "Join",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1224.236083984375,
+            "y": 773.9444580078125,
+            "width": 41.98611068725586,
+            "height": 34.8125
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "9.6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-122",
+          "text": "R Language",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1044,
+            "y": 884.451416015625,
+            "width": 77.89583587646484,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(12, 13, 14)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(12, 13, 14)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-123",
+          "text": "Join",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1224.236083984375,
+            "y": 884.0069580078125,
+            "width": 41.98611068725586,
+            "height": 34.8125
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "9.6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-124",
+          "text": "OpenAI",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1044,
+            "y": 994.513916015625,
+            "width": 50.1319465637207,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(12, 13, 14)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(12, 13, 14)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-125",
+          "text": "Join",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1224.236083984375,
+            "y": 994.0694580078125,
+            "width": 41.98611068725586,
+            "height": 34.8125
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "9.6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-126",
+          "text": "Hot Network Questions",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 983.1111450195312,
+            "y": 1668.1319580078125,
+            "width": 197.03472900390625,
+            "height": 24.84027862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(59, 64, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 19,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(59, 64, 69)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-127",
+          "text": "Wi-Fi stops working after sleep. Only a cold boot brings it back",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 1711.9722900390625,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-128",
+          "text": "Can you hide a dwarf planet/planet in the Solar System?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 1753.1666259765625,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-129",
+          "text": "Burrows–Wheeler quine",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 1794.361083984375,
+            "width": 270,
+            "height": 15.597222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-130",
+          "text": "Calculating Safety Stock based on percentiles of real observations",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 1822.361083984375,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-131",
+          "text": "Is it acceptable to retrain a machine learning model after conference acceptance if the original weights were not saved?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 1863.5555419921875,
+            "width": 270,
+            "height": 46.79166793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-132",
+          "text": "When tiling a walk in-shower, how can I ensure the linear drain doesn't protude above the tiles?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 1920.3472900390625,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-133",
+          "text": "Daniel 2:44 how should we understand the ‘Fifth Kingdom’?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 1961.5416259765625,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-134",
+          "text": "In 2 Timothy 3:17, what is the interpretation for \"man of God\"? Is the reference general or specific to calling",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 2002.736083984375,
+            "width": 270,
+            "height": 46.79166793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-135",
+          "text": "How can this expression, obtained as a result of calculating an improper integral, be simplified?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 2059.52783203125,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-136",
+          "text": "Are there academic situations in which artificial mathematical motivation has merit?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 2100.72216796875,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-137",
+          "text": "Has loyalty to an institution become more highly valued than mobility?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 2141.916748046875,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-138",
+          "text": "Can the white wire of 14/3 cable be used to supply power in a 3-way switch circuit?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 2183.111083984375,
+            "width": 270,
+            "height": 31.19444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-139",
+          "text": "more hot questions",
+          "tag": "A",
+          "context": "Skip to main content\nAbout\nProducts\nStack Internal\nLog in\nSign up\nHome\nQuestions\nAI Assist\nTags\nStack Overflow for Agents\nChallenges\nChat\nArticles\nUsers\nCompanies\nDeveloper Story\nCOLLECTIVES\n\nCommunities for your favorite technologies. Explore all Collectives\n\nSTACK INTERNAL\n\nTurn scattered docs and code into trusted AI context. Explore the new Stack Internal platform.\n\nCreate a workspace\nNewest Q",
+          "box": {
+            "x": 1005.1111450195312,
+            "y": 2229.3056640625,
+            "width": 270,
+            "height": 15.6875
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-140",
+          "text": "Stack Overflow",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange I",
+          "box": {
+            "x": 55.11111068725586,
+            "y": 2349.944580078125,
+            "width": 32,
+            "height": 15.55555534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(27, 117, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 117, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-141",
+          "text": "STACK OVERFLOW",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 55.11111068725586,
+            "y": 2399.382080078125,
+            "width": 113.0138931274414,
+            "height": 14.666666984558105
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(200, 204, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(200, 204, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-142",
+          "text": "Questions",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 55.11111068725586,
+            "y": 2427.486083984375,
+            "width": 57.52083206176758,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-143",
+          "text": "Help",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 55.11111068725586,
+            "y": 2452.479248046875,
+            "width": 26.81944465637207,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-144",
+          "text": "Chat",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 55.11111068725586,
+            "y": 2477.47216796875,
+            "width": 26.43055534362793,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-145",
+          "text": "BUSINESS",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 332.7569580078125,
+            "y": 2399.382080078125,
+            "width": 60.90972137451172,
+            "height": 14.666666984558105
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(200, 204, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(200, 204, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-146",
+          "text": "Stack Internal",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 332.7569580078125,
+            "y": 2427.486083984375,
+            "width": 77.19444274902344,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-147",
+          "text": "Stack Data Licensing",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 332.7569580078125,
+            "y": 2452.479248046875,
+            "width": 116.9513931274414,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-148",
+          "text": "Stack Ads",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 332.7569580078125,
+            "y": 2477.47216796875,
+            "width": 55.09722137451172,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-149",
+          "text": "COMPANY",
+          "tag": "A",
+          "context": "COMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2399.382080078125,
+            "width": 64.77777862548828,
+            "height": 14.666666984558105
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(200, 204, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(200, 204, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-150",
+          "text": "About",
+          "tag": "A",
+          "context": "About\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2427.486083984375,
+            "width": 35.40972137451172,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-151",
+          "text": "Press",
+          "tag": "A",
+          "context": "About\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2452.479248046875,
+            "width": 29.63194465637207,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-152",
+          "text": "Work Here",
+          "tag": "A",
+          "context": "About\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2477.47216796875,
+            "width": 61.14583206176758,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-153",
+          "text": "Legal",
+          "tag": "A",
+          "context": "About\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2502.46533203125,
+            "width": 30.34027862548828,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-154",
+          "text": "Privacy Policy",
+          "tag": "A",
+          "context": "About\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2527.458251953125,
+            "width": 76.65972137451172,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-155",
+          "text": "Terms of Service",
+          "tag": "A",
+          "context": "About\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2552.451416015625,
+            "width": 92.78472137451172,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-156",
+          "text": "Contact Us",
+          "tag": "A",
+          "context": "About\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2577.444580078125,
+            "width": 62.46527862548828,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-157",
+          "text": "Cookie Settings",
+          "tag": "BUTTON",
+          "context": "Cookie Settings",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2602.4375,
+            "width": 89.4513931274414,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-158",
+          "text": "Cookie Policy",
+          "tag": "A",
+          "context": "Cookie Policy",
+          "box": {
+            "x": 614.3472290039062,
+            "y": 2627.4306640625,
+            "width": 76.2638931274414,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-159",
+          "text": "STACK OVERFLOW’S OPEN COMMUNITIES",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2399.382080078125,
+            "width": 258.7083435058594,
+            "height": 14.666666984558105
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(200, 204, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(200, 204, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-160",
+          "text": "Technology",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2427.486083984375,
+            "width": 65.3888931274414,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-161",
+          "text": "Culture & recreation",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2452.479248046875,
+            "width": 116.94444274902344,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-162",
+          "text": "Life & arts",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2477.47216796875,
+            "width": 58.72222137451172,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-163",
+          "text": "Science",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2502.46533203125,
+            "width": 43.02083206176758,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-164",
+          "text": "Professional",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2527.458251953125,
+            "width": 69.20833587646484,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-165",
+          "text": "Business",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2552.451416015625,
+            "width": 48.66666793823242,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-166",
+          "text": "API",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2593.444580078125,
+            "width": 19.13194465637207,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-167",
+          "text": "Data",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData",
+          "box": {
+            "x": 871.763916015625,
+            "y": 2618.4375,
+            "width": 26.75,
+            "height": 24.99305534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-168",
+          "text": "Blog",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange I",
+          "box": {
+            "x": 55.11111068725586,
+            "y": 2676.423583984375,
+            "width": 21.89583396911621,
+            "height": 22.38194465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-169",
+          "text": "Facebook",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange I",
+          "box": {
+            "x": 89.00694274902344,
+            "y": 2676.423583984375,
+            "width": 46.2569465637207,
+            "height": 22.38194465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-170",
+          "text": "Twitter",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange I",
+          "box": {
+            "x": 147.26388549804688,
+            "y": 2676.423583984375,
+            "width": 32.80555725097656,
+            "height": 22.38194465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-171",
+          "text": "LinkedIn",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange I",
+          "box": {
+            "x": 192.06944274902344,
+            "y": 2676.423583984375,
+            "width": 40.92361068725586,
+            "height": 22.38194465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-172",
+          "text": "Instagram",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange I",
+          "box": {
+            "x": 244.99305725097656,
+            "y": 2676.423583984375,
+            "width": 48.52083206176758,
+            "height": 22.38194465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "4px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-173",
+          "text": "CC BY-SA",
+          "tag": "A",
+          "context": "STACK OVERFLOW\nQuestions\nHelp\nChat\nBUSINESS\nStack Internal\nStack Data Licensing\nStack Ads\nCOMPANY\nAbout\nPress\nWork Here\nLegal\nPrivacy Policy\nTerms of Service\nContact Us\nCookie Settings\nCookie Policy\nSTACK OVERFLOW’S OPEN COMMUNITIES\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\n\nSite design / logo © 2026 Stack Exchange I",
+          "box": {
+            "x": 444.96527099609375,
+            "y": 2698.8056640625,
+            "width": 45.70833206176758,
+            "height": 14.38194465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(186, 191, 197)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(186, 191, 197)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-174",
+          "text": "Cookie policy",
+          "tag": "A",
+          "context": "Cookie policy",
+          "box": {
+            "x": 81.15972137451172,
+            "y": 589.1805419921875,
+            "width": 77.81944274902344,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(12, 13, 14)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 245, 253)",
+            "fontSize": 13.12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(12, 13, 14)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-175",
+          "text": "Accept all",
+          "tag": "BUTTON",
+          "context": "Accept all\nNecessary cookies only",
+          "box": {
+            "x": 40,
+            "y": 809.2777709960938,
+            "width": 86.0763931274414,
+            "height": 28.86111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(12, 13, 14)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13.12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-176",
+          "text": "Necessary cookies only",
+          "tag": "BUTTON",
+          "context": "Necessary cookies only",
+          "box": {
+            "x": 130.07638549804688,
+            "y": 809.2777709960938,
+            "width": 168.30555725097656,
+            "height": 28.86111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(12, 13, 14)",
+            "effectiveBackground": "rgb(12, 13, 14)",
+            "fontSize": 13.12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-177",
+          "text": "Customize settings",
+          "tag": "BUTTON",
+          "context": "Accept all\nNecessary cookies only\nCustomize settings",
+          "box": {
+            "x": 40,
+            "y": 843.138916015625,
+            "width": 118.14583587646484,
+            "height": 28.86111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(12, 13, 14)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 245, 253)",
+            "fontSize": 13.12,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "6px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://stackoverflow.com/questions"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://stackoverflow.com/questions",
+  "captured_at": "2026-11-03T15:29:23.400645+00:00",
+  "cookies": [
+    {
+      "name": "__cf_ob",
+      "domain": "stackoverflow.com",
+      "path": "/cdn-cgi/challenge-platform",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "prov",
+      "domain": ".stackoverflow.com",
+      "path": "/",
+      "expires": 1825255758.252102,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "domain": "stackoverflow.com",
+      "path": "/",
+      "expires": 1793802555.361173,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".i.sstatic.net",
+      "path": "/",
+      "expires": 1793721558.578534,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "domain": ".i.sstatic.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".stackoverflow.com",
+      "path": "/",
+      "expires": 1825255758.9471,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cw-test-00000000_htlbid-tude_0_100",
+      "domain": "stackoverflow.com",
+      "path": "/",
+      "expires": 1796311759,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".aditude.io",
+      "path": "/",
+      "expires": 1793721559.16521,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".stackoverflow.com",
+      "path": "/",
+      "expires": 1825255759,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "domain": "stackoverflow.com",
+      "path": "/",
+      "expires": 1809271759,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".stackoverflow.com",
+      "path": "/",
+      "expires": 1793721560.031997,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://stackoverflow.com",
+      "localKeys": [
+        "ditu_identity_providers_sampled",
+        "se:fkey",
+        "ditu_session",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "rcik",
+        "cw-counter:auction-count",
+        "ditu_user",
+        "cwglt",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "cw-srn",
+        "_cfPre_tabId",
+        "raven-rps"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ditu_identity_providers_sampled",
+        "se:fkey",
+        "ditu_session",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "rcik",
+        "cw-counter:auction-count",
+        "ditu_user",
+        "cwglt",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "cw-srn",
+        "_cfPre_tabId",
+        "raven-rps"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ditu_identity_providers_sampled",
+        "se:fkey",
+        "ditu_session",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "rcik",
+        "cw-counter:auction-count",
+        "ditu_user",
+        "cwglt",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "cw-srn",
+        "_cfPre_tabId",
+        "raven-rps"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://stackoverflow.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:29:15.128660+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/questions",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:29:15.444872+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:29:15.715156+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/questions",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:29:15.979354+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/cdn-cgi/challenge-platform/h/g/orchestrate/precursor_interstitial/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:16.060799+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/cdn-cgi/challenge-platform/h/g/fo/2121646679:1793718626:EzTaZhWGeduL3Ws_VjbIEFYDMTuTQdXaXdUFh30M9wE/a54c69da6a5cfea0/CLPk.owX542caW6c0E7pXARJdVmvmWnTlecZGnzW2ZI-1793719755-1.2.1.1-.mP8jy0PzDhJNu4Co0nDFLbvAvQGRjAnp09C1e6TdGaGCD_2s5Rp2VBsCV5yuWJn",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:29:16.715295+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:16.875003+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/cdn-cgi/challenge-platform/h/g/fo/2121646679:1793718626:EzTaZhWGeduL3Ws_VjbIEFYDMTuTQdXaXdUFh30M9wE/a54c69da6a5cfea0/CLPk.owX542caW6c0E7pXARJdVmvmWnTlecZGnzW2ZI-1793719755-1.2.1.1-.mP8jy0PzDhJNu4Co0nDFLbvAvQGRjAnp09C1e6TdGaGCD_2s5Rp2VBsCV5yuWJn",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:29:16.988333+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/questions",
+      "resource_type": "document",
+      "method": "POST",
+      "at": "2026-11-03T15:29:17.608582+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.031083+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/google-analytics.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.041570+00:00"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.043032+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/stub.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.043899+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Shared/stacks.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.044744+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/primary.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.045639+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Shared/Channels/channels.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.046477+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/px.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.047294+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/px.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.048101+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/c3d9f1e3-55f3-4eba-b268-46cee4c6789c/c3d9f1e3-55f3-4eba-b268-46cee4c6789c.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.179403+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/third-party/npm/@stackoverflow/stacks/dist/js/stacks.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.325804+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/5102.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.326934+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/questions/list.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.327735+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/sprinkles/cookie-consent.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.329471+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/svelte.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.331231+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/svelte-floating-ui.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.332349+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/stacks-svelte.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.333348+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/9366.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.334614+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/islands/signup-modal.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.335694+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/islands/one-tap.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.336646+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/sprinkles/left-nav-events.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.337641+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/stacks-svelte-labs.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.338678+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/8339.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.339638+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/7663.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.341467+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/3696.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.342095+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/2458.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.343604+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/8414.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.344503+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/webpack-chunks/7612.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.346340+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/islands/homepage-wizard.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.346844+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Img/stack-internal-left-tile-pinned.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.347634+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Img/stack-internal-left-tile-drawer.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.348460+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/questions/userQuestionList.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.349262+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/d475d32b906fbeebc62ab0ffd4f5df43",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.351737+00:00"
+    },
+    {
+      "url": "https://graph.facebook.com/10209753010366034/picture",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.352180+00:00"
+    },
+    {
+      "url": "https://i.sstatic.net/RwaQI.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.352954+00:00"
+    },
+    {
+      "url": "https://i.sstatic.net/v87xS14o.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.354150+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/60ce8ef2ee80412db363ab317d4f82f5",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.355819+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/889e2f0a76f6700af6f708c20dd69c77",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.356830+00:00"
+    },
+    {
+      "url": "https://i.sstatic.net/51zZpqSH.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.357815+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/db73a9e8354be43e4b26219523aee470",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.358706+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/37d14088ed55c2bb3ffa8f3863f0417a",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.359636+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/5da2d38be4814455a686783ee277b0f9",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.360533+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/45a3d048194d4d64fffe101ebff7a8bd",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.361446+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/30e31a9502c73b2cfd007e80a58ba3d8",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.362368+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/a7d949ccd603273efdff5ee62b1f5059",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.363261+00:00"
+    },
+    {
+      "url": "https://graph.facebook.com/1063981417044495/picture",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.364209+00:00"
+    },
+    {
+      "url": "https://www.gravatar.com/avatar/78bd832adb626d0a919aae3510abcb57",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.365176+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/sidebar/stackoverflow-for-agents-sidebar-promo.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.366140+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.366829+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/subcommunities/php.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.390392+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/subcommunities/r-language.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.391034+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/subcommunities/azure.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.392157+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.401702+00:00"
+    },
+    {
+      "url": "https://htlbid.com/v3/mapping.base/htlbid.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.405764+00:00"
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.406397+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.407340+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Img/favicons-sprite16.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.464101+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/subcommunities/openai.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.497683+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/icon-48.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.582204+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.587716+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/client",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.597213+00:00"
+    },
+    {
+      "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.735552+00:00"
+    },
+    {
+      "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.736265+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.2.0/otBannerSdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.759935+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Js/full-anon.en.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.780319+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610270101/pubads_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.872468+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/cdn-cgi/challenge-platform/h/g/precursor/5c2e6b612edd/0.18368589700091864:1793718628:2HYfvoq35F3BPzpNbZxHq-62oDVzgECv4L3OtpvrrG0/a54c69e4cb43feac",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:29:18.917300+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/stackoverflow-M6HzSe6yue/mapping.base/prebid-load.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.926363+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/stackoverflow-M6HzSe6yue/mapping.base/prebid-wrapper.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:18.926809+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:29:18.969895+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/c3d9f1e3-55f3-4eba-b268-46cee4c6789c/019f1e88-e17e-70fb-a29d-2514ce0649ea/en.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.014039+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/vendorlist/iab2V2Data.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.014543+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.2.0/otTCF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.015694+00:00"
+    },
+    {
+      "url": "https://raven-edge.aditude.io/raven/stackoverflow-main-I67Hg/library.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.099714+00:00"
+    },
+    {
+      "url": "https://edge.aditude.io/prebid/9.53.5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.108544+00:00"
+    },
+    {
+      "url": "https://geo.aditude.io/default",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.109273+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.110399+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.2.0/assets/otFloatingRoundedCorner.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.258987+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.2.0/assets/otCommonStyles.css",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.259636+00:00"
+    },
+    {
+      "url": "https://raven-static.aditude.io/prod/1.25.2-sydwjj/raven.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.268314+00:00"
+    },
+    {
+      "url": "https://geo.aditude.io/raven",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.421140+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/htl-prebid-floors-component.fae1acdcda8ff1df.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.458469+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/htl-injector-component.35e93bc51e45e466.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.458953+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/throttle-refresh-component.58e24e0b8d591efb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.459679+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/creative-timed-refresh-component.c0004e82e27c26d2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.460370+00:00"
+    },
+    {
+      "url": "https://raven-edge.aditude.io/api/v1/ravenconfig",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.462108+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/first-party-data-component.7a7c39b54641a758.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.517273+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/refresh-all-ads-component.1e1017afb6b68053.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.518123+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/taboola-auto-tagId-component.c757baefe39c2f3e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.519288+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/activity-refresh-component.f11a1557edf449b8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.569738+00:00"
+    },
+    {
+      "url": "https://raven-edge.aditude.io/api/v1/revenuesourcemaps/ebZqTKyz4DUJ",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.630330+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.631210+00:00"
+    },
+    {
+      "url": "https://raven-static.aditude.io/prod/1.25.2-sydwjj/prebid-analytics.4badbd4900255778d42c.module.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.632429+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/style",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.741320+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/status",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.742771+00:00"
+    },
+    {
+      "url": "https://stackoverflow.com/Content/Sites/stackoverflow/Img/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:29:19.744328+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/ping",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:29:20.133779+00:00"
+    },
+    {
+      "url": "https://ams-pageview-public.s3.amazonaws.com/1x1-pixel.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:29:20.657255+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/ping",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:29:22.658703+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://graph.facebook.com/10209753010366034/picture",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://graph.facebook.com/1063981417044495/picture",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://htlbid.com/v3/mapping.base/htlbid.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610270101/pubads_impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/ping",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/ping",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "context_excerpt_limit": 400
+}

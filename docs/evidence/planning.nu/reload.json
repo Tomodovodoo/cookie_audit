@@ -1,0 +1,974 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dyflexis.com/login",
+      "title": "Login | Dyflexis",
+      "text": "Hello again!\n\nEnter your system name to continue\n\nSystem name\nContinue to login\nWhere can I find my system name?\nGROW YOUR PEOPLE.\nWIN TOGETHER.\n\nTalent management helps you grow, retain, and deploy the right people, driving higher engagement, stronger performance, and lower turnover.\n\nSkilled workforce\nNo more skill gaps\nCertified employees on each shift\nSkills Management\nSkills\nPerformance\nCapacity",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Where can I find my system name?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 565.7777709960938,
+            "y": 422,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Continue to login",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 290.6666564941406,
+            "y": 494,
+            "width": 320,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(247, 244, 243)",
+            "background": "rgb(1, 143, 220)",
+            "effectiveBackground": "rgb(1, 143, 220)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(247, 244, 243)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Where can I find my system name?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 333.84722900390625,
+            "y": 566,
+            "width": 233.63888549804688,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 173, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(8, 19, 40)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 173, 255)",
+            "padding": "2px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Skills Management",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 933.3333129882812,
+            "y": 348,
+            "width": 226.8333282470703,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "8px 12px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Skills",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 933.3333129882812,
+            "y": 812,
+            "width": 63.17361068725586,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Performance",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1004.5069580078125,
+            "y": 812,
+            "width": 123.25,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Capacity",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1135.7569580078125,
+            "y": 812,
+            "width": 94.35416412353516,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Pause",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1281.3333740234375,
+            "y": 814,
+            "width": 28,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.dyflexis.com/login"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "https://framer.com/edit",
+      "title": "",
+      "text": "\n\n\n\n\n\n\n\t\n\t\t// Keep these keys in sync with DarkModeProvider.tsx\n\t\tvar userDarkMode = localStorage.getItem(\"dark-mode\") === \"true\"\n\t\tvar overrideSystem = localStorage.getItem(\"dark-mode-override-system\") === \"true\"\n\t\tvar systemDarkMode = matchMedia(\"(prefers-color-scheme: dark)\").matches\n\t\tvar isDarkMode = overrideSystem ? userDarkMode : systemDarkMode\n\t\tif (isDarkMode) {\n\t\t\tdocument.body.classList.add(\"framer-theme-dark\")\n\t\t}\n\n\t\t// Set release channel as class on body.\n\t\tvar framerReleaseChannel = window.framerRelease && window.framerRelease.channel\n\t\tif (framerReleaseChannel) {\n\t\t\tdocument.body.classList.add(\"framer-release-\" + framerReleaseChannel)\n\t\t}\n\n\t\n\n\n\n\n\n\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://framer.com/edit"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.dyflexis.com/login",
+  "captured_at": "2026-11-03T15:28:04.655452+00:00",
+  "cookies": [
+    {
+      "name": "CookieConsent",
+      "domain": "www.dyflexis.com",
+      "path": "/",
+      "expires": 1825255669,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "domain": ".dyflexis.com",
+      "path": "/",
+      "expires": 1801495677,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_stfv",
+      "domain": "www.dyflexis.com",
+      "path": "/",
+      "expires": 1828279678.058254,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.dyflexis.com",
+      "localKeys": [
+        "snowplowOutQueue_leadinfo_cl1_post2",
+        "_li_ses.5182.expires",
+        "snowplowOutQueue_leadinfo_cl1_post2.expires",
+        "_stfv",
+        "_li_ses.5182",
+        "_gcl_ls",
+        "gtmBrowserId",
+        "_li_id.5182.expires",
+        "_li_id.5182"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "snowplowOutQueue_leadinfo_cl1_post2",
+        "_li_ses.5182.expires",
+        "snowplowOutQueue_leadinfo_cl1_post2.expires",
+        "_stfv",
+        "_li_ses.5182",
+        "_gcl_ls",
+        "gtmBrowserId",
+        "_li_id.5182.expires",
+        "_li_id.5182"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.eu",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://framer.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.dyflexis.com/login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:56.931462+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/rolldown-runtime.Bi-D_2cA.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.008326+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/react.C1iYdsT4.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.008885+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/framer.CiW8aFwd.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.009812+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/motion.DUhvd2iw.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.010465+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/toplevel-deps.COgw_1tG.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.011118+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/2TygRmHUFEB91geOFoNRcyDWk7HF7YegGkCS01Pi7dI.Dka_UMkj.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.012310+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/FzS47S4ai.D6uBLGDz.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.012949+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/tUAaePU17.DHJgtfeR.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.013811+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/script_main.DfDnCTnm.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.014615+00:00"
+    },
+    {
+      "url": "https://events.framer.com/script",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.015220+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.016140+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhS2f3ZGMZpg.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.016523+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.017345+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/images/67Kuckoj6eJwCw9f017tTsSAjgA.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.063339+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/images/LldjxNl1g0SfHdRSmcgu0jssVk.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.063783+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gNXdeXcoPZLh2ZsrZbuI4WtV5Y.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.064462+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Qw2JpqZIOMBFyxGgckWRjPqoNSo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.065122+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.065871+00:00"
+    },
+    {
+      "url": "https://framer.com/edit/init.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.086862+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/bigshoulders/v4/qFdk35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_PytqyTi33thrko9r-T9BdM1LlZAtA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.111745+00:00"
+    },
+    {
+      "url": "https://app.framerstatic.com/chunk-CS7BPPVU.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.118508+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.216196+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.217119+00:00"
+    },
+    {
+      "url": "https://cdn.leadinfo.net/ping.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.218423+00:00"
+    },
+    {
+      "url": "https://css.jsapis.com/controls.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.220374+00:00"
+    },
+    {
+      "url": "https://w.strds.nl/jq_3afc2d4c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.221385+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.222308+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.223345+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.224437+00:00"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.225535+00:00"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.226232+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.226955+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.227642+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.228383+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/uc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.229650+00:00"
+    },
+    {
+      "url": "https://collector.leadinfo.net/config/LI-5E5E6FF948BA1/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.239504+00:00"
+    },
+    {
+      "url": "https://api.leadinfo.com/v1/identify/LI-5E5E6FF948BA1",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.240516+00:00"
+    },
+    {
+      "url": "https://flow.dyflexis.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.346236+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.359583+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/6d4a7bcf-c4a0-4c4d-bf94-00ba46244e32/settings.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.360144+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.360983+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.422056+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.423469+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.429165+00:00"
+    },
+    {
+      "url": "https://collector4.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.431532+00:00"
+    },
+    {
+      "url": "https://collector.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.432867+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.463961+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.464377+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.464996+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.465588+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.466172+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/images/aUGQBLG1mIo0RSdE8yPDTQys3a0.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.466971+00:00"
+    },
+    {
+      "url": "https://events.framer.com/anonymous",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.468446+00:00"
+    },
+    {
+      "url": "https://framer.com/edit",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.470666+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/6d4a7bcf-c4a0-4c4d-bf94-00ba46244e32/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.478405+00:00"
+    },
+    {
+      "url": "https://www.dyflexis.com/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T15:27:57.615880+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/UrfKBh3MiATrSQzlJcqPgi7riXqX5M4yDRJVGKorV5k.CtNvy6Dm.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.618448+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/OIjZRBmWDcIE2B6qgG1j.acq4wxIs.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.639151+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/Embed.DGdsYHaI.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.639727+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/Ez9rPkcX7.BefPjEFI.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.640624+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/oYR8wXYRX.DOlYuJbZ.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.641294+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/pp93R9gbo.CWwJUMnx.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.641916+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/HeadingFix.Fl3H8rOH.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.642894+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/noA9CbgOK.BLmiYoLq.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.643496+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/GVNBbKfeY.BzYP3-0A.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.644101+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/HomeMotion.CtQQRAD_.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.644737+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/y8XRPz4oc.DjvJBUiE.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.645908+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/QiUz0smat.IlhU3e-l.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.646690+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/Z1KsKBsKy.CBx4a2cp.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.647425+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/CardTicker.CBfT2yO1.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.648138+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/Shader_up_0d0918.DRfNlI_S.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.648860+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/E_J6eCLHQ.DRr5S9mY.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.649605+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/jCufY4Jh2.wokCumEI.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.650430+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/augiA20Il.BxDDeAdQ.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.651147+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/W5koPySC3.tZ8PggS5.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.676961+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/nmZpFew2T.CgABjpuo.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.687899+00:00"
+    },
+    {
+      "url": "https://app.framerstatic.com/chunk-BEAJFPMP.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.689230+00:00"
+    },
+    {
+      "url": "https://app.framerstatic.com/chunk-YRQ7G4QH.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.689805+00:00"
+    },
+    {
+      "url": "https://app.framerstatic.com/chunk-WOEOGJ2W.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.691449+00:00"
+    },
+    {
+      "url": "https://app.framerstatic.com/chunk-WLHSDIGQ.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.692614+00:00"
+    },
+    {
+      "url": "https://app.framerstatic.com/editorbar.YIRSUNCF.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.693727+00:00"
+    },
+    {
+      "url": "https://framer.com/bootstrap.719d85302e1f9630fa287aa45b45187e7ab4af6b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.696222+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/juhKycIIykWS8nCS5n4R/1GGNgeA8xCvDVHSieV57/GVNBbKfeY-indexes-default-0.framercms",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.743878+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/SwzwBQYDSK66BDzNRQx7/A7hISAuKlxfeWh7egkak/E_J6eCLHQ-indexes-default-0.framercms",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.744959+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/oH0jTtgjS3lGu9gU0jqC/UJZYLqZjHZHlSkfb8mrC/jCufY4Jh2-indexes-default-0.framercms",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.745550+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/LoxXpju5pzGiWS-0nIkKr99Vtn9HdHUnQmObT5zhYuE.N8jzXwEz.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.746326+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/juhKycIIykWS8nCS5n4R/1GGNgeA8xCvDVHSieV57/GVNBbKfeY-chunk-default-0.framercms",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.759874+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/oH0jTtgjS3lGu9gU0jqC/UJZYLqZjHZHlSkfb8mrC/jCufY4Jh2-chunk-default-0.framercms",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.760575+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/sites/WsV2mQfPB1sWs8FvJ7aWC/k1DXGwIB7.B5w4qomA.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.761506+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/SwzwBQYDSK66BDzNRQx7/A7hISAuKlxfeWh7egkak/E_J6eCLHQ-chunk-default-0.framercms",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.762900+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/cms/z8nrkXukFoiTEcDQl6F0/ljWDrOvYHVfyIR95mDlT/k1DXGwIB7-indexes-default-0.framercms",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.788766+00:00"
+    },
+    {
+      "url": "https://api.framer.com/auth/web/access-token",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:57.811231+00:00"
+    },
+    {
+      "url": "https://flow.dyflexis.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:27:57.964369+00:00"
+    },
+    {
+      "url": "https://w.strds.nl/jq.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:58.126486+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "_gcl_au",
+      "domain": ".dyflexis.com"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.leadinfo.net/ping.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ad.doubleclick.net/ccm/s/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://collector.leadinfo.net/config/LI-5E5E6FF948BA1/",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://collector4.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://collector.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    }
+  ],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,971 @@
+{
+  "frames": [
+    {
+      "url": "https://nextdoor.nl/",
+      "title": "Nextdoor",
+      "text": "Skip to Content\nBuren\nOrganisaties\nBedrijf\nInloggen\nOntdek je buurt\nDoorgaan met Google\nDoorgaan met Apple\nof\nE-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan\nHeb je een bedrijf? Aan de slag\nHeb je een uitnodigingscode?\nHaal het meeste uit je buurt met Nextdoor\n\nHier komen buren samen om nieuwe bewoners te begroeten, aanbevelingen uit te wisselen en het laatste lokale nieuws te lezen. Hier kunnen buren lokale bedrijven ondersteunen en updates ontvangen van openbare organisaties. Hier lenen buren gereedschap en verkopen ze hun bankstel. Met Nextdoor haal je het meeste uit je buurt. Welkom, buurman/-vrouw.\n\nEssentieel\n\nRelevant nieuws en informatie van buren, bedrijven en openbare organisaties in real time.\n\nLokaal\n\nDe enige manier om direct in contact te komen met de mensen, bedrijven en gebeurtenissen bij jou in de buurt.\n\nBetrouwbaar\n\nEen beveiligde omgeving waar alle buren zijn geverifieerd.\n\nKom direct in contact met je buurt\nInschrijven\n\nNextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties\n© Nextdoor 2026\nDownload de app",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Skip to Content",
+          "tag": "A",
+          "context": "Skip to Content\nBuren\nOrganisaties\nBedrijf\nInloggen\nOntdek je buurt\nDoorgaan met Google\nDoorgaan met Apple\nof\nE-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan\nHeb je een bedrijf? Aan de slag\nHeb je een uitnodigingscode?\nHaal het meeste uit je buurt met Nextdoor\n\nHier komen buren samen om nieuwe bewon",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "width": 32,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(27, 135, 81)",
+            "effectiveBackground": "rgb(27, 135, 81)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-1",
+          "text": "Buren",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 229.9652862548828,
+            "y": 16,
+            "width": 59.35416793823242,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.5)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-2",
+          "text": "Organisaties",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.3194580078125,
+            "y": 16,
+            "width": 107.92361450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.5)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-3",
+          "text": "Bedrijf",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 437.2430725097656,
+            "y": 16,
+            "width": 63.79861068725586,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.5)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-4",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1188.451416015625,
+            "y": 14,
+            "width": 87.80555725097656,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.5)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-5",
+          "text": "Doorgaan met Google",
+          "tag": "BUTTON",
+          "context": "Ontdek je buurt\nDoorgaan met Google\nDoorgaan met Apple\nof\nE-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan\nHeb je een bedrijf? Aan de slag",
+          "box": {
+            "x": 499.1111145019531,
+            "y": 190,
+            "width": 352,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-6",
+          "text": "Doorgaan met Apple",
+          "tag": "BUTTON",
+          "context": "Ontdek je buurt\nDoorgaan met Google\nDoorgaan met Apple\nof\nE-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan\nHeb je een bedrijf? Aan de slag",
+          "box": {
+            "x": 499.1111145019531,
+            "y": 246,
+            "width": 352,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-7",
+          "text": "toggle password visibility",
+          "tag": "BUTTON",
+          "context": "E-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan",
+          "box": {
+            "x": 811.1111450195312,
+            "y": 440.3541564941406,
+            "width": 24,
+            "height": 27.28472328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-8",
+          "text": "privacybeleid",
+          "tag": "A",
+          "context": "Door je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.",
+          "box": {
+            "x": 499.1111145019531,
+            "y": 524.4444580078125,
+            "width": 83.22222137451172,
+            "height": 16.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-9",
+          "text": "cookiebeleid",
+          "tag": "A",
+          "context": "cookiebeleid",
+          "box": {
+            "x": 613.888916015625,
+            "y": 524.4444580078125,
+            "width": 79.875,
+            "height": 16.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-10",
+          "text": "ledenovereenkomst",
+          "tag": "A",
+          "context": "Door je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.",
+          "box": {
+            "x": 499.1111145019531,
+            "y": 542.4444580078125,
+            "width": 123.88194274902344,
+            "height": 16.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-11",
+          "text": "Doorgaan",
+          "tag": "BUTTON",
+          "context": "E-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan",
+          "box": {
+            "x": 499.1111145019531,
+            "y": 584,
+            "width": 352,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-12",
+          "text": "Aan de slag",
+          "tag": "A",
+          "context": "Ontdek je buurt\nDoorgaan met Google\nDoorgaan met Apple\nof\nE-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan\nHeb je een bedrijf? Aan de slag",
+          "box": {
+            "x": 702.1458129882812,
+            "y": 656.4444580078125,
+            "width": 82.58333587646484,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-13",
+          "text": "Heb je een uitnodigingscode?",
+          "tag": "A",
+          "context": "Ontdek je buurt\nDoorgaan met Google\nDoorgaan met Apple\nof\nE-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan\nHeb je een bedrijf? Aan de slag\nHeb je een uitnodigingscode?",
+          "box": {
+            "x": 569.3125,
+            "y": 732.4444580078125,
+            "width": 211.59722900390625,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-14",
+          "text": "Inschrijven",
+          "tag": "BUTTON",
+          "context": "Buren\nOrganisaties\nBedrijf\nInloggen\nOntdek je buurt\nDoorgaan met Google\nDoorgaan met Apple\nof\nE-mailadres\nMaak een wachtwoord\n\nDoor je te registreren, ga je akkoord met ons privacybeleid, ons cookiebeleid en onze ledenovereenkomst.\n\nDoorgaan\nHeb je een bedrijf? Aan de slag\nHeb je een uitnodigingscode?\nHaal het meeste uit je buurt met Nextdoor\n\nHier komen buren samen om nieuwe bewoners te begroeten",
+          "box": {
+            "x": 611.7361450195312,
+            "y": 1748,
+            "width": 126.74305725097656,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(35, 47, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(35, 47, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-15",
+          "text": "Over",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 143.11111450195312,
+            "y": 1938.4444580078125,
+            "width": 30.8125,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-16",
+          "text": "Nieuws",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 143.11111450195312,
+            "y": 1968.4444580078125,
+            "width": 46.65277862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-17",
+          "text": "Investeerdersrelaties",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 143.11111450195312,
+            "y": 1998.4444580078125,
+            "width": 132.9027862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-18",
+          "text": "Blog",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 143.11111450195312,
+            "y": 2028.4444580078125,
+            "width": 28.53472328186035,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-19",
+          "text": "Carrières",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 143.11111450195312,
+            "y": 2058.444580078125,
+            "width": 59.1319465637207,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-20",
+          "text": "Hulp",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 143.11111450195312,
+            "y": 2088.444580078125,
+            "width": 29.83333396911621,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-21",
+          "text": "Aan de slag",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 409.1111145019531,
+            "y": 1938.4444580078125,
+            "width": 73.1388931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-22",
+          "text": "Richtlijnen",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 409.1111145019531,
+            "y": 1968.4444580078125,
+            "width": 67.08333587646484,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-23",
+          "text": "Lokaal bedrijf",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 675.1111450195312,
+            "y": 1938.4444580078125,
+            "width": 85.4375,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-24",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "Juridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 941.1111450195312,
+            "y": 1938.4444580078125,
+            "width": 46.3194465637207,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-25",
+          "text": "Juridisch en voorwaarden",
+          "tag": "A",
+          "context": "Juridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 941.1111450195312,
+            "y": 1968.4444580078125,
+            "width": 164.00694274902344,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-26",
+          "text": "Cookies",
+          "tag": "A",
+          "context": "Cookies",
+          "box": {
+            "x": 941.1111450195312,
+            "y": 1998.4444580078125,
+            "width": 51.97222137451172,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-27",
+          "text": "Voorwaarden voor selfservice-advertenties",
+          "tag": "A",
+          "context": "Juridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties",
+          "box": {
+            "x": 941.1111450195312,
+            "y": 2028.4444580078125,
+            "width": 192.7916717529297,
+            "height": 34.4444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(87, 101, 128)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "620",
+            "borderWidth": 0,
+            "borderColor": "rgb(87, 101, 128)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-28",
+          "text": "Landselectie",
+          "tag": "DIV",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties\n© Nextdoor 2026\nDownload de app",
+          "box": {
+            "x": 990.4791870117188,
+            "y": 2168,
+            "width": 58,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        },
+        {
+          "id": "ca-29",
+          "text": "Download de app",
+          "tag": "A",
+          "context": "Nextdoor\n\nOver\nNieuws\nInvesteerdersrelaties\nBlog\nCarrières\nHulp\n\nBuren\n\nAan de slag\nRichtlijnen\n\nBedrijf\n\nLokaal bedrijf\n\nJuridisch\n\nPrivacy\nJuridisch en voorwaarden\nCookies\nVoorwaarden voor selfservice-advertenties\n© Nextdoor 2026\nDownload de app",
+          "box": {
+            "x": 1064.4791259765625,
+            "y": 2163,
+            "width": 142.63194274902344,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 245)",
+            "fontSize": 14,
+            "fontWeight": "420",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4f421a78af1742288b45f94783fc846f"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "4f421a78af1742288b45f94783fc846f",
+      "frame_url": "https://nextdoor.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "d20c7b9fa4334c8381964466ddfb1659",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://nextdoor.nl/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [],
+        "specialFeaturesGranted": [],
+        "vendorsConsented": 0,
+        "legitimateInterestPurposes": []
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:42:20.594048+00:00",
+  "cookies": [
+    {
+      "name": "csrftoken",
+      "domain": ".nextdoor.nl",
+      "path": "/",
+      "expires": 1825170122.877125,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WE",
+      "domain": ".nextdoor.nl",
+      "path": "/",
+      "expires": 1828280522.877202,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DAID",
+      "domain": ".nextdoor.nl",
+      "path": "/",
+      "expires": 1828280522.877229,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "domain": "nextdoor.nl",
+      "path": "/",
+      "expires": 1809272525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token",
+      "domain": ".nextdoor.nl",
+      "path": "/",
+      "expires": 1825342933,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "domain": ".nextdoor.nl",
+      "path": "/",
+      "expires": 1825342933,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://nextdoor.nl",
+      "localKeys": [
+        "@nd/asset-purged",
+        "didomi_token",
+        "browserDarkMode",
+        "theme-ui-color-mode",
+        "euconsent-v2",
+        "defaulted_to_light"
+      ],
+      "sessionKeys": [
+        "experience",
+        "ndas_tab_id",
+        "flow_context"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "@nd/asset-purged",
+        "didomi_token",
+        "browserDarkMode",
+        "theme-ui-color-mode",
+        "euconsent-v2",
+        "defaulted_to_light"
+      ],
+      "sessionKeys": [
+        "experience",
+        "ndas_tab_id",
+        "flow_context"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.privacy-center.org/v1/events",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:42:13.154182+00:00"
+    },
+    {
+      "url": "https://flask.uk.nextdoor.com/events/nextdoor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:42:13.480616+00:00"
+    },
+    {
+      "url": "https://d33c41ebahvfs6.cloudfront.net/static/gen/836e7427183fd92e.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:16.096187+00:00"
+    },
+    {
+      "url": "https://flask.uk.nextdoor.com/events/nextdoor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:42:18.175601+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://flask.uk.nextdoor.com/events/nextdoor",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://flask.uk.nextdoor.com/events/nextdoor",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

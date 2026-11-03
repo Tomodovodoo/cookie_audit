@@ -1,0 +1,779 @@
+{
+  "frames": [
+    {
+      "url": "https://www.primevideo.com/offers/nonprimehomepage",
+      "title": "Welkom bij Prime Video",
+      "text": "Home\nFilms\nTv-series\nSport\nLive-tv\nAbonnementen\nWinkel\nNL\nWord lid van Prime\nKijk films en tv-series\nWord lid van Amazon Prime en krijg toegang tot populaire films en tv-series, waaronder bekroonde Amazon Originals. Amazon Prime omvat ook gratis levering binnen één dag op in aanmerking komende Prime-items en meer.\nKijk advertentievrij voor slechts € 2,99/maand.\nPrime-lid? Meld je aan\n\nof\n\nStart je gratis proefversie van 30 dagen\nNa 30 dagen wordt Amazon Prime automatisch verlengd voor EUR 4,99/maand. Je kunt op elk moment annuleren.\nVoeg je favoriete kanalen toe\nMet Prime Video Channels kunnen leden zich abonneren op premium- en themakanalen zonder langdurige verplichtingen aan te gaan of extra apps te downloaden. Elk abonnement begint met een gratis proefperiode en je kunt op elk moment opzeggen.\nPrime Video-winkel\nNog meer films, nu beschikbaar om te huren of kopen – geen Prime-lidmaatschap vereist.\nFilms huren of kopen\nDownload en start\nKijk offline met de Prime Video-app wanneer je titels naar je iPhone, iPad, Tablet of Android-apparaat downloadt.\nPrime-lidmaatschap starten\nOveral kijken\nGeniet via internet of met de Prime Video-app op je telefoon, tablet of bepaalde smart-tv's - op maximaal 3 apparaten tegelijk.\nX-Ray voor meer\nGebruik X-Ray voor films en tv om acteurs en nummers te identificeren, acteurbiografieën te verkennen, trivia te bekijken en meer.\nData Saver\nBeheer het datagebruik tijdens het downloaden en kijken naar video's op bepaalde telefoons of tablets.\nVoorwaarden en privacyverklaring\nKennisgeving over cookies\nStuur ons je feedback\nHelp\n\n© 1996-2026, Amazon.com, Inc. of aan haar gelieerde bedrijven.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 44,
+            "y": 21.83333396911621,
+            "width": 84.27777862548828,
+            "height": 16.32638931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(33, 98, 161)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(33, 98, 161)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 149.2777862548828,
+            "y": 9,
+            "width": 68.39583587646484,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Films",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 218.67361450195312,
+            "y": 9,
+            "width": 64.60416412353516,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Tv-series",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 284.27777099609375,
+            "y": 9,
+            "width": 89.22916412353516,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Sport",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 374.5069580078125,
+            "y": 9,
+            "width": 66.41666412353516,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Live-tv",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 441.9236145019531,
+            "y": 9,
+            "width": 75.77777862548828,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Abonnementen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521.701416015625,
+            "y": 9,
+            "width": 157.3958282470703,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Winkel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 679.0972290039062,
+            "y": 9,
+            "width": 99.14583587646484,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Zoeken in Prime Video",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 941.9652709960938,
+            "y": 11.5,
+            "width": 39,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "NL",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 980.9652709960938,
+            "y": 9,
+            "width": 75.53472137451172,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Categorieën",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1056.5,
+            "y": 11.5,
+            "width": 39,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Profiel, instellingen en account",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1095.5,
+            "y": 11.5,
+            "width": 39,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 5, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Word lid van Prime",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1146.5,
+            "y": 9,
+            "width": 159.72222900390625,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(26, 152, 255, 0.8)",
+            "effectiveBackground": "rgba(26, 152, 255, 0.8)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0) rgb(255, 255, 255) rgb(255, 255, 255)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Prime-lid? Meld je aan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 689.1111450195312,
+            "y": 412,
+            "width": 404.5416564941406,
+            "height": 62
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 5, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 5, 13)",
+            "padding": "8px 21px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Start je gratis proefversie van 30 dagen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 689.1111450195312,
+            "y": 552.888916015625,
+            "width": 404.5416564941406,
+            "height": 62
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 5, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 5, 13)",
+            "padding": "8px 21px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Films huren of kopen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 72,
+            "y": 1711.888916015625,
+            "width": 236.34722900390625,
+            "height": 62
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 5, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 5, 13)",
+            "padding": "8px 21px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Prime-lidmaatschap starten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 72,
+            "y": 2386.888916015625,
+            "width": 298.02777099609375,
+            "height": 62
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 5, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 5, 13)",
+            "padding": "8px 21px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Voorwaarden en privacyverklaring",
+          "tag": "A",
+          "context": "Voorwaarden en privacyverklaring\nKennisgeving over cookies\nStuur ons je feedback\nHelp",
+          "box": {
+            "x": 350.52777099609375,
+            "y": 3545.888916015625,
+            "width": 232.57638549804688,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(121, 184, 243)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 34, 34)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(121, 184, 243)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Kennisgeving over cookies",
+          "tag": "A",
+          "context": "Kennisgeving over cookies",
+          "box": {
+            "x": 603.1041870117188,
+            "y": 3545.888916015625,
+            "width": 178.125,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(121, 184, 243)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 34, 34)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(121, 184, 243)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Stuur ons je feedback",
+          "tag": "A",
+          "context": "Voorwaarden en privacyverklaring\nKennisgeving over cookies\nStuur ons je feedback\nHelp",
+          "box": {
+            "x": 801.2291870117188,
+            "y": 3545.888916015625,
+            "width": 146.59722900390625,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(121, 184, 243)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 34, 34)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(121, 184, 243)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Help",
+          "tag": "A",
+          "context": "Voorwaarden en privacyverklaring\nKennisgeving over cookies\nStuur ons je feedback\nHelp",
+          "box": {
+            "x": 967.826416015625,
+            "y": 3545.888916015625,
+            "width": 31.86111068725586,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(121, 184, 243)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 34, 34)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(121, 184, 243)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.primevideo.com/offers/nonprimehomepage"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.primevideo.com/offers/nonprimehomepage",
+  "captured_at": "2026-11-03T15:04:15.411955+00:00",
+  "cookies": [
+    {
+      "name": "session-id",
+      "domain": ".primevideo.com",
+      "path": "/",
+      "expires": 1828278241.483253,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-id-time",
+      "domain": ".primevideo.com",
+      "path": "/",
+      "expires": 1825254240.088298,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i18n-prefs",
+      "domain": ".primevideo.com",
+      "path": "/",
+      "expires": 1825254240.088324,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lc-main-av",
+      "domain": ".primevideo.com",
+      "path": "/",
+      "expires": 1828278240.088387,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ubid-main-av",
+      "domain": ".primevideo.com",
+      "path": "/",
+      "expires": 1825254240.356904,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session-token",
+      "domain": ".primevideo.com",
+      "path": "/",
+      "expires": 1825254241.483172,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csm-hit",
+      "domain": "www.primevideo.com",
+      "path": "/",
+      "expires": 1823958248,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxc",
+      "domain": "www.primevideo.com",
+      "path": "/",
+      "expires": 1793804649.137971,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.primevideo.com",
+      "localKeys": [
+        "csa-tabbed-browsing",
+        "csm-bf",
+        "a-font-class",
+        "csm:adb",
+        "csm-hit",
+        "rx",
+        "dv-sw-cache-purge",
+        "cross-domain-sso-auth-context-state",
+        "csa-ctoken-C7D40A7CXB1J1WBVYSWX",
+        "pvweb:guestFlowCounted",
+        "rx-pnt"
+      ],
+      "sessionKeys": [
+        "C7D40A7CXB1J1WBVYSWX",
+        "CSM_previousURL",
+        "eelsts",
+        "csmtid",
+        "csa-tabbed-browsing",
+        "dvweb_wa_key"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://fls-eu.amazon.com/1/batch/1/OP/A3K6Y4MI8GDYMT:262-1675394-4025345:C7D40A7CXB1J1WBVYSWX$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.367051.0%26id%3DC7D40A7CXB1J1WBVYSWX%26ctb%3D1%26m%3D1%26sc%3DC7D40A7CXB1J1WBVYSWX%26pc%3D7980%26at%3D7980%26t%3D1793718248350%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DDVSignupOffer%26spty%3Doffers%26pti%3Dundefined%26tid%3DC7D40A7CXB1J1WBVYSWX%26aftb%3D1%26lob%3D2:7880",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.358558+00:00"
+    },
+    {
+      "url": "https://fls-eu.amazon.com/1/batch/1/OP/A3K6Y4MI8GDYMT:262-1675394-4025345:C7D40A7CXB1J1WBVYSWX$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.367051.0%26id%3DC7D40A7CXB1J1WBVYSWX%26m%3D1%26sc%3Drx%26pc%3D7984%26at%3D7984%26t%3D1793718248354%26csmtags%3Dhas-strong-interaction%26pty%3DDVSignupOffer%26spty%3Doffers%26pti%3Dundefined%26tid%3DC7D40A7CXB1J1WBVYSWX%26aftb%3D1%26lob%3D2:7884",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.370197+00:00"
+    },
+    {
+      "url": "https://www.primevideo.com/1/batch/2/OE/mid=A3K6Y4MI8GDYMT:sid=262-1675394-4025345:rid=C7D40A7CXB1J1WBVYSWX:sn=www.primevideo.com",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.371285+00:00"
+    },
+    {
+      "url": "https://www.primevideo.com/1/batch/2/OE/mid=A3K6Y4MI8GDYMT:sid=262-1675394-4025345:rid=C7D40A7CXB1J1WBVYSWX:sn=www.primevideo.com",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.371840+00:00"
+    },
+    {
+      "url": "https://fls-eu.amazon.com/1/batch/1/OP/A3K6Y4MI8GDYMT:262-1675394-4025345:C7D40A7CXB1J1WBVYSWX$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.367051.0%26id%3DC7D40A7CXB1J1WBVYSWX%26ctb%3D1%26m%3D1%26sc%3DC7D40A7CXB1J1WBVYSWX%26pc%3D7994%26at%3D7994%26t%3D1793718248364%26pty%3DDVSignupOffer%26spty%3Doffers%26pti%3Dundefined%26tid%3DC7D40A7CXB1J1WBVYSWX%26aftb%3D1%26ui%3D1%26lob%3D2:7894",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.375446+00:00"
+    },
+    {
+      "url": "https://www.primevideo.com/1/batch/2/OE/mid=A3K6Y4MI8GDYMT:sid=262-1675394-4025345:rid=C7D40A7CXB1J1WBVYSWX:sn=www.primevideo.com",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.375958+00:00"
+    },
+    {
+      "url": "https://global.telemetry.insights.video.a2z.com/Bootstrap/AV20260921",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.379318+00:00"
+    },
+    {
+      "url": "https://atv-ps-eu.primevideo.com/cdp/usage/Clickstream",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.380073+00:00"
+    },
+    {
+      "url": "https://atv-ps-eu.primevideo.com/cdp/usage/ReportConsentDecision",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.383038+00:00"
+    },
+    {
+      "url": "https://www.primevideo.com/1/batch/2/OE/mid=A3K6Y4MI8GDYMT:sid=262-1675394-4025345:rid=C7D40A7CXB1J1WBVYSWX:sn=www.primevideo.com",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.451812+00:00"
+    },
+    {
+      "url": "https://atv-ps-eu.primevideo.com/cdp/usage/ReportEvent",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.452912+00:00"
+    },
+    {
+      "url": "https://fls-eu.amazon.com/1/remote-weblab-triggers/1/OE/A3K6Y4MI8GDYMT:262-1675394-4025345:C7D40A7CXB1J1WBVYSWX$s:wl-client-id%3DCSMTriger%2Cwl%3DUEDATA_AA_SERVERSIDE_ASSIGNMENT_CLIENTSIDE_TRIGGER_190249%2FC:1234",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.112465+00:00"
+    },
+    {
+      "url": "https://www.primevideo.com/1/batch/2/OE/mid=A3K6Y4MI8GDYMT:sid=262-1675394-4025345:rid=C7D40A7CXB1J1WBVYSWX:sn=www.primevideo.com",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:04:11.112927+00:00"
+    },
+    {
+      "url": "https://atv-ps-eu.primevideo.com/cdp/insights/reportEvent/v1/dvwebnode",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:11.121079+00:00"
+    },
+    {
+      "url": "https://www.primevideo.com/rd/uedata",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.414309+00:00"
+    },
+    {
+      "url": "https://www.primevideo.com/1/batch/2/OE/mid=A3K6Y4MI8GDYMT:sid=262-1675394-4025345:rid=C7D40A7CXB1J1WBVYSWX:sn=www.primevideo.com",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:04:11.417605+00:00"
+    },
+    {
+      "url": "https://6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:11.462006+00:00"
+    },
+    {
+      "url": "https://unagi-eu.amazon.com/1/events/com.amazon.csm.csa.prod",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:04:13.444123+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://global.telemetry.insights.video.a2z.com/Bootstrap/AV20260921",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://6e5351d7ad9e61e3eb9b7bb3b36ab3a0a41f44960fd9fe3157824a833d65bf7.us-east-1.prod.service.minerva.devices.a2z.com/v2/metric-batch",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

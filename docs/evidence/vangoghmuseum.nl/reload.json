@@ -1,0 +1,683 @@
+{
+  "frames": [
+    {
+      "url": "https://www.vangoghmuseum.nl/nl",
+      "title": "Het museum over Vincent van Gogh in Amsterdam - Van Gogh Museum",
+      "text": "Home\nBezoek & Tickets\nKunst & Verhalen\nOver\nShop\nNL | EN\nOntdek het leven en werk van Vincent van Gogh\n\nZie Van Gogh zelf in het Van Gogh Museum. Laat je raken door zijn meesterwerken en herken jezelf in zijn levensverhaal. Boek tickets veilig op tickets.vangoghmuseum.nl.\n\nBestel tickets\n\nWord donateur\n\nNu te zien\n\nWhistler. Dandy en dwarsdenker\n\nJames McNeill Whistler geldt als een van de belangrijkste kunstenaars van de 19de eeuw. Ontdek de eerste overzichtstentoonstelling in Nederland met zijn werk.\n\nOntdek meer\n\nAltijd te zien\n\nMeesterwerken van Vincent van Gogh\n\nOntdek de vaste tentoonstelling met beroemde schilderijen van Vincent van Gogh. Zie meesterwerken als ‘De aardappeleters’, ‘Amandelbloesem’, ‘Zonnebloemen’ en meer.\n\nOntdek meer\n\nNu te zien\n\nYoshitoshi. Meester van de maan\n\nHonderd prenten, honderd verhalen, en steeds opnieuw de maan. Ontdek waarom Yoshitoshi wordt gezien als de laatste grote meester en vernieuwer van de Japanse prentkunst.\n\nOntdek meer\n\nLeestip\n\nInspiratie uit Japan\n\nWat zag Vincent van Gogh in Japanse prenten? Lees het verhaal en ontdek hoe hij zich door deze prentkunst liet inspireren.\n\nLees het verhaal\n\nOntdek meer:\nTentoonstellingen en activiteiten\nDe kunst in de collectie\nOp de hoogte blijven? Schrijf je in voor de nieuwsbrief\nOnze hoofdsponsors:\n\nScroll voor meer",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 63,
+            "y": 31.49305534362793,
+            "width": 90.80555725097656,
+            "height": 47.0069465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15.008,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 22px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Bezoek & Tickets",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 153.80555725097656,
+            "y": 31.49305534362793,
+            "width": 179.25,
+            "height": 47.0069465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15.008,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 22px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Kunst & Verhalen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 333.0555725097656,
+            "y": 31.49305534362793,
+            "width": 179.0416717529297,
+            "height": 47.0069465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15.008,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 22px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Over",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 512.0972290039062,
+            "y": 31.49305534362793,
+            "width": 82.36805725097656,
+            "height": 47.0069465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15.008,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 22px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Shop",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 594.4652709960938,
+            "y": 31.49305534362793,
+            "width": 84.83333587646484,
+            "height": 47.0069465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15.008,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 22px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "NL | EN",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 679.2986450195312,
+            "y": 31.49305534362793,
+            "width": 104.11111450195312,
+            "height": 47.0069465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15.008,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 22px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Zoeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 783.4097290039062,
+            "y": 29,
+            "width": 64,
+            "height": 52
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15.008,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 22px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Bestel tickets",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 68,
+            "y": 718.4722290039062,
+            "width": 163.6527862548828,
+            "height": 68.34027862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 206, 1)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Word donateur",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 243.6527862548828,
+            "y": 718.4722290039062,
+            "width": 178.2916717529297,
+            "height": 68.34027862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 206, 1)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Open het cookie-instellingen widget",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 842,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 242, 216)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.vangoghmuseum.nl/nl"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.vangoghmuseum.nl/nl",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "Cookiebot",
+        "hasResponse": true,
+        "optionalGranted": []
+      }
+    ]
+  },
+  "captured_at": "2026-11-03T15:33:56.167828+00:00",
+  "cookies": [
+    {
+      "name": "ARRAffinity",
+      "domain": ".vangoghmuseum.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "domain": ".vangoghmuseum.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.vangoghmuseum.nl",
+      "path": "/",
+      "expires": 1825256021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jcoPageCount",
+      "domain": "www.vangoghmuseum.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.vangoghmuseum.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.eu",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.vangoghmuseum.nl/nl",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.028470+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/generated/vgm-app.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.072160+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/generated/vgm-scaling.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.073151+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/generated/vgm-app.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.073466+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/fonts/GothamRndSSm-Book_Web.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.074107+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/fonts/GothamRndSSm-Medium_Web.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.074719+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/assets/9d8ff7b6-f3ae-42d7-ae40-f4886ebd4b95",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.097460+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/assets/1f9a4cf7-1723-433f-8025-ac97a6578677",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.098466+00:00"
+    },
+    {
+      "url": "https://iiif.micr.io/rAERt/full/,900/0/default.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.098946+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/assets/bab0a65a-cc5a-4098-9817-ba847ad09189",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.099697+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/assets/edae22cb-ee66-495c-9d4e-155b3c432fb2",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.100788+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.101411+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/generated/vgm-polyfills-array-includes.0889ce4745d075611ee6.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.123790+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/generated/vgm-home-page.1d3d139b95427215b29d.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.157666+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/generated/vgm-icons.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.158132+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/images/logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.158912+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.229799+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.230233+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.230919+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/uc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.269944+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:33:49.270474+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=14130650;type=pageview;cat=vango0;rcb=10;ord=4114998769272;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9190767491z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.335808+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:33:49.336301+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=14130650;dc_pre=CJnKrumP7JcDFdtEwQMdqDEqAA;type=pageview;cat=vango0;rcb=10;ord=4114998769272;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9190767491z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.428817+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:33:49.429063+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/5fe4aebc-fb3d-44d3-88f5-e54176286be5/settings.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.580868+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/946833509/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:33:49.581395+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/destination",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.582169+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.590213+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/866357868/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:33:49.596164+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:33:49.610365+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:33:49.610896+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=10089018;type=invmedia;cat=nl_va005;rcb=19;ord=9861108323903;npa=1;u2=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181800071z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.743373+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/5fe4aebc-fb3d-44d3-88f5-e54176286be5/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.744083+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=10089018;dc_pre=CO22x-mP7JcDFSkkugAd60EGrQ;type=invmedia;cat=nl_va005;rcb=19;ord=9861108323903;npa=1;u2=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181800071z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.764694+00:00"
+    },
+    {
+      "url": "https://www.vangoghmuseum.nl/statics/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.834500+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/Scripts/widgetIcon.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:49.962292+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=14130650;type=pageview;cat=vango0;rcb=10;ord=4114998769272;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9190767491z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=14130650;dc_pre=CJnKrumP7JcDFdtEwQMdqDEqAA;type=pageview;cat=vango0;rcb=10;ord=4114998769272;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9190767491z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034~123691370~123814945;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/946833509/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/866357868/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=10089018;type=invmedia;cat=nl_va005;rcb=19;ord=9861108323903;npa=1;u2=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181800071z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=10089018;dc_pre=CO22x-mP7JcDFSkkugAd60EGrQ;type=invmedia;cat=nl_va005;rcb=19;ord=9861108323903;npa=1;u2=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181800071z86622644za20gzb6622644zd6622644xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.vangoghmuseum.nl%2Fnl",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,1424 @@
+{
+  "frames": [
+    {
+      "url": "https://m365.cloud.microsoft/nl-nl/",
+      "title": "Microsoft 365 - Aanmelden bij Copilot",
+      "text": "Overslaan naar hoofdinhoud\nMicrosoft 365\nProducten\nFuncties\nDownload\nOndersteuning\nNu kopen\nME\nWork smarter met Microsoft 365\n with Copilot\n\nMicrosoft 365 brengt al je werk samen, met AI die je helpt dingen te maken, samen te werken en op schema te blijven.\n\nAanmelden\nMicrosoft 365 kopen\nPopulaire prompts om te proberen\nMijn schrijfstijl verbeteren\n\nHerschrijf deze tekst om deze professionelere en een minder uitgebreide tekst te maken.\n\nProbeer deze prompt\nMaak een afbeelding\n\nOntwerp een afbeelding van een tekening van een database in kleurenpotlood.\n\nProbeer deze prompt\nBegrijpen wat er is gewijzigd\n\nRecente activiteit opnemen in /bestand\n\nProbeer deze prompt\nMijn gegevens visualiseren\n\nEen staafdiagram maken van het [energieverbruik voor de top vijf landen met betrekking tot energieverbruik].\n\nProbeer deze prompt\nVoorbereiden op sollicitatiegesprek\n\nMaak een reeks vragen voor het sollicitatiegesprek voor de functie van [Software Engineer].\n\nProbeer deze prompt\nMijn rust vinden\n\nWat zijn enkele manieren om stress te verminderen?\n\nProbeer deze prompt\nDuik in je favoriete app\nWord met Copilot\n\nSchrijf slimmer en rond sneller af\n\nOpen Word\nExcel met Copilot\n\nOntgrendel inzichten en neem weloverwogen beslissingen.\n\nOpen Excel\nPowerPoint met Copilot\n\nZet ideeën om in uitgewerkte presentaties\n\nOpen PowerPoint\nOutlook met Copilot\n\nWerk door met e-mail en agenda.\n\nOpen Outlook\nAlle apps weergeven\nAI-hulpprogramma's om te zoeken, chatten, maken en in de stroom te blijven\nAan de slag met Chatten\n\nDenk na over projecten, vat informatie samen en houd het werk in één gesprek gaande.\n\nGa naar Chat\nVind wat je nodig hebt\n\nKrijg gefundeerde antwoorden en vind snel de informatie, bestanden en inzichten die u nodig hebt om werk gedaan te krijgen.\n\nGa naar Zoeken\nToegang verkrijgen tot je apps\n\nTyp /apps om Microsoft 365-apps zoals Word, Excel, PowerPoint en meer te openen.\n\nApps openen\nDownload Copilot-apps\nDownloaden voor desktop\n\nBreng Copilot en je werk samen in een gerichte bureaubladervaring.\n\nVoor Windows\nVoor Mac\nDownload op mobiel\n\nToegang tot je werk met een mobiele ervaring die is ontworpen voor flexibiliteit.\n\nWist je dit?\nAlles uitvouwen\n01/\nMicrosoft 365 brengt uw favoriete apps samen met Copilot\n\nMicrosoft 365 omvat vertrouwde apps zoals Word, Excel, PowerPoint, Outlook, Teams en OneDrive, plus Copilot-ervaringen die je helpen om te maken, te vinden, samen te vatten en dingen voor elkaar te krijgen in je werk. Met een Microsoft-account kun je Word, Excel en PowerPoint gratis in je browser gebruiken. Voor desktop-apps, meer opslag en extra premiumfuncties kun je de Microsoft 365-plannen verkennen.\n\n02/\nCopilot helpt u zich snel te oriënteren en voortgang te boeken\n03/\nMicrosoft Copilot houdt werk- en persoonlijke ervaringen gescheiden\n04/\nCopilot werkt met Microsoft 365 beveiligingsmaatregelen\n05/\nU bepaalt zelf wanneer u AI gebruikt\nVoor meer meer veelgestelde vragen raadpleeg veelgestelde vragen voor consumenten en veelgestelde vragen voor commerciële gebruikers\nNederlands (Nederland)\nPrivacy\nGezondheidsbeleid consumenten\nGebruiksvoorwaarden\n© Microsoft 2026\n* Copilot-functies vereisen een geschikt Microsoft 365 abonnement. Beschikbaarheid kan verschillen. Meer informatie.\nOp deze site wordt Microsoft Clarity uitgevoerd voor het verkrijgen van gedragsinzichten. Door deze site te gebruiken, ga je akkoord met het verzamelen en gebruiken van je gegevens, zoals hoe je met deze website communiceert door Microsoft voor productverbeteringen. Meer informatie vind je hier en in onze Privacyverklaring.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Microsoft",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 0,
+            "width": 137,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Microsoft 365",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 220.28472900390625,
+            "y": 0,
+            "width": 129.2916717529297,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 38, 38)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(38, 38, 38)",
+            "padding": "0px 6px 0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Producten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 359.5763854980469,
+            "y": 0,
+            "width": 88,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 38, 38)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(38, 38, 38)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Functies",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 452.5763854980469,
+            "y": 0,
+            "width": 75.9375,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 38, 38)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(38, 38, 38)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Download",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 533.513916015625,
+            "y": 0,
+            "width": 87.52083587646484,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 38, 38)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(38, 38, 38)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Ondersteuning",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 626.0347290039062,
+            "y": 0,
+            "width": 114.72916412353516,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 38, 38)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(38, 38, 38)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Nu kopen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 755.763916015625,
+            "y": 11.5,
+            "width": 69.59722137451172,
+            "height": 31
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 38, 38)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(38, 38, 38)",
+            "padding": "0px 5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "ME",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1246.71533203125,
+            "y": 9,
+            "width": 36,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 38, 38)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(38, 38, 38)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Aanmelden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 510.0555725097656,
+            "y": 540,
+            "width": 126.67361450195312,
+            "height": 49.55555725097656
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Microsoft 365 kopen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 652.7291870117188,
+            "y": 540,
+            "width": 187.4375,
+            "height": 49.55555725097656
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(246, 248, 240)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Mijn schrijfstijl verbeteren Herschrijf deze tekst om deze professionelere en een minder uitgebreide tekst te maken. Probeer deze prompt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 74.50694274902344,
+            "y": 904.5555419921875,
+            "width": 432,
+            "height": 210.7777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Maak een afbeelding Ontwerp een afbeelding van een tekening van een database in kleurenpotlood. Probeer deze prompt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 522.5069580078125,
+            "y": 904.5555419921875,
+            "width": 432,
+            "height": 210.7777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Begrijpen wat er is gewijzigd Recente activiteit opnemen in /bestand Probeer deze prompt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 970.5069580078125,
+            "y": 904.5555419921875,
+            "width": 432,
+            "height": 210.7777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Mijn gegevens visualiseren Een staafdiagram maken van het [energieverbruik voor de top vijf landen met betrekking tot energieverbruik]. Probeer deze prompt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1418.5069580078125,
+            "y": 904.5555419921875,
+            "width": 432,
+            "height": 210.7777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Voorbereiden op sollicitatiegesprek Maak een reeks vragen voor het sollicitatiegesprek voor de functie van [Software Engineer]. Probeer deze prompt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1866.5069580078125,
+            "y": 904.5555419921875,
+            "width": 432,
+            "height": 210.7777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Mijn rust vinden Wat zijn enkele manieren om stress te verminderen? Probeer deze prompt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 2314.507080078125,
+            "y": 904.5555419921875,
+            "width": 432,
+            "height": 210.7777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Vorige",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 1154.3333740234375,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 94, 92)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(225, 225, 225)",
+            "padding": "0px"
+          },
+          "disabled": true,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Volgende",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 123.50694274902344,
+            "y": 1154.3333740234375,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Word met Copilot Schrijf slimmer en rond sneller af Open Word",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 70.50694274902344,
+            "y": 1418.3333740234375,
+            "width": 284.2986145019531,
+            "height": 271.77777099609375
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Excel met Copilot Ontgrendel inzichten en neem weloverwogen beslissingen. Open Excel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 378.8055725097656,
+            "y": 1418.3333740234375,
+            "width": 284.3055725097656,
+            "height": 271.77777099609375
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "PowerPoint met Copilot Zet ideeën om in uitgewerkte presentaties Open PowerPoint",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 687.1111450195312,
+            "y": 1418.3333740234375,
+            "width": 284.2986145019531,
+            "height": 271.77777099609375
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Outlook met Copilot Werk door met e-mail en agenda. Open Outlook",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 995.4097290039062,
+            "y": 1418.3333740234375,
+            "width": 284.3055725097656,
+            "height": 271.77777099609375
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Alle apps weergeven",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1134.71533203125,
+            "y": 1722.111083984375,
+            "width": 148,
+            "height": 21.33333396911621
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Aan de slag met Chatten Denk na over projecten, vat informatie samen en houd het werk in één gesprek gaande. Ga naar Chat",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 70.50694274902344,
+            "y": 1995.4444580078125,
+            "width": 392.40277099609375,
+            "height": 452.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Vind wat je nodig hebt Krijg gefundeerde antwoorden en vind snel de informatie, bestanden en inzichten die u nodig hebt om werk gedaan te krijgen. Ga naar Zoeken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 478.90972900390625,
+            "y": 1995.4444580078125,
+            "width": 392.40277099609375,
+            "height": 452.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Toegang verkrijgen tot je apps Typ /apps om Microsoft 365-apps zoals Word, Excel, PowerPoint en meer te openen. Apps openen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 887.3125,
+            "y": 1995.4444580078125,
+            "width": 392.40277099609375,
+            "height": 452.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.13)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Voor Windows",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 355.5069580078125,
+            "y": 2790.416748046875,
+            "width": 117.8125,
+            "height": 38.22222137451172
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Voor Mac",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 485.3194580078125,
+            "y": 2790.416748046875,
+            "width": 87.06944274902344,
+            "height": 38.22222137451172
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Downloaden in de App Store®",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1013.1111450195312,
+            "y": 2800.729248046875,
+            "width": 120,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Downloaden in de Google Play",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1145.111083984375,
+            "y": 2800.729248046875,
+            "width": 135,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Alles uitvouwen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1130.0972900390625,
+            "y": 3009.84033203125,
+            "width": 152.61805725097656,
+            "height": 45.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "01/ Microsoft 365 brengt uw favoriete apps samen met Copilot",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 3128.729248046875,
+            "width": 1215.2083740234375,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Word",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 618.2430419921875,
+            "y": 3227.395751953125,
+            "width": 38.67361068725586,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Excel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 664.7708129882812,
+            "y": 3227.395751953125,
+            "width": 35.0625,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "PowerPoint",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 726.0208129882812,
+            "y": 3227.395751953125,
+            "width": 79.3263931274414,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "02/ Copilot helpt u zich snel te oriënteren en voortgang te boeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 3345.6181640625,
+            "width": 1215.2083740234375,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "03/ Microsoft Copilot houdt werk- en persoonlijke ervaringen gescheiden",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 3426.507080078125,
+            "width": 1215.2083740234375,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "04/ Copilot werkt met Microsoft 365 beveiligingsmaatregelen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 3507.395751953125,
+            "width": 1215.2083740234375,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "05/ U bepaalt zelf wanneer u AI gebruikt",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 3588.28466796875,
+            "width": 1215.2083740234375,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "veelgestelde vragen voor consumenten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 384.78472900390625,
+            "y": 3695.84033203125,
+            "width": 260.03472900390625,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "veelgestelde vragen voor commerciële gebruikers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 669.0902709960938,
+            "y": 3695.84033203125,
+            "width": 327.8958435058594,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "Nederlands (Nederland)",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 67.50694274902344,
+            "y": 3822.0625,
+            "width": 179.3125,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 270.8194580078125,
+            "y": 3822.951416015625,
+            "width": 45.2569465637207,
+            "height": 18.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "Gezondheidsbeleid consumenten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 340.0763854980469,
+            "y": 3822.951416015625,
+            "width": 211.79861450195312,
+            "height": 18.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "Gebruiksvoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 575.875,
+            "y": 3822.951416015625,
+            "width": 140.11805725097656,
+            "height": 18.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "Meer informatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 602.326416015625,
+            "y": 3886.0625,
+            "width": 85.125,
+            "height": 13.777777671813965
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(17, 94, 163)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(17, 94, 163)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "hier",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 425.1388854980469,
+            "y": 3934.0625,
+            "width": 21.90277862548828,
+            "height": 13.777777671813965
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(17, 94, 163)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(17, 94, 163)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "Privacyverklaring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 508.4791564941406,
+            "y": 3934.0625,
+            "width": 97.875,
+            "height": 13.777777671813965
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(17, 94, 163)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(17, 94, 163)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://m365.cloud.microsoft/nl-nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://m365.cloud.microsoft/nl-nl/",
+  "captured_at": "2026-11-03T14:57:41.809535+00:00",
+  "cookies": [
+    {
+      "name": "OH.SID",
+      "domain": "m365.cloud.microsoft",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OH.FLID",
+      "domain": "m365.cloud.microsoft",
+      "path": "/",
+      "expires": 1825253846.965479,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-MgQjBtVHXzQ",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1796309847.63494,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "domain": "m365.cloud.microsoft",
+      "path": "/",
+      "expires": 1793719647,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AADSSO",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SSOCOOKIEPULLED",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1793717907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uaid",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPRequ",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OParams",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MC1",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1825253849.012615,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MS0",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1793719649.012674,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSFPC",
+      "domain": "m365.cloud.microsoft",
+      "path": "/",
+      "expires": 1825253849.921697,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSCC",
+      "domain": ".cloud.microsoft",
+      "path": "/",
+      "expires": 1809352654,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://m365.cloud.microsoft",
+      "localKeys": [
+        "obf-DynamicCampaignDefinitions"
+      ],
+      "sessionKeys": [
+        "PreferAadProbeCalledBefore",
+        "preferAadProbeMetrics"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://j.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:57:36.768646+00:00"
+    },
+    {
+      "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:57:36.797908+00:00"
+    },
+    {
+      "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:57:36.798403+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://j.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

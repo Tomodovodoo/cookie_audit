@@ -1,0 +1,781 @@
+{
+  "frames": [
+    {
+      "url": "https://www.wikimedia.org//",
+      "title": "Wikimedia",
+      "text": "Welkom! De Wikimedia-beweging is een wereldwijde gemeenschap van mensen, projecten en activiteiten die samenwerken om vrij en vrije kennis te creëren en te delen.\nDoe met ons mee en maak alle kennis voor iedereen, overal, beschikbaar.\nOnze projecten\nOnze projecten vormen de kern van de Wikimedia-beweging. Alle grote projecten worden beheerd door de Wikimedia Foundation en de inhoud wordt gezamenlijk ontwikkeld door meer dan 260.000 gebruikers wereldwijd met behulp van de MediaWiki-software.\nReferentie\nWikipedia\nDe vrije encyclopedie\nWiktionary\nHet vrije woordenboek\nWikiquote\nVrije verzameling van citaten\nWikibooks\nVrije leerboeken\nVerzamelingen\nCommons\nVrij te gebruiken media\nWikisource\nBibliotheek met rechtenvrije inhoud\nWikiversity\nVrije leermaterialen\nWikispecies\nOpen lijst van soorten\nTechnologie\nWikidata\nOpen kennisbank\nWikifuncties\nBibliotheek met vrije functies\nMediaWiki\nVrije en open wiki-software\nGidsen\nWikivoyage\nVrije, wereldwijde reisgids\nSamenwerking\nMeta-Wiki\nCommunitycoördinatie en documentatie\nDe Wikimedia Foundation is de non-profitorganisatie die alle Wikimedia-projecten host en gemeenschappen over de hele wereld ondersteunt die vrij toegankelijke inhoud maken en beheren.\nMet uw donatie beschermt u het mensenrecht op vrije en open kennis voor iedereen.\nDoneer nu\nContact\nVragen over de Wikimedia Foundation of Wikimedia-projecten? Neem contact op.\nContact\n\nDeze pagina is beschikbaar onder de licentie Creative Commons Naamsvermelding-GelijkDelen Gebruiksvoorwaarden Privacybeleid",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Wikimedia-beweging",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 454.65972900390625,
+            "y": 650.6666870117188,
+            "width": 147.61805725097656,
+            "height": 18.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Wikimedia Foundation",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 931.388916015625,
+            "y": 650.6666870117188,
+            "width": 158.29861450195312,
+            "height": 18.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "MediaWiki",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 902.9236450195312,
+            "y": 674.6666870117188,
+            "width": 73.79166412353516,
+            "height": 18.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Wikipedia De vrije encyclopedie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.61111450195312,
+            "y": 776,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Wiktionary Het vrije woordenboek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421.6111145019531,
+            "y": 776,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Wikiquote Vrije verzameling van citaten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 663.6111450195312,
+            "y": 776,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Wikibooks Vrije leerboeken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 905.6111450195312,
+            "y": 776,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Commons Vrij te gebruiken media",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.61111450195312,
+            "y": 954,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Wikisource Bibliotheek met rechtenvrije inhoud",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421.6111145019531,
+            "y": 954,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Wikiversity Vrije leermaterialen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 663.6111450195312,
+            "y": 954,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Wikispecies Open lijst van soorten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 905.6111450195312,
+            "y": 954,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Wikidata Open kennisbank",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.61111450195312,
+            "y": 1132,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Wikifuncties Bibliotheek met vrije functies",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421.6111145019531,
+            "y": 1132,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "MediaWiki Vrije en open wiki-software",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 663.6111450195312,
+            "y": 1132,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Wikivoyage Vrije, wereldwijde reisgids",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.61111450195312,
+            "y": 1310,
+            "width": 230,
+            "height": 53
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Meta-Wiki Communitycoördinatie en documentatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.61111450195312,
+            "y": 1467,
+            "width": 230,
+            "height": 74
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Wikimedia Foundation",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 198.51388549804688,
+            "y": 1607.6666259765625,
+            "width": 158.29861450195312,
+            "height": 18.22222328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Doneer nu",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 579.6111450195312,
+            "y": 1863,
+            "width": 121.22916412353516,
+            "height": 42
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(51, 102, 204)",
+            "effectiveBackground": "rgb(51, 102, 204)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "5px 11px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 173.61111450195312,
+            "y": 2218.9375,
+            "width": 48.25,
+            "height": 16
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Creative Commons Naamsvermelding-GelijkDelen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 520.2708129882812,
+            "y": 2342.826416015625,
+            "width": 312.77777099609375,
+            "height": 16
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Gebruiksvoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 862.6458129882812,
+            "y": 2342.826416015625,
+            "width": 136.9583282470703,
+            "height": 16
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1029.201416015625,
+            "y": 2342.826416015625,
+            "width": 83.2638931274414,
+            "height": 16
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 102, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 102, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.wikimedia.org//"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.wikimedia.org//",
+  "captured_at": "2026-11-03T15:28:35.923474+00:00",
+  "cookies": [
+    {
+      "name": "WMF-Last-Access",
+      "domain": "wikimedia.org",
+      "path": "/",
+      "expires": 1796472001.040375,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "WMF-Last-Access-Global",
+      "domain": ".wikimedia.org",
+      "path": "/",
+      "expires": 1796472001.04046,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GeoIP",
+      "domain": ".wikimedia.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NetworkProbeLimit",
+      "domain": "wikimedia.org",
+      "path": "/",
+      "expires": 1793723307.040508,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "WMF-Last-Access",
+      "domain": "www.wikimedia.org",
+      "path": "/",
+      "expires": 1796475195.279695,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NetworkProbeLimit",
+      "domain": "www.wikimedia.org",
+      "path": "/",
+      "expires": 1793723307.279776,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "WMF-Uniq",
+      "domain": ".www.wikimedia.org",
+      "path": "/",
+      "expires": 1825200826.444603,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.wikimedia.org",
+      "localKeys": [
+        "storedTranslations"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://wikimedia.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:28:26.714128+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.108926+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/wikimedia_logo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.354134+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/welcome-image.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.362996+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikipedia-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.363903+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wiktionary-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.365400+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikiquote-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.366454+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/js/index-56d76e0e59.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.367869+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikibooks-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.368774+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Commons-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.369742+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikisource-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.370666+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikiversity-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.373505+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikispecies-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.374629+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikidata-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.375578+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikifunctions-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.377219+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/MediaWiki-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.378492+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Wikivoyage-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.379548+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/Meta-Wiki-logo_sister.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.380560+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/puzzle-globe.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.381509+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/img/OOjs_UI_icon_heart-invert.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.411898+00:00"
+    },
+    {
+      "url": "https://www.wikimedia.org//portal/wikimedia.org/assets/l10n/nl-660ecdc4.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:27.499873+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

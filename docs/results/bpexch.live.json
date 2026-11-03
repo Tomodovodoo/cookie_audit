@@ -1,0 +1,46 @@
+{
+  "rank": 443,
+  "domain": "bpexch.live",
+  "name": "bpexch.live",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:39:54.376669+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/bpexch.live/before.json",
+  "outcome": "incomplete"
+}

@@ -1,0 +1,105 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ebay.de/",
+      "title": "Error Page | eBay",
+      "text": "SORRY\n\nSomething went wrong on our end\n\n0.66661702.1793718174.889d076\n\nPlease go back and try again.\n\nCopyright © 1995-2026 eBay Inc. All Rights Reserved.",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.ebay.de/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ebay.de/",
+  "captured_at": "2026-11-03T15:03:02.453998+00:00",
+  "cookies": [
+    {
+      "name": "bm_so",
+      "domain": ".ebay.de",
+      "path": "/",
+      "expires": 1793804574.367486,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.ebay.de",
+      "path": "/",
+      "expires": 1796310174,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".ebay.de",
+      "path": "/",
+      "expires": 1796396575.221137,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ebay.de",
+      "localKeys": [],
+      "sessionKeys": [
+        "ak_bm_tab_id"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://ebay.de/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:53.917267+00:00"
+    },
+    {
+      "url": "https://www.ebay.de/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:54.190368+00:00"
+    },
+    {
+      "url": "https://www.ebay.de/Bj6QV/1G0H/hY1N/S6/RPiRb/wSuSrSXiE7/Mm4LPgcD/LzRCO/3lcHTga",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:54.410852+00:00"
+    },
+    {
+      "url": "https://secureir.ebaystatic.com/cr/v/c1/4xx-bkgd.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:54.417134+00:00"
+    },
+    {
+      "url": "https://www.ebay.de/Bj6QV/1G0H/hY1N/S6/RPiRb/wSuSrSXiE7/Mm4LPgcD/LzRCO/3lcHTga",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:55.133045+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://secureir.ebaystatic.com/cr/v/c1/4xx-bkgd.png",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "context_excerpt_limit": 400
+}

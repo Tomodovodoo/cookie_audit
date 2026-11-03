@@ -41,8 +41,9 @@ def ui_rules(state):
     plain = (s['background'] in ('transparent','rgba(0, 0, 0, 0)') and s['borderWidth']==0)
     accept_box = t['borderWidth']>0 or t['background'] not in ('transparent','rgba(0, 0, 0, 0)')
     text_sized = s['borderWidth']==0 and s['padding']=='0px' and r['box']['height']<a['box']['height']*.65
-    if (plain and r['tag']=='A' or text_sized) and accept_box:return ease,result('fail','Refusal is styled as a small unboxed text link while acceptance is a full button.')
-    if ('-' not in r['tag'] and contrast(s['color'],s['effectiveBackground'])<3) or s['fontSize']<t['fontSize']*.75:return ease,result('fail','Refusal has low text contrast or materially smaller text than acceptance.')
+    if (plain and r['tag']=='A' and r['box']['height']<a['box']['height']*.8 or text_sized) and accept_box:return ease,result('fail','Refusal is styled as a small unboxed text link while acceptance is a full button.')
+    reliable=all(v.get('contrastReliable',v['background'].startswith('rgb(') and v['color'].startswith('rgb(')) for v in (s,t))
+    if ('-' not in r['tag'] and reliable and contrast(s['color'],s['effectiveBackground'])<3<=contrast(t['color'],t['effectiveBackground'])) or s['fontSize']<t['fontSize']*.75:return ease,result('fail','Refusal has lower readable contrast or materially smaller text than acceptance.')
     if not a['inViewport'] or not r['inViewport']:return ease,result('unknown','The initial viewport does not contain both choices.')
     return ease,result('pass','Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure.')
 def tracking(cookies, requests, tracker_map):

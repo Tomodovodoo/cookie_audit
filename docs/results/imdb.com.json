@@ -1,0 +1,61 @@
+{
+  "rank": 47,
+  "domain": "imdb.com",
+  "name": "imdb.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T14:58:37.969700+00:00",
+  "run": {
+    "started_at": "2026-11-03T14:56:34.257305+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 8,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "pass",
+      "reason": "Refusal completed with one click and the choice interface disappeared."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "persists": {
+      "status": "pass",
+      "reason": "Refusal survived a reload of the resulting page."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Decline"
+    }
+  ],
+  "evidence": "evidence/imdb.com/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 202,
+  "title": "IMDb: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows",
+  "rules_version": "0.2.0"
+}

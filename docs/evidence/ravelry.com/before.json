@@ -1,0 +1,338 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ravelry.com/account/login",
+      "title": "Ravelry",
+      "text": "Username\nPassword\nShow\nI forgot\n Remember me\nLog In\nRavelry is a free website for knitters, crocheters, and fiber artists.\nSign Up",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Show",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 785.513916015625,
+            "y": 377.8819580078125,
+            "width": 64.2638931274414,
+            "height": 38.85416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "I forgot",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 514.6666870117188,
+            "y": 429.625,
+            "width": 40.1944465637207,
+            "height": 17.13888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(46, 96, 107)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(243, 244, 240)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(46, 96, 107)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Log In",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 770.888916015625,
+            "y": 459.7638854980469,
+            "width": 79.77777862548828,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 239, 227)",
+            "effectiveBackground": "rgb(151, 239, 227)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Sign Up",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 758.2291870117188,
+            "y": 690.875,
+            "width": 92.4375,
+            "height": 51.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 239, 227)",
+            "effectiveBackground": "rgb(151, 239, 227)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.ravelry.com/account/login"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ravelry.com/account/login",
+  "captured_at": "2026-11-03T15:06:16.551234+00:00",
+  "cookies": [
+    {
+      "name": "webp_support",
+      "domain": "www.ravelry.com",
+      "path": "/account",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest",
+      "domain": ".www.ravelry.com",
+      "path": "/",
+      "expires": 1796310369.33473,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "radvid",
+      "domain": "www.ravelry.com",
+      "path": "/",
+      "expires": 1828278369.177609,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "version",
+      "domain": "www.ravelry.com",
+      "path": "/",
+      "expires": 1828278369.177636,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ravelrys_pocketses",
+      "domain": "www.ravelry.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "flexworks",
+      "domain": "www.ravelry.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "timezone",
+      "domain": "www.ravelry.com",
+      "path": "/",
+      "expires": 1793721969,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hi_dpi",
+      "domain": "www.ravelry.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "last_inner_width",
+      "domain": "www.ravelry.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ravelry.com",
+      "localKeys": [
+        "captchaid",
+        "length",
+        "clear",
+        "getItem",
+        "key",
+        "removeItem",
+        "setItem"
+      ],
+      "sessionKeys": [
+        "length",
+        "clear",
+        "getItem",
+        "key",
+        "removeItem",
+        "setItem"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://ravelry.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.718592+00:00"
+    },
+    {
+      "url": "https://www.ravelry.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.037728+00:00"
+    },
+    {
+      "url": "https://www.ravelry.com/account/login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.201776+00:00"
+    },
+    {
+      "url": "https://style-cdn.ravelrycache.com/stylesheets/splash_2606041251.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.359281+00:00"
+    },
+    {
+      "url": "https://style-cdn.ravelrycache.com/javascripts/base11_2604101327.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.363659+00:00"
+    },
+    {
+      "url": "https://style-cdn.ravelrycache.com/javascripts/ravelry_2610281045.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.364289+00:00"
+    },
+    {
+      "url": "https://www.ravelry.com/images/assets/splash/2022/splash-still-light.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.365109+00:00"
+    },
+    {
+      "url": "https://www.ravelry.com/images/assets/splash/2022/splash-still-dark.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.365782+00:00"
+    },
+    {
+      "url": "https://style-cdn.ravelrycache.com/images/assets/logos/primary.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.505677+00:00"
+    },
+    {
+      "url": "https://style-cdn.ravelrycache.com/images/assets/splash/2022/splash-dudes-light.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.522346+00:00"
+    },
+    {
+      "url": "https://style-cdn.ravelrycache.com/images/assets/splash/2022/splash-table-texture-light.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.522858+00:00"
+    },
+    {
+      "url": "https://style-cdn.ravelrycache.com/images/assets/icons/check-empty.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.523988+00:00"
+    },
+    {
+      "url": "https://style.ravelrycache.com/fonts/inter/Inter-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.524871+00:00"
+    },
+    {
+      "url": "https://style.ravelrycache.com/fonts/inter/Inter-Light.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.525544+00:00"
+    },
+    {
+      "url": "https://style.ravelrycache.com/fonts/inter/Inter-ExtraBold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.526242+00:00"
+    },
+    {
+      "url": "https://www.ravelry.com/images/assets/splash/2022/video/splash-animation-light-512kpbs.webm",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.544103+00:00"
+    },
+    {
+      "url": "https://www.ravelry.com/images/assets/favicons/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:06:10.315035+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

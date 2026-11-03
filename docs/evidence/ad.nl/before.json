@@ -21,6 +21,8 @@
             "color": "rgb(36, 36, 36)",
             "background": "rgb(250, 187, 34)",
             "effectiveBackground": "rgb(250, 187, 34)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 15,
             "fontWeight": "600",
             "borderWidth": 1.77778,
@@ -28,7 +30,8 @@
             "padding": "4px 8px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-1",
@@ -46,6 +49,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -53,7 +58,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-2",
@@ -71,6 +77,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -78,7 +86,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-3",
@@ -96,6 +105,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -103,7 +114,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-4",
@@ -121,6 +133,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -128,7 +142,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-5",
@@ -146,6 +161,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -153,7 +170,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-6",
@@ -171,6 +189,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -178,7 +198,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-7",
@@ -196,6 +217,8 @@
             "color": "rgb(36, 36, 36)",
             "background": "rgb(250, 187, 34)",
             "effectiveBackground": "rgb(250, 187, 34)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 15,
             "fontWeight": "600",
             "borderWidth": 1.77778,
@@ -203,7 +226,8 @@
             "padding": "1px 6px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         },
         {
           "id": "ca-8",
@@ -221,6 +245,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 15,
             "fontWeight": "600",
             "borderWidth": 0.888889,
@@ -228,7 +254,8 @@
             "padding": "1px 6px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e"
         }
       ],
       "webdriver": false,
@@ -237,6 +264,7 @@
         "width": 1365,
         "height": 900
       },
+      "frame_id": "4078e5dd3ba04eb69cb956d44b52c45e",
       "frame_url": "https://myprivacy.dpgmedia.nl/consent"
     },
     {
@@ -250,18 +278,23 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "d8ef630f2ef040debfdb671a5b128a50",
       "frame_url": "about:"
     }
   ],
   "frame_errors": [],
   "url": "https://myprivacy.dpgmedia.nl/consent",
-  "captured_at": "2026-11-03T15:00:50.679469+00:00",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:45:29.262418+00:00",
   "cookies": [
     {
       "name": "brand",
       "domain": "ad.nl",
       "path": "/",
-      "expires": 1801494043.275041,
+      "expires": 1801496720.999366,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -270,7 +303,7 @@
       "name": "brand",
       "domain": "www.ad.nl",
       "path": "/",
-      "expires": 1801494043.379074,
+      "expires": 1801496721.104415,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -279,7 +312,7 @@
       "name": "ak_bmsc",
       "domain": ".www.ad.nl",
       "path": "/",
-      "expires": 1793725243.379131,
+      "expires": 1793727921.104474,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
@@ -288,7 +321,7 @@
       "name": "bm_s",
       "domain": ".ad.nl",
       "path": "/",
-      "expires": 1796396443.379167,
+      "expires": 1796399121.104502,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -297,7 +330,7 @@
       "name": "bm_so",
       "domain": ".ad.nl",
       "path": "/",
-      "expires": 1793804443.379197,
+      "expires": 1793807121.104532,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -306,7 +339,7 @@
       "name": "xAuthId",
       "domain": "myprivacy.dpgmedia.nl",
       "path": "/",
-      "expires": 1827414043.535539,
+      "expires": 1827416721.250432,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -315,7 +348,7 @@
       "name": "authId",
       "domain": "myprivacy.dpgmedia.nl",
       "path": "/",
-      "expires": 1827414043.535605,
+      "expires": 1827416721.250492,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -324,7 +357,7 @@
       "name": "ak_bmsc",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1793725243.535627,
+      "expires": 1793727921.250526,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
@@ -333,7 +366,7 @@
       "name": "bm_sv",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1793725243.864779,
+      "expires": 1793727921.483875,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -342,7 +375,7 @@
       "name": "_sp_ses.e23f",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1793719843,
+      "expires": 1793722521,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -351,7 +384,7 @@
       "name": "_sp_id.e23f",
       "domain": ".dpgmedia.nl",
       "path": "/",
-      "expires": 1828278043.984789,
+      "expires": 1828280721.805777,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -360,7 +393,7 @@
       "name": "sp",
       "domain": ".dpgmedia.net",
       "path": "/",
-      "expires": 1825254044.052048,
+      "expires": 1825256721.923312,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -387,79 +420,79 @@
       "url": "https://ad.nl/",
       "resource_type": "document",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.148744+00:00"
+      "at": "2026-11-03T15:45:20.928924+00:00"
     },
     {
       "url": "https://www.ad.nl/",
       "resource_type": "document",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.299820+00:00"
+      "at": "2026-11-03T15:45:21.003101+00:00"
     },
     {
       "url": "https://myprivacy.dpgmedia.nl/consent",
       "resource_type": "document",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.448878+00:00"
+      "at": "2026-11-03T15:45:21.122618+00:00"
     },
     {
       "url": "https://myprivacy-static.dpgmedia.net/consent.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.555279+00:00"
+      "at": "2026-11-03T15:45:21.320398+00:00"
     },
     {
       "url": "https://myprivacy-static.dpgmedia.net/consent/resources/logos/logo-dpgmedia.svg",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.555749+00:00"
-    },
-    {
-      "url": "https://myprivacy-static.dpgmedia.net/integrator-config/ad-nl.json",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T15:00:43.668902+00:00"
+      "at": "2026-11-03T15:45:21.351553+00:00"
     },
     {
       "url": "https://www.googletagmanager.com/gtm.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.669365+00:00"
-    },
-    {
-      "url": "https://pg.dpgmedia.nl/api/consent",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T15:00:43.737371+00:00"
+      "at": "2026-11-03T15:45:21.384672+00:00"
     },
     {
       "url": "https://myprivacy-static.dpgmedia.net/consent/resources/backgrounds/ad.webp",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.738044+00:00"
+      "at": "2026-11-03T15:45:21.385430+00:00"
     },
     {
-      "url": "https://sp.dpgmedia.net/X9MmT8zP6LqV4RdK7Jw_v4_4_0.js",
-      "resource_type": "script",
+      "url": "https://myprivacy-static.dpgmedia.net/integrator-config/ad-nl.json",
+      "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.900361+00:00"
+      "at": "2026-11-03T15:45:21.386637+00:00"
     },
     {
-      "url": "https://pg.dpgmedia.net/api/metrics",
-      "resource_type": "ping",
-      "method": "POST",
-      "at": "2026-11-03T15:00:43.952636+00:00"
+      "url": "https://pg.dpgmedia.nl/api/consent",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:21.387268+00:00"
     },
     {
       "url": "https://myprivacy-static.dpgmedia.net/consent/resources/logos/logo-ad.svg",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T15:00:43.955249+00:00"
+      "at": "2026-11-03T15:45:21.620603+00:00"
+    },
+    {
+      "url": "https://pg.dpgmedia.net/api/metrics",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:45:21.648393+00:00"
+    },
+    {
+      "url": "https://sp.dpgmedia.net/X9MmT8zP6LqV4RdK7Jw_v4_4_0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:21.700676+00:00"
     },
     {
       "url": "https://c.dpgmedia.net/a/b",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T15:00:43.980187+00:00"
+      "at": "2026-11-03T15:45:21.831445+00:00"
     }
   ],
   "tracking": {
@@ -468,6 +501,7 @@
   },
   "signals": [],
   "uncertain_signals": [],
+  "blocked": false,
   "screenshot": "before.jpg",
   "context_excerpt_limit": 400
 }

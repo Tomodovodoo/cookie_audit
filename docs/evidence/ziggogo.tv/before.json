@@ -1,0 +1,1360 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ziggogo.tv/nl/home",
+      "title": "Ziggo GO",
+      "text": "Cookies op ziggogo.tv\n\nOp ziggogo.tv en daarbuiten laten we je graag persoonlijke en relevante informatie zien. Daarnaast proberen we de website te verbeteren door internetgedrag te verzamelen en te analyseren. Voor deze doelen gebruiken wij (en onze partners) cookies en vergelijkbare technieken.\n\nKlik op “Accepteren” als je akkoord gaat met alle cookies. Kies je voor “Nee, liever niet”, dan plaatsen we alleen strikt noodzakelijke cookies om de website goed te laten werken. Dat betekent dat we geen vormen van personalisatie toepassen.\n\nVia cookie instellingen kan je zelf bepalen welke cookies worden geplaatst. Je kan je keuze altijd wijzigen of intrekken door te klikken op Cookie instellingen onderaan de pagina. In ons privacy beleid lees je meer over hoe we omgaan met jouw privacy.\n\nCookie-instellingen\nNee, liever niet\nAccepteren",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "privacy beleid",
+          "tag": "A",
+          "context": "Via cookie instellingen kan je zelf bepalen welke cookies worden geplaatst. Je kan je keuze altijd wijzigen of intrekken door te klikken op Cookie instellingen onderaan de pagina. In ons privacy beleid lees je meer over hoe we omgaan met jouw privacy.",
+          "box": {
+            "x": 496.59027099609375,
+            "y": 431.77777099609375,
+            "width": 99.65277862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "6f970193ce3b446caada3ee3054aa065"
+        },
+        {
+          "id": "ca-1",
+          "text": "Cookie-instellingen",
+          "tag": "BUTTON",
+          "context": "Cookie-instellingen",
+          "box": {
+            "x": 828.9583129882812,
+            "y": 478.5555725097656,
+            "width": 155.7083282470703,
+            "height": 48.17361068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(28, 29, 30)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(105, 105, 105)",
+            "padding": "12px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "6f970193ce3b446caada3ee3054aa065"
+        },
+        {
+          "id": "ca-2",
+          "text": "Nee, liever niet",
+          "tag": "BUTTON",
+          "context": "Cookie-instellingen\nNee, liever niet\nAccepteren",
+          "box": {
+            "x": 549.6666870117188,
+            "y": 478.5555725097656,
+            "width": 143.5833282470703,
+            "height": 48.17361068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(28, 29, 30)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(28, 29, 30)",
+            "padding": "12px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "6f970193ce3b446caada3ee3054aa065"
+        },
+        {
+          "id": "ca-3",
+          "text": "Accepteren",
+          "tag": "BUTTON",
+          "context": "Cookie-instellingen\nNee, liever niet\nAccepteren",
+          "box": {
+            "x": 394.6666564941406,
+            "y": 478.5555725097656,
+            "width": 135,
+            "height": 48.17361068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(244, 140, 0)",
+            "effectiveBackground": "rgb(244, 140, 0)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(244, 140, 0)",
+            "padding": "12px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "6f970193ce3b446caada3ee3054aa065"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "6f970193ce3b446caada3ee3054aa065",
+      "frame_url": "https://www.ziggogo.tv/nl/home"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "39e650cd0dae4cb2ae67f64ad82a1bc1",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ziggogo.tv/nl/home",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:42:07.369862+00:00",
+  "cookies": [
+    {
+      "name": "akaalb_hybrid_perseus_www_prod_nl",
+      "domain": "www.ziggogo.tv",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1825256522,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1809272524.013559,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_94B35888557A99487F000101_AdobeOrg_identity",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1827848524,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_94B35888557A99487F000101_AdobeOrg_cluster",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1793722324,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_94B35888557A99487F000101%40AdobeOrg",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1827416524,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ziggogo.tv",
+      "localKeys": [
+        "flutter.isSessionRestorationInProgress",
+        "flutter.generatedDeviceIdKey",
+        "flutter.HorizonVisitorSegmentProvider:visitorSegment",
+        "flutter.lastSessionRestorationResult",
+        "flutter.isSessionMigrationPerformedKey"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "flutter.isSessionRestorationInProgress",
+        "flutter.generatedDeviceIdKey",
+        "flutter.HorizonVisitorSegmentProvider:visitorSegment",
+        "flutter.lastSessionRestorationResult",
+        "flutter.isSessionMigrationPerformedKey"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://ziggogo.tv/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:35.420330+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:56.895679+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:57.603606+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:41:57.705745+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/js/utils.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:57.707028+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/js/check-browser-supporting.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:57.708352+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.de684342.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:57.709323+00:00"
+    },
+    {
+      "url": "https://s.go-mpulse.net/boomerang/4744U-RX6WV-2H35X-KDLJL-K9GUC",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.462825+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/a33439b1-ed8a-43a5-8f53-3e02dacb4168/a33439b1-ed8a-43a5-8f53-3e02dacb4168.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.498664+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/player/vendors.5b2499efcf8ba5d2fa8f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.499345+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/player/main.f5fa4b70e84e157e6f2e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.500269+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/conviva/vendors.31e2097a1ba626a45883.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.500938+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/conviva/main.89e4fa871bdb5a87ec78.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.501525+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/cast-sender/vendors.467e500a69f2e01c1dd7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.502205+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/cast-sender/main.cbbc708d82283202b706.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.502837+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/viper_config_getter/main.161814d04be631980dc1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.503454+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/onetrust/main.844800a06579b515a4b2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.505053+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:58.506816+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/flutter-canvaskit/ef0cd000916d64fa0c5d09cc809fa7ad244a5767/chromium/canvaskit.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:59.717237+00:00"
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:41:59.811606+00:00"
+    },
+    {
+      "url": "https://c.go-mpulse.net/api/config.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:41:59.812659+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/FontManifest.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:59.888626+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/conviva/487.b06e5c2a326c7ee6384f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:59.889165+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:59.890393+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/eureka/clank/156/cast_sender.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:59.899439+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/flutter-canvaskit/ef0cd000916d64fa0c5d09cc809fa7ad244a5767/chromium/canvaskit.wasm",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.200246+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Me4GZLCzYlKw.woff2",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.397765+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/fonts/MaterialIcons-Regular.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.399527+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/lib/src/icons/fonts/SVGIcons_v5.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.479723+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/HelveticaNeue-CondensedBold.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.480273+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/InterstatePro-Light.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.481379+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/InterstatePro-ExtraLight.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.482394+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/InterstatePro-Thin.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.482979+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/InterstatePro-Regular.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.483563+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/InterstatePro-Bold.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.484126+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-Black.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.484751+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-BlackItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.485318+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-Bold.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.485881+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-BoldItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.486461+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-ExtraLight.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.487028+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-ExtraLightItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.487715+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-Hairline.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.488285+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-HairlineItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.488852+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-Light.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.489407+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-LightItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.490193+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-Medium.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.490765+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-MediumItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.491346+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-RegularItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.491893+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-Semibold.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.492453+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-SemiboldItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.492993+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-Thin.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.493547+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes-ThinItalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.494395+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/upc_pl/fonts/Omnes.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.494717+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/fonts/VodafoneZiggo-Text-Bold.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.495248+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/fonts/VodafoneZiggo-Text-Bolditalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.495791+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/fonts/VodafoneZiggo-Text-Regular.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.497352+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/fonts/VodafoneZiggo-Text-Regularitalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.498290+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/fonts/VodafoneZiggo-Text-Light.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.498982+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/fonts/VodafoneZiggo-Text-Lightitalic.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.499721+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/telenet/fonts/Telenet-Albra-Sans-extra-Light.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.500424+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/telenet/fonts/Telenet-Albra-Sans-Light.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.501153+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/telenet/fonts/Telenet-Albra-Sans-Regular.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.502077+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/telenet/fonts/Telenet-Albra-Sans-Bold.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.503061+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/SFUIDisplay-Semibold.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.503953+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/SFUIText-Regular.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.505139+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/LG-Horizon-4-OneMW-Mono.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.506138+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/LG-Handwritten.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.506923+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/lib/src/icons/fonts/cpe/LG_Horizon_4_OneMW_Icons.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.508196+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/Diodrum-Light.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.508937+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/Diodrum-Regular.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.509662+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/Diodrum-Medium.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.510396+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/Diodrum-Semibold.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.511111+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/fonts/Diodrum-Bold.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.511832+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/virgin_uk/fonts/VMCircularWhisper-Light.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.512645+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/virgin_uk/fonts/VMCircularChat-Book.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.513544+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/virgin_uk/fonts/VMCircularShout-Bold.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.514423+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.515213+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/golden_toolkit/fonts/Roboto-Regular.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.515930+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202501.1.0/otBannerSdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.588235+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/favicon/favicon.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.600622+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/fonts/VodafoneZiggo-Text-Light.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:42:00.769607+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/AssetManifest.bin.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:01.019641+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/service_worker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:01.096936+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_232.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:01.106454+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_225.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:01.178717+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_243.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:01.179034+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_241.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:01.179632+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_221.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.198605+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_240.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.199418+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_239.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.200158+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_237.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.200864+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_8.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.201561+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_233.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.202283+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_9.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.203010+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_236.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.203706+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_242.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.204408+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_231.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.205374+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_107.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.206074+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_307.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.206742+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_46.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.207391+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_305.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.208061+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_312.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.208755+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_303.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.209412+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_314.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.210098+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_52.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.210670+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_301.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.211288+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_306.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.211919+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_129.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.212786+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_156.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.213447+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_37.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.214092+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_223.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.214654+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_309.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.215219+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_315.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.215854+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_293.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.216570+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_298.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.217223+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_44.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.217902+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_56.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.218460+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_157.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.219029+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_38.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.220189+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_224.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.220600+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_313.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.221408+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_304.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.222223+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_316.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.223037+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_300.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.223882+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/a33439b1-ed8a-43a5-8f53-3e02dacb4168/018e199a-03ea-7db3-9f91-1d88a92175d9/nl.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.228792+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/favicon/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.285946+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/splash_screen_portrait.png",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.317634+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/splash_screen_landscape.png",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.318282+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/offline/offline_page.nl.html",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.364200+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/offline/style.css",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.365044+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/fonts/InterstatePro-Light.otf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.365762+00:00"
+    },
+    {
+      "url": "https://spark-prod-nl.gnp.cloud.ziggogo.tv/nl/nl/config-service/backoffice",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.427831+00:00"
+    },
+    {
+      "url": "https://spark-prod-nl.gnp.cloud.ziggogo.tv/nl/nl/config-service/config",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.432917+00:00"
+    },
+    {
+      "url": "https://spark-prod-nl.gnp.cloud.ziggogo.tv/nl/nl/config-service/app-info",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.433411+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202501.1.0/assets/otCenterRounded.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.434243+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202501.1.0/assets/v2/otPcCenter.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.435020+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202501.1.0/assets/otCommonStyles.css",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.435782+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/fonts/InterstatePro-Light.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.700789+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/fonts/InterstatePro-Light.woff",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.738540+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/fonts/InterstatePro-Light.ttf",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.750354+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.813468+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/02f2e6bc-5994-41d3-9b96-f6ab724d56c8/018e1992-075b-7323-8b0b-39f426570b05/70da8bcc-e2bd-4525-b24a-bf372fd652f8/ZIGGO-logo-800x800.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.852674+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/02f2e6bc-5994-41d3-9b96-f6ab724d56c8/018e1992-075b-7323-8b0b-39f426570b05/93e69452-69c0-4cca-a40f-90acd60ebb16/ZIGGO-logo-800x800.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.853658+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.854800+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_localization/assets/i18n/nl_NL.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:02.969844+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_270.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.439909+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_291.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.441870+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_246.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.442914+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_254.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.444605+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_477.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.445805+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_476.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.446941+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_431.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.448899+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_480.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.450481+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_427.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.452681+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_329.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.453633+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_260.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.457121+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_252.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.460929+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_253.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.462856+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_250.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.463997+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_443.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.464725+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_251.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.465493+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_249.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.466718+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_582.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.468421+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_248.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.469553+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_373.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.471133+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_580.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.472242+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_447.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.473799+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_421.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.475267+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_553.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.476888+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_563.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.477429+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/main.dart.js_579.de684342.part.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.478182+00:00"
+    },
+    {
+      "url": "https://upc.d2.sc.omtrdc.net/b/ss/upchorizontvonline/0",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.566502+00:00"
+    },
+    {
+      "url": "https://adobedc.demdex.net/ee/v1/interact",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:42:03.603724+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/favicon/favicon.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.636126+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/assets/packages/horizon_assets/assets/brands/ziggo/logo.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:42:03.975247+00:00"
+    },
+    {
+      "url": "https://spark-prod-nl.gnp.cloud.ziggogo.tv/nl/nl/config-service/conf/images/failsafe_bypass_banner_nl_XL.png",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:42:04.083577+00:00"
+    },
+    {
+      "url": "https://upc.d2.sc.omtrdc.net/b/ss/upchorizontvonline/0",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:42:04.118335+00:00"
+    },
+    {
+      "url": "https://www.ziggogo.tv/favicon/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:42:04.202366+00:00"
+    },
+    {
+      "url": "https://edge.adobedc.net/ee/irl1/v1/interact",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:42:04.224308+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "AMCV_94B35888557A99487F000101%40AdobeOrg",
+      "domain": ".ziggogo.tv"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.go-mpulse.net/boomerang/4744U-RX6WV-2H35X-KDLJL-K9GUC",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c.go-mpulse.net/api/config.json",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://upc.d2.sc.omtrdc.net/b/ss/upchorizontvonline/0",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://adobedc.demdex.net/ee/v1/interact",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://upc.d2.sc.omtrdc.net/b/ss/upchorizontvonline/0",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://edge.adobedc.net/ee/irl1/v1/interact",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

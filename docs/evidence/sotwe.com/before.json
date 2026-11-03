@@ -1,0 +1,136 @@
+{
+  "frames": [
+    {
+      "url": "https://www.sotwe.com/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.sotwe.com/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/rjmyk/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/rjmyk/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.sotwe.com/",
+  "captured_at": "2026-11-03T15:15:52.012527+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://www.sotwe.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://sotwe.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:44.660997+00:00"
+    },
+    {
+      "url": "https://www.sotwe.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:44.755766+00:00"
+    },
+    {
+      "url": "https://sotwe.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:44.851722+00:00"
+    },
+    {
+      "url": "https://www.sotwe.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:44.891123+00:00"
+    },
+    {
+      "url": "https://www.sotwe.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:45.006604+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:45.838656+00:00"
+    },
+    {
+      "url": "https://www.sotwe.com/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c560d0e90bb01/cz4iCJF074gELh.g4zoHjzJ6WujqQ1aNly3UODyrf0M-1793718944-1.2.1.1-1NPLdKtGQSecs.T5G88WLM3McmN43ua.UwdH5jHe1zhHJKjXpkyU8wLJ0UQfu5Yo",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:15:45.860977+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/rjmyk/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:46.060754+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c56149cb22d31/CtUc2pEzqMMzxMtjIy2KszeDzz_w8KxEJ0M4s0UN0ht_tUKKuO9vjJ70pqrrnhSMqclMrwt74vV4pB5dkGig7D9SFdn0XaxJAL9c8xEu2V7ub7m7q1M9sYc2TOXaJXUlbA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:15:46.454035+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c56149cb22d31/CtUc2pEzqMMzxMtjIy2KszeDzz_w8KxEJ0M4s0UN0ht_tUKKuO9vjJ70pqrrnhSMqclMrwt74vV4pB5dkGig7D9SFdn0XaxJAL9c8xEu2V7ub7m7q1M9sYc2TOXaJXUlbA",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:46.892124+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c56149cb22d31/1793718946402/26ef5e74564030aba873d032bb96629949bea26e6c3dcb87d878874a42aab9e5/Cl8UEG98xs2H6yLNQB9FK7LBYWp1uo6TJAooK5HZkRAKjflOU32CQ_2mA0rkj3PvqMQFLSMl9LvmkvWGoOVZNsA-W8zT9pl1o-VEPnay1_cYBkfdnhur5SJ7Gd6Zye_AJhi8vIdIoGBGPw4l-iaT8awfOa5b3tI5L4_YMv4gn4PHH-EeSaZsqJ_VSTXFI24BELBqph_EosFqbu8jJM7HsYCvn50fGFogL999kxd2cS7n9GiygAKnq8uAGYmE89c5UrgwgvPfNExouN1-aVvkIXfgvipdHDy36mFkOHqfUukjZu69gM3bklI9zNVr7z0y8G4JESVefh4BrQ51n6FyJeeuJjkxzkJMtA79o9aG3wwCRPQS-Dg9bHDGPhrdpLKXzDB6kdioPCadIwXYOj7U5KZoLf8rGiMdyX9rpNEuREGDd31wnMWwCW26dmSgbHXF3tRtEmw-SCudeMVKM2AYxPnymtBT4kSBxZBA8xJCzTvMPHWky5OE5z9uuVSGp_1p_qaqYw2J2KU2Tdt1XCuEcokf8LrwMHynMePbdnXZMvWUF1cfiIbls4OsTnP8Brh0KwfbhWYY8JnKLswzF4sRv7mVAoE9P96eMbMLE4Of0DvxzhJOlszNZn_hjn3mgzBlP0ktsojpsP1W6zcdydCVHQ",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:46.911998+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c56149cb22d31/1793718946406/CipwdgYZgNJjCN1EVASqX4ALubwXrokwa6YCYdw9CEE036vtbPqcdvgqDANMVCogTxqzreLv4QI2H79hTvBRSMd1NByyxEwKvNRtZsNZbWP4S6zvCOf77CBHVDv_6iKdpD_JtpLBpjctF9XHEj7qoVfY9N0F73i8AhP8Bl_moRvhrfXCYQtW47NM1IzCGJ4YmuTDnOM0N6I6SPulVJV5x4G4AaffJoyZyc8SxBwYj3tZwocF0E4mNIB3fMnPXWwNIsXPdQ-2uj9-BrngO_Jz0-1A_1hVjYb4OYKFbg1E5sHwl9cqjnqXwxNAmgzB_cy-n1I8YbzSW1tUSypFS0OoVFgO83DZsfXJ3Ezqs3_x3FLDsIlPVFX2PC-hKSbdDx7QHoCprippNALzdNoZ5IT0tIxKY7y1fAbJHJNVR78C7tj2WssPRSqq_9iDAX_vg1w17nZbe2xeUYo-Sdb5yd7-dUfkufyH7X9L2ilNG8mOgyw2RtxLbnsun0iTQWqsfNHTQTDARJivGsNxsniNeav3eLmetRi08yzWK7Xtn-RAHzZo2BTvlq2Yrp1MvlKV1MaXhxR3cJs510To-I9wVhUS",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:47.907644+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c56149cb22d31/CtUc2pEzqMMzxMtjIy2KszeDzz_w8KxEJ0M4s0UN0ht_tUKKuO9vjJ70pqrrnhSMqclMrwt74vV4pB5dkGig7D9SFdn0XaxJAL9c8xEu2V7ub7m7q1M9sYc2TOXaJXUlbA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:15:48.525221+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

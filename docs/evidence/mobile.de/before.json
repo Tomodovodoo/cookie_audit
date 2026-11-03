@@ -1,0 +1,244 @@
+{
+  "frames": [],
+  "frame_errors": [
+    "Error"
+  ],
+  "url": "https://www.mobile.de/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:44:00.379689+00:00",
+  "cookies": [
+    {
+      "name": "bm_so",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1793807032.05353,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1793735032.053576,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.mobile.de",
+      "path": "/",
+      "expires": 1796312632,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1825256637.909867,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1793727832.01393,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_mi",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1793727832.014052,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1796399040.014131,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sc",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1793721300.014191,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".mobile.de",
+      "path": "/",
+      "expires": 1793727840.014306,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.mobile.de",
+      "localKeys": [
+        "ak_a",
+        "ak_ax"
+      ],
+      "sessionKeys": [
+        "TAB_ID",
+        "ak_bm_tab_id"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mobile.de/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:51.587847+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:51.778606+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/XS5mwGLu/Gy0SYypVAQ/IBxFak/5IWWgZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:52.118473+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:52.128267+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:53.045635+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:55.346990+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/XS5mwGLu/Gy0SYypVAQ/IBxFak/5IWWgZ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:55.348167+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:55.687438+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/XS5mwGLu/Gy0SYypVAQ/IBxFak/5IWWgZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:56.030418+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:56.041743+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:56.321597+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/XS5mwGLu/Gy0SYypVAQ/IBxFak/5IWWgZ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:56.926343+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:57.332084+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/XS5mwGLu/Gy0SYypVAQ/IBxFak/5IWWgZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:57.745376+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:57.784299+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:58.367387+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:59.375791+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/XS5mwGLu/Gy0SYypVAQ/IBxFak/5IWWgZ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:59.389238+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:59.672031+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/XS5mwGLu/Gy0SYypVAQ/IBxFak/5IWWgZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:44:00.168858+00:00"
+    },
+    {
+      "url": "https://www.mobile.de/vbw7jd/M_kLY/tLrwO/og/cu5mwGLuu3r1tV/bB8MYypVAQ/cG1wIk/FFd0s",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:44:00.231288+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "A block or incomplete page cannot establish absence of tracking."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

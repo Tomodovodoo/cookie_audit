@@ -1,0 +1,49 @@
+{
+  "frames": [
+    {
+      "url": "https://search-redirect.com/",
+      "title": "404 Not Found",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "fccafd92227441a7a5d3203407670a59",
+      "frame_url": "https://search-redirect.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://search-redirect.com/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 404,
+  "captured_at": "2026-11-03T15:42:45.752167+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://search-redirect.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://search-redirect.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:42:38.502386+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "A block or incomplete page cannot establish absence of tracking."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

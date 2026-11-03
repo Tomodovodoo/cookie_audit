@@ -1,0 +1,1388 @@
+{
+  "frames": [
+    {
+      "url": "https://medium.com/",
+      "title": "Medium: Read and write stories.",
+      "text": "Our story\n\nMembership\n\nWrite\n\nSign in\n\nGet started\nHuman\nstories & ideas\nA place to read, write, and deepen your understanding\nStart reading\n\nHelp\n\nStatus\n\nAbout\n\nCareers\n\nPress\n\nBlog\n\nStore\n\nPrivacy\n\nRules\n\nTerms\n\nText to speech\n\nTo make Medium work, we log user data. By using Medium, you agree to our Privacy Policy, including cookie policy.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Our story",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 862.388916015625,
+            "y": 28.38888931274414,
+            "width": 57.9375,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Membership",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 945.326416015625,
+            "y": 28.38888931274414,
+            "width": 79.14583587646484,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Write",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1049.4722900390625,
+            "y": 28.38888931274414,
+            "width": 33.34027862548828,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Sign in",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1107.8125,
+            "y": 28.38888931274414,
+            "width": 41.98611068725586,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Get started",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1174.798583984375,
+            "y": 25.72222328186035,
+            "width": 103.86805725097656,
+            "height": 21.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Get started",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1174.798583984375,
+            "y": 18.61111068725586,
+            "width": 103.86805725097656,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(25, 25, 25)",
+            "effectiveBackground": "rgb(25, 25, 25)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(25, 25, 25)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Start reading",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 86.66666412353516,
+            "y": 629.6666870117188,
+            "width": 196,
+            "height": 45.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(25, 25, 25)",
+            "effectiveBackground": "rgb(25, 25, 25)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(25, 25, 25)",
+            "padding": "8px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Help",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 342.6666564941406,
+            "y": 856,
+            "width": 27.42361068725586,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Status",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 386.09027099609375,
+            "y": 856,
+            "width": 36.96527862548828,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "About",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 439.0555725097656,
+            "y": 856,
+            "width": 35.80555725097656,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Careers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 490.8611145019531,
+            "y": 856,
+            "width": 45.125,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Press",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 551.9861450195312,
+            "y": 856,
+            "width": 32.29861068725586,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Blog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 600.2847290039062,
+            "y": 856,
+            "width": 26.47222328186035,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Store",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 642.7569580078125,
+            "y": 856,
+            "width": 30.95833396911621,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 689.7152709960938,
+            "y": 856,
+            "width": 42.54166793823242,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Rules",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 748.2569580078125,
+            "y": 856,
+            "width": 32.21527862548828,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Terms",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 796.4722290039062,
+            "y": 856,
+            "width": 36.05555725097656,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Text to speech",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 848.5277709960938,
+            "y": 856,
+            "width": 83.77777862548828,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 244, 237)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Privacy Policy",
+          "tag": "A",
+          "context": "To make Medium work, we log user data. By using Medium, you agree to our Privacy Policy, including cookie policy.",
+          "box": {
+            "x": 823.9791870117188,
+            "y": 33.77777862548828,
+            "width": 78.86111450195312,
+            "height": 16.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(36, 36, 36)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "close",
+          "tag": "BUTTON",
+          "context": "To make Medium work, we log user data. By using Medium, you agree to our Privacy Policy, including cookie policy.",
+          "box": {
+            "x": 959.6666870117188,
+            "y": 32,
+            "width": 19,
+            "height": 19
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(36, 36, 36)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://medium.com/"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/anchor",
+      "title": "reCAPTCHA",
+      "text": "beveiligd met reCAPTCHA",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 256,
+        "height": 60
+      },
+      "frame_url": "https://www.google.com/recaptcha/enterprise/anchor"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://medium.com/",
+  "captured_at": "2026-11-03T15:28:26.091927+00:00",
+  "cookies": [
+    {
+      "name": "__cf_ob",
+      "domain": "medium.com",
+      "path": "/cdn-cgi/challenge-platform",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "domain": ".medium.com",
+      "path": "/",
+      "expires": 1828279698.152032,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "domain": ".medium.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".medium.com",
+      "path": "/",
+      "expires": 1825255698.464223,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid",
+      "domain": ".medium.com",
+      "path": "/",
+      "expires": 1828279698.151943,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_7JY7T788PK",
+      "domain": ".medium.com",
+      "path": "/",
+      "expires": 1828279699.535603,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".medium.com",
+      "path": "/",
+      "expires": 1828279699.537826,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "domain": "medium.com",
+      "path": "/",
+      "expires": 1809271699,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://medium.com",
+      "localKeys": [
+        "viewer-status|is-logged-in",
+        "uid|previous"
+      ],
+      "sessionKeys": [
+        "_cfPre_tabId"
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "viewer-status|is-logged-in",
+        "uid|previous"
+      ],
+      "sessionKeys": [
+        "_cfPre_tabId"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://medium.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.576593+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/static/manifest-0401f4eb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.664116+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/entry-B9sT3CPRWF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.664974+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-iZtoL_Tkw2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.666423+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-agoS5BshQB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.667614+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BJHJ4pX6QE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.670006+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-DafWrb65G6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.671132+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/entry-DYs8qzGys1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.672255+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D5rJ1SRqYH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.673107+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CW52q4TfbS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.673844+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/entry-9_hY1YgSiw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.675372+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-8nD0W9b_G9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.676295+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BqWuBq-Iur.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.677129+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-DblumgP4m6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.677922+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D2woaK3c6b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.678722+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BmwLqGueFS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.679503+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CSLhjbmcxe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.680246+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-PPgGONlPph.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.681591+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D0t-jNDA34.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.682359+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CNPQCUwR11.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.683169+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-QbsbFBAlQV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.684007+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-Dt92Mxo5KV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.684752+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CX58jUgY1T.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.685501+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-C_mbnI2UAG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.686237+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-oGLJCMXgQb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.686966+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-Bi6OcvsoeD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.687672+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CRbQtT2A0J.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.688352+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-DOZ_ubsD3m.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.689163+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-DO_Dy1a8PN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.689947+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-_jZ8mZujVp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.691105+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CMPIOsOX8u.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.691876+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CnAcf1r1J_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.692588+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-HGxwz10s7v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.693351+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CRg4qaXvJl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.694047+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CBkMRYIMLv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.694748+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CCC_dinqj4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.695440+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-DLWVQj6Ibq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.696128+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BAwCbi1bKs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.697072+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-DnRo0UKfwZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.697880+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk--SOeahEQlb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.698731+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D7gbBieGob.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.699777+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CEJJpGAbeA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.701293+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BlKA1Zsh8m.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.702023+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-ZNPFxSEUUI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.702696+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-C8EbO82zxW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.703455+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-C2QzWKrRN8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.704181+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/entry-BGd4tuKi6-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.704878+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-KvfjDeNTxd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.705528+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-Bl8i8O8ZbV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.706159+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-c6SNzgcxDd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.706799+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-F74Q71HMRV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.707503+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-WXAeuvC4lY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.708478+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-B2SgC63XGI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.709211+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BjnTV9Sco4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.709902+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-6D9hvIp2BV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.710579+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BRZQke8eq3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.711258+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D-_QFXzgcb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.712043+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-id2Qy1tDPy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.712700+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D4xw7LlcKX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.713353+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CY1JiXo08e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.714016+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-Biw-Dj-5Fw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.714701+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-rexQNB-FAc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.715442+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CjzHmqR6b_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.716173+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-6ZNmI9beS2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.717227+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BeiEsbDarJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.718021+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CRUVtEfFyL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.718741+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CxXywpxfmf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.719468+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BqOmqIO6XD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.720190+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-Cuyr4qikme.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.720860+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-Y65z-ofxoo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.721549+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-C0aMXGMFxz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.722223+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BNOlylpZYr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.722935+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CBFpmppZGu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.723623+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D35p0clFl7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.724361+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-D_GTxPPS3Q.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.725297+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CE65iOyPxP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.725991+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BD4uOxgvXN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.726656+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-CL32A_-I1l.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.727344+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-Cz70dBYc2F.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.728054+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-7fOiM5Y4F1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.728728+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-BjsrKnikpR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.729727+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-88JU3yy93p.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.730460+00:00"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.731214+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.731900+00:00"
+    },
+    {
+      "url": "https://glyph.medium.com/css/unbound.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.733475+00:00"
+    },
+    {
+      "url": "https://miro.medium.com/v2/format:webp/4*SdjkdS98aKH76I8eD0_qjw.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:17.735517+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:18.140027+00:00"
+    },
+    {
+      "url": "https://glyph.medium.com/font/b492c44/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/sohne-400-normal.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:28:18.188746+00:00"
+    },
+    {
+      "url": "https://glyph.medium.com/font/4a44748/0-3j_4g_53_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/gt-super-400-normal.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:28:18.189629+00:00"
+    },
+    {
+      "url": "https://medium.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:18.223563+00:00"
+    },
+    {
+      "url": "https://cdn-client.medium.com/lite/assets/chunk-C177ljcpd_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:18.281974+00:00"
+    },
+    {
+      "url": "https://medium.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:18.294457+00:00"
+    },
+    {
+      "url": "https://medium.com/cdn-cgi/challenge-platform/h/g/precursor/5c2e6b612edd/0.43658908410670183:1793715035:p-Yv5W6_OI0l3aCkTJdW5Tej0O4jm-ntjdY5toiS73A/a54c686d7c9616bf",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:28:18.412301+00:00"
+    },
+    {
+      "url": "https://medium.com/_/graphql",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:18.605347+00:00"
+    },
+    {
+      "url": "https://medium.com/_/graphql",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:18.709501+00:00"
+    },
+    {
+      "url": "https://medium.com/_/clientele/reports/performance/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:18.710213+00:00"
+    },
+    {
+      "url": "https://medium.com/_/clientele/reports/performance/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:18.747178+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/anchor",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:28:18.851516+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.154990+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.159832+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.342956+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/client",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.343397+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/webworker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.405849+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.425699+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.426189+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__nl.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.437733+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:19.595918+00:00"
+    },
+    {
+      "url": "https://medium.com/_/clientele/reports/performance/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:19.601309+00:00"
+    },
+    {
+      "url": "https://medium.com/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:28:19.605300+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/style",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.609407+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/status",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.611235+00:00"
+    },
+    {
+      "url": "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:19.611781+00:00"
+    },
+    {
+      "url": "https://medium.com/_/graphql",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:28:23.690647+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_7JY7T788PK",
+      "domain": ".medium.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".medium.com"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

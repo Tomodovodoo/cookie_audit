@@ -1,0 +1,517 @@
+{
+  "frames": [
+    {
+      "url": "https://login.microsoftonline.com/0907bb1e-21fc-476f-8843-02d09ceb59a7/oauth2/authorize",
+      "title": "Aanmelden bij uw account",
+      "text": "Aanmelden\nHebt u geen toegang tot het account?\n\nProblemen met inloggen?\n\nDeze pagina is alleen toegankelijk voor bezoekers met een HvA- of UvA-account, of met een gastaccount. Heb je problemen met inloggen? Volg de instructies via onderstaande links om je tweestapsverificatie (opnieuw) in te stellen of problemen met inloggen op te lossen.\n\nInstructies voor:\n\n* HvA-studenten\n\n* HvA-medewerkers\n\n* UvA-medewerkers en gasten\n\nWerkt het daarna nog steeds niet? Bel de Servicedesk ICT Services: 020 – 595 1402.\n\n\t\nAanmeldingsopties\n\n\nDisclaimer Privacyverklaring ...",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Hebt u geen toegang tot het account?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 501.1111145019531,
+            "y": 233.55555725097656,
+            "width": 219.6875,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 103, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 103, 184)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Volgende",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 743.1111450195312,
+            "y": 268.22222900390625,
+            "width": 108,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 103, 184)",
+            "effectiveBackground": "rgb(0, 103, 184)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 103, 184)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "HvA-studenten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 509.4791564941406,
+            "y": 576.2222290039062,
+            "width": 100.02777862548828,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 103, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 103, 184)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "HvA-medewerkers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 509.4791564941406,
+            "y": 612.2222290039062,
+            "width": 121.72916412353516,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 103, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 103, 184)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "UvA-medewerkers en gasten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 509.4791564941406,
+            "y": 648.2222290039062,
+            "width": 190.1875,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 103, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 103, 184)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Aanmeldingsopties",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 455.1111145019531,
+            "y": 780.2222290039062,
+            "width": 440,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 27, 27)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 27, 27)",
+            "padding": "8px 44px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Disclaimer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1138.7430419921875,
+            "y": 872.2222290039062,
+            "width": 54.65972137451172,
+            "height": 28
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.6)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Privacyverklaring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1212.96533203125,
+            "y": 872.2222290039062,
+            "width": 89.11111450195312,
+            "height": 28
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.6)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "...",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1321.638916015625,
+            "y": 872.2222290039062,
+            "width": 20.58333396911621,
+            "height": 22
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.6)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://login.microsoftonline.com/0907bb1e-21fc-476f-8843-02d09ceb59a7/oauth2/authorize"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://login.microsoftonline.com/0907bb1e-21fc-476f-8843-02d09ceb59a7/oauth2/authorize",
+  "captured_at": "2026-11-03T15:16:00.284990+00:00",
+  "cookies": [
+    {
+      "name": "ARRAffinity",
+      "domain": ".mijnhva.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "domain": ".mijnhva.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "nSGt-79BAD2808D4F51AC958D33969B4373747DDBE63F0C813ACD",
+      "domain": "icthva.sharepoint.com",
+      "path": "/",
+      "expires": 1793719192.842692,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "RpsContextCookie",
+      "domain": "icthva.sharepoint.com",
+      "path": "/",
+      "expires": 1793719552.842787,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-IhHAY8UWhsY",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AADSSO",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SSOCOOKIEPULLED",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1793719013,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "buid",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1796310954.255552,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-sjed1KKSQQ",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1796310954.255857,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uaid",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPRequ",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brcap",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1827414953,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://login.microsoftonline.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mijnhva.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:52.425247+00:00"
+    },
+    {
+      "url": "https://icthva.sharepoint.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:52.592531+00:00"
+    },
+    {
+      "url": "https://icthva.sharepoint.com/_layouts/15/Authenticate.aspx",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:52.693946+00:00"
+    },
+    {
+      "url": "https://icthva.sharepoint.com/_forms/default.aspx",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:52.735198+00:00"
+    },
+    {
+      "url": "https://login.microsoftonline.com/0907bb1e-21fc-476f-8843-02d09ceb59a7/oauth2/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:52.849522+00:00"
+    },
+    {
+      "url": "https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_8k_MLTH5HA-ha6OAu4vroQ2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:52.980960+00:00"
+    },
+    {
+      "url": "https://login.microsoftonline.com/0907bb1e-21fc-476f-8843-02d09ceb59a7/oauth2/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.151586+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/converged.v2.login.min_st-xvf2c8yywvcweu5swng2.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.284669+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauth.net/shared/1.0/content/js/ConvergedLogin_PCore_Z0tfIqn-YAh_QXsCBPIQ0w2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.286616+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.converged.login.strings-nl.min_btayg5ifbwq3kfudtahv4g2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.287003+00:00"
+    },
+    {
+      "url": "https://login.live.com/Me.htm",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.435397+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauth.net/shared/1.0/content/js/oneDs_0e6e4f5935218971c598.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.561761+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauth.net/shared/1.0/content/js/asyncchunk/convergedlogin_pcustomizationloader_ca58a38f28cf61916074.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.867553+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:15:53.914582+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauthimages.net/c1c6b6c8-48k66nw953vfo2vlej9x4o8qo8sflapsmwrplblvir4/logintenantbranding/0/illustration",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:54.016501+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauthimages.net/c1c6b6c8-48k66nw953vfo2vlej9x4o8qo8sflapsmwrplblvir4/logintenantbranding/0/bannerlogo",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:54.017079+00:00"
+    },
+    {
+      "url": "https://aadcdn.msauth.net/shared/1.0/content/images/signin-options_3e3f6b73c3f310c31d2c4d131a8ab8c6.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:54.427662+00:00"
+    },
+    {
+      "url": "https://eu-mobile.events.data.microsoft.com/OneCollector/1.0/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:15:56.075545+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

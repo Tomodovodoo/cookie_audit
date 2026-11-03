@@ -1,0 +1,901 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ov-chipkaart.nl/",
+      "title": "OV-chipkaart.nl - OV-chipkaart.nl",
+      "text": "OV-chipkaart\nServicepuntenzoeker\nSaldo\nService & contact\nUser\nMijn OV-chip\nHeb je nog saldo op je OV-chipkaart staan?\nGebruik je je OV-chipkaart niet meer of is deze verlopen? Vraag je saldo eenvoudig terug.\n\n\n\nKlaar om je saldo terug te vragen?\n\nVraag saldo terug\nSaldochecker\nKaartnummer\nMijn saldo\nDirect regelen\nSaldo terugvragen\nKaart vervangen of beëindigen\nGemiste in- of uitcheck aanpassen\nOverstappen naar OVpay\nVergeet je saldo niet\n\nGebruik je je OV-chipkaart niet meer of is deze verlopen? Kijk dan of er nog saldo op staat en vraag dit terug.\n\nSaldo terugvragen\nHeb je een anonieme OV-chipkaart?\n\nJe kunt deze voorlopig nog blijven gebruiken. Je kunt ook overstappen naar OVpay. Ontdek in- en uitchecken met de nieuwe OV-pas of je betaalpas.\n\nToch je anonieme OV-chipkaart blijven gebruiken? Meld je dan aan voor een herinnering als je kaart verloopt en ontvang updates over OVpay.\n\n\n\nOntdek OVpay\nOntvang een herinnering\nContactCookieverklaringProclaimerPrivacyVeiligheid en fraudeVoorwaardenSitemap© Translink 2026",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "OV-chipkaart",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 174.11111450195312,
+            "y": 9.833333015441895,
+            "width": 136.5416717529297,
+            "height": 64.44444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "18px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Servicepuntenzoeker",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 310.65277099609375,
+            "y": 9.833333015441895,
+            "width": 206.04861450195312,
+            "height": 64.44444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "18px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Saldo",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 516.701416015625,
+            "y": 9.833333015441895,
+            "width": 72.90277862548828,
+            "height": 64.44444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "18px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Service & contact",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 589.6041870117188,
+            "y": 9.833333015441895,
+            "width": 171.95138549804688,
+            "height": 64.44444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "18px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "User Mijn OV-chip",
+          "tag": "BUTTON",
+          "context": "OV-chipkaart\nServicepuntenzoeker\nSaldo\nService & contact\nUser\nMijn OV-chip\nHeb je nog saldo op je OV-chipkaart staan?\nGebruik je je OV-chipkaart niet meer of is deze verlopen? Vraag je saldo eenvoudig terug.\n\n\n\nKlaar om je saldo terug te vragen?\n\nVraag saldo terug\nSaldochecker\nKaartnummer\nMijn saldo\nDirect regelen\nSaldo terugvragen\nKaart vervangen of beëindigen\nGemiste in- of uitcheck aanpassen\nOv",
+          "box": {
+            "x": 1055.5347900390625,
+            "y": 26.05555534362793,
+            "width": 143.57638549804688,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Vraag saldo terug",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 105.11111450195312,
+            "y": 332.4513854980469,
+            "width": 193.19444274902344,
+            "height": 43.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(230, 0, 126)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Mijn saldo",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 125.11111450195312,
+            "y": 584,
+            "width": 103.55555725097656,
+            "height": 40.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(230, 0, 126)",
+            "effectiveBackground": "rgb(230, 0, 126)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(230, 0, 126)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Saldo terugvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.1111450195312,
+            "y": 503,
+            "width": 161.3333282470703,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(41, 120, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(41, 120, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Kaart vervangen of beëindigen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.1111450195312,
+            "y": 535.7777709960938,
+            "width": 253.3402862548828,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(41, 120, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(41, 120, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Gemiste in- of uitcheck aanpassen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.1111450195312,
+            "y": 568.5555419921875,
+            "width": 279.3958435058594,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(41, 120, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(41, 120, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Overstappen naar OVpay",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.1111450195312,
+            "y": 601.3333129882812,
+            "width": 209.45138549804688,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(41, 120, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(41, 120, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Saldo terugvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 122,
+            "y": 933.3333129882812,
+            "width": 183.42361450195312,
+            "height": 51.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(41, 120, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(41, 120, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Saldo terugvragen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 122,
+            "y": 933.3333129882812,
+            "width": 183.42361450195312,
+            "height": 51.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(230, 0, 126)",
+            "effectiveBackground": "rgb(230, 0, 126)",
+            "fontSize": 18,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(230, 0, 126)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Ontdek OVpay",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 704,
+            "y": 933.3333129882812,
+            "width": 151.84722900390625,
+            "height": 51.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(41, 120, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(41, 120, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Ontdek OVpay",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 704,
+            "y": 933.3333129882812,
+            "width": 151.84722900390625,
+            "height": 51.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(230, 0, 126)",
+            "effectiveBackground": "rgb(230, 0, 126)",
+            "fontSize": 18,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(230, 0, 126)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Ontvang een herinnering",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 863.8472290039062,
+            "y": 944.888916015625,
+            "width": 186.4652862548828,
+            "height": 28
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(41, 120, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(41, 120, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Contact",
+          "tag": "A",
+          "context": "ContactCookieverklaringProclaimerPrivacyVeiligheid en fraudeVoorwaardenSitemap© Translink 2026",
+          "box": {
+            "x": 249.69444274902344,
+            "y": 1620.77783203125,
+            "width": 52.23611068725586,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(106, 106, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(106, 106, 122)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Cookieverklaring",
+          "tag": "A",
+          "context": "Cookieverklaring",
+          "box": {
+            "x": 326.8194580078125,
+            "y": 1620.77783203125,
+            "width": 113.65972137451172,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(106, 106, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(106, 106, 122)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Proclaimer",
+          "tag": "A",
+          "context": "ContactCookieverklaringProclaimerPrivacyVeiligheid en fraudeVoorwaardenSitemap© Translink 2026",
+          "box": {
+            "x": 465.3680725097656,
+            "y": 1620.77783203125,
+            "width": 73.27083587646484,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(106, 106, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(106, 106, 122)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "ContactCookieverklaringProclaimerPrivacyVeiligheid en fraudeVoorwaardenSitemap© Translink 2026",
+          "box": {
+            "x": 563.5277709960938,
+            "y": 1620.77783203125,
+            "width": 48.64583206176758,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(106, 106, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(106, 106, 122)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Veiligheid en fraude",
+          "tag": "A",
+          "context": "ContactCookieverklaringProclaimerPrivacyVeiligheid en fraudeVoorwaardenSitemap© Translink 2026",
+          "box": {
+            "x": 637.0625,
+            "y": 1620.77783203125,
+            "width": 131.9791717529297,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(106, 106, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(106, 106, 122)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "ContactCookieverklaringProclaimerPrivacyVeiligheid en fraudeVoorwaardenSitemap© Translink 2026",
+          "box": {
+            "x": 793.9305419921875,
+            "y": 1620.77783203125,
+            "width": 89.6388931274414,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(106, 106, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(106, 106, 122)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Sitemap",
+          "tag": "A",
+          "context": "ContactCookieverklaringProclaimerPrivacyVeiligheid en fraudeVoorwaardenSitemap© Translink 2026",
+          "box": {
+            "x": 908.4583129882812,
+            "y": 1620.77783203125,
+            "width": 55.83333206176758,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(106, 106, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(106, 106, 122)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Open het cookie-instellingen widget",
+          "tag": "BUTTON",
+          "context": "OV-chipkaart\nServicepuntenzoeker\nSaldo\nService & contact\nUser\nMijn OV-chip\nHeb je nog saldo op je OV-chipkaart staan?\nGebruik je je OV-chipkaart niet meer of is deze verlopen? Vraag je saldo eenvoudig terug.\n\n\n\nKlaar om je saldo terug te vragen?\n\nVraag saldo terug\nSaldochecker\nKaartnummer\nMijn saldo\nDirect regelen\nSaldo terugvragen\nKaart vervangen of beëindigen\nGemiste in- of uitcheck aanpassen\nOv",
+          "box": {
+            "x": 10,
+            "y": 842,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.ov-chipkaart.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "https://ov-chipkaart.prismic.io/prismic-toolbar/8a92544c/shell.html",
+      "title": "Prismic Toolbar shell",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://ov-chipkaart.prismic.io/prismic-toolbar/8a92544c/shell.html"
+    },
+    {
+      "url": "https://apps.mypurecloud.de/messenger/thirdparty-plugins.html",
+      "title": "Third Party Plugins",
+      "text": "  ",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://apps.mypurecloud.de/messenger/thirdparty-plugins.html"
+    },
+    {
+      "url": "https://apps.mypurecloud.de/messenger/messenger.html",
+      "title": "Messenger Launcher",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://apps.mypurecloud.de/messenger/messenger.html"
+    },
+    {
+      "url": "https://apps.mypurecloud.de/messenger/messenger-renderer.html",
+      "title": "Messenger",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://apps.mypurecloud.de/messenger/messenger-renderer.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ov-chipkaart.nl/",
+  "captured_at": "2026-11-03T15:10:07.743733+00:00",
+  "cookies": [
+    {
+      "name": "stickyness",
+      "domain": "www.ov-chipkaart.nl",
+      "path": "/",
+      "expires": 1793891392.562619,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "domain": "www.ov-chipkaart.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "domain": "www.ov-chipkaart.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "waap_id",
+      "domain": ".ov-chipkaart.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.ov-chipkaart.nl",
+      "path": "/",
+      "expires": 1825254600,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_TS1Z72SFR4",
+      "domain": ".ov-chipkaart.nl",
+      "path": "/",
+      "expires": 1828278600.963793,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".ov-chipkaart.nl",
+      "path": "/",
+      "expires": 1828278600.964196,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ov-chipkaart.nl",
+      "localKeys": [
+        "nextauth.message",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actvc",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actmu",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actms",
+        "mopDeploy",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actts"
+      ],
+      "sessionKeys": [
+        "mopDeploy"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "nextauth.message",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actvc",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actmu",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actms",
+        "mopDeploy",
+        "_439d327a-f15b-48ed-b851-f6e17789f60d:actts"
+      ],
+      "sessionKeys": [
+        "mopDeploy"
+      ]
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://ov-chipkaart.prismic.io",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://apps.mypurecloud.de",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://apps.mypurecloud.de",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://apps.mypurecloud.de",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://consent.cookiebot.com/logconsent.ashx",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.549085+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.com/Scripts/widgetIcon.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.625170+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/b4a5211e-d564-40c1-9df7-f36619bef08a/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.626077+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.729411+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.852787+00:00"
+    },
+    {
+      "url": "https://deploy.mopinion.com/js/pastease.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.853448+00:00"
+    },
+    {
+      "url": "https://deploy.mopinion.com/config/gZBMNt5EgNJ43Z5ABE1vBdd0BbVe6zcEyWi2QTMF",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.901100+00:00"
+    },
+    {
+      "url": "https://region1.analytics.google.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:10:00.968294+00:00"
+    },
+    {
+      "url": "https://www.google.nl/ads/ga-audiences",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:00.972551+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_TS1Z72SFR4",
+      "domain": ".ov-chipkaart.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".ov-chipkaart.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.analytics.google.com/g/collect",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

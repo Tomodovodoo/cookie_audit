@@ -1,0 +1,980 @@
+{
+  "frames": [
+    {
+      "url": "https://www.cbr.nl/nl",
+      "title": "CBR - Home NL",
+      "text": "Ga direct naar de inhoud\nCBR\nIk zoek informatie over...\nZoeken\nMijn CBR (Inloggen)\nMenu\n\n\n\n\nGoedemiddag, welkom op cbr.nl\nWaar kunnen we je mee helpen?\n\n\n\n\nRijbewijs halen\nAutorijbewijs halen? Start hier!\nVind een goede rijschool\nAndere examens\n\nBekijk hier onze Rijbewijstips\n\nRijbewijs houden\nRijbewijs verlengen\nGezondheidsverklaring\nRijden met een aandoening, beperking of medicijnen\nNascholing code 95\nOnveilig rijgedrag\nAlle stappen bij een rijbewijskeuring\nDirect regelen\nInloggen Mijn CBR\nTheorie-examen reserveren\nOpleider machtigen\nGezondheidsverklaring rijbewijs invullen\nGezondheidsverklaring recreatievaart invullen\nVolg ons op Instagram voor tips en het laatste nieuws\n\n\n\n\nOver het CBR\nContact\nWerken bij het CBR\nLaatste nieuws\nPers\n\n\n",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "CBR",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 71.83333587646484,
+            "y": 0,
+            "width": 56,
+            "height": 92
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 0,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Zoeken",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 1076.8333740234375,
+            "y": 513.2986450195312,
+            "width": 20,
+            "height": 18.39583396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Mijn CBR (Inloggen)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 936.8402709960938,
+            "y": 46,
+            "width": 231.32638549804688,
+            "height": 45
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(5, 136, 240)",
+            "effectiveBackground": "rgb(5, 136, 240)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 18px 0px 42px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Menu",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1174.1666259765625,
+            "y": 46,
+            "width": 112.66666412353516,
+            "height": 45
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(5, 136, 240)",
+            "effectiveBackground": "rgb(5, 136, 240)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "14px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Autorijbewijs halen? Start hier!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 289.3333435058594,
+            "y": 666.0625,
+            "width": 227.9027862548828,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Vind een goede rijschool",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 289.3333435058594,
+            "y": 696.0625,
+            "width": 184.05555725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Andere examens",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 289.3333435058594,
+            "y": 726.0625,
+            "width": 123.46527862548828,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Bekijk hier onze Rijbewijstips",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 259.3333435058594,
+            "y": 781.3958129882812,
+            "width": 259.9930725097656,
+            "height": 41.38888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Rijbewijs verlengen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 594.3402709960938,
+            "y": 666.0625,
+            "width": 143.2083282470703,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Gezondheidsverklaring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 594.3402709960938,
+            "y": 696.0625,
+            "width": 171.9027862548828,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Rijden met een aandoening, beperking of medicijnen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 594.3402709960938,
+            "y": 726.0625,
+            "width": 209.18055725097656,
+            "height": 38.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Nascholing code 95",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 594.3402709960938,
+            "y": 774.0625,
+            "width": 147.93055725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Onveilig rijgedrag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 594.3402709960938,
+            "y": 804.0625,
+            "width": 132.625,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Alle stappen bij een rijbewijskeuring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 594.3402709960938,
+            "y": 834.0625,
+            "width": 146.2708282470703,
+            "height": 38.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Inloggen Mijn CBR",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 899.3402709960938,
+            "y": 666.0625,
+            "width": 141.125,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Theorie-examen reserveren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 899.3402709960938,
+            "y": 696.0625,
+            "width": 201.42361450195312,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Opleider machtigen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 899.3402709960938,
+            "y": 726.0625,
+            "width": 148.25,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Gezondheidsverklaring rijbewijs invullen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 899.3402709960938,
+            "y": 756.0625,
+            "width": 171.9027862548828,
+            "height": 38.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Gezondheidsverklaring recreatievaart invullen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 899.3402709960938,
+            "y": 804.0625,
+            "width": 171.9027862548828,
+            "height": 38.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Volg ons op Instagram voor tips en het laatste nieuws",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 249.3333282470703,
+            "y": 1093.7083740234375,
+            "width": 310,
+            "height": 266
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgb(255, 98, 0)",
+            "effectiveBackground": "rgb(255, 98, 0)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "20px 20px 70px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 892.6666870117188,
+            "y": 970.0625,
+            "width": 57.70833206176758,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Werken bij het CBR",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 892.6666870117188,
+            "y": 1000.0625,
+            "width": 160.75694274902344,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Laatste nieuws",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 892.6666870117188,
+            "y": 1030.0625,
+            "width": 110.66666412353516,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Pers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 892.6666870117188,
+            "y": 1060.0625,
+            "width": 32.29861068725586,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 63, 72)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 63, 72)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.cbr.nl/nl"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.cbr.nl/nl",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:35:48.010268+00:00",
+  "cookies": [
+    {
+      "name": "dtCookie",
+      "domain": ".cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxVisitor",
+      "domain": ".cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "domain": "www.cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "X-CSRF-Token",
+      "domain": "www.cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01d827cb",
+      "domain": ".www.cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dtSa",
+      "domain": ".cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxvt",
+      "domain": ".cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dtPC",
+      "domain": ".cbr.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.cbr.nl",
+      "localKeys": [],
+      "sessionKeys": [
+        "nl_GENERAL.BUTTON.OPEN_SUBMENU",
+        "dtSa",
+        "nl_GENERAL.BUTTON.CLOSE",
+        "rxvisitid",
+        "dtCookie",
+        "nl_GENERAL.BUTTON.CLOSE_SUBMENU",
+        "rxVisitor",
+        "rxvt",
+        "nl_GENERAL.BUTTON.OPEN"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://cbr.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:35:40.617512+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:35:40.676305+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/ruxitagentjs_ICA7NVfqrux_10347260902154543.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:40.772924+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/show",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.091101+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/rb_bf35345flt",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:35:41.099919+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/nl",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.393376+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/stylesheet/general.8.7.13.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.522253+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/ruxitagentjs_ICA7NVfqrux_10347260902154543.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.526617+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/upload/366cc773-cb23-4778-a0e7-5c3d6865728a_ankeiler-insta.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.527284+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/js/site.8.7.13.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.528156+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/wmpformpresentation/js/formutil.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.933914+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/ruxitagentjs_ICA7NVfqrux_10347260902154543.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.965902+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/wmpformpresentation/js/formvalidation.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.179364+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/js/form/csrfprotection.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.202733+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/wmpformpresentation/js/formvalidationbindings.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.216423+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/images/logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.286768+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/fonts/scala/scala.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.287435+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/icons/search.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.288206+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/icons/human-blue.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.288913+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/icons/hamburger_white.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.289671+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/upload_mm/c/f/b/25994_fullimage_jonge_vrouw_in_auto_1200x450.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.290691+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/icons/corner.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.292127+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/icons/arrow-blue.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.292775+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/icons/arrow-white.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.293377+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/icons/link-external.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.294167+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/show",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.321860+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/cbrlanguagelabels",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.332162+00:00"
+    },
+    {
+      "url": "https://cbr.innocraft.cloud/matomo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.333841+00:00"
+    },
+    {
+      "url": "https://o4508127009243136.ingest.de.sentry.io/api/4508217418055760/envelope/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:35:42.334746+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/cbrlanguagelabels",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.349997+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/assets/BSUPZI0e.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.351575+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/assets/Ouz7TkRN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.351929+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/assets/7Jwe4wyK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.352598+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/assets/hHsg13mE.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.353815+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/wcbservlet/nl.gx.forms.wmpformengine.sessionservlet",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.442584+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/nl/mijncbr/session-refresh",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.447317+00:00"
+    },
+    {
+      "url": "https://cbr.innocraft.cloud/matomo.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:35:42.480219+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/static/design/FA89B6B1-E2E5-4C99-8CE5-DD526BBD4B6E-fsm/rel/shortcut_icon/favicon.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.481856+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/nl/session-refresh",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:35:42.523352+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/rb_bf35345flt",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:35:44.764323+00:00"
+    },
+    {
+      "url": "https://www.cbr.nl/web/rb_bf35345flt",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:35:46.919394+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://o4508127009243136.ingest.de.sentry.io/api/4508217418055760/envelope/",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

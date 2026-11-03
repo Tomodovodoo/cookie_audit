@@ -1,0 +1,808 @@
+{
+  "frames": [
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "title": "DPG Media Privacy Gate",
+      "text": "",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "back",
+          "tag": "BUTTON",
+          "context": "Inloggen\nJouw privacy-instellingen\n\nHieronder kan je kiezen voor welke doeleinden je gegevens gebruikt worden op de sites en apps van deze media. We geven ook meer uitleg bij ieder doeleinde. Meer informatie kan je steeds terugvinden in ons privacybeleid en cookiebeleid.\n\nDoeleinden\nPartners\nAdvertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte a",
+          "box": {
+            "x": 414.6666564941406,
+            "y": 60.61111068725586,
+            "width": 40.77777862548828,
+            "height": 47.55555725097656
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "Inloggen\nJouw privacy-instellingen\n\nHieronder kan je kiezen voor welke doeleinden je gegevens gebruikt worden op de sites en apps van deze media. We geven ook meer uitleg bij ieder doeleinde. Meer informatie kan je steeds terugvinden in ons privacybeleid en cookiebeleid.\n\nDoeleinden\nPartners\nAdvertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte a",
+          "box": {
+            "x": 872.6319580078125,
+            "y": 64.3888931274414,
+            "width": 78.03472137451172,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgb(250, 187, 34)",
+            "effectiveBackground": "rgb(250, 187, 34)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(250, 187, 34)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "deze media",
+          "tag": "A",
+          "context": "Hieronder kan je kiezen voor welke doeleinden je gegevens gebruikt worden op de sites en apps van deze media. We geven ook meer uitleg bij ieder doeleinde. Meer informatie kan je steeds terugvinden in ons privacybeleid en cookiebeleid.",
+          "box": {
+            "x": 487.4930725097656,
+            "y": 208.61111450195312,
+            "width": 67.17361450195312,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "privacybeleid",
+          "tag": "A",
+          "context": "Hieronder kan je kiezen voor welke doeleinden je gegevens gebruikt worden op de sites en apps van deze media. We geven ook meer uitleg bij ieder doeleinde. Meer informatie kan je steeds terugvinden in ons privacybeleid en cookiebeleid.",
+          "box": {
+            "x": 607.3055419921875,
+            "y": 229.61111450195312,
+            "width": 78.25694274902344,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "cookiebeleid",
+          "tag": "A",
+          "context": "cookiebeleid",
+          "box": {
+            "x": 707.5902709960938,
+            "y": 229.61111450195312,
+            "width": 73.9513931274414,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Doeleinden",
+          "tag": "BUTTON",
+          "context": "Doeleinden\nPartners\nAdvertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nIn",
+          "box": {
+            "x": 414.6666564941406,
+            "y": 300.5,
+            "width": 98.02083587646484,
+            "height": 67
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Partners",
+          "tag": "BUTTON",
+          "context": "Doeleinden\nPartners\nAdvertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nIn",
+          "box": {
+            "x": 512.6875,
+            "y": 300.5,
+            "width": 75.89583587646484,
+            "height": 67
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(242, 242, 242)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Gepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 498.5,
+            "width": 496.8888854980469,
+            "height": 45.33333206176758
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 0px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Weigeren",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 446.6666564941406,
+            "y": 580.8333129882812,
+            "width": 76.08333587646484,
+            "height": 26.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(75, 98, 206)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(75, 98, 206)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Aanvaarden",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 535.576416015625,
+            "y": 580.8333129882812,
+            "width": 91.1388931274414,
+            "height": 26.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(107, 107, 107)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Precieze geolocatiegegevens gebruiken",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 623.0555419921875,
+            "width": 450.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Informatie op een apparaat opslaan en/of openen",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 669.7222290039062,
+            "width": 450.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Advertenties online kansspelen",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 716.388916015625,
+            "width": 450.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Marketing",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 838.388916015625,
+            "width": 450.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Externe media",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 885.0555419921875,
+            "width": 450.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Personalisatie",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 931.7222290039062,
+            "width": 450.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Functioneel & analytisch",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 1136.7222900390625,
+            "width": 496.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Zorg dragen voor beveiliging, fraude voorkomen en detecteren en fouten opsporen",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 1183.388916015625,
+            "width": 496.8888854980469,
+            "height": 61.33333206176758
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Advertenties en content leveren en tonen",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 1244.7222900390625,
+            "width": 496.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Privacykeuzes opslaan en delen",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 1291.388916015625,
+            "width": 496.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Gegevens uit andere gegevensbronnen met elkaar matchen en combineren",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 1475.388916015625,
+            "width": 496.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Verschillende apparaten linken",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 1522.0555419921875,
+            "width": 496.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Apparaten identificeren op basis van automatisch verzonden informatie",
+          "tag": "BUTTON",
+          "context": "Advertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte advertenties. Indien je alles weigert, krijg je niet-gerichte advertenties te zien.\n\nGepersonaliseerde advertenties, advertentiemetingen, doelgroepenonderzoek en ontwikkeling van diensten\n\nStatus: Alles geweigerd\n\nWeigeren Aanvaarden\nPrecieze geolocatiegegevens gebruiken\nInformatie op een appa",
+          "box": {
+            "x": 426.6666564941406,
+            "y": 1568.7222900390625,
+            "width": 496.8888854980469,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 16px 16px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Alles aanvaarden",
+          "tag": "BUTTON",
+          "context": "Inloggen\nJouw privacy-instellingen\n\nHieronder kan je kiezen voor welke doeleinden je gegevens gebruikt worden op de sites en apps van deze media. We geven ook meer uitleg bij ieder doeleinde. Meer informatie kan je steeds terugvinden in ons privacybeleid en cookiebeleid.\n\nDoeleinden\nPartners\nAdvertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte a",
+          "box": {
+            "x": 415.25,
+            "y": 715.388916015625,
+            "width": 263.7083435058594,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Alles weigeren",
+          "tag": "BUTTON",
+          "context": "Inloggen\nJouw privacy-instellingen\n\nHieronder kan je kiezen voor welke doeleinden je gegevens gebruikt worden op de sites en apps van deze media. We geven ook meer uitleg bij ieder doeleinde. Meer informatie kan je steeds terugvinden in ons privacybeleid en cookiebeleid.\n\nDoeleinden\nPartners\nAdvertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte a",
+          "box": {
+            "x": 686.9583129882812,
+            "y": 715.388916015625,
+            "width": 263.7083435058594,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Voorkeuren opslaan",
+          "tag": "BUTTON",
+          "context": "Inloggen\nJouw privacy-instellingen\n\nHieronder kan je kiezen voor welke doeleinden je gegevens gebruikt worden op de sites en apps van deze media. We geven ook meer uitleg bij ieder doeleinde. Meer informatie kan je steeds terugvinden in ons privacybeleid en cookiebeleid.\n\nDoeleinden\nPartners\nAdvertenties\n\nJe kan zelf kiezen of je toestemming geeft voor de verwerking van je gegevens voor gerichte a",
+          "box": {
+            "x": 414.6666564941406,
+            "y": 773.388916015625,
+            "width": 536,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgb(250, 187, 34)",
+            "effectiveBackground": "rgb(250, 187, 34)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(250, 187, 34)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://myprivacy.dpgmedia.nl/consent"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://myprivacy.dpgmedia.nl/consent",
+  "captured_at": "2026-11-03T15:10:14.750506+00:00",
+  "cookies": [
+    {
+      "name": "brand",
+      "domain": "bndestem.nl",
+      "path": "/",
+      "expires": 1801494599.992199,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brand",
+      "domain": "www.bndestem.nl",
+      "path": "/",
+      "expires": 1801494600.02987,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".bndestem.nl",
+      "path": "/",
+      "expires": 1793725800.029933,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xAuthId",
+      "domain": "myprivacy.dpgmedia.nl",
+      "path": "/",
+      "expires": 1827414600.083357,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authId",
+      "domain": "myprivacy.dpgmedia.nl",
+      "path": "/",
+      "expires": 1827414600.083419,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793725800.083444,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793725800.292663,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.e23f",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793720407,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp",
+      "domain": ".dpgmedia.net",
+      "path": "/",
+      "expires": 1825254607.752526,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_id.e23f",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1828278607.726186,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://myprivacy.dpgmedia.nl",
+      "localKeys": [
+        "snowplowOutQueue_snowplow_dpg"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "snowplowOutQueue_snowplow_dpg"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://c.dpgmedia.net/a/b",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:10:07.726328+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

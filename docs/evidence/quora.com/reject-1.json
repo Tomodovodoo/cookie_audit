@@ -1,0 +1,611 @@
+{
+  "frames": [
+    {
+      "url": "https://nl.quora.com/",
+      "title": "Quora - Een plek om kennis te delen en de wereld beter te begrijpen",
+      "text": "Nederlands\nEen plek om kennis te delen en de wereld beter te begrijpen\nDoor verder te gaan geef je aan dat je de Servicevoorwaarden en het Privacybeleid van Quora hebt gelezen en hiermee akkoord gaat.\nDoorgaan met Google\nDoorgaan met Facebook\nAanmelden met e-mailadres\nLogin\nE-mailadres\nWachtwoord\nWachtwoord weergeven\nWachtwoord vergeten?\nLogin\nOver onsVacaturesPrivacyVoorwaardenContactTalenPers© Quora, Inc. 2026",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Servicevoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 356.6666564941406,
+            "y": 391.4861145019531,
+            "width": 115.34027862548828,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(25, 95, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(25, 95, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-1",
+          "text": "Privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 515.4097290039062,
+            "y": 391.4861145019531,
+            "width": 75.27777862548828,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(25, 95, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(25, 95, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-2",
+          "text": "Aanmelden met e-mailadres",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 356.6666564941406,
+            "y": 559.4305419921875,
+            "width": 301.1111145019531,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 41)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-3",
+          "text": "Login",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 933.201416015625,
+            "y": 587.1805419921875,
+            "width": 75.46527862548828,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 41)",
+            "background": "rgb(46, 105, 255)",
+            "effectiveBackground": "rgb(46, 105, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(118, 118, 118, 0.3)",
+            "padding": "0px 20px"
+          },
+          "disabled": true,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-4",
+          "text": "Over ons",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 433.6388854980469,
+            "y": 666.0694580078125,
+            "width": 51.40277862548828,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 100, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 100, 102)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-5",
+          "text": "Vacatures",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 494.9861145019531,
+            "y": 666.0694580078125,
+            "width": 54.95833206176758,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 100, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 100, 102)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-6",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 559.888916015625,
+            "y": 666.0694580078125,
+            "width": 40.09027862548828,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 100, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 100, 102)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-7",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 609.9236450195312,
+            "y": 666.0694580078125,
+            "width": 75.95833587646484,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 100, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 100, 102)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-8",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 695.826416015625,
+            "y": 666.0694580078125,
+            "width": 44.45833206176758,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 100, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 100, 102)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-9",
+          "text": "Talen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 750.2291870117188,
+            "y": 666.0694580078125,
+            "width": 29.27083396911621,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 100, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 100, 102)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        },
+        {
+          "id": "ca-10",
+          "text": "Pers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 789.4444580078125,
+            "y": 666.0694580078125,
+            "width": 23.63888931274414,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(99, 100, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(99, 100, 102)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "80517e9e2a7f40c7bb510d12faf136a2"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "80517e9e2a7f40c7bb510d12faf136a2",
+      "frame_url": "https://nl.quora.com/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "cb54bba085aa4c23a342662163919267",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "6607f95cfb33472e833ad76fdc651e4e",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://nl.quora.com/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [],
+        "specialFeaturesGranted": [],
+        "vendorsConsented": 0,
+        "legitimateInterestPurposes": []
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:43:48.368048+00:00",
+  "cookies": [
+    {
+      "name": "m-login",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1828280623.761112,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-b",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256623.761179,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "m-b_lax",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256623.761249,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-b_strict",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256623.761316,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "m-s",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256623.760972,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-uid",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1828280610.408459,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-ans_frontend_early_version",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1828280610.562596,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-ql10n_nl",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1793893411,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-theme",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256611,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-dynamicFontSize",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256611,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m-themeStrategy",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256611,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1809272612,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256621,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "eupubconsent-v2",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256621,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".quora.com",
+      "path": "/",
+      "expires": 1825256622,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://nl.quora.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://nl.quora.com/graphql/gql_POST",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:41.558878+00:00"
+    },
+    {
+      "url": "https://nl.quora.com/graphql/gql_POST",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:41.569799+00:00"
+    },
+    {
+      "url": "https://privacyportal.onetrust.com/request/v1/consentreceipts/anonymous",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:41.647308+00:00"
+    },
+    {
+      "url": "https://nl.quora.com/ajax/receive_POST",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:43.545201+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rchCuFAq1Vqax0yJM1JI9o9ZotHyDBSJdXIK1-_5MDpPCwPEQUyKUMD4rXZDgDSTdgZsjpkeIoRin5gYsHLWOx9qKK2yRFMM6A/d7n3a/0x4AAAAAACs1vyrFg5qfMvyE/auto/fbE/failure_retry/flexible",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:44.659856+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/2302969978:1793718624:ibCdoA1TAvSo-Fx7wH-DsOS3s9wVxZFhEeGcI5BvCQI/a54c7f0fdaca3379/CjyepJYt2-BglEH1huVQ3pBRyl2dMw8qLAyuGVIJVh7DMt0BiNbh-UmKZmSL6WcCiHZUIJr_8xgm7UmG6tp7cjm7Vbg1oSgkhcqiaJaT_oBuEfG8cJXbk21aHuLcQIH-mA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:45.133530+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c7f0fdaca3379/CjyepJYt2-BglEH1huVQ3pBRyl2dMw8qLAyuGVIJVh7DMt0BiNbh-UmKZmSL6WcCiHZUIJr_8xgm7UmG6tp7cjm7Vbg1oSgkhcqiaJaT_oBuEfG8cJXbk21aHuLcQIH-mA",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:46.102281+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c7f0fdaca3379/1793720625111/79b57ec13018ef6215ec8e0fa74e883b96eda63672b7c171068c19f46a7ef97e/CuDg9kp3LUCSMUdKK38cCeV66xv2zVrpmwZJyPP-kYxeE-YJ5qaQSYia99Qy2poRiR4VjUP1qoqZhXyGCXHUTkYP9keV23Gh9xaDCM6hydEO1PABiKvhW4VruTCdPyq9W6MoaWKsq5guuNnLor5GhPZRYHUUAMglIeeMioBuoF96AmnPVIUOSXWIN6TSkrUjOw6gz50CXA19tl5xYGGthSQfOwJj4TS280nDPowsJiTtF5tnDTaZx89lmTCPpLSrc8fyZmiORhoWj6IkobNu7kGNrwScqj4ZKp5AmvNGikitYa3QtRJl68gzGC4GClTtX3ID3sR7iLZcImNXIAkLGa2sVD6EYnCL5xHvsLwYlq2GN4hHAbUXZSA3iNvgBMR0-Apyz343SMIa_4lJvZYQ6pUvQLCm10CPLtkPwhQ5xh-n3WW7uJgyHKxSqrH2pPjgMxc3zIfRT-e0Y6lpqReg4CUkrzCsiKr9i4TpIQuj3TqHOtDYnRPYlWE3RQafmxB1pkWuEcfKCRWHsO6D8bxRhMrIyd45j0FLDHPhmSOPdWDJNpV7I7BNzvnr3mLZOy2KlO65IuxaPdr8WQ2q7l_aJAKyQ0RH8H3lq-Aw6Yeznk3q7BTUiuLH35itUxF-AG4NKZLlZ9Ipxr5OzmQ7Hc0w7mL12w",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:46.117001+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c7f0fdaca3379/1793720625115/CtWcFtVuuasxcbk1BSLqQfNIOxHWDhc_aaB3ImESLmo6uLo8ZR-PiKfsq3hdeOYyLTzzBZSuSIrnYUwErXWe_F1yUiwixH-VRN1ovZOqTyPa2p5BmIRH1OvF3ysYYI088nxPBPsG1K-ULbKxoQ8ep9k9smu0mhpEN_IN-THJV0RgJpXvtzEId3aiyE9kDwWYAoUB5WPBs_CHLcu1U4Ah0gFdbjuwyI8mEUcKmSAuOrquG-1Fad6BsUn3ztjNN-dldcMDgU-QPISxEB24ccB6PQPEnLStPGZl3MqDiUzzTa7Dy1yLb4qIqPqFxuyOj4FOxiy9hIah0Fqxshxnlz72yjQUlztK8TRebSdFaSe3_j-BHQba-IV_XudFIV3g6bC9aoy4XYaGTZdW9RCmCWUnO34NRkEjr0jOvJhv7YOYGyCryxHnrYLT-JbyvpOcTeR0iNgZqnxPAC3sZ7yLh5bzLM-mhAlLdI5FVpVt5DajouNEeGOIEXdYQ6sdrEkvwbV4Ru4euO9p-kl-5C3hqtUx5M6Lk52AmDfmzb3ORM8pfaNigT-TJuhH0QqCdixrxYELx5yPioPmg8OaVEEvuCKR9kOEypxw",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:47.469558+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/2302969978:1793718624:ibCdoA1TAvSo-Fx7wH-DsOS3s9wVxZFhEeGcI5BvCQI/a54c7f0fdaca3379/CjyepJYt2-BglEH1huVQ3pBRyl2dMw8qLAyuGVIJVh7DMt0BiNbh-UmKZmSL6WcCiHZUIJr_8xgm7UmG6tp7cjm7Vbg1oSgkhcqiaJaT_oBuEfG8cJXbk21aHuLcQIH-mA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:48.114837+00:00"
+    },
+    {
+      "url": "https://nl.quora.com/ajax/log_errors_3RD_PARTY_POST",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:48.226983+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://nl.quora.com/graphql/gql_POST",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://nl.quora.com/graphql/gql_POST",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://nl.quora.com/ajax/receive_POST",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://nl.quora.com/ajax/log_errors_3RD_PARTY_POST",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

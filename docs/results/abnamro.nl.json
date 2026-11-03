@@ -4,17 +4,18 @@
   "name": "abnamro.nl",
   "company": null,
   "cohort": "NetAPI Netherlands top 1000",
-  "tested_at": "2026-11-03T14:54:26.255522+00:00",
+  "tested_at": "2026-11-03T15:45:20.161481+00:00",
   "run": {
-    "started_at": "2026-11-03T14:53:34.017640+00:00",
+    "started_at": "2026-11-03T15:45:19.593448+00:00",
     "browser_mode": "stock Chrome offscreen",
     "locale": "nl-NL",
     "timezone": "Europe/Amsterdam",
     "viewport": "1365x900",
     "wait_seconds": 7.0,
-    "workers": 3,
+    "workers": 6,
     "egress_country": "NL",
-    "version": "0.1.0",
+    "accept_control_enabled": true,
+    "version": "0.2.1",
     "chrome_version": "156.0.8078.79"
   },
   "checks": {
@@ -56,5 +57,5 @@
   "outcome": "observed",
   "http_status": 200,
   "title": "ABN AMRO Bank - Jouw bankzaken goed geregeld - ABN AMRO",
-  "rules_version": "0.1.1"
+  "rules_version": "0.2.0"
 }

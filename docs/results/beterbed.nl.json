@@ -1,0 +1,61 @@
+{
+  "rank": 559,
+  "domain": "beterbed.nl",
+  "name": "beterbed.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:19:17.510125+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:12:23.542623+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "pass",
+      "reason": "Refusal completed with one click and the choice interface disappeared."
+    },
+    "prominence": {
+      "status": "fail",
+      "reason": "Refusal is styled as a small unboxed text link while acceptance is a full button."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "persists": {
+      "status": "pass",
+      "reason": "Refusal survived a reload of the resulting page."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "afwijzen"
+    }
+  ],
+  "evidence": "evidence/beterbed.nl/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Beter Bed | Dé slaapexpert van Nederland",
+  "rules_version": "0.2.0"
+}

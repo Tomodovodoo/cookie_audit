@@ -1,0 +1,146 @@
+{
+  "frames": [
+    {
+      "url": "https://www.vakantiediscounter.nl/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.vakantiediscounter.nl/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/mlyq9/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/mlyq9/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.vakantiediscounter.nl/",
+  "captured_at": "2026-11-03T15:19:02.780991+00:00",
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "domain": ".vakantiediscounter.nl",
+      "path": "/",
+      "expires": 1793720936.531874,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.vakantiediscounter.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://vakantiediscounter.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:49.906702+00:00"
+    },
+    {
+      "url": "https://www.vakantiediscounter.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:52.381539+00:00"
+    },
+    {
+      "url": "https://vakantiediscounter.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:52.553933+00:00"
+    },
+    {
+      "url": "https://www.vakantiediscounter.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:54.077517+00:00"
+    },
+    {
+      "url": "https://www.vakantiediscounter.nl/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:18:55.440552+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:18:56.291624+00:00"
+    },
+    {
+      "url": "https://www.vakantiediscounter.nl/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c5aad3e939819/LyW.SU.B5JTbhBRQYHKUpaRFgQV14oWfMwdCYu5847w-1793719134-1.2.1.1-gFUe8sx.YCu8unGFH1sNS5cTTHoQ6xY2vi3EFFtrpCXbMw7Qf3SbDZTRGGh_QNgh",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:18:56.368552+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/mlyq9/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:56.872137+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c5abd7acc3441/CqVeH_NYJ1Ig-n_Sntcno-H4HTqdZ-k7l4q7rh41fTrTaZf7LbUjuAP8487PXrMGeWkxuLdBqraMYb6IXDj5pT1QWZeh2BRdu9uUQ3aYsvw_VBm-TMD4fIEb2YxWpsoJpQ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:18:57.735923+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c5abd7acc3441/CqVeH_NYJ1Ig-n_Sntcno-H4HTqdZ-k7l4q7rh41fTrTaZf7LbUjuAP8487PXrMGeWkxuLdBqraMYb6IXDj5pT1QWZeh2BRdu9uUQ3aYsvw_VBm-TMD4fIEb2YxWpsoJpQ",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:18:59.066714+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c5abd7acc3441/1793719137781/a18f75d0903389ec84845f546b0cbb6619ce3447e062287bffa562abb10d5020/CnTQsQrsvHo4_1MXu0eY0LS3UQmzWnv6Jln8UeC3GM1CwtOfpl_iSitHBwMGE0zAtrw816tT2JzWVI9vR3xOI7_MvZ9X59Wc3RZqtMRkCEx7-cKWWvL1X4KpSUyVEaXK08SuwtaPsjBH3Irc9HDpjqK5PZGI9xM5DSH_bHWaHpRCHPp0t2QEoxVwapI_J8S-3eIqOt05lWyZxH-xN8744c5hrT-7voFOWn9D4ChcID3JQiPWDaJl1X5V4Gg8be3SqJY8fyY-FbXbXQ5PjdYWtQwQWJLpg4F7R0T0emddSrOuiyMdFSoQ5ayePDuJUxIV-HE6ggq1tHQGqAAR4mxfNn5T299dN8NQnIWgKtGMS0br8eO9qY1VrWzIf76A4JjsqoWyOb43j4cSCef64exwcYGHXoyyuLnRrY3UZflGI5ZyHo8Hm2pJM-nSoy1MGsKyHGD1Yzm24PxEycHm0QnU5opBvDqab8jSfT4KWQPrFrkuVSX8y94Y9w6ViX28lCj4kb9D4wpCf9Z0zagF1kZrVmtoThguhM0JfEIrSLHIxVrbgUqQFeuOYhZRIuHtCofmWUYa4n2dnbyuuAIGAQbaae9jzDRUCt79KiHrOp94nk8bL0FtTv6KEygSF0-MLS3tqOJr55UmBAyzXNmyPaPu8-GGZ6o",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:18:59.147239+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c5abd7acc3441/1793719137784/CtAPdCLF3KFdoVx0Xjcgi4dtrO62ZHmymmH0mwfbbhGa68Bt_TNMhNaHetCLwSYw5nfHQ9MDu-K1F9V8NV-1e1vsDAr7QEfu-c4fB2mK1KMrTdNrj-WCy6KA2drPhGkRqU7PlCE2sluM_uri4WKzqTlcDBGEq-0DYL1SI0LHQGEzCF8AWqPCUEh67xM3dEbfPRRxASnRDriRxQHVYALVr-SUego9Gj2cWkM3mAGm8zUYOtBXtxdL-xzwrQ0RiCt3wkQt6ZsoHCUfCkY6NqoU83LVleiH5bHVPFjCmIrXwj2I1761BCFbHE7ZWSYocyK837eMP-fNULcjRq2v7Qt8z5VpLNvhVNE-nOIUxUoE6QEf6OMS0Oe_E67P0h0Kfwb2aulrbUWAyy39rInmjfm5-LBNP63FMSRSBSqsWlbrI8bt1kGdcwtjk2hDudI1DRTRg4yloVt3yjJzk1OgPidX9s21ToGgpgXmtTCrpkKHiO9Si1Wc1-Ck2XHLl-uEje57qIsCTlR4gEdDrhj7B_8SMzvVS26cosz69xFtP9oCBxq1SyDIeTHI-Ox8bgdZp-llz_BpHKx-ybLFzbC6stOBSaGf",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:19:00.796253+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c5abd7acc3441/CqVeH_NYJ1Ig-n_Sntcno-H4HTqdZ-k7l4q7rh41fTrTaZf7LbUjuAP8487PXrMGeWkxuLdBqraMYb6IXDj5pT1QWZeh2BRdu9uUQ3aYsvw_VBm-TMD4fIEb2YxWpsoJpQ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:19:01.897981+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

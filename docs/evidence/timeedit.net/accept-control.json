@@ -1,0 +1,103 @@
+{
+  "frames": [
+    {
+      "url": "https://www.timeedit.net/",
+      "title": "TimeEdit Authentication",
+      "text": "Select organisation to sign in\nSearch...\nContinue\ntimeedit.com",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Continue",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 824.576416015625,
+            "y": 479.1388854980469,
+            "width": 93.09027862548828,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgba(0, 0, 0, 0.035)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.035)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 15px"
+          },
+          "disabled": true,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "timeedit.com",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 431.6666564941406,
+            "y": 599.5277709960938,
+            "width": 78.34722137451172,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 130, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(225, 255, 242)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 130, 76)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.timeedit.net/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.timeedit.net/",
+  "captured_at": "2026-11-03T15:17:06.640155+00:00",
+  "cookies": [
+    {
+      "name": "te_cookie_consent",
+      "domain": "www.timeedit.net",
+      "path": "/",
+      "expires": 1825255019.625813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.timeedit.net",
+      "localKeys": [
+        "ld:65a938f0183d141061d386f9:$diagnostics",
+        "ld:65a938f0183d141061d386f9:eyJraW5kIjoidW5pbml0aWFsaXplZCIsImtleSI6InVuaW5pdGlhbGl6ZWQifQ=="
+      ],
+      "sessionKeys": [
+        "sentryReplaySession"
+      ]
+    }
+  ],
+  "requests": [],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

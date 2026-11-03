@@ -1,0 +1,2389 @@
+{
+  "frames": [
+    {
+      "url": "https://archive.org/",
+      "title": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+      "text": "",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Internet Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 10,
+            "width": 142,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 34, 34)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-1",
+          "text": "TEXTS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 236.61805725097656,
+            "y": 0,
+            "width": 91.89583587646484,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-2",
+          "text": "VIDEO",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 328.5138854980469,
+            "y": 0,
+            "width": 90.45833587646484,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-3",
+          "text": "AUDIO",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 418.97222900390625,
+            "y": 0,
+            "width": 91.17361450195312,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-4",
+          "text": "SOFTWARE",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 510.1458435058594,
+            "y": 0,
+            "width": 123.1875,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-5",
+          "text": "IMAGES",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 633.3333129882812,
+            "y": 0,
+            "width": 100.56944274902344,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-6",
+          "text": "Toggle login menu",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1066.111083984375,
+            "y": 10,
+            "width": 42,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-7",
+          "text": "SIGN UP",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1112.5625,
+            "y": 17.77777862548828,
+            "width": 57.3125,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-8",
+          "text": "LOG IN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1181.2916259765625,
+            "y": 17.77777862548828,
+            "width": 47.45833206176758,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-9",
+          "text": "UPLOAD",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1233.75,
+            "y": 0,
+            "width": 101.47222137451172,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 153, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 34, 34)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 153, 153)",
+            "padding": "10px 5px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-10",
+          "text": "Sign up for free",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1214.4930419921875,
+            "y": -1445.111083984375,
+            "width": 135.7291717529297,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "5px 20px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-11",
+          "text": "Log in",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1214.4930419921875,
+            "y": -1415.111083984375,
+            "width": 135.7291717529297,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "5px 20px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-12",
+          "text": "ABOUT",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 317.5763854980469,
+            "y": 60.66666793823242,
+            "width": 41.34027862548828,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-13",
+          "text": "BLOG",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 392.2569580078125,
+            "y": 60.66666793823242,
+            "width": 33.34722137451172,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-14",
+          "text": "EVENTS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 458.9444580078125,
+            "y": 60.66666793823242,
+            "width": 48.01388931274414,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-15",
+          "text": "PROJECTS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 540.2986450195312,
+            "y": 60.66666793823242,
+            "width": 64.0138931274414,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-16",
+          "text": "HELP",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 637.6527709960938,
+            "y": 60.66666793823242,
+            "width": 31.35416603088379,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-17",
+          "text": "DONATE",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 702.3472290039062,
+            "y": 60.66666793823242,
+            "width": 68.45833587646484,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-18",
+          "text": "CONTACT",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 804.1458129882812,
+            "y": 60.66666793823242,
+            "width": 57.11111068725586,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-19",
+          "text": "JOBS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 894.5972290039062,
+            "y": 60.66666793823242,
+            "width": 31.34722328186035,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-20",
+          "text": "VOLUNTEER",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 959.2847290039062,
+            "y": 60.66666793823242,
+            "width": 73.35416412353516,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(170, 170, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(170, 170, 170)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-21",
+          "text": "web pages",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 724,
+            "y": 101.69444274902344,
+            "width": 77.39583587646484,
+            "height": 18.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-22",
+          "text": "Visit the Wayback Machine",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 399.0416564941406,
+            "y": 160.0277862548828,
+            "width": 274.3958435058594,
+            "height": 55
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 245, 230)",
+            "fontSize": 0,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-23",
+          "text": "1T",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 435,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-24",
+          "text": "52M",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 483.6666564941406,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-25",
+          "text": "17M",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 532.3333129882812,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-26",
+          "text": "14M",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 581,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-27",
+          "text": "4.5M",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 629.6666870117188,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-28",
+          "text": "1.4M",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 678.3333129882812,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-29",
+          "text": "5.7M",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 727,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-30",
+          "text": "296K",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 775.6666870117188,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-31",
+          "text": "3.7M",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 824.3333129882812,
+            "y": 427.8194580078125,
+            "width": 40.8819465637207,
+            "height": 59.22916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-32",
+          "text": "Toggle options",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 388.3263854980469,
+            "y": 507.9375,
+            "width": 52.5625,
+            "height": 48.22222137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-33",
+          "text": "Search",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 878.8958129882812,
+            "y": 507.0486145019531,
+            "width": 33.88888931274414,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(153, 153, 153) rgb(153, 153, 153) rgb(153, 153, 153) rgb(0, 0, 0)",
+            "padding": "0px 10px 0px 5px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-34",
+          "text": "Advanced Search",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 802.263916015625,
+            "y": 567.0486450195312,
+            "width": 110.52083587646484,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(75, 100, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(75, 100, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-35",
+          "text": "Weaving ‘Tapestries’: Introducing A New Tool for Digital Storytelling and Archiving",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 993.6736450195312,
+            "y": 359.5138854980469,
+            "width": 238.3541717529297,
+            "height": 30.47222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-36",
+          "text": "From Main Street to Capitol Hill, the Case for Democracy’s Library",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 993.6736450195312,
+            "y": 403.7916564941406,
+            "width": 238.75694274902344,
+            "height": 30.47222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-37",
+          "text": "A Behind-the-Scenes Look at the Physical Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 993.6736450195312,
+            "y": 448.0694580078125,
+            "width": 223.47222900390625,
+            "height": 30.47222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-38",
+          "text": "More posts",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 993.6736450195312,
+            "y": 490.5694580078125,
+            "width": 239.03472900390625,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(75, 100, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(75, 100, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-39",
+          "text": "ᐸ",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 140.11111450195312,
+            "y": 683.3333129882812,
+            "width": 30,
+            "height": 60
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-40",
+          "text": "ᐳ",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1180.111083984375,
+            "y": 683.3333129882812,
+            "width": 30,
+            "height": 60
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-41",
+          "text": "Audio Books & Poetry",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 807.6180419921875,
+            "width": 186.3958282470703,
+            "height": 257
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-42",
+          "text": "The LibriVox Free Audiobook Collection",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 378.5069580078125,
+            "y": 807.6180419921875,
+            "width": 186.4027862548828,
+            "height": 257
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-43",
+          "text": "United States Patent and Trademark Office documents",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 581.9097290039062,
+            "y": 807.6180419921875,
+            "width": 186.3958282470703,
+            "height": 257
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-44",
+          "text": "APK Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 785.3055419921875,
+            "y": 807.6180419921875,
+            "width": 186.4027862548828,
+            "height": 257
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-45",
+          "text": "Folksoundomy: A Library of Sound",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 988.7083129882812,
+            "y": 807.6180419921875,
+            "width": 186.3958282470703,
+            "height": 257
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-46",
+          "text": "Live Music Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 1081.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-47",
+          "text": "The Phone Software Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 378.5069580078125,
+            "y": 1081.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-48",
+          "text": "Books by Language",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 581.9097290039062,
+            "y": 1081.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-49",
+          "text": "Internet Archive Books",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 785.3055419921875,
+            "y": 1081.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-50",
+          "text": "Spirituality & Religion",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 988.7083129882812,
+            "y": 1081.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-51",
+          "text": "JaiGyan: Bharat Ek Khoj",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 1340.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-52",
+          "text": "Kodi Archive and Support File Collection",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 378.5069580078125,
+            "y": 1340.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-53",
+          "text": "Television Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 581.9097290039062,
+            "y": 1340.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-54",
+          "text": "Arts & Music",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 785.3055419921875,
+            "y": 1340.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-55",
+          "text": "Electric Sheep",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 988.7083129882812,
+            "y": 1340.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-56",
+          "text": "Open Research Datasets",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 1599.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-57",
+          "text": "Television Archive News Search Service",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 378.5069580078125,
+            "y": 1599.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-58",
+          "text": "Public Library of India",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 581.9097290039062,
+            "y": 1599.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-59",
+          "text": "The Manual Library",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 785.3055419921875,
+            "y": 1599.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-60",
+          "text": "Movies",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 988.7083129882812,
+            "y": 1599.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-61",
+          "text": "RECAP US Federal Court Documents",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 1858.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-62",
+          "text": "Islamic Sermons and Lessons",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 378.5069580078125,
+            "y": 1858.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-63",
+          "text": "Folkscanomy: A Library of Books",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 581.9097290039062,
+            "y": 1858.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-64",
+          "text": "University of Toronto - Robarts Library",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 785.3055419921875,
+            "y": 1858.6180419921875,
+            "width": 186.4027862548828,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-65",
+          "text": "Radio Show and Programs Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 988.7083129882812,
+            "y": 1858.6180419921875,
+            "width": 186.3958282470703,
+            "height": 242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(44, 44, 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(44, 44, 44)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        },
+        {
+          "id": "ca-66",
+          "text": "Terms of Service (last updated 12/31/2014)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 569.9375,
+            "y": 881.0694580078125,
+            "width": 210.3402862548828,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 11,
+            "fontWeight": "200",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "71302dfce3d64b6bb0486243cc616112"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "71302dfce3d64b6bb0486243cc616112",
+      "frame_url": "https://archive.org/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://archive.org/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:37:25.773127+00:00",
+  "cookies": [
+    {
+      "name": "donation-identifier",
+      "domain": ".archive.org",
+      "path": "/",
+      "expires": 1825256242.573359,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "abtest-identifier",
+      "domain": ".archive.org",
+      "path": "/",
+      "expires": 1825256243.310177,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://archive.org",
+      "localKeys": [
+        "offshoot-saved-language"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://archive.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.022017+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/index.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.495310+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/vendor/lit/polyfill-support.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.497425+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/index-DYluelZ6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.498109+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/rolldown-runtime-QTnfLwEv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.498788+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-_DEmk5JH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.500035+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/vendor-shared-62wh2Xkx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.500398+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/vendor-lit-MQ4DzmMc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.500929+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/vendor-topnav-BOPHx4XP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.501463+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/vendor-router-BJcn_WPh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.502010+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/vendor/@webcomponents/webcomponentsjs@2.6.0/webcomponents-loader.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.502791+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/home-page-GHCveLFw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.424489+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-CBEo0B4h.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.461451+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/ia-clearable-text-input-DzKtgxx_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.462860+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/ia-dropdown-_mXSwPEG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.463821+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/ia-status-indicator-DKFLINks.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.464827+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-CTMeFT4b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.465766+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-BqHmxVdQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.466721+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-CzdICBcN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.468176+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-naAOPxYm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.468745+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-C2wBh3A_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.470331+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/purify.es-RmFZhtLI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.471366+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/ia-dropdown-search-bar-B-9u2ZMZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.473005+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/web-md_No8fd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.473363+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/collection-BgJMB0Jo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.474017+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/no-news-posts-override-B2Yx8f-o.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.474654+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/models-Dke94Snz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.475644+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/basic-carousel-En6es5aw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.476705+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/psa-banners-Bz1tsCD9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.477116+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/alert-banner-BJfVX1Q-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.477884+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/language-picker-BsK6QD9_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.478617+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/localization-experiment-oSJg76tw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.479265+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/app-footer-DWT_x94t.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.480226+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/app-services-D8QtUb30.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.480630+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/sentry-IRGl7jIf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.481578+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/esm-CWeBglMZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.482236+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/donation-banner-handler-BuYl0sKS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.482624+00:00"
+    },
+    {
+      "url": "https://apollo.archive.org/js/container_ZUUaFed2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.764229+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/key-value-store-manager-DKsVROJn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.067013+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-DgLuovJH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.068659+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/psa-banner-service-CRzqdI8r.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.069379+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/config-service-DMwmYXdW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.070820+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/abtest-manager-SUijhYDY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.071910+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/theme-manager-C2rBw43L.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.074270+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/theme-option-BP5-K2Y3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.075142+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-DRIhDsfp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.075874+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-CXM97COZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.076594+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/media-count-service-B7mfk_27.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.077266+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/wayback-search-handler-Bkq4Qa7L.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.077879+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/csrf-service-CjPtpxs9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.079359+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/donation-banner-service-CMbl6fH5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.080318+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/app-root-controller-D-bzIxrE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.347275+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/page-metadata-service-aWkzH5qj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.419521+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/home-page-services-3ps3baAX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.420489+00:00"
+    },
+    {
+      "url": "https://athena.archive.org/0.gif",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:37:19.421191+00:00"
+    },
+    {
+      "url": "https://sink.archive.org/api/2/envelope/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:19.422718+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-DVfk5P_2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.830145+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/dist-DlEFsrQL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.831497+00:00"
+    },
+    {
+      "url": "https://archive.org/services/offshoot/home-page/mediacounts.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.832338+00:00"
+    },
+    {
+      "url": "https://archive.org/services/donations/banner.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.832925+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/light-slj4Jp5R.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.847522+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/shared-BIt9aqay.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.849988+00:00"
+    },
+    {
+      "url": "https://archive.org/services/offshoot/home-page/mediacounts.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.928248+00:00"
+    },
+    {
+      "url": "https://archive.org/services/offshoot/home-page/announcements.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.935180+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/video-BEzxxlRF.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.944294+00:00"
+    },
+    {
+      "url": "https://archive.org/services/offshoot/home-page/collections.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.975357+00:00"
+    },
+    {
+      "url": "https://archive.org/services/offshoot/home-page/collections.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.984530+00:00"
+    },
+    {
+      "url": "https://archive.org/services/offshoot/config.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.410844+00:00"
+    },
+    {
+      "url": "https://archive.org/offshoot_assets/tv-search-handler-BukABSCi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.415122+00:00"
+    },
+    {
+      "url": "https://archive.org/services/offshoot/abtest.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.421017+00:00"
+    },
+    {
+      "url": "https://archive.org/metadata/ymfubmvyx3b1ymxpyw/metadata",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.421852+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/librivoxaudio",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.716407+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/etree",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.716981+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/audio_bookspoetry",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.718008+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/uspto",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.719905+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/apkarchive",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.720934+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/folksoundomy",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.721895+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/phonesoftware",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.722795+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/booksbylanguage",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.724047+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/internetarchivebooks",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.725091+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/audio_religion",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.725912+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/JaiGyan",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.726679+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/kodi_archive",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.727395+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/tvarchive",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.728100+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/artsandmusicvideos",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.728821+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/ElectricSheep",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.729538+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/open-research-datasets",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.730520+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/tvnews",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.731220+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/digitallibraryindia",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.731912+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/manuals",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.732606+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/moviesandfilms",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.733289+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/usfederalcourts",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.734011+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/audio_islamic",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.734727+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/folkscanomy",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.735407+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/robarts",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.736488+00:00"
+    },
+    {
+      "url": "https://archive.org/services/img/radioprograms",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.736921+00:00"
+    },
+    {
+      "url": "https://athena.archive.org/0.gif",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:37:23.314840+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

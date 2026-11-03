@@ -1,0 +1,65 @@
+{
+  "rank": 506,
+  "domain": "gooieneemlander.nl",
+  "name": "gooieneemlander.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:17:19.037382+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:12:23.542623+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "fail",
+      "reason": "Accept is offered on the first layer; no direct refusal control was detected."
+    },
+    "prominence": {
+      "status": "fail",
+      "reason": "No refusal control detected alongside the first-layer accept control."
+    },
+    "before": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    },
+    "after": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    },
+    "persists": {
+      "status": "pass",
+      "reason": "Refusal survived a reload of the resulting page."
+    }
+  },
+  "steps": [
+    {
+      "action": "settings",
+      "label": "Stel voorkeuren in"
+    },
+    {
+      "action": "reject",
+      "label": "Alles afwijzen"
+    }
+  ],
+  "evidence": "evidence/gooieneemlander.nl/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Nieuws uit het Gooi, Eemland en de Vechtstreek - De Gooi- en Eemlander | De Gooi- en Eemlander",
+  "rules_version": "0.2.0"
+}

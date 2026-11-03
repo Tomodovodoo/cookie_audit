@@ -21,6 +21,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -28,7 +30,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-1",
@@ -46,6 +49,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -53,7 +58,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-2",
@@ -71,6 +77,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -78,7 +86,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-3",
@@ -96,6 +105,8 @@
             "color": "rgb(32, 33, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(237, 237, 238)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -103,7 +114,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-4",
@@ -121,6 +133,8 @@
             "color": "rgb(32, 33, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(237, 237, 238)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -128,7 +142,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-5",
@@ -146,6 +161,8 @@
             "color": "rgb(32, 33, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(237, 237, 238)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -153,7 +170,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-6",
@@ -171,6 +189,8 @@
             "color": "rgb(32, 33, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(237, 237, 238)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -178,7 +198,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-7",
@@ -196,6 +217,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgba(0, 0, 0, 0.6)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -203,7 +226,8 @@
             "padding": "8px 32px 8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-8",
@@ -221,6 +245,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgba(0, 0, 0, 0.6)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -228,7 +254,8 @@
             "padding": "8px 32px 8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-9",
@@ -246,6 +273,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgba(0, 0, 0, 0.6)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -253,7 +282,8 @@
             "padding": "8px 32px 8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-10",
@@ -271,6 +301,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgba(0, 0, 0, 0.6)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -278,7 +310,8 @@
             "padding": "8px 32px 8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-11",
@@ -296,6 +329,8 @@
             "color": "rgb(0, 0, 238)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(245, 245, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -303,7 +338,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-12",
@@ -321,6 +357,8 @@
             "color": "rgb(0, 0, 238)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(245, 245, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -328,7 +366,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-13",
@@ -346,6 +385,8 @@
             "color": "rgb(0, 0, 238)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(245, 245, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -353,7 +394,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-14",
@@ -371,6 +413,8 @@
             "color": "rgb(0, 0, 238)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(245, 245, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -378,7 +422,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-15",
@@ -396,6 +441,8 @@
             "color": "rgb(0, 0, 238)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(245, 245, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -403,7 +450,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-16",
@@ -421,6 +469,8 @@
             "color": "rgb(0, 0, 238)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(245, 245, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -428,7 +478,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-17",
@@ -446,6 +497,8 @@
             "color": "rgb(0, 0, 238)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(245, 245, 245)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -453,7 +506,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-18",
@@ -471,6 +525,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -478,7 +534,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-19",
@@ -496,6 +553,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -503,7 +562,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-20",
@@ -521,6 +581,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -528,7 +590,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-21",
@@ -546,6 +609,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -553,7 +618,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-22",
@@ -571,6 +637,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -578,7 +646,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-23",
@@ -596,6 +665,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -603,7 +674,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-24",
@@ -621,6 +693,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -628,7 +702,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-25",
@@ -646,6 +721,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -653,7 +730,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-26",
@@ -671,6 +749,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -678,7 +758,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-27",
@@ -696,6 +777,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -703,7 +786,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-28",
@@ -721,6 +805,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -728,7 +814,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-29",
@@ -746,6 +833,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -753,7 +842,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-30",
@@ -771,6 +861,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -778,7 +870,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-31",
@@ -796,6 +889,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -803,7 +898,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-32",
@@ -821,6 +917,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -828,7 +926,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-33",
@@ -846,6 +945,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -853,7 +954,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-34",
@@ -871,6 +973,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -878,7 +982,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-35",
@@ -896,6 +1001,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -903,7 +1010,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-36",
@@ -921,6 +1029,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -928,7 +1038,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-37",
@@ -946,6 +1057,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -953,7 +1066,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-38",
@@ -971,6 +1085,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -978,7 +1094,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-39",
@@ -996,6 +1113,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1003,7 +1122,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-40",
@@ -1021,6 +1141,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1028,7 +1150,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-41",
@@ -1046,6 +1169,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1053,7 +1178,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-42",
@@ -1071,6 +1197,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1078,7 +1206,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-43",
@@ -1096,6 +1225,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1103,7 +1234,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-44",
@@ -1121,6 +1253,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1128,7 +1262,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-45",
@@ -1146,6 +1281,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1153,7 +1290,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-46",
@@ -1171,6 +1309,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1178,7 +1318,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-47",
@@ -1196,6 +1337,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1203,7 +1346,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-48",
@@ -1221,6 +1365,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1228,7 +1374,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-49",
@@ -1246,6 +1393,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1253,7 +1402,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-50",
@@ -1271,6 +1421,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1278,7 +1430,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-51",
@@ -1296,6 +1449,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1303,7 +1458,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-52",
@@ -1321,6 +1477,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1328,7 +1486,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-53",
@@ -1346,6 +1505,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1353,7 +1514,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-54",
@@ -1371,6 +1533,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1378,7 +1542,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-55",
@@ -1396,6 +1561,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1403,7 +1570,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-56",
@@ -1421,6 +1589,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 0, 97)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1428,7 +1598,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         },
         {
           "id": "ca-57",
@@ -1446,6 +1617,8 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 13.3333,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1453,7 +1626,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "a932bbbf5e3b4ee2907c13d996819f22"
         }
       ],
       "webdriver": false,
@@ -1462,12 +1636,17 @@
         "width": 1365,
         "height": 900
       },
+      "frame_id": "a932bbbf5e3b4ee2907c13d996819f22",
       "frame_url": "https://www.rabobank.nl/particulieren"
     }
   ],
   "frame_errors": [],
   "url": "https://www.rabobank.nl/particulieren",
-  "captured_at": "2026-11-03T14:53:50.428186+00:00",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:45:36.297131+00:00",
   "cookies": [
     {
       "name": "RABOTHM",
@@ -1491,7 +1670,7 @@
       "name": "pa_privacy",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1827845616,
+      "expires": 1827848722,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -1500,7 +1679,7 @@
       "name": "_pcid",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1827845616,
+      "expires": 1827848722,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -1509,7 +1688,7 @@
       "name": "_pctx",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1827845616,
+      "expires": 1827848722,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -1518,7 +1697,7 @@
       "name": "RABO_PSL",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1809269624.29193,
+      "expires": 1809272729.901244,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -1536,7 +1715,7 @@
       "name": "RABO_visitor",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1809269624.291976,
+      "expires": 1809272729.901289,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -1545,7 +1724,7 @@
       "name": "bm_sz",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1793732014.520483,
+      "expires": 1793735120.397163,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -1554,7 +1733,7 @@
       "name": "_abck",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1825253623.678837,
+      "expires": 1825256729.462829,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -1563,7 +1742,7 @@
       "name": "RABO_RC",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1793804024.29187,
+      "expires": 1793807129.90119,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -1572,7 +1751,7 @@
       "name": "utag_main",
       "domain": ".rabobank.nl",
       "path": "/",
-      "expires": 1825253624,
+      "expires": 1825256730,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -1622,6 +1801,7 @@
         "SPLITIO.split.T1163",
         "SPLITIO.trafficType.user",
         "RABO_PSL",
+        "SPLITIO.01a1a216-224a-7497-b76a-5ad9be52b51d.largeSegments.till",
         "SPLITIO.split.cookie-consent-http-method",
         "SPLITIO.split.globalsites_fpx_mco_sustainability_discount_info_experiment",
         "SPLITIO.split.ab-test_s_1106",
@@ -1658,9 +1838,9 @@
         "SPLITIO.split.t1158",
         "SPLITIO.split.T1145",
         "SPLITIO.split.cookiebar-variant",
-        "QSI_ActionSetHistory",
         "SPLITIO.hash",
         "SPLITIO.split.fulfilment_refinance_toggle",
+        "QSI_ActionSetHistory",
         "SPLITIO.split.sprinter-qr-landing-page",
         "SPLITIO.split.Brainbots-Without-Chat-bubble",
         "SPLITIO.split.ff_pbl_busy_banner",
@@ -1674,7 +1854,6 @@
         "Q_INTER",
         "SPLITIO.split.ab-test_s_1113",
         "SPLITIO.split.ab-test_s_1069",
-        "SPLITIO.01a1a1e6-bd6c-7109-8498-2123d5d4cefc.largeSegments.till",
         "SPLITIO.split.ptb_rollback_klr",
         "SPLITIO.split.T1146",
         "SPLITIO.split.ab-test_s_1164",
@@ -1700,1327 +1879,1279 @@
       "url": "https://www.rabobank.nl/o_p7Gb/Y7FRHR/6rR/RCLY/birFBeTI/a1tY6kSkQaDXmL1S/aXliFiNJAwE/KkE4ei/8OaFI",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:53:43.373823+00:00"
+      "at": "2026-11-03T15:45:29.238711+00:00"
     },
     {
       "url": "https://www.rabobank.nl/wapi/relevance/consents",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:53:43.374505+00:00"
+      "at": "2026-11-03T15:45:29.239745+00:00"
     },
     {
       "url": "https://da.rabobank.nl/event",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T14:53:43.391301+00:00"
+      "at": "2026-11-03T15:45:29.256448+00:00"
     },
     {
       "url": "https://da.rabobank.nl/event",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T14:53:43.393138+00:00"
+      "at": "2026-11-03T15:45:29.258412+00:00"
     },
     {
       "url": "https://da.rabobank.nl/event",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T14:53:43.394033+00:00"
+      "at": "2026-11-03T15:45:29.259909+00:00"
     },
     {
       "url": "https://www.rabobank.nl/particulieren",
       "resource_type": "document",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.469701+00:00"
+      "at": "2026-11-03T15:45:29.356228+00:00"
     },
     {
       "url": "https://www.rabobank.nl/wapi/tag-management-system/loaders",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.546149+00:00"
+      "at": "2026-11-03T15:45:29.420279+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/styles-3UD5NR76.css",
       "resource_type": "stylesheet",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.546663+00:00"
+      "at": "2026-11-03T15:45:29.421478+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DI8IL6nm.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.547577+00:00"
+      "at": "2026-11-03T15:45:29.422338+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-vIy147u7.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.548310+00:00"
+      "at": "2026-11-03T15:45:29.424186+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-C9VUbM9l.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.549310+00:00"
+      "at": "2026-11-03T15:45:29.424867+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Y8XNfUEy.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.550000+00:00"
+      "at": "2026-11-03T15:45:29.425500+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DcZBB0AU.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.550633+00:00"
+      "at": "2026-11-03T15:45:29.426683+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CWjBWcaT.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.551310+00:00"
+      "at": "2026-11-03T15:45:29.427506+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DNUtbjAe.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.552002+00:00"
+      "at": "2026-11-03T15:45:29.428328+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Cr3fXktD.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.552638+00:00"
+      "at": "2026-11-03T15:45:29.429030+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Dm68ExqW.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.553281+00:00"
+      "at": "2026-11-03T15:45:29.429719+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BL8V9LTC.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.553905+00:00"
+      "at": "2026-11-03T15:45:29.430364+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/polyfills-G5YHVBOZ.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.554597+00:00"
+      "at": "2026-11-03T15:45:29.431005+00:00"
     },
     {
       "url": "https://www.rabobank.nl/static/msp/global-sites/main-2XKGMMTA.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.555266+00:00"
+      "at": "2026-11-03T15:45:29.431635+00:00"
     },
     {
       "url": "https://www.rabobank.nl/o_p7Gb/Y7FRHR/6rR/RCLY/birFBeTI/a1tY6kSkQaDXmL1S/aXliFiNJAwE/KkE4ei/8OaFI",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.555883+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/media/2cc3ff2f-19fe-458d-99da-2fb1acb43d81-C22IOUZZ.woff2",
-      "resource_type": "font",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.649018+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/media/3b0f1c67-c2e4-4df6-976f-49d52e45aba1-2AZQTJZA.woff2",
-      "resource_type": "font",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.649876+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/media/a56f9fd5-b438-4696-ae62-d273eb2e4c1b-C7EHYGLQ.woff2",
-      "resource_type": "font",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.650758+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/media/0b6110f9-6072-46b9-98af-7d09f7c895b8-Y5PI32QD.woff2",
-      "resource_type": "font",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.651619+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/asset/b363169e-c98e-4786-8338-6fb9157ac1d1/21x9/P00042986-1.jpg",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.655184+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/asset/8e8d2a94-f9c3-47fb-b6a4-85d0f2f17e59/1x1/rbo_two_phones_fase1.jpg",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.655608+00:00"
+      "at": "2026-11-03T15:45:29.432255+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/utag/rabobank/rabobank.nl/prod/utag.js",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.656400+00:00"
+      "at": "2026-11-03T15:45:29.451228+00:00"
     },
     {
       "url": "https://zn32vyz3zwtdmc4d0-rabobankvoc.siteintercept.qualtrics.com/SIE/",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.689229+00:00"
+      "at": "2026-11-03T15:45:29.499640+00:00"
     },
     {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CgzrmBJh.js",
-      "resource_type": "script",
+      "url": "https://www.rabobank.nl/static/msp/global-sites/media/a56f9fd5-b438-4696-ae62-d273eb2e4c1b-C7EHYGLQ.woff2",
+      "resource_type": "font",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.700171+00:00"
+      "at": "2026-11-03T15:45:29.509621+00:00"
     },
     {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-e72nPBmr.js",
-      "resource_type": "script",
+      "url": "https://www.rabobank.nl/static/msp/global-sites/media/3b0f1c67-c2e4-4df6-976f-49d52e45aba1-2AZQTJZA.woff2",
+      "resource_type": "font",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.701040+00:00"
+      "at": "2026-11-03T15:45:29.510110+00:00"
     },
     {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-C8vMmstW.js",
-      "resource_type": "script",
+      "url": "https://www.rabobank.nl/static/msp/global-sites/media/2cc3ff2f-19fe-458d-99da-2fb1acb43d81-C22IOUZZ.woff2",
+      "resource_type": "font",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.701812+00:00"
+      "at": "2026-11-03T15:45:29.510978+00:00"
     },
     {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CDW3SQ8x.js",
-      "resource_type": "script",
+      "url": "https://www.rabobank.nl/static/msp/global-sites/media/0b6110f9-6072-46b9-98af-7d09f7c895b8-Y5PI32QD.woff2",
+      "resource_type": "font",
       "method": "GET",
-      "at": "2026-11-03T14:53:43.705287+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DETOtK51.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.706578+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-33noOTtr.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.707150+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BZsINkej.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.708077+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D1OSxZX9.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.708925+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-g4eEL0nC.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.709769+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B4c0eDto.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.710549+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-UUeBTDoL.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.711389+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BG748aZT.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.712943+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChbzMBa_.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.713988+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DfHOjRNE.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.714757+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BUIjnT6b.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.715476+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DCH0t2ez.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.716170+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-COclRG_v.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.717211+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Yd17a6Pv.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.717603+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-s2zfGffc.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.718283+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DZiM3scz.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.718946+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-XDzd9ck0.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.719626+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DTWcuk_O.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.720302+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CgwvjaPH.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.720972+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-W6szq_i3.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.721933+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B52MuJdR.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.722697+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BtgO7VLO.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.723538+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Cwev81Yi.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.724374+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-rCv6IV2w.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.725174+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DLgHA8OV.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.725964+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Z-2ec9je.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.726648+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CAGGdXkt.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.727313+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-bnrFBOtW.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.727966+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BWTTqPat.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.728643+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DqZgJZ1V.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.729315+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DMuCITKV.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.730132+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BLkKFGlY.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.730793+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CXgjKhWq.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.731464+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B38C28au.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.732116+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CV-4VqB0.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.732862+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BerPy6MJ.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.733564+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DwkxZpNQ.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.734308+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BCZg2sIb.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.735099+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-C4vGF6Ck.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.735872+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DGXeK1PM.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.736625+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BlyN4KGm.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.737297+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BRBSgvg3.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.737949+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-FwMAkXqy.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.744920+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChMLsW7f.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.745704+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BSl6503R.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.746366+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BBYyFnhw.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.746975+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CdrZsgTq.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.747595+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CwL8XT8s.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.748206+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-SP_A9yRd.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.748802+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CI_j8dVO.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.749429+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-wYBCoWvW.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.750028+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Bm-x6zUh.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.750635+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CE7YPUb1.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.751249+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/o_p7Gb/Y7FRHR/6rR/RCLY/birFBeTI/a1tY6kSkQaDXmL1S/aXliFiNJAwE/KkE4ei/8OaFI",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:43.829759+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/dxjsmodule/626.f09927365e9cfc5937fa.chunk.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.861847+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DrJPf7Su.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.868529+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-xjMiz5WJ.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.870148+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:43.898661+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.939985+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/dxjsmodule/147.d10e323bc0517db5c988.chunk.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.976579+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/dxjsmodule/463.beb1e5f34eda2e175645.chunk.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.977075+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.977782+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.978426+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:43.979046+00:00"
-    },
-    {
-      "url": "https://tags.tiqcdn.com/utag/rabobank/rabobank.nl/prod/utag.390.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.062860+00:00"
-    },
-    {
-      "url": "https://tags.tiqcdn.com/utag/rabobank/rabobank.nl/prod/utag.587.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.063425+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/wapi/customer-identifications/a32aad93b2221d838e5006e62d00e11a2d17b07b11687ad9b8ee79b7e640d368",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.064395+00:00"
-    },
-    {
-      "url": "https://sdk.split.io/api/memberships/01a1a1e6-bd6c-7109-8498-2123d5d4cefc",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.065170+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/wapi/contact/chat/management/journey-details",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.067151+00:00"
-    },
-    {
-      "url": "https://sdk.split.io/api/splitChanges",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.068339+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/wapi/relevance/rolling-cookies",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.069670+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-loAFdzEA.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.070847+00:00"
-    },
-    {
-      "url": "https://auth.split.io/api/v2/auth",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.073759+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.077065+00:00"
-    },
-    {
-      "url": "https://tag.aticdn.net/piano-analytics.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.093764+00:00"
-    },
-    {
-      "url": "https://zn2tzwqzvjh4itq0u-rabobankvoc.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.115883+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Bq6lB4Cy.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.117220+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/favicons/favicon-svg.svg",
-      "resource_type": "other",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.118942+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.143964+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-yvx1A09s.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.151256+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B638Ldua.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.151616+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CIG-dXcN.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.152212+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D0qYgIsn.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.152833+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DjmUS9jn.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.153455+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D1fecYUu.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.154083+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DOWHTNDV.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.154896+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/dxjsmodule/UserDefinedHTMLModule.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.193862+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.194368+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.195168+00:00"
-    },
-    {
-      "url": "https://da.rabobank.nl/event",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.201934+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ClOoKjIH.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.202398+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BSmdzNxE.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.227916+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CmBr7_y-.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.228685+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-C8Aj0ARm.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.229444+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-omDPF58l.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.230087+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Be8oi6-F.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.230716+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Ca7IJb4m.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.239273+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/m/77d91b91082809b/original/apple-app-store-badge-nl.png",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.244152+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/m/7ab70d192d9e45ce/original/google-play-badge-nl.png",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.244996+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-rBKlohPg.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.246439+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CFncmpIZ.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.247266+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Dhs9MhrD.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.247579+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B0B9TuOD.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.254261+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ckpiPR0R.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.254644+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DtQ_FFN0.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.255406+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BDJO2mnd.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.256083+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BBZ8QsiA.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.257204+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-WsfBL4kY.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.257904+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CVlYSFLj.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.258634+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ElxFThd8.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.259565+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BGxKoH-b.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.260477+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B46qjwbj.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.261128+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChPtdFQU.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.261771+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CxC0pMLG.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.262362+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DhEXdRpY.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.263380+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-4hfhEFW1.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.264089+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BXn0d80g.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.264742+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BoJy161K.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.265757+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B7q8RyZN.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.266721+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-2l3e59kb.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.267093+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-PAgJmxA9.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.268437+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/asset/638b4249-4118-47f7-90e8-740c2058c3d2/1x1/Inloopgesprek-Snippet.jpg",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.269440+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/asset/059d2d2c-6e6d-43da-888a-0ecd22d8aa31/1x1/Crop-Rabo-zeeland-0007390.jpg",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.270710+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/asset/b932c473-85ed-4fed-8f32-c0864c09ab63/1x1/Rabo-RegenboogRekening-stapjes.jpg",
-      "resource_type": "image",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.271254+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-cFVWbt46.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.278776+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChkPVddC.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.280744+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Dg5_Thqk.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.281237+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CTsHQqJp.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.282907+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-jHq_sqtz.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.283345+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D4CUWLGS.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.284055+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Cf6h41yG.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.284682+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-YnMvdAu_.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.285368+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-0_7OuwTO.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.286126+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-5avNiKwP.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.286761+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-YMpoEBQS.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.287848+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-IYq3grlp.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.288603+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D3wp-S91.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.289235+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-VxQhhjt4.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.289985+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B0fMo53r.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.290885+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Bm3aZ1tm.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.291791+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-9jGCO5zD.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.312176+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BAW3xWgo.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.313755+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-pU9Q7GdG.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.314217+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BW_dHsn1.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.314955+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Cv2A644l.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.315619+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DsEkQOZV.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.316306+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D_2_19FC.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.317006+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DZY0gf48.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.317647+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/wapi/marketing/offers",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.337415+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DlONZM_9.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.345921+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.353242+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.353588+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BM0pcrF9.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.355760+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DLqNTIBS.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.356149+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B7dvq6L-.js",
-      "resource_type": "script",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.390071+00:00"
+      "at": "2026-11-03T15:45:29.511654+00:00"
     },
     {
       "url": "https://media.rabobank.com/asset/b363169e-c98e-4786-8338-6fb9157ac1d1/21x9/P00042986-1.jpg",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T14:53:44.408229+00:00"
+      "at": "2026-11-03T15:45:29.512889+00:00"
     },
     {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.422441+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.424377+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.424806+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
-      "resource_type": "xhr",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.426134+00:00"
-    },
-    {
-      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/",
-      "resource_type": "xhr",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.469558+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-chevron-down-1c3682ba.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.485075+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-youtube-8c81e2ac.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.485592+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-chevron-right-cf7f75c2.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.486553+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-magnifying-glass-dc0a9961.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.487358+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-x-e8be1d61.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.488062+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-sliders-b6d14e3b.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.488742+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-chat-948e7d34.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.489673+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-linkedin-bdd2da44.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.490619+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-phone-05f99d4a.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.491896+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-instagram-af76233a.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.493346+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-list-607442df.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.494770+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-facebook-89acee91.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.495836+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-bank-card-6c4da34b.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.496790+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-emergency-kit-09bbe6ef.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.497478+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-piggy-bank-6f947fe8.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.498146+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-pencil-sign-286d7f55.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.498794+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-beach-umbrella-a3b97fd8.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.499427+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-coin-euro-0983db86.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.500059+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-house-e03a6814.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.500925+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-check-alt-b064c04b.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.502849+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-globe-6b059e81.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.503226+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-phone-mobile-a1663779.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.503804+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-arrow-left-f89654ae.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.504407+00:00"
-    },
-    {
-      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-times-85f8f697.svg",
-      "resource_type": "fetch",
-      "method": "GET",
-      "at": "2026-11-03T14:53:44.505012+00:00"
-    },
-    {
-      "url": "https://media.rabobank.com/asset/57ca310c-e628-4fb9-abab-f21ed27ebeaf/16x9/P00042986.jpg",
+      "url": "https://media.rabobank.com/asset/8e8d2a94-f9c3-47fb-b6a4-85d0f2f17e59/1x1/rbo_two_phones_fase1.jpg",
       "resource_type": "image",
       "method": "GET",
-      "at": "2026-11-03T14:53:44.552149+00:00"
-    },
-    {
-      "url": "https://da.rabobank.nl/event",
-      "resource_type": "fetch",
-      "method": "POST",
-      "at": "2026-11-03T14:53:44.566492+00:00"
+      "at": "2026-11-03T15:45:29.513713+00:00"
     },
     {
       "url": "https://www.rabobank.nl/o_p7Gb/Y7FRHR/6rR/RCLY/birFBeTI/a1tY6kSkQaDXmL1S/aXliFiNJAwE/KkE4ei/8OaFI",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:53:44.910972+00:00"
+      "at": "2026-11-03T15:45:29.602613+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CgzrmBJh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.606556+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-e72nPBmr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.607121+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-C8vMmstW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.609318+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CDW3SQ8x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.609797+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DETOtK51.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.610880+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-33noOTtr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.611656+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BZsINkej.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.612061+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D1OSxZX9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.612646+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-g4eEL0nC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.613688+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B4c0eDto.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.614362+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-UUeBTDoL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.615049+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BG748aZT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.615740+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChbzMBa_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.616472+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DfHOjRNE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.617164+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BUIjnT6b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.617823+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DCH0t2ez.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.618482+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-COclRG_v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.619063+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Yd17a6Pv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.619607+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-s2zfGffc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.620154+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DZiM3scz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.620687+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-XDzd9ck0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.621224+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DTWcuk_O.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.622113+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CgwvjaPH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.622915+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-W6szq_i3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.623792+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B52MuJdR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.624428+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BtgO7VLO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.625065+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Cwev81Yi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.625400+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-rCv6IV2w.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.626381+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DLgHA8OV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.627058+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Z-2ec9je.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.627876+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CAGGdXkt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.628558+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-bnrFBOtW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.629403+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BWTTqPat.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.629721+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DqZgJZ1V.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.630259+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DMuCITKV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.631009+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BLkKFGlY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.631562+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CXgjKhWq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.632096+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B38C28au.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.632631+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CV-4VqB0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.633151+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BerPy6MJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.633684+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DwkxZpNQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.634208+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BCZg2sIb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.634770+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-C4vGF6Ck.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.635387+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DGXeK1PM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.635982+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BlyN4KGm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.636524+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BRBSgvg3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.637047+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-FwMAkXqy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.637762+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChMLsW7f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.638412+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BSl6503R.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.639993+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BBYyFnhw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.641431+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CdrZsgTq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.642194+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CwL8XT8s.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.642793+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-SP_A9yRd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.643365+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CI_j8dVO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.643927+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-wYBCoWvW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.644491+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Bm-x6zUh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.645135+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CE7YPUb1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.645897+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/dxjsmodule/626.f09927365e9cfc5937fa.chunk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.647592+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DrJPf7Su.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.694945+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-xjMiz5WJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.695426+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:45:29.738791+00:00"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/rabobank/rabobank.nl/prod/utag.390.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.822764+00:00"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/rabobank/rabobank.nl/prod/utag.587.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.824023+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/wapi/customer-identifications/217e26b531dc47c23307113844b137fd0111a452af2a6323bdafecc06ed68372",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.825522+00:00"
+    },
+    {
+      "url": "https://sdk.split.io/api/memberships/01a1a216-224a-7497-b76a-5ad9be52b51d",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.825980+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/wapi/contact/chat/management/journey-details",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:45:29.827408+00:00"
+    },
+    {
+      "url": "https://sdk.split.io/api/splitChanges",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.827876+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/wapi/relevance/rolling-cookies",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.828569+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-loAFdzEA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.829552+00:00"
+    },
+    {
+      "url": "https://auth.split.io/api/v2/auth",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.831250+00:00"
+    },
+    {
+      "url": "https://tag.aticdn.net/piano-analytics.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.848556+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.857337+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Bq6lB4Cy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.865948+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/dxjsmodule/147.d10e323bc0517db5c988.chunk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.894615+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/dxjsmodule/463.beb1e5f34eda2e175645.chunk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.895137+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.895888+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.896575+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.897258+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-yvx1A09s.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.911017+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B638Ldua.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.911525+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CIG-dXcN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.912376+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D0qYgIsn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.913058+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DjmUS9jn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.913747+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D1fecYUu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.914386+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DOWHTNDV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.915024+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:45:29.955072+00:00"
+    },
+    {
+      "url": "https://zn2tzwqzvjh4itq0u-rabobankvoc.siteintercept.qualtrics.com/WRSiteInterceptEngine/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.956396+00:00"
+    },
+    {
+      "url": "https://da.rabobank.nl/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:45:29.958109+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-rBKlohPg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.959494+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CFncmpIZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.959800+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Dhs9MhrD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.960425+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ClOoKjIH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.960999+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B0B9TuOD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.961557+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ckpiPR0R.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.962124+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DtQ_FFN0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.962666+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BDJO2mnd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.963209+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BBZ8QsiA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.967056+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-WsfBL4kY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.967764+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CVlYSFLj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.968414+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ElxFThd8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.968981+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BGxKoH-b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.969596+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B46qjwbj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.970230+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChPtdFQU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.970827+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CxC0pMLG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.971411+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DhEXdRpY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.972378+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-4hfhEFW1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.973110+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BXn0d80g.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.973766+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/favicons/favicon-svg.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.974383+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BSmdzNxE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.975995+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BoJy161K.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.977204+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-omDPF58l.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.977491+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CmBr7_y-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.997548+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-C8Aj0ARm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.998010+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Be8oi6-F.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:29.998655+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Ca7IJb4m.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.003309+00:00"
+    },
+    {
+      "url": "https://media.rabobank.com/asset/dd2f2305-1eaa-4169-a01d-4ed3da0dbfb4/financiering-verduurzaming.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.021390+00:00"
+    },
+    {
+      "url": "https://media.rabobank.com/m/77d91b91082809b/original/apple-app-store-badge-nl.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.022979+00:00"
+    },
+    {
+      "url": "https://media.rabobank.com/m/7ab70d192d9e45ce/original/google-play-badge-nl.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.024104+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:45:30.025244+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B7q8RyZN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.028971+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-2l3e59kb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.029345+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-PAgJmxA9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.030182+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/wapi/marketing/offers",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:45:30.031643+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DlONZM_9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.032322+00:00"
+    },
+    {
+      "url": "https://media.rabobank.com/asset/638b4249-4118-47f7-90e8-740c2058c3d2/1x1/Inloopgesprek-Snippet.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.040613+00:00"
+    },
+    {
+      "url": "https://media.rabobank.com/asset/b932c473-85ed-4fed-8f32-c0864c09ab63/1x1/Rabo-RegenboogRekening-stapjes.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.041723+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-cFVWbt46.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.042474+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-ChkPVddC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.043774+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Dg5_Thqk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.044766+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-CTsHQqJp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.045481+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-jHq_sqtz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.046685+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D4CUWLGS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.047071+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Cf6h41yG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.047754+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-0_7OuwTO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.048404+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-5avNiKwP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.049117+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-YMpoEBQS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.049815+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B7dvq6L-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.050440+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D3wp-S91.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.051029+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-VxQhhjt4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.051581+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Bm3aZ1tm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.052203+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-YnMvdAu_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.052859+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-9jGCO5zD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.053772+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BAW3xWgo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.054553+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-pU9Q7GdG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.054936+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BW_dHsn1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.056174+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-Cv2A644l.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.057352+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DsEkQOZV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.057894+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-D_2_19FC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.058907+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-IYq3grlp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.059272+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DZY0gf48.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.059879+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-B0fMo53r.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.069900+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-BM0pcrF9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.103014+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/chunk-DLqNTIBS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.104357+00:00"
+    },
+    {
+      "url": "https://media.rabobank.com/asset/57ca310c-e628-4fb9-abab-f21ed27ebeaf/16x9/P00042986.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.154482+00:00"
+    },
+    {
+      "url": "https://da.rabobank.nl/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:45:30.159815+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/dxjsmodule/UserDefinedHTMLModule.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.172877+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.173541+00:00"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.174345+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-instagram-af76233a.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.194170+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-youtube-8c81e2ac.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.194638+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-chevron-down-1c3682ba.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.195420+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-chevron-right-cf7f75c2.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.196143+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-chat-948e7d34.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.196790+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-sliders-b6d14e3b.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.198733+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-magnifying-glass-dc0a9961.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.199098+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-x-e8be1d61.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.200162+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-list-607442df.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.200872+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-phone-05f99d4a.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.201487+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-linkedin-bdd2da44.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.202071+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-facebook-89acee91.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.202738+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-arrow-left-f89654ae.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.204656+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-times-85f8f697.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.205263+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-check-alt-b064c04b.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.206096+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-house-e03a6814.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.206752+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-piggy-bank-6f947fe8.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.207402+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-beach-umbrella-a3b97fd8.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.208011+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-emergency-kit-09bbe6ef.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.208626+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-bank-card-6c4da34b.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.209223+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-pencil-sign-286d7f55.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.210131+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-coin-euro-0983db86.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.210759+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-phone-mobile-a1663779.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.212610+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/static/msp/global-sites/rds/assets/icon/rds-icon-globe-6b059e81.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:45:30.213219+00:00"
+    },
+    {
+      "url": "https://www.rabobank.nl/o_p7Gb/Y7FRHR/6rR/RCLY/birFBeTI/a1tY6kSkQaDXmL1S/aXliFiNJAwE/KkE4ei/8OaFI",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:45:30.702856+00:00"
     }
   ],
   "tracking": {
@@ -3061,6 +3192,7 @@
       ]
     }
   ],
-  "screenshot": "reject-1.png",
+  "blocked": false,
+  "screenshot": "reject-1.jpg",
   "context_excerpt_limit": 400
 }

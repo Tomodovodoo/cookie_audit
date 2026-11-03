@@ -122,6 +122,10 @@ async def navigate(page,url,wait):
     return response.status if response else None
 
 async def audit_site(browser,site,args,mapping,metadata):
+    started=time.monotonic()
+    entry_url=site.get('url','https://'+site['domain'])
+    parsed=urlsplit(entry_url)
+    if parsed.scheme!='https' or not (parsed.hostname==site['domain'] or (parsed.hostname or '').endswith('.'+site['domain'])):raise ValueError('Entry URL must use HTTPS on the listed domain or its subdomain.')
     folder=ROOT/'docs/evidence'/site['domain']
     previous=ROOT/'docs/results'/f'{site["domain"]}.json'
     archive=ROOT/'private/archive'/str(time.time_ns())/site['domain']
@@ -132,7 +136,7 @@ async def audit_site(browser,site,args,mapping,metadata):
     if folder.exists():
         archive.mkdir(parents=True,exist_ok=True);folder.rename(archive/'evidence')
     folder.mkdir(parents=True,exist_ok=True)
-    row={**site,'tested_at':now(),'run':metadata,'checks':{},'steps':[],'evidence':f'evidence/{site["domain"]}/before.json'}
+    row={**site,'tested_at':now(),'run':metadata,'checks':{},'steps':[]}
     contexts=[]
     try:
         context=await browser.new_context(locale='nl-NL',timezone_id='Europe/Amsterdam',viewport={'width':1365,'height':900},accept_downloads=False)
@@ -146,8 +150,9 @@ async def audit_site(browser,site,args,mapping,metadata):
         await context.route('**/*',guard)
         page=await context.new_page();watch_page(page); requests=[]
         context.on('request',lambda req: requests.append({'url':safe_url(req.url),'resource_type':req.resource_type,'method':req.method,'at':now()}))
-        status=await navigate(page,'https://'+site['domain'],args.wait)
+        status=await navigate(page,entry_url,args.wait)
         before=await snapshot(page,context,requests,folder,'before',mapping)
+        row['evidence']=f'evidence/{site["domain"]}/before.json'
         main=before['frames'][0] if before['frames'] else {}
         blocked=before.get('blocked') or status in (401,403,429,451,503) or BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200])
         if blocked or (len(main.get('text',''))<80 and not candidates(before,ACCEPT)):
@@ -201,18 +206,24 @@ async def audit_site(browser,site,args,mapping,metadata):
             row['checks']['persists']=result('unknown','A completed refusal journey was not observed.')
         # Isolated acceptance control, never reuse the rejected context.
         if accept_seen and not args.skip_accept:
-            await context.close();contexts.remove(context)
-            accepted=await browser.new_context(locale='nl-NL',timezone_id='Europe/Amsterdam',viewport={'width':1365,'height':900},accept_downloads=False)
-            contexts.append(accepted); await accepted.route('**/*',guard)
-            ap=await accepted.new_page();watch_page(ap); ar=[]
-            accepted.on('request',lambda req:ar.append({'url':safe_url(req.url),'resource_type':req.resource_type,'method':req.method,'at':now()}))
-            await navigate(ap,'https://'+site['domain'],args.wait)
-            ast=await inspect(ap); opts=candidates(ast,ACCEPT)
-            ar.clear()
-            if opts and await click(ap,opts[0]):
-                await asyncio.sleep(args.wait)
-                ac=await snapshot(ap,accepted,ar,folder,'accept-control',mapping)
-                row['accept_control']={'completed':not bool(candidates(ac,ACCEPT)),'tracking':ac['tracking']}
+            try:
+                # Leave cleanup time inside the whole-site budget. A failed
+                # comparison does not invalidate the completed refusal journey.
+                async with asyncio.timeout(min(55,max(.1,170-(time.monotonic()-started)))):
+                    await context.close();contexts.remove(context)
+                    accepted=await browser.new_context(locale='nl-NL',timezone_id='Europe/Amsterdam',viewport={'width':1365,'height':900},accept_downloads=False)
+                    contexts.append(accepted); await accepted.route('**/*',guard)
+                    ap=await accepted.new_page();watch_page(ap); ar=[]
+                    accepted.on('request',lambda req:ar.append({'url':safe_url(req.url),'resource_type':req.resource_type,'method':req.method,'at':now()}))
+                    await navigate(ap,entry_url,args.wait)
+                    ast=await inspect(ap); opts=candidates(ast,ACCEPT)
+                    ar.clear()
+                    if opts and await click(ap,opts[0]):
+                        await asyncio.sleep(args.wait)
+                        ac=await snapshot(ap,accepted,ar,folder,'accept-control',mapping)
+                        row['accept_control']={'completed':not bool(candidates(ac,ACCEPT)),'tracking':ac['tracking']}
+                    else:row['accept_control']={'completed':False,'reason':'No acceptance action completed.'}
+            except Exception as e:row['accept_control']={'completed':False,'error':type(e).__name__}
         row['outcome']='observed'
         row['http_status']=status
         row['title']=main.get('title')
@@ -236,7 +247,7 @@ async def main(args):
     if args.limit:sites=sites[:args.limit]
     if not args.force:sites=[s for s in sites if not (ROOT/'docs/results'/f'{s["domain"]}.json').exists()]
     if not sites:print('No untested sites. Use --force to repeat.');return
-    metadata={'started_at':now(),'browser_mode':'headless' if args.headless else 'stock Chrome offscreen','locale':'nl-NL','timezone':'Europe/Amsterdam','viewport':'1365x900','wait_seconds':args.wait,'workers':args.workers,'egress_country':args.country,'accept_control_enabled':not args.skip_accept,'version':'0.2.0'}
+    metadata={'started_at':now(),'browser_mode':'headless' if args.headless else 'stock Chrome offscreen','locale':'nl-NL','timezone':'Europe/Amsterdam','viewport':'1365x900','wait_seconds':args.wait,'workers':args.workers,'egress_country':args.country,'accept_control_enabled':not args.skip_accept,'version':'0.2.1'}
     async with async_playwright() as p:
         browser=await p.chromium.launch(executable_path=args.chrome,headless=args.headless,ignore_default_args=['--enable-automation'],args=['--window-position=-32000,-32000','--disable-blink-features=AutomationControlled'])
         try:
@@ -252,7 +263,7 @@ async def main(args):
                         row=await asyncio.wait_for(audit_site(browser,site,args,mapping,metadata),180)
                     except TimeoutError:
                         row={**site,'tested_at':now(),'run':metadata,'outcome':'timeout','checks':{k:result('unknown','Site exceeded the 180 second capture budget.') for k in ('reject','prominence','before','after','persists')}}
-                    save(ROOT/'docs/results'/f'{site["domain"]}.json',row)
+                    save(ROOT/'docs/results'/f'{site["domain"]}.json',sanitise_state(row))
                     done+=1; elapsed=time.monotonic()-start
                     print(json.dumps({'completed':done,'total':len(sites),'domain':site['domain'],'outcome':row['outcome'],'checks':{k:v['status'] for k,v in row['checks'].items()},'elapsed_s':round(elapsed)}),flush=True)
                     queue.task_done()

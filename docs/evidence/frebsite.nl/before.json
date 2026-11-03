@@ -1,0 +1,122 @@
+{
+  "frames": [
+    {
+      "url": "https://frebsite.nl/",
+      "title": "FrebSite / Personal website for Fred Heusschen",
+      "text": "cv\n\nMy name is Fred,\nI'm a creative front-end developer.\nI like JS and CSS. A lot.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "cv",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1290.3333740234375,
+            "y": 700,
+            "width": 70,
+            "height": 60
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(17, 17, 17)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 30,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(17, 17, 17)",
+            "padding": "15px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://frebsite.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://frebsite.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:34:01.203969+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://frebsite.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://frebsite.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.090874+00:00"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.176646+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.181605+00:00"
+    },
+    {
+      "url": "https://frebsite.nl/css/layout.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.182469+00:00"
+    },
+    {
+      "url": "https://frebsite.nl/img/bg-side.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.298170+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5aOhWnVaE.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.298912+00:00"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.300072+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4-ORWnVaE.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.301086+00:00"
+    },
+    {
+      "url": "https://frebsite.nl/favicon/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:33:54.425314+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

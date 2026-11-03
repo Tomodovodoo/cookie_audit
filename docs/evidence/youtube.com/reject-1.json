@@ -1,0 +1,1041 @@
+{
+  "frames": [
+    {
+      "url": "https://www.youtube.com/",
+      "title": "YouTube",
+      "text": "NL\nNavigatie overslaan\nInloggen\nHome\nShorts\nAbonnementen\nJij\nGeschiedenis\nLog in om video's te liken, te reageren en je te abonneren.\nInloggen\nOntdekken\nMuziek\nFilms\nGames\nMeer tonen\nMeer van YouTube\nYouTube Premium\nYouTube Music\nYouTube Kids\nYouTube Labs\nRapportagegeschiedenis\nOverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars\nVoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen\n© 2026 Google LLC YouTube, een bedrijf van Google\nJe YouTube-geschiedenis staat uit\nJe kunt de kijk- en zoekgeschiedenis op elk moment aanzetten om de nieuwste video's te krijgen die op jou zijn afgestemd.\n\nZet YouTube-geschiedenis aan en bevestig je instellingen voor het gebruik van cookies en gegevens om je selectie te updaten. Meer informatie\nInstelling updaten",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Gids",
+          "tag": "BUTTON",
+          "context": "NL\nNavigatie overslaan\nInloggen\nHome\nShorts\nAbonnementen\nJij\nGeschiedenis\nLog in om video's te liken, te reageren en je te abonneren.\nInloggen\nOntdekken\nMuziek\nFilms\nGames\nMeer tonen\nMeer van YouTube\nYouTube Premium\nYouTube Music\nYouTube Kids\nYouTube Labs\nRapportagegeschiedenis\nOverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars\nVoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe f",
+          "box": {
+            "x": 24,
+            "y": 16,
+            "width": 24,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Navigatie overslaan",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": -1000,
+            "width": 155.38888549804688,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Search",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 945.1111450195312,
+            "y": 8,
+            "width": 64,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgb(248, 248, 248)",
+            "effectiveBackground": "rgb(248, 248, 248)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(211, 211, 211)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Instellingen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1178.0069580078125,
+            "y": 16,
+            "width": 24,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1218.0069580078125,
+            "y": 8,
+            "width": 116.21527862548828,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(6, 95, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.2)",
+            "padding": "0px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 68,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Shorts",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 108,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Abonnementen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 148,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Jij",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 188,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Geschiedenis",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 228,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 32,
+            "y": 368.8888854980469,
+            "width": 116.21527862548828,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(6, 95, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.2)",
+            "padding": "0px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Muziek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 469.77777099609375,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Films",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 509.77777099609375,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Games",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 549.7777709960938,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Meer tonen",
+          "tag": "YTD-GUIDE-ENTRY-RENDERER",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 589.7777709960938,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Meer tonen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 589.7777709960938,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "YouTube Premium",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 686.6666870117188,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "YouTube Music",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 726.6666870117188,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "YouTube Kids",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 766.6666870117188,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "YouTube Labs",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 806.6666870117188,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Rapportagegeschiedenis",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 871.5555419921875,
+            "width": 204,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Over",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 940.4444580078125,
+            "width": 28.95138931274414,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Pers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 60.95138931274414,
+            "y": 940.4444580078125,
+            "width": 28.5,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Auteursrecht",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 97.4513931274414,
+            "y": 940.4444580078125,
+            "width": 81.16666412353516,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 960.4444580078125,
+            "width": 49.05555725097656,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Creators",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 81.05555725097656,
+            "y": 960.4444580078125,
+            "width": 53.60416793823242,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Adverteren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 980.4444580078125,
+            "width": 69.09722137451172,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Ontwikkelaars",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 101.09722137451172,
+            "y": 980.4444580078125,
+            "width": 88.84027862548828,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 1012.4444580078125,
+            "width": 83.15972137451172,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 115.15972137451172,
+            "y": 1012.4444580078125,
+            "width": 46.0069465637207,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Beleid en veiligheid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 1032.4444580078125,
+            "width": 120.84722137451172,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Zo werkt YouTube",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 1052.4444580078125,
+            "width": 112.9513931274414,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Nieuwe functies testen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 1072.4444580078125,
+            "width": 143.72222900390625,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(96, 96, 96)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(96, 96, 96)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Meer informatie",
+          "tag": "A",
+          "context": "Je kunt de kijk- en zoekgeschiedenis op elk moment aanzetten om de nieuwste video's te krijgen die op jou zijn afgestemd.\n\nZet YouTube-geschiedenis aan en bevestig je instellingen voor het gebruik van cookies en gegevens om je selectie te updaten. Meer informatie",
+          "box": {
+            "x": 858.5347290039062,
+            "y": 222.88888549804688,
+            "width": 99.31944274902344,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(6, 95, 212)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(6, 95, 212)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Instelling updaten",
+          "tag": "A",
+          "context": "Je YouTube-geschiedenis staat uit\nJe kunt de kijk- en zoekgeschiedenis op elk moment aanzetten om de nieuwste video's te krijgen die op jou zijn afgestemd.\n\nZet YouTube-geschiedenis aan en bevestig je instellingen voor het gebruik van cookies en gegevens om je selectie te updaten. Meer informatie\nInstelling updaten",
+          "box": {
+            "x": 487.1111145019531,
+            "y": 254.88888549804688,
+            "width": 616,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 15, 15)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 15, 15)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.youtube.com/"
+    },
+    {
+      "url": "https://accounts.google.com/ServiceLogin",
+      "title": "Error 401 (Ongeldig verzoek)!!1",
+      "text": "401. Dat is een fout.De server kan het verzoek niet verwerken omdat dit niet de juiste opmaak heeft. Probeer het verzoek niet opnieuw. Dat is alles wat we weten.",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://accounts.google.com/ServiceLogin"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.youtube.com/",
+  "captured_at": "2026-11-03T14:56:52.039320+00:00",
+  "cookies": [
+    {
+      "name": "__Secure-YENID",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1827845796.310531,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1827845805.489266,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PREF",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1828277798.455636,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SOCS",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1827845805.543869,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-YEC",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1827845795.489122,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.youtube.com",
+      "localKeys": [
+        "V3d75b113||::yt-player::yt-player-lv",
+        "yt-remote-connected-devices",
+        "ytidb::LAST_RESULT_ENTRY_KEY",
+        "yt-remote-device-id",
+        "yt-icons-last-purged"
+      ],
+      "sessionKeys": [
+        "yt-remote-session-name",
+        "yt-remote-fast-check-period",
+        "yt-remote-session-app",
+        "yt-remote-cast-available",
+        "yt-remote-cast-installed"
+      ]
+    },
+    {
+      "origin": "https://accounts.google.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "V3d75b113||::yt-player::yt-player-lv",
+        "yt-remote-connected-devices",
+        "ytidb::LAST_RESULT_ENTRY_KEY",
+        "yt-remote-device-id",
+        "yt-icons-last-purged"
+      ],
+      "sessionKeys": [
+        "yt-remote-session-name",
+        "yt-remote-fast-check-period",
+        "yt-remote-session-app",
+        "yt-remote-cast-available",
+        "yt-remote-cast-installed"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.youtube.com/upgrade_visitor_cookie",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:56:44.985800+00:00"
+    },
+    {
+      "url": "https://consent.youtube.com/save",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:56:45.503381+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

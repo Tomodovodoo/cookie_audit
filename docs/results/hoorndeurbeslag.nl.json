@@ -1,0 +1,47 @@
+{
+  "rank": null,
+  "global_rank": 63744,
+  "domain": "hoorndeurbeslag.nl",
+  "name": "hoorndeurbeslag.nl",
+  "company": null,
+  "cohort": "Supplemental .nl global ranking",
+  "tested_at": "2026-11-03T15:36:02.335139+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:33:22.185051+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/hoorndeurbeslag.nl/before.json",
+  "outcome": "blocked"
+}

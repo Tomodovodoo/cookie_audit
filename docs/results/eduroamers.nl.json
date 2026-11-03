@@ -1,0 +1,47 @@
+{
+  "rank": null,
+  "global_rank": 48635,
+  "domain": "eduroamers.nl",
+  "name": "eduroamers.nl",
+  "company": null,
+  "cohort": "Supplemental .nl global ranking",
+  "tested_at": "2026-11-03T15:44:14.448295+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://eduroamers.nl/"
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://eduroamers.nl/"
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://eduroamers.nl/"
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://eduroamers.nl/"
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://eduroamers.nl/"
+    }
+  },
+  "steps": [],
+  "outcome": "error",
+  "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://eduroamers.nl/"
+}

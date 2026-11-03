@@ -1,0 +1,1992 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ing.nl/particulier",
+      "title": "Particulier - ING",
+      "text": "",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Ga direct naar de hoofdcontent",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": -9963.888671875,
+            "y": 4,
+            "width": 225.25694274902344,
+            "height": 32.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "4px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Particulier",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 35.11111068725586,
+            "y": 4.5,
+            "width": 74.30555725097656,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Zakelijk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 133.4166717529297,
+            "y": 4.5,
+            "width": 53.89583206176758,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Private Banking",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 211.3125,
+            "y": 4.5,
+            "width": 104.3263931274414,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Wholesale Banking",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 339.6388854980469,
+            "y": 4.5,
+            "width": 144.93055725097656,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Nederlands",
+          "tag": "ING-BUTTON",
+          "context": "",
+          "box": {
+            "x": 1201.3125,
+            "y": 4,
+            "width": 113.79861450195312,
+            "height": 33
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(237, 237, 245)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(33, 33, 33)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(237, 237, 245)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1029.5833740234375,
+            "y": 86.11111450195312,
+            "width": 87.67361450195312,
+            "height": 35.55555725097656
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "4px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Open een rekening",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1129.2569580078125,
+            "y": 85.8888931274414,
+            "width": 160.9652862548828,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(82, 81, 153)",
+            "effectiveBackground": "rgb(82, 81, 153)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 60,
+            "y": 141.88888549804688,
+            "width": 47.23611068725586,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Producten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 139.23611450195312,
+            "y": 141.88888549804688,
+            "width": 103.1875,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Voor wie",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 274.4236145019531,
+            "y": 141.88888549804688,
+            "width": 91.0138931274414,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Thema's",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 397.4375,
+            "y": 141.88888549804688,
+            "width": 89.61805725097656,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Punten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 519.0555419921875,
+            "y": 141.88888549804688,
+            "width": 54.99305725097656,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Afspraak maken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 606.0486450195312,
+            "y": 141.88888549804688,
+            "width": 120.02083587646484,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Service & Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 758.0694580078125,
+            "y": 141.88888549804688,
+            "width": 129.1875,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "particulier",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 339.6736145019531,
+            "y": 5875.77783203125,
+            "width": 72.03472137451172,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "zakelijk",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 419.5694580078125,
+            "y": 5875.77783203125,
+            "width": 51.36111068725586,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "private banking",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 478.7916564941406,
+            "y": 5875.77783203125,
+            "width": 110.4513931274414,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Betalen & Creditcards",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 5975.33349609375,
+            "width": 153.29861450195312,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Sparen",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 6011.33349609375,
+            "width": 49.36111068725586,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Beleggen",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 6047.33349609375,
+            "width": 66.30555725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Hypotheken",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 6083.33349609375,
+            "width": 87.33333587646484,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Lenen",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 6119.33349609375,
+            "width": 43.34722137451172,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Verzekeren",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 6155.33349609375,
+            "width": 78.48611450195312,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Pensioenen",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 6191.33349609375,
+            "width": 82.24305725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Digitaal bankieren",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 255.11111450195312,
+            "y": 6227.33349609375,
+            "width": 128.93055725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Disclaimer",
+          "tag": "A",
+          "context": "Disclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid",
+          "box": {
+            "x": 440.40972900390625,
+            "y": 5975.33349609375,
+            "width": 74.46527862548828,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "Disclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid",
+          "box": {
+            "x": 440.40972900390625,
+            "y": 6011.33349609375,
+            "width": 51.36111068725586,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Cookie-instellingen",
+          "tag": "BUTTON",
+          "context": "Cookie-instellingen",
+          "box": {
+            "x": 440.40972900390625,
+            "y": 6039.77783203125,
+            "width": 134.99305725097656,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Toegankelijkheid",
+          "tag": "A",
+          "context": "Disclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid",
+          "box": {
+            "x": 440.40972900390625,
+            "y": 6083.33349609375,
+            "width": 118.08333587646484,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Over ING",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 607.4027709960938,
+            "y": 5975.33349609375,
+            "width": 62.46527862548828,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Werken bij ING",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 607.4027709960938,
+            "y": 6011.33349609375,
+            "width": 104.46527862548828,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Veilig bankieren",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 607.4027709960938,
+            "y": 6047.33349609375,
+            "width": 112.09722137451172,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Duurzaamheid",
+          "tag": "A",
+          "context": "Onze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid",
+          "box": {
+            "x": 607.4027709960938,
+            "y": 6083.33349609375,
+            "width": 105.33333587646484,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "ING op Facebook",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 943.1111450195312,
+            "y": 5965.5556640625,
+            "width": 24,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "ING op X",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 975.1111450195312,
+            "y": 5965.5556640625,
+            "width": 24,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "ING op Instagram",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 1007.1111450195312,
+            "y": 5965.5556640625,
+            "width": 24,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "ING op LinkedIn",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 1039.111083984375,
+            "y": 5965.5556640625,
+            "width": 24,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "ING op Youtube",
+          "tag": "A",
+          "context": "Ga naar\n \nparticulier\n,\n \nzakelijk\n,\n \nprivate banking\n.\nOnze producten\nBetalen & Creditcards\nSparen\nBeleggen\nHypotheken\nLenen\nVerzekeren\nPensioenen\nDigitaal bankieren\nOnze website\nDisclaimer\nPrivacy\nCookie-instellingen\nToegankelijkheid\nING Nederland\nOver ING\nWerken bij ING\nVeilig bankieren\nDuurzaamheid\nVolg ons:\nING op Facebook\nING op X\nING op Instagram\nING op LinkedIn\nING op Youtube",
+          "box": {
+            "x": 1071.111083984375,
+            "y": 5965.5556640625,
+            "width": 24,
+            "height": 20.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "Ontdek eSIM",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 262.1944580078125,
+            "y": 451.6666564941406,
+            "width": 185.82638549804688,
+            "height": 68.5
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 19,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "20px 48px 20px 28px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "Klant worden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 91.11111450195312,
+            "y": 716.1666870117188,
+            "width": 94.40277862548828,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "App activeren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 241.51388549804688,
+            "y": 716.1666870117188,
+            "width": 98.24305725097656,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "Veilig bankieren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.7569580078125,
+            "y": 716.1666870117188,
+            "width": 112.09722137451172,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "I'm an Expat",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 563.8541870117188,
+            "y": 716.1666870117188,
+            "width": 88.81944274902344,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(82, 81, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(82, 81, 153)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "Pakketten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 60,
+            "y": 817.0555419921875,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "Sparen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 60,
+            "y": 946.8333129882812,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "Hypotheken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 60,
+            "y": 1076.611083984375,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "Lenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 60,
+            "y": 1206.388916015625,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-48",
+          "text": "Digitaal Bankieren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 60,
+            "y": 1336.1666259765625,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-49",
+          "text": "Betalen & Creditcards",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 684,
+            "y": 817.0555419921875,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-50",
+          "text": "Beleggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 684,
+            "y": 946.8333129882812,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-51",
+          "text": "Verzekeren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 684,
+            "y": 1076.611083984375,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-52",
+          "text": "Pensioen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 684,
+            "y": 1206.388916015625,
+            "width": 606.2222290039062,
+            "height": 96
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-53",
+          "text": "Starten met beleggen? Katsjing!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 59.11111068725586,
+            "y": 1587.0555419921875,
+            "width": 608,
+            "height": 393
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-54",
+          "text": "Creditcard geregeld? Katsjing!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 59.11111068725586,
+            "y": 2012.0555419921875,
+            "width": 608,
+            "height": 364.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-55",
+          "text": "Nieuwe verzekering? Katsjing!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 1587.0555419921875,
+            "width": 608,
+            "height": 364.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-56",
+          "text": "Bouw extra pensioen op",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 1983.5555419921875,
+            "width": 608,
+            "height": 470.4444580078125
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-57",
+          "text": "De vorige dia",
+          "tag": "ING-BUTTON",
+          "context": "",
+          "box": {
+            "x": 291.1111145019531,
+            "y": 2806.25,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(168, 168, 168)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 19,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(168, 168, 168)",
+            "padding": "8px 16px"
+          },
+          "disabled": true,
+          "frame": 0
+        },
+        {
+          "id": "ca-58",
+          "text": "Dia 1 van 5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 603.1111450195312,
+            "y": 2705.75,
+            "width": 24,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(16, 16, 16, 0.3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(16, 16, 16, 0.3)",
+            "padding": "0px"
+          },
+          "disabled": true,
+          "frame": 0
+        },
+        {
+          "id": "ca-59",
+          "text": "Dia 2 van 5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 631.1111450195312,
+            "y": 2705.75,
+            "width": 24,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-60",
+          "text": "Dia 3 van 5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 659.1111450195312,
+            "y": 2705.75,
+            "width": 24,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-61",
+          "text": "Dia 4 van 5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 687.1111450195312,
+            "y": 2705.75,
+            "width": 24,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-62",
+          "text": "Dia 5 van 5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 715.1111450195312,
+            "y": 2705.75,
+            "width": 24,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-63",
+          "text": "De volgende dia",
+          "tag": "ING-BUTTON",
+          "context": "",
+          "box": {
+            "x": 1019.1111450195312,
+            "y": 2806.25,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 98, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 19,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 98, 0)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-64",
+          "text": "Link naar App Store",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 195.11111450195312,
+            "y": 3056,
+            "width": 120,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-65",
+          "text": "Link naar Play Store",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 795.1111450195312,
+            "y": 3056,
+            "width": 120,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-66",
+          "text": "Een warm welkom voor je vermogen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 59.11111068725586,
+            "y": 3402.944580078125,
+            "width": 608,
+            "height": 462.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-67",
+          "text": "Haak je vrienden aan!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 59.11111068725586,
+            "y": 3897.444580078125,
+            "width": 608,
+            "height": 364.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-68",
+          "text": "Heb jij de nieuwe ING Betaalpas al?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 59.11111068725586,
+            "y": 4293.9443359375,
+            "width": 608,
+            "height": 393
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-69",
+          "text": "Nu iDIN, straks itsme.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 59.11111068725586,
+            "y": 4718.9443359375,
+            "width": 608,
+            "height": 421.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-70",
+          "text": "Jouw GRATIS! koffiemoment wacht bij HEMA",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 59.11111068725586,
+            "y": 5172.4443359375,
+            "width": 608,
+            "height": 421.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-71",
+          "text": "Klant worden bij ING?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 3402.944580078125,
+            "width": 608,
+            "height": 324.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-72",
+          "text": "Ons privacy statement is bijgewerkt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 3759.444580078125,
+            "width": 608,
+            "height": 324.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-73",
+          "text": "Wero is live!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 4115.9443359375,
+            "width": 608,
+            "height": 384.8888854980469
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-74",
+          "text": "Salaris binnen?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 4532.83349609375,
+            "width": 608,
+            "height": 421.5
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.ing.nl/particulier"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ing.nl/particulier",
+  "captured_at": "2026-11-03T15:03:21.325271+00:00",
+  "cookies": [
+    {
+      "name": "XSRF-TOKEN",
+      "domain": ".www.ing.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "T-SESSION-ID",
+      "domain": "api.www.ing.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lb-4-p-81801",
+      "domain": "api.www.ing.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS019d407a",
+      "domain": "api.www.ing.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01cdaa85",
+      "domain": ".www.ing.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".www.ing.nl",
+      "path": "/",
+      "expires": 1793725386.699791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".www.ing.nl",
+      "path": "/",
+      "expires": 1793725386.599769,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "COOKIE_PREF",
+      "domain": ".www.ing.nl",
+      "path": "/",
+      "expires": 1825254194,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ing.nl",
+      "localKeys": [
+        "TokenManager.RefreshTokens.CrossTabTask.masterId",
+        "ActivityMonitor.lastActivityTime",
+        "TokenManager.RefreshTokens.CrossTabTask.nextExecutionTime",
+        "TokenManager.SanitiseProfiles.CrossTabTask.nextExecutionTime",
+        "TokenManager.SanitiseProfiles.CrossTabTask.masterId"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

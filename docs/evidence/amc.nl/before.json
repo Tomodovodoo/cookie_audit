@@ -1,0 +1,890 @@
+{
+  "frames": [
+    {
+      "url": "https://www.amc.nl/web/home.htm",
+      "title": "Amsterdam UMC Locatie AMC - Home",
+      "text": "Patiëntzorg Amsterdam UMC >\n\nZorg\nMijn situatie\nSpoedsituatie\nIk heb een afspraak\nMijn kind heeft een afspraak\nIk wil verwijzen naar Amsterdam UMC\nIk wil mijn bezoek plannen\nOverzichten\nPoliklinieken en verpleegafdelingen\nSpecialismen\nBijzondere zorg (Expertisecentra)\nSoorten zorgverleners\nWachtlijstinformatie\nPatiëntenfolders\nLaboratoriumbepalingen\nMeer\nGegevens wijzigen\nMijn Dossier\nRechten en plichten\nRoute en parkeren\nCoronamaatregelen\n\n Educatie\n\nMijn situatie\nIk wil arts worden\nIk wil een academische opleiding in de zorg\nIk ben aios\nI'm an international student\nIk ben docent\n\nLocatie AMC\nOpleiding Geneeskunde\nOpleiding Medische informatiekunde\nOpleiding Biomedische wetenschappen\nMedisch specialistische vervolgopleidingen\nBij- en nascholing/professionalisering\nMaster Evidence Based Pratice in Health Care\nMaster Health Informatics\nMasteropleiding - EpidM NL\nOpleiding Verpleegkunde (HvA)\nParamedische opleidingen (Hva) en stages\n\nMeer\nTeaching & Learning Centre\nOnderwijs en Opleiden\n\nLocatie VUmc\nOverzicht alle opleidingen\nOverzicht opleidingen per thema\nOverzicht opleidingen per doelgroep\n\n Research\nResearch\n\nMijn Dossier\nSearch\n\nAfspraak\nRoute, parkeren,locatie\nHulp bij bezoek\nMijn Dossier\nExpertisecentra\nVerwijzen\n\n\n\n\nContactformulier\nTelefoon algemeen 020-5669111\n\nPatiëntenvoorlichting patientenvoorlichting@amc.nl\n\nAMC en VUmc zijn al een tijdje samen Amsterdam UMC.\nDit gaat u ook merken aan de websites: steeds meer informatie verhuist naar amsterdamumc.nl\n\nVolg ons op Facebook Twitter LinkedIn Instagram \n\nLeveranciersinfo Privacyverklaring Toegankelijkheidsverklaring Responsible disclosure Disclaimer Colofon",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Patiëntzorg Amsterdam UMC >",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 552.576416015625,
+            "y": 0,
+            "width": 245.0625,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 245, 246)",
+            "fontSize": 15.3,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 15.3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Zorg",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 270.90277099609375,
+            "y": 59.11111068725586,
+            "width": 33.875,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(19, 21, 22)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(19, 21, 22)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Educatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 335.21527099609375,
+            "y": 59.11111068725586,
+            "width": 62.24305725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(19, 21, 22)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(19, 21, 22)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Research",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 427.8958435058594,
+            "y": 59.11111068725586,
+            "width": 65.8263931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(19, 21, 22)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(19, 21, 22)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Mijn Dossier",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1147.9166259765625,
+            "y": 40,
+            "width": 148.30555725097656,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(19, 21, 22)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(19, 21, 22)",
+            "padding": "0px 60px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Afspraak",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.11111450195312,
+            "y": 176,
+            "width": 224,
+            "height": 163.19444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Route, parkeren,locatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 435.1111145019531,
+            "y": 176,
+            "width": 224,
+            "height": 163.19444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Hulp bij bezoek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.1111450195312,
+            "y": 176,
+            "width": 224,
+            "height": 163.19444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Mijn Dossier",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 947.1111450195312,
+            "y": 176,
+            "width": 224,
+            "height": 163.19444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Expertisecentra",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.11111450195312,
+            "y": 371.1944580078125,
+            "width": 224,
+            "height": 163.19444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Verwijzen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 435.1111145019531,
+            "y": 371.1944580078125,
+            "width": 224,
+            "height": 163.19444274902344
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Contactformulier",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 520.4375,
+            "y": 657.701416015625,
+            "width": 107.2013931274414,
+            "height": 16.88888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(206, 217, 229)",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "patientenvoorlichting@amc.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 520.4375,
+            "y": 720.9930419921875,
+            "width": 185.95138549804688,
+            "height": 39.53472137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(206, 217, 229)",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "amsterdamumc.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 896.7777709960938,
+            "y": 749.5902709960938,
+            "width": 129.43055725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 121, 136)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(206, 217, 229)",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 121, 136)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Facebook",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 315.65972900390625,
+            "y": 837.8402709960938,
+            "width": 10.291666984558105,
+            "height": 72
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 0,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Twitter",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 366.4513854980469,
+            "y": 837.8402709960938,
+            "width": 16.71527862548828,
+            "height": 72
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 0,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "LinkedIn",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 423.6666564941406,
+            "y": 837.8402709960938,
+            "width": 15.43055534362793,
+            "height": 72
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 0,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Instagram",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 479.59722900390625,
+            "y": 837.8402709960938,
+            "width": 15.43055534362793,
+            "height": 72
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 0,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Leveranciersinfo",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 179.11111450195312,
+            "y": 936.0625,
+            "width": 115.98611450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Privacyverklaring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 317.09722900390625,
+            "y": 936.0625,
+            "width": 119.49305725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Toegankelijkheidsverklaring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 458.59027099609375,
+            "y": 936.0625,
+            "width": 195.25,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Responsible disclosure",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 675.8402709960938,
+            "y": 936.0625,
+            "width": 162.04861450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Disclaimer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 859.888916015625,
+            "y": 936.0625,
+            "width": 74.80555725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Colofon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 956.6944580078125,
+            "y": 936.0625,
+            "width": 58.57638931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(209, 66, 0)",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.amc.nl/web/home.htm"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.amc.nl/web/home.htm",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:34:21.971139+00:00",
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "domain": "www.amc.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "stg_last_interaction",
+      "domain": "www.amc.nl",
+      "path": "/",
+      "expires": 1825256055,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "stg_returning_visitor",
+      "domain": "www.amc.nl",
+      "path": "/",
+      "expires": 1825256055,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pk_id.9e1f5e81-8d49-475e-8bbe-bc05446a9707.7511",
+      "domain": "www.amc.nl",
+      "path": "/",
+      "expires": 1827675255,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.9e1f5e81-8d49-475e-8bbe-bc05446a9707.7511",
+      "domain": "www.amc.nl",
+      "path": "/",
+      "expires": 1793721855,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.amc.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://amc.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:14.841117+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:14.876663+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/web/show",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:14.941856+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/web/home.htm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.005168+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/freestylepresentation/common/css/modaal.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.051559+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/freestylepresentation/common/js/jquery-3.7.1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.053838+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/wm/f/lib.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.054362+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/freestylepresentation/common/iaf/jquery.form.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.055203+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/freestylepresentation/common/iaf/iaf-functions.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.055824+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/rel/stylesheet/app.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.056922+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/rel/stylesheet/inlineHeadGeneral.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.057587+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/upload_mm/6/f/3/37412_fullimage_logo-amsterdamumc.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.058200+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/upload_mm/5/1/5/cid22672_appointment.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.058795+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/upload_mm/6/0/2/cid22673_location.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.095165+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/upload_mm/e/2/d/cid22674_hulp%20bij%20bezoek.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.096451+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/upload_mm/f/0/a/cid22676_dossier.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.105381+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/freestylepresentation/common/js/gx-lib-min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.106336+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/freestylepresentation/common/js/gx-functions.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.117849+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/js/bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.124539+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/upload_mm/3/1/4/cid22677_expertise.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.125093+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/upload_mm/e/c/2/cid22678_verwijzen.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.125833+00:00"
+    },
+    {
+      "url": "https://amsterdamumc.containers.piwik.pro/9e1f5e81-8d49-475e-8bbe-bc05446a9707.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.126520+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/fonts/MuseoSansRounded-500.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.187935+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/fonts/MuseoSansRounded-700.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.188394+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/fonts/fontawesome-webfont.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.189162+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/fonts/MuseoSansRounded-300.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.190317+00:00"
+    },
+    {
+      "url": "https://amsterdamumc.containers.piwik.pro/ppms.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.265045+00:00"
+    },
+    {
+      "url": "https://amsterdamumc.piwik.pro/ppms.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:34:15.301111+00:00"
+    },
+    {
+      "url": "https://www.amc.nl/static/design/94F5DCF6-7D7C-4479-91FE-4259736AE756-B4E9-fsm/rel/icon/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:15.305186+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_pk_id.9e1f5e81-8d49-475e-8bbe-bc05446a9707.7511",
+      "domain": "www.amc.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://amsterdamumc.containers.piwik.pro/9e1f5e81-8d49-475e-8bbe-bc05446a9707.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://amsterdamumc.containers.piwik.pro/ppms.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://amsterdamumc.piwik.pro/ppms.php",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

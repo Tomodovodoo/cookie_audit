@@ -1,0 +1,291 @@
+{
+  "frames": [
+    {
+      "url": "https://hyves.nl/",
+      "title": "Hyves",
+      "text": "",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Registreren",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 163,
+            "y": 602,
+            "width": 280,
+            "height": 62
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "678928aa16684044a59d9ea1a75be919"
+        },
+        {
+          "id": "ca-1",
+          "text": "Inloggen",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 459,
+            "y": 602,
+            "width": 280,
+            "height": 62
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "678928aa16684044a59d9ea1a75be919"
+        },
+        {
+          "id": "ca-2",
+          "text": "© Mediahuis",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 548,
+            "y": 857,
+            "width": 100,
+            "height": 35
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "678928aa16684044a59d9ea1a75be919"
+        },
+        {
+          "id": "ca-3",
+          "text": "Voorwaarden",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 648,
+            "y": 857,
+            "width": 105,
+            "height": 35
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "678928aa16684044a59d9ea1a75be919"
+        },
+        {
+          "id": "ca-4",
+          "text": "Privacy",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 753,
+            "y": 857,
+            "width": 64,
+            "height": 35
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "678928aa16684044a59d9ea1a75be919"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "678928aa16684044a59d9ea1a75be919",
+      "frame_url": "https://hyves.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "c072b3ebc4e2429f86124accb3802931",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://cdn.cxense.com/sclear.html",
+      "title": "CX-clear",
+      "text": "var cX=window.cX||{};cX.shouldPoll=!1cX.callQueue=cX.callQueue||[],cX.callQueue.push([\"onClearIds\"])",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "a6e90e4433b54526bff83b124a7b6149",
+      "frame_url": "https://cdn.cxense.com/sclear.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://hyves.nl/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [],
+        "specialFeaturesGranted": [],
+        "vendorsConsented": 0,
+        "legitimateInterestPurposes": []
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:38:30.161686+00:00",
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "domain": ".kaching.eu.com",
+      "path": "/",
+      "expires": 1793722073.919468,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pctx",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1827848275,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_dcs",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1825342694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1825342694,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mtm_consent_removed",
+      "domain": "hyves.nl",
+      "path": "/",
+      "expires": 1828280294.65813,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://hyves.nl",
+      "localKeys": [
+        "kachingPiano",
+        "didomi_dcs",
+        "datastore_LOCAL_hyves.preferences_pb_version",
+        "adv_identity",
+        "hyves.preferences_pb",
+        "euconsent-v2",
+        "adv_userid",
+        "ksafe.__legacymigrated__."
+      ],
+      "sessionKeys": [
+        "adv_cache"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "kachingPiano",
+        "didomi_dcs",
+        "datastore_LOCAL_hyves.preferences_pb_version",
+        "adv_identity",
+        "hyves.preferences_pb",
+        "euconsent-v2",
+        "adv_userid",
+        "ksafe.__legacymigrated__."
+      ],
+      "sessionKeys": [
+        "adv_cache"
+      ]
+    },
+    {
+      "origin": "https://cdn.cxense.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

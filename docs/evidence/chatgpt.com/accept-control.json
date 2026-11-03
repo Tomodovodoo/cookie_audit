@@ -1,0 +1,726 @@
+{
+  "frames": [
+    {
+      "url": "https://chatgpt.com/",
+      "title": "ChatGPT: Chat, Work, Create & Code with AI",
+      "text": "Aanmelden\nGratis registreren\nChatGPT\nNieuwe chat\nAfbeeldingen\nPlug-ins\nPlannen en prijzen bekijken\nHelp\nDiepgaand onderzoek\nInstellingen\nOntvang op jou afgestemde reacties\n\nMeld je aan om antwoorden te krijgen op basis van opgeslagen chats, afbeeldingen te maken en bestanden te uploaden.\n\nAanmelden\nWaar zullen we beginnen?\nWat kun je doen?\nChat met ChatGPT\n\nChatGPT is AI. Door het te gebruiken, ga je akkoord met onze Voorwaarden en ons Privacybeleid. Chats kunnen worden bekeken en gebruikt om onze AI-modellen te verbeteren. Meer informatie",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Aanmelden",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1111.6041259765625,
+            "y": 8.5,
+            "width": 95.69444274902344,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(13, 13, 13)",
+            "effectiveBackground": "rgb(13, 13, 13)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(13, 13, 13)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-1",
+          "text": "Gratis registreren",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1215.298583984375,
+            "y": 8.5,
+            "width": 134.03472900390625,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.2)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-2",
+          "text": "ChatGPT",
+          "tag": "SPAN",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 4,
+            "width": 92.36111450195312,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 16,
+            "fontWeight": "650",
+            "borderWidth": 0,
+            "borderColor": "rgb(13, 13, 13)",
+            "padding": "0px 4px 0px 8px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-3",
+          "text": "Nieuwe chat",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 60,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-4",
+          "text": "Afbeeldingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 96,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-5",
+          "text": "Plug-ins",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 132,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-6",
+          "text": "Plannen en prijzen bekijken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 168,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-7",
+          "text": "Help",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 204,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-8",
+          "text": "Diepgaand onderzoek",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 240,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-9",
+          "text": "Instellingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 276,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-10",
+          "text": "Zijbalk sluiten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 210,
+            "y": 4,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-11",
+          "text": "Aanmelden",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 20,
+            "y": 836,
+            "width": 220,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgb(243, 243, 243)",
+            "effectiveBackground": "rgb(243, 243, 243)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-12",
+          "text": "Wat kun je doen?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 743.2708129882812,
+            "y": 484,
+            "width": 138.7916717529297,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.2)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-13",
+          "text": "Bestanden en meer toevoegen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 435.5555725097656,
+            "y": 424,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-14",
+          "text": "Dicteren starten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1103.77783203125,
+            "y": 424,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-15",
+          "text": "Start Spraak",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1147.77783203125,
+            "y": 424,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-16",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 631.201416015625,
+            "y": 879.1111450195312,
+            "width": 69.0138931274414,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-17",
+          "text": "Privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 741.263916015625,
+            "y": 879.1111450195312,
+            "width": 68.1875,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        },
+        {
+          "id": "ca-18",
+          "text": "Meer informatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1232.923583984375,
+            "y": 879.1111450195312,
+            "width": 83.63194274902344,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "786cc28004da4e78b3bf18c3e73e25b5"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "786cc28004da4e78b3bf18c3e73e25b5",
+      "frame_url": "https://chatgpt.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://chatgpt.com/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:37:58.301217+00:00",
+  "cookies": [
+    {
+      "name": "oai-did",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1825256262.447908,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-did-first-seen",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1825256262.447956,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-mweb-route",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1794325062.447982,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-mweb-origin",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1793722062.448019,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oai-sc",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1825256264.802645,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1793723864.983885,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oai_consent_analytics",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1809272270.626921,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai_consent_marketing",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1809272270.627023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-allow-ne",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1809272270.627057,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-logged-out-consent-chosen",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1809272270.627091,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1809272272,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://chatgpt.com",
+      "localKeys": [
+        "oai/apps/lightweight-web/composerDraft/owner.v2",
+        "oai/apps/noAuthUserMessageCount"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://chatgpt.com/unauth-mweb/privacy",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:50.580777+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/google-one-tap-BSn0pUwY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:50.810158+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CCGrayih.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:51.228299+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C9Ju1xAH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:51.264488+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/client",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:51.742993+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/style",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:52.071539+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/status",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:37:52.082648+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/events/business",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:52.114258+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/events/business",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:52.126515+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/events/statsc/flush",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:55.331370+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/events/business",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:56.737386+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

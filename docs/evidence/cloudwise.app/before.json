@@ -1,0 +1,487 @@
+{
+  "frames": [
+    {
+      "url": "https://cloudwise-sso.appspot.com/login",
+      "title": "Inloggen met Cloudwise",
+      "text": "Inloggen\nE-maillogin (Google)\nMicrosoft\nQR-code\nPlaatjes\nNiet zeker welke optie je nodig hebt?\n \n© 2026",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "E-maillogin (Google)",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 507.6666564941406,
+            "y": 244.56944274902344,
+            "width": 350,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(114, 114, 114)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(196, 196, 196)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "b91b7d2e77b741d6bba9d1f78b71683b"
+        },
+        {
+          "id": "ca-1",
+          "text": "Microsoft",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 507.6666564941406,
+            "y": 316.5694580078125,
+            "width": 350,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(114, 114, 114)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(196, 196, 196)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "b91b7d2e77b741d6bba9d1f78b71683b"
+        },
+        {
+          "id": "ca-2",
+          "text": "QR-code",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 507.6666564941406,
+            "y": 388.5694580078125,
+            "width": 350,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(114, 114, 114)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(196, 196, 196)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "b91b7d2e77b741d6bba9d1f78b71683b"
+        },
+        {
+          "id": "ca-3",
+          "text": "Plaatjes",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 507.6666564941406,
+            "y": 460.5694580078125,
+            "width": 350,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(114, 114, 114)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(224, 224, 224)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "b91b7d2e77b741d6bba9d1f78b71683b"
+        },
+        {
+          "id": "ca-4",
+          "text": "Niet zeker welke optie je nodig hebt?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 563.9583129882812,
+            "y": 541.4583129882812,
+            "width": 237.4166717529297,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(114, 114, 114)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(114, 114, 114)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "b91b7d2e77b741d6bba9d1f78b71683b"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "b91b7d2e77b741d6bba9d1f78b71683b",
+      "frame_url": "https://cloudwise-sso.appspot.com/login"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://cloudwise-sso.appspot.com/login",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:43:01.828898+00:00",
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "domain": "cloudwise-portal.appspot.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CW-SSO-SID",
+      "domain": "cloudwise-sso.appspot.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "domain": "cloudwise-sso.appspot.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://cloudwise-sso.appspot.com",
+      "localKeys": [],
+      "sessionKeys": [
+        "tabId"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://cloudwise.app/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:42:52.717176+00:00"
+    },
+    {
+      "url": "https://cloudwise-portal.appspot.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:42:53.188123+00:00"
+    },
+    {
+      "url": "https://cloudwise-portal.appspot.com/sso/login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:42:53.964999+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/jsonsec/login",
+      "resource_type": "document",
+      "method": "POST",
+      "at": "2026-11-03T15:42:54.742075+00:00"
+    },
+    {
+      "url": "https://ipv4.cloudwise.app/ipv4-proof",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:42:56.110705+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/efa0cbb79f330dcc/ng/common/lib/bootstrap-3.2.0/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:56.162668+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/efa0cbb79f330dcc/ng/common/lib/google-fonts-quicksand/css/fonts.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:56.163184+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/efa0cbb79f330dcc/sass/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:56.165849+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/sso-cool-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:56.166366+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/cloudwise-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:56.167018+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/1234/img/login-page-background.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:57.585238+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/0/ng/common/lib/google-fonts-quicksand/fonts/Quicksand-Regular.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:42:57.594217+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/jsonsec/login",
+      "resource_type": "document",
+      "method": "POST",
+      "at": "2026-11-03T15:42:58.176106+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/efa0cbb79f330dcc/ng/common/lib/bootstrap-3.2.0/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.536773+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/efa0cbb79f330dcc/ng/common/lib/google-fonts-quicksand/css/fonts.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.549590+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/efa0cbb79f330dcc/sass/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.550090+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/sso-cool-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.550831+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/cloudwise-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.551436+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/1234/img/login-page-background.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.908475+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/efa0cbb79f330dcc/ng/common/lib/bootstrap-3.2.0/fonts/glyphicons-halflings-regular.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.923174+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/0/ng/common/lib/google-fonts-quicksand/fonts/Quicksand-Regular.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:42:59.923768+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.179038+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/lib/google-fonts-quicksand/css/fonts.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.735507+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/lib/bootstrap-3.2.0/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.775695+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/lib/angular-material-1.1.24.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.776522+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/sass/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.777781+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/js/libs.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.778924+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/js/modules.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.780025+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/lib/ui-bootstrap-tpls-2.5.0.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.781127+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/lib/angular-material-1.1.24.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.782306+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/lib/angular-material-icons.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.783347+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/lib/angular-aria-1.4.14.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.784529+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/common/i18n/angular-locale_nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.785474+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/cloudwise-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.786337+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/1234/img/login-page-background.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:00.998186+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/0/ng/common/lib/google-fonts-quicksand/fonts/Quicksand-Regular.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.020156+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/app/main/login.tpl.html",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.054712+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/rest/auth/status",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.268895+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/rest/discovery/organisations",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.270840+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/83b70ec77539b624/ng/app/main/landings-page.tpl.html",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.271440+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/static/0/ng/common/lib/google-fonts-quicksand/fonts/Quicksand-Bold.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.272042+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/sso-cool-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.272636+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/email-login.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.590784+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/microsoft-login.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.612080+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/help-with-login-choice.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.612600+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/qr-login.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.613357+00:00"
+    },
+    {
+      "url": "https://cloudwise-sso.appspot.com/img/pictures-login-browser.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:01.614007+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

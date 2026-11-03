@@ -1,0 +1,324 @@
+{
+  "frames": [
+    {
+      "url": "https://www.adidas.nl/",
+      "title": "adidas",
+      "text": "adidas\n\nReferentiefout: 0.36661702.1793719149.1185eecc\nHELAAS KUNNEN WE JE OP DIT MOMENT GEEN TOEGANG VERLENEN TOT ONZE SITE.\n\nOp het moment dat je toegang zocht tot de website werd er automatisch een veiligheidsprobleem geïdentificeerd.\n\nWat kan hier de oorzaak van zijn?\n\nGedurende bepaalde artikel releases trekt onze website enorm veel bezoekers, daardoor hebben we extra veiligheidsmaatregelen getroffen om ervoor te zorgen dat daar geen bots tussen zitten. Dit doen we ter bescherming van onze klanten en zodat iedereen een eerlijke kans maakt op de sneakers. Iets in je instellingen heeft ons veiligheidssysteem getriggerd, daarom kunnen we je geen toegang verlenen tot onze website.\n\nHoe kan ik dit oplossen?\n\nProbeer de pagina te verversen of probeer toegang tot de website te krijgen via een andere browser of door van toestel te wisselen. Je zou ook kunnen controleren of er sprake is van scripts in je browser, zoals bijvoorbeeld adblockers, en deze vervolgens uit te schakelen.\n\nHTTP 403 - Verboden",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.adidas.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.adidas.nl/",
+  "captured_at": "2026-11-03T15:19:17.609938+00:00",
+  "cookies": [
+    {
+      "name": "geo_ip",
+      "domain": "www.adidas.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "geo_country",
+      "domain": "www.adidas.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "onesite_country",
+      "domain": "www.adidas.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1794323949.519977,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_so",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1793805549.520063,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1793733549.520161,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akacd_Phased_www_adidas_com_Generic",
+      "domain": "www.adidas.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ab_qm",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ab_sr",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1796311150,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ab_3rd",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1796311150,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.adidas.nl",
+      "path": "/",
+      "expires": 1796311150,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mt.v",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1828279152.214025,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mt.sc",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1793720952,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".adidas.nl",
+      "path": "/",
+      "expires": 1796397553.026938,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.adidas.nl",
+      "localKeys": [],
+      "sessionKeys": [
+        "ak_bm_tab_id"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://adidas.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:19:08.695665+00:00"
+    },
+    {
+      "url": "https://www.adidas.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:19:09.077011+00:00"
+    },
+    {
+      "url": "https://www.adidas.com/5280/WAFfailoverassets/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:09.637819+00:00"
+    },
+    {
+      "url": "https://www.adidas.nl/EnE7TM/l9Z0GS/C/aZn/wNWfTykJ/QfYNbkON/Y2NaNg/dkcXNj/MUCQ4a",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:09.652792+00:00"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:09.653227+00:00"
+    },
+    {
+      "url": "https://www.adidas.com/5280/WAFfailoverassets/fonts/adineuePROCyr-Regular.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:19:10.164276+00:00"
+    },
+    {
+      "url": "https://www.adidas.com/5280/WAFfailoverassets/fonts/adineuePROCyr-Bold.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:19:10.165327+00:00"
+    },
+    {
+      "url": "https://www.adidas.com/5280/WAFfailoverassets/fonts/icomoon.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:19:10.177684+00:00"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.currency.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:10.255139+00:00"
+    },
+    {
+      "url": "https://www.adidas.nl/gofipamo/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:10.598461+00:00"
+    },
+    {
+      "url": "https://www.google.com/ccm/geo",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:19:11.245409+00:00"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.349.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:11.375611+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:11.721992+00:00"
+    },
+    {
+      "url": "https://se.monetate.net/js/2/a-24f48522/d/adidas.nl.test/custom.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:11.776804+00:00"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:11.837374+00:00"
+    },
+    {
+      "url": "https://f.monetate.net/trk/4/s/a-24f48522/d/adidas.nl.test/264398435-0",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:12.310564+00:00"
+    },
+    {
+      "url": "https://www.adidas.nl/EnE7TM/l9Z0GS/C/aZn/wNWfTykJ/QfYNbkON/Y2NaNg/dkcXNj/MUCQ4a",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:19:12.800396+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.currency.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.349.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://se.monetate.net/js/2/a-24f48522/d/adidas.nl.test/custom.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.v.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://f.monetate.net/trk/4/s/a-24f48522/d/adidas.nl.test/264398435-0",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "context_excerpt_limit": 400
+}

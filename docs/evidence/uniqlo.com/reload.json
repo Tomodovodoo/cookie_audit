@@ -1,0 +1,267 @@
+{
+  "frames": [
+    {
+      "url": "https://www.uniqlo.com/eu-at/en/",
+      "title": "Access Denied",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.uniqlo.com/eu-at/en/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.uniqlo.com/eu-at/en/",
+  "captured_at": "2026-11-03T15:05:14.673770+00:00",
+  "cookies": [
+    {
+      "name": "OptanonAlertBoxClosed",
+      "domain": ".www.uniqlo.com",
+      "path": "/eu-at/",
+      "expires": 1825254300,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".www.uniqlo.com",
+      "path": "/eu-at/",
+      "expires": 1825254300,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ANTI_FRAUD_CART_TOKEN",
+      "domain": "www.uniqlo.com",
+      "path": "/eu-at",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "activeGenderTab_ER",
+      "domain": "www.uniqlo.com",
+      "path": "/eu-at",
+      "expires": 1801609200,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akaas_www_uniqlo_com_Audience_Segmentation_UQ_EU_MINOR_SP_SPA_SSR",
+      "domain": "www.uniqlo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sn3t4d1n",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1828278291.257373,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ff_stable_id",
+      "domain": "www.uniqlo.com",
+      "path": "/",
+      "expires": 1796310291.886719,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__fr-ff_stable_id",
+      "domain": "www.uniqlo.com",
+      "path": "/",
+      "expires": 1796310298.237173,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akaas_www_uniqlo_com_MINOR_Audience_Segmentation_UQ_EU_BFF_MERGE",
+      "domain": "www.uniqlo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1793725490.557901,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lastRskxRun",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1828278293.468336,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rskxRunCookie",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1828278293.46888,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rCookie",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1828278295.54118,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_so",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1793804695.702005,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.uniqlo.com",
+      "path": "/",
+      "expires": 1796310295,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s_v2",
+      "domain": "www.uniqlo.com",
+      "path": "/",
+      "expires": 1825254300.072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_abck",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1825254300.357513,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1793732690.380775,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "RT",
+      "domain": ".www.uniqlo.com",
+      "path": "/",
+      "expires": 1794323107,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".uniqlo.com",
+      "path": "/",
+      "expires": 1796396708.386946,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akavpau_www_uniqlo_com_eu_mainte_INO_66856_vp_tree2",
+      "domain": ".www.uniqlo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.uniqlo.com",
+      "localKeys": [
+        "rCookie",
+        "ballontipStatus",
+        "rskxRunCookie",
+        "lastRskxRun",
+        "cmsABPathFlagValues_at",
+        "shj37!*290ge",
+        "l_FTzyeq12rr",
+        "uwi3863hme@34",
+        "FTzyeq12rr",
+        "nav_vs_at",
+        "_boomr_akamaiXhrRetry"
+      ],
+      "sessionKeys": [
+        "rCookie",
+        "ak_bm_tab_id",
+        "rskxRunCookie",
+        "productTileVariant_at",
+        "routeHistory",
+        "lastRskxRun",
+        "_dd_tab_id",
+        "hasSeenHomeVideoPlayButtonBalloonTip"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.uniqlo.com/eu-at/en/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:05:07.303231+00:00"
+    },
+    {
+      "url": "https://www.uniqlo.com/tBg3Pn9T/Khy/QOU/HvJtNYYFJP/DkXuwh3pariG/cFBpRmZ6JA/NjY/ufEZ0CWUZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:07.490704+00:00"
+    },
+    {
+      "url": "https://www.uniqlo.com/tBg3Pn9T/Khy/QOU/HvJtNYYFJP/DkXuwh3pariG/cFBpRmZ6JA/NjY/ufEZ0CWUZ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:05:08.334862+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Block page, not a completed observation."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400,
+  "blocked": true
+}

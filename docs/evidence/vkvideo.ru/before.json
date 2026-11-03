@@ -1,0 +1,1408 @@
+{
+  "frames": [
+    {
+      "url": "https://vkvideo.ru/challenge.html",
+      "title": "Проверяем, что вы не робот",
+      "text": "Проверяем,\nчто вы не робот\nПродолжить\n\nУсловия использования\n\nmeRYB7FjsSwaE00cZ-IoJwuVhbN2eA",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Продолжить",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 556.6666870117188,
+            "y": 474.6666564941406,
+            "width": 252,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(38, 136, 235)",
+            "effectiveBackground": "rgb(38, 136, 235)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Условия использования",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 622.1736450195312,
+            "y": 540,
+            "width": 120.97916412353516,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(101, 112, 125)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(101, 112, 125)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://vkvideo.ru/challenge.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://vkvideo.ru/challenge.html",
+  "captured_at": "2026-11-03T15:31:55.251151+00:00",
+  "cookies": [
+    {
+      "name": "remixstid",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255904.116938,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstlid",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255904.117057,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ignoreAutoLogin",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1793806305.973543,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "remixstid",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825255908.122443,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstlid",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825255908.12256,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remix_isCookieIgnoreAutologinMigrated",
+      "domain": "vkvideo.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixua",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825643623.709581,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_width",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_height",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_dpr",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_depth",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_orient",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1794324707,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_winzoom",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixdark_color_scheme",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixcolor_scheme_mode",
+      "domain": ".vkvideo.ru",
+      "path": "/",
+      "expires": 1825255907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "hitw429",
+      "domain": "vkvideo.ru",
+      "path": "/",
+      "expires": 1793720208.260025,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://vkvideo.ru",
+      "localKeys": [
+        "@METRICS_GUEST_PERFORMANCE_STATS_CORE",
+        "XHR_STATS_TRANSPORT_DATA_web2",
+        "NAVIGATION_TAB_ID",
+        "tracer-device-id",
+        "6287487:get_anonym_token:login:auth",
+        "lock_stats_cookie_locked_stats_api"
+      ],
+      "sessionKeys": [
+        "XHR_STATS_TRANSPORT_DATA_LOCK_web2",
+        "AUDIO_PLAYER_INIT_ID"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://vkvideo.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:44.526538+00:00"
+    },
+    {
+      "url": "https://login.vk.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:45.141691+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:45.536499+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.043080+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/js/lang0_2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.507598+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/js/loader_nav213115335153_0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.515650+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/projects/vkvideo-web/entrypoints/48559.7973d1fd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.516185+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/projects/vkvideo-web/entrypoints/49192.6507120b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.516963+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/projects/vkvideo-web/entrypoints/66811.644dbf24.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.517764+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/projects/vkvideo-web/entrypoints/error_monitoring.ffc470f1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.518510+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/projects/vkvideo-web/entrypoints/77231.afc133f6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.519183+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/projects/vkvideo-web/entrypoints/core_spa.a788d3dc.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.519861+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/projects/vkvideo-web/entrypoints/core_spa.f7cbda32.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:46.521405+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/fonts/roboto400.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.184411+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/fonts/roboto500.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.185141+00:00"
+    },
+    {
+      "url": "https://sdk-api.apptracer.ru/api/crash/trackSession",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:47.259857+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/vkcom-kit.9b4d1fdf.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.584069+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/vkcom-kit.12dfd2ac.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.595308+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/react.45353bb9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.596002+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/architecture-mobx.6ad8b6cb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.597124+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/vkui.68f55782.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.598059+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/state-management.c485211a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.598966+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/audioplayer-lib.6e3d1a24.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.600165+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/audioplayer-lib.9b831fb0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.601703+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/draggable.eb34d763.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.603265+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/videoplayer-interactive.4e4bdf81.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.604047+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/common.150bc6d6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.604658+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/common.evergreen.fae1277b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.605283+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/5f243773.b91f32b4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.605859+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/111f5c2d.f16a6777.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.606424+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/9ae75b7d.5898178a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.606996+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/db32bd7c.c4e13b36.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.607547+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/64d38b3f.6e44e4f2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.608105+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7ac86307.f10aab40.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.608661+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/6c7508e5.de2b27b6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.609207+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c36a501b.5ebe4707.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.609973+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c0b6beb3.4e64d92a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.610524+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c092883f.e48b53ea.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.611098+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7648bdf0.a52eea68.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.611658+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/74023ecd.786c20aa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.612204+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/a6568f27.c91f16de.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.612833+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/defad875.1fe21067.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.613405+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/0574aec0.42568550.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.613962+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/5a738881.3683288a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.614562+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/bd6ed3c6.e8332df3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.615396+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/4a747a8c.30152a2f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.616069+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/90ed9f4e.ca0e92db.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.616768+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/64bfc8b1.7712e3a0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.617988+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/12033f17.5e7e552c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.619156+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/eaa5aa6b.3a3eea99.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.620079+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/07c25d8d.4dfe7dba.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.620971+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/130500f0.e4f49452.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.621863+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7167ab8a.2e0bddab.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.622740+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/888f58a7.03cd4d92.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.623626+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/1478b939.229abbea.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.624501+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7ed4d756.d6e8a0dd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.625379+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c97991f5.54f57aa1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.626239+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/d980569e.2f6c74d5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.627123+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/e4709332.d3831da7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.628008+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/9a61130d.9d29517f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.629129+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/598c3edf.72dd4140.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.630037+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/b9f92247.7b655d40.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.630908+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/3e01d784.a78b2240.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.631649+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/2a750b89.e8b35202.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.632262+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/1d443167.541ca698.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.632842+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/b425ba0c.8984b6c2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.633419+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/491c9e99.5b2fec0a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.633983+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/a40513bd.e16fd4c0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.634683+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/8b637c01.14874fec.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.635370+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c33ae1a2.e541072d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.636285+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/a6bc9e60.8c551235.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.637723+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/a6bc9e60.1704af03.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.639323+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/9018c413.fe8f4cfa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.639866+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/5c91238a.0dcb9e18.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.640711+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/145ab1aa.36cf108d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.641548+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/cd9875d5.5eca07cf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.642383+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/77f49a69.de454312.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.643216+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/ea684bfa.02cafad4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.644480+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/5ad0357a.4873812a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.645462+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/e330313b.b534e727.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.646644+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/20726cda.3b06bd31.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.647835+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/809ae2b4.3fa4c281.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.648867+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/492e5bf3.f6f65305.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.650528+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/3ecb95c8.93fba06a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.651173+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/6cef9a46.30d6334c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.653495+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/14c14358.d742bded.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.654332+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/a57ed54e.360a66cc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.655212+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/9088fe8c.883fed6a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.656040+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7a64d5bc.b8daa515.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.657008+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7a22adcd.4a1636a9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.657836+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/280ef585.1408d3c7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.659052+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/5612b7a7.d451f9ae.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.659497+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/bdfaab30.a8571e0c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.660306+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/36f619a0.6e940ae3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.661412+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/3384fb2f.9eec9111.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.662299+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/030613d4.981532e6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.663283+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/daa608f4.58d14254.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.664478+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/b448c5cb.9c871f08.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.666138+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/8d7770d8.919dc714.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.667199+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/503628cb.f757d95a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.670030+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/97b46dbf.c93b59cf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.671201+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/97b46dbf.1e7296e2.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.672227+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7f14e626.be9485cf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.673010+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/4355471a.bc6c3e98.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.673795+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/85651edc.71ea491e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.674792+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/30bb27c8.2c3fb2e6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.675579+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/de37d2ac.806b0ea2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.676348+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/ec0b2c9b.f555d407.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.689657+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/d65dcd17.9a20b33a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.691288+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/91beba00.30da5807.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.692200+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7711d6f7.5085923a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.693167+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/d01d1eb7.bf361168.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.694020+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/071295da.bf6e336a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.694992+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/88889f15.504885b1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.695801+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7ce9f81c.6e378dc2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.696572+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/36314552.b70d4519.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.697783+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/8372b563.0d12ac17.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.699142+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/ec2ab91f.0dc74497.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.700309+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/8c0fc695.78208ba6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.701602+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/f1950714.f0be3021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.703409+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/dd1f323e.efe7937c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.704298+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/a0ed3de9.07410661.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.705384+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/6a80bf30.2faa78ba.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.706259+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7b7da382.0d6627bb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.707464+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/4ed92078.73dc278b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.708542+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/580b297c.56caab16.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.709391+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/ce41f035.cb44f859.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.710127+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/9f234d4a.cda31a97.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.710818+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7dcfddcb.f7c1ca2b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.711499+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/6f38fdff.394d3bd6.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.712160+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/6f38fdff.5dec6b63.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.713243+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/34747a64.b3f32099.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.713982+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/eea72480.38ecb801.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.714676+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/270eddb8.3b4b30cb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.715385+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/b0bd9523.d7c0f4ae.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.716048+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/11d81b46.2ba2b5eb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.716680+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/207db9fc.85d336e2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.717303+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/e1f9579d.426ed60a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.718099+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/e5fa0119.a9cc63c0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.719105+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/fe686947.d0fca8e0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.720709+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/2d0a627e.15d52086.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.721870+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/f8ffbe18.30bbefe8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.723249+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/1318839e.235cfd7c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.726108+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/53266565.1b0a74a3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.727456+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/a882652c.fd3aef18.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.728686+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/84b82c3e.1922e9cd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.729560+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/3fcf3277.81e03c25.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.730519+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7820ce58.8f6db3af.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.731333+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7820ce58.6829b9a8.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.732086+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/8f9978ea.b154625a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.732878+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/fcb2acd7.ffd0e72d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.733619+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/215b9824.b0be44df.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.734501+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/0519a619.f8bf0d9a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.735513+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/221e427e.4a8fb43e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.736895+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/358a06f5.9d7052bf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.737690+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/266cf96e.ea15e99d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.738435+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/bc8b2807.ea6d708c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.739525+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c0df5145.4d5ce5b9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.740351+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/1b9bd697.24881466.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.741107+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c4bf3c68.d55c920b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.741793+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/c767b99b.a3b465a9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.742576+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/1bccf3c7.284946d9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.743430+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/f1461792.25de07b8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.744195+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/87db14e2.44e1fd01.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.744988+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/1dfc7527.47c678ac.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.745649+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/58b86aad.9e462c10.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.746549+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/4507816c.e928db68.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.747325+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/d5c3fd82.447ec03e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.748660+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/5a67621b.17688a2b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.749888+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/9ad128b1.e95eab00.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.750937+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/ea454d5f.9bcbfc48.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.751876+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/video_showcase.637778b4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.752746+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/video_showcase.a92f74fb.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.753894+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/video.0c99a515.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.754888+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/video.e3eb6dd5.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.759079+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/js/langs/entry/web/ui_common.605cf37ab14543c5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.759580+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/al_loader_part_configs.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.761649+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/js/langs/entry/web/notifier.3ab3956406c56318.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:47.762487+00:00"
+    },
+    {
+      "url": "https://login.vk.ru/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:31:47.782819+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/css/al/ui_common.a7304961.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.165361+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/6d47a2e0.227762bc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.171916+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/4201fa02.b21e6b8a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.172691+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/3956c922.d392cd6c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.173933+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/7dfdab8d.401b550b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.175350+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/ui_common.be7a4588.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.176356+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/2778e6a1.d89fa470.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.177346+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/chunks/252761de.d4b1b14d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.178803+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/css/al/notifier.b9cbda7d.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.179868+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/challenge.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.181494+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/notifier.0b930a80.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.182050+00:00"
+    },
+    {
+      "url": "https://st.vkvideo.ru/dist/web/notifier.1e7cce6e.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.185730+00:00"
+    },
+    {
+      "url": "https://api.vkvideo.ru/method/video.getChildMode",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:31:48.186578+00:00"
+    },
+    {
+      "url": "https://sdk-api.apptracer.ru/api/crash/trackSession",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:31:48.198698+00:00"
+    },
+    {
+      "url": "https://vkvideo.ru/challenge.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:48.269846+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

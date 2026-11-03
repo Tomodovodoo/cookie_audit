@@ -1,0 +1,56 @@
+{
+  "rank": 962,
+  "domain": "hbomax.com",
+  "name": "hbomax.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:30:20.278838+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:12:23.542623+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "fail",
+      "reason": "Accept is offered on the first layer; no direct refusal control was detected."
+    },
+    "prominence": {
+      "status": "fail",
+      "reason": "No refusal control detected alongside the first-layer accept control."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/hbomax.com/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "HBO Max | Stream HBO, Discovery, tv en films",
+  "rules_version": "0.2.0"
+}

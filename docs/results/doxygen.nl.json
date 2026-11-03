@@ -1,0 +1,50 @@
+{
+  "rank": null,
+  "global_rank": 12802,
+  "domain": "doxygen.nl",
+  "name": "doxygen.nl",
+  "company": null,
+  "cohort": "Supplemental .nl global ranking",
+  "tested_at": "2026-11-03T15:33:41.525246+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:33:22.185051+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "No unambiguous accept/refuse pair found in a consent interface."
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "No unambiguous accept/refuse pair found in a consent interface."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/doxygen.nl/before.json",
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Doxygen homepage",
+  "rules_version": "0.2.0"
+}

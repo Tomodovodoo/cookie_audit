@@ -1,0 +1,175 @@
+{
+  "frames": [
+    {
+      "url": "https://archiveofourown.org/",
+      "title": "Request temporarily denied. | Archive of Our Own",
+      "text": "Archive of Our Own\nThe archive is down for maintenance.\n\nCheck our status page, @status.archiveofourown.org on Bluesky or ao3org on Tumblr for updates.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "status page",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 479.3819580078125,
+            "y": 139.3333282470703,
+            "width": 103.40972137451172,
+            "height": 22.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(220, 129, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(220, 129, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "@status.archiveofourown.org",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 593.9097290039062,
+            "y": 139.3333282470703,
+            "width": 260.4305725097656,
+            "height": 22.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(220, 129, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(220, 129, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "ao3org",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 382.6666564941406,
+            "y": 162.44444274902344,
+            "width": 62.27777862548828,
+            "height": 22.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(220, 129, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(220, 129, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://archiveofourown.org/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://archiveofourown.org/",
+  "captured_at": "2026-11-03T15:07:05.290981+00:00",
+  "cookies": [
+    {
+      "name": "cf_clearance",
+      "domain": ".archiveofourown.org",
+      "path": "/",
+      "expires": 1825254418.315531,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".archiveofourown.org",
+      "path": "/",
+      "expires": 1793720218.315615,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://archiveofourown.org",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://archiveofourown.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:57.598650+00:00"
+    },
+    {
+      "url": "https://archiveofourown.org/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:57.788733+00:00"
+    },
+    {
+      "url": "https://archiveofourown.org/cdn-cgi/challenge-platform/h/g/scripts/jsd/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:57.898177+00:00"
+    },
+    {
+      "url": "https://archiveofourown.org/cdn-cgi/challenge-platform/h/g/jsd/oneshot/5c2e6b612edd/0.20060518612290823:1793715035:5JHET6w2jmmEqwhOiCIPZEiy1N_6bzL06xkg-VfUMYA/a54c492db9b56638",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:06:58.203244+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

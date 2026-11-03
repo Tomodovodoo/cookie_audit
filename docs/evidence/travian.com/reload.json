@@ -1,0 +1,943 @@
+{
+  "frames": [
+    {
+      "url": "https://www.travian.com/international",
+      "title": "Travian: Legends – International | The Online Multiplayer Strategy Game",
+      "text": "English\nLogin\nROMANS\nDisciplined legions, advanced engineering, and strategic brilliance define Rome. Lead your legionaries to expand your empire through military might and cultural dominance.\nTEUTONS\nFierce raiders, ruthless warriors, and unrelenting aggression characterize the Teutons. Lead your savage forces to pillage enemies and strike fear into their hearts with lightning-fast attacks.\nGAULS\nSwift defenders, cunning traps, and hidden crannies protect Gaul resources. Lead your tribe to outlast foes with resilience and guile.\nWinter Time – The Effects on Your Game\nWinter time is coming! Find out how the time change affects server time, troop movements, daily quests, and other in-game events.\n22/10/2026 | 16:19\nShow all news\nPLAY NOW\nNext upcoming game world\n03/11\nINTERNATIONAL 21\n×2\nShow game world calendar\nTerms & Conditions\nRight of Withdrawal\nPrivacy Policy\nGame Rules\nSupport\nImprint\n© 2004 - 2026 Travian Games GmbH. All rights reserved.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "English",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 120,
+            "y": 21.66666603088379,
+            "width": 136.4652862548828,
+            "height": 34
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-1",
+          "text": "Login",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1150.2222900390625,
+            "y": 21.66666603088379,
+            "width": 170,
+            "height": 34
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-2",
+          "text": "Show all news",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 140,
+            "y": 858,
+            "width": 200,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(230, 219, 201)",
+            "background": "rgba(30, 32, 34, 0.45)",
+            "effectiveBackground": "rgba(30, 32, 34, 0.45)",
+            "fontSize": 14.3,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-3",
+          "text": "PLAY NOW",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 470,
+            "y": 728,
+            "width": 420,
+            "height": 130
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(230, 219, 201)",
+            "background": "rgb(152, 249, 138)",
+            "effectiveBackground": "rgb(152, 249, 138)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(230, 219, 201)",
+            "padding": "9px 9px 9px 7px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-4",
+          "text": "Show game world calendar",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1013.0208129882812,
+            "y": 858,
+            "width": 213.9583282470703,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(230, 219, 201)",
+            "background": "rgba(30, 32, 34, 0.45)",
+            "effectiveBackground": "rgba(30, 32, 34, 0.45)",
+            "fontSize": 14.3,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-5",
+          "text": "Terms & Conditions",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 436.46527099609375,
+            "y": 1015,
+            "width": 154.5,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-6",
+          "text": "Right of Withdrawal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 610.9652709960938,
+            "y": 1015,
+            "width": 159.43055725097656,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-7",
+          "text": "Privacy Policy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 790.3958129882812,
+            "y": 1015,
+            "width": 109.02777862548828,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-8",
+          "text": "Game Rules",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 919.4236450195312,
+            "y": 1015,
+            "width": 93.72916412353516,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-9",
+          "text": "Support",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 436.46527099609375,
+            "y": 1040.798583984375,
+            "width": 63.54166793823242,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        },
+        {
+          "id": "ca-10",
+          "text": "Imprint",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 520.0069580078125,
+            "y": 1040.798583984375,
+            "width": 61.22222137451172,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "39bfd71b048e4afe9f5a869350cd51e0"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "39bfd71b048e4afe9f5a869350cd51e0",
+      "frame_url": "https://www.travian.com/international"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "75c33a39a09c4cdb8291d761b894d2bc",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "1398eed1ac654445b5e8af9c0cac887a",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "f5ba9ee658f0440d8d32392af19eaa7d",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "c5d69034d3924e5981f70e6e152da92b",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://recaptcha.net/recaptcha/api2/anchor",
+      "title": "reCAPTCHA",
+      "text": "beveiligd met reCAPTCHA",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 256,
+        "height": 60
+      },
+      "frame_id": "e00137df2fc247259c16c810f579aa71",
+      "frame_url": "https://recaptcha.net/recaptcha/api2/anchor"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/crossdomain.html",
+      "title": "Cookie Banner",
+      "text": "Cookie Banner powered by consentmanager.net\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "9a0c957153fb478588a4d26fa55bee4e",
+      "frame_url": "https://cdn.consentmanager.net/delivery/crossdomain.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "fcf454b08eff445cb31f4fea3cd7f9d5",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "e63cedf0114b471798fadc7e6facc537",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.travian.com/international",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "tcloaded",
+        "cmpStatus": "loaded",
+        "purposesGranted": [],
+        "specialFeaturesGranted": [],
+        "vendorsConsented": 14,
+        "legitimateInterestPurposes": []
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:38:31.113703+00:00",
+  "cookies": [
+    {
+      "name": "localeName",
+      "domain": "www.travian.com",
+      "path": "/",
+      "expires": 1825256283.099235,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cmpconsentx17155",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1794325094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcccx17155",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1794325094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpconsentx17155",
+      "domain": ".consentmanager.net",
+      "path": "/",
+      "expires": 1794325095.019408,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcccx17155",
+      "domain": ".consentmanager.net",
+      "path": "/",
+      "expires": 1794325095.019514,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.travian.com",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": [
+        "cmp_dpin_40dcf06677fd"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": [
+        "cmp_dpin_40dcf06677fd"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": [
+        "cmp_dpin_40dcf06677fd"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": [
+        "cmp_dpin_40dcf06677fd"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": [
+        "cmp_dpin_40dcf06677fd"
+      ]
+    },
+    {
+      "origin": "https://recaptcha.net",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    },
+    {
+      "origin": "https://cdn.consentmanager.net",
+      "localKeys": [
+        "__cmpcccx17155_expire",
+        "__cmpconsentx17155_expire",
+        "__cmpconsentx17155",
+        "__cmpcccx17155"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": [
+        "cmp_dpin_40dcf06677fd"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.travian.com/international",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.372435+00:00"
+    },
+    {
+      "url": "https://recaptcha.net/recaptcha/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.502171+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/startpage.408.10.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.502524+00:00"
+    },
+    {
+      "url": "https://lobby.legends.travian.com/news/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.503485+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.556699+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/vendor.408.10.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.561772+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/runtime~startpage.408.10.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.562744+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/startpage.408.10.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.563548+00:00"
+    },
+    {
+      "url": "https://d.delivery.consentmanager.net/delivery/cmp.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.563919+00:00"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/js/cmp_nl.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.564691+00:00"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTcxNTUucl9HRFBSLmxfbmwuZF80MjkyNy54XzEyMy52LnAudF80MjkyNy54dF8xNzE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.678739+00:00"
+    },
+    {
+      "url": "https://www.travian.com/localisation/en-US.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.789213+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/9ab05beb031b68562995.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.832009+00:00"
+    },
+    {
+      "url": "https://recaptcha.net/recaptcha/api2/anchor",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.847200+00:00"
+    },
+    {
+      "url": "https://lobby.legends.travian.com/api/graphql",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:23.873618+00:00"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/crossdomain.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.900075+00:00"
+    },
+    {
+      "url": "https://lobby.legends.travian.com/api/calendar",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:23.983945+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/styles__ltr.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.021402+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.032766+00:00"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/recall/recall_cookie.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.115575+00:00"
+    },
+    {
+      "url": "https://d.delivery.consentmanager.net/delivery/info/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.118047+00:00"
+    },
+    {
+      "url": "https://lobby.legends.travian.com/api/news",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.119103+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/layer1.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.229995+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/layer2.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.230446+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/layer3.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.231154+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/gaul2.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.231863+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/teuton3.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.232824+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/roman2.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.251714+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/gaul3.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.253419+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/teuton2.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.255148+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/roman3.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.256458+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/layer4.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.257365+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/layer5.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.258292+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/unitShadow.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.258998+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/roman1.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.259946+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/teuton1.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.260847+00:00"
+    },
+    {
+      "url": "https://www.travian.com/image/tribeStage/gaul1.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.262283+00:00"
+    },
+    {
+      "url": "https://wordpress.legends.travian.com/wp-content/uploads/2026/10/winter-excerpt-160x160.jpeg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.264355+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/22c4efc33e748431458a.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.269889+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/a78dce3ec2672963c250.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.270751+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/9b0c0305796850ef06d8.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.271775+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/2be523b7fa379db45a89.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.272786+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/46de4880db200d7e3e23.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.273717+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/690fca0f36382f4f0512.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.274729+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/27d083f7f844fb896ae7.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.275658+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/11ca9a9e559a58d53698.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.279066+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/0310e7badf741637965f.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.280152+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/709ec0774e13c8d38905.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.280887+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/806172fb9bb3ecd402c2.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.282133+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/c4c250e333ba8f9a311d.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.283307+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/49fe09f41ea7a3e66253.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.284553+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/cc90904b88e591c1a6a1.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.285539+00:00"
+    },
+    {
+      "url": "https://www.travian.com/bundle/5ca4c8247ef89d8b7579.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.287049+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.296762+00:00"
+    },
+    {
+      "url": "https://recaptcha.net/recaptcha/api2/webworker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.297770+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.298363+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__nl.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:38:24.543025+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

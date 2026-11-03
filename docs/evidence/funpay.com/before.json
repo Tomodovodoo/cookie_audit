@@ -1,0 +1,113 @@
+{
+  "frames": [],
+  "frame_errors": [
+    "TimeoutError"
+  ],
+  "url": "https://funpay.com/",
+  "consent_state": {
+    "providers": [],
+    "unavailable": true
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:40:54.090289+00:00",
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "domain": "funpay.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://funpay.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://funpay.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.641237+00:00"
+    },
+    {
+      "url": "https://funpay.com/714/css/main.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.762015+00:00"
+    },
+    {
+      "url": "https://funpay.com/548/js/app.bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.764700+00:00"
+    },
+    {
+      "url": "https://funpay.com/714/fonts/Graphik-Bold-Web.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.765291+00:00"
+    },
+    {
+      "url": "https://funpay.com/714/fonts/Graphik-Semibold-Web.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.766194+00:00"
+    },
+    {
+      "url": "https://funpay.com/img/layout/logo-funpay.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.767026+00:00"
+    },
+    {
+      "url": "https://sfunpay.com/s/file/p8/kk/aion_2_2.p8kkmkowv4.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.768456+00:00"
+    },
+    {
+      "url": "https://funpay.com/img/layout/als-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.840884+00:00"
+    },
+    {
+      "url": "https://funpay.com/3/img/layout/sprites.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:40:34.852157+00:00"
+    },
+    {
+      "url": "https://funpay.com/16/img/layout/sprites.min.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:35.021859+00:00"
+    },
+    {
+      "url": "https://funpay.com/fonts/fa-5.15.4/fa-solid-900.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:40:35.022375+00:00"
+    },
+    {
+      "url": "https://funpay.com/fonts/fa-5.15.4/fa-brands-400.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:40:35.050663+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "A block or incomplete page cannot establish absence of tracking."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,3373 @@
+{
+  "frames": [
+    {
+      "url": "https://www.nextdirect.com/CountrySelect",
+      "title": "Select Your Country",
+      "text": "Shop Worldwide\nUnited Kingdom\n \nIreland\n \nGermany\n \nSaudi Arabia\n \nIsrael\n \nUnited Arab Emirates\n \nUkraine\n \nAustralia\n \nKuwait\n \nUSA\n \nPoland\n \nHong Kong\nAmericas\nArgentina\n \nBrazil\n \nCanada\n \nChile\n \nJamaica\n \nMexico\n \nPeru\n \nUSA\nAsia Pacific\nAustralia\n \nBangladesh\n \nCambodia\n \nChina\n \nHong Kong\n \nIndia\n \nIndonesia\n \nJapan\n \nKazakhstan\n \nKyrgyzstan\n \nMacau\n \nMalaysia\n \nNepal\n \nNew Zealand\n \nPakistan\n \nPhilippines\n \nSingapore\n \nSouth Korea\n \nSri Lanka\n \nTaiwan\n \nThailand\nEurope\nArmenia\n \nAustria\n \nAzerbaijan\n \nBelarus\n \nBelgium\n \nBosnia and Herzegovina\n \nBulgaria\n \nCroatia\n \nCyprus\n \nCzech Republic\n \nDenmark\n \nEstonia\n \nFinland\n \nFrance\n \nGeorgia\n \nGermany\n \nGibraltar\n \nGreece\n \nHungary\n \nIceland\n \nIreland\n \nItaly\n \nLatvia\n \nLithuania\n \nLuxembourg\n \nMalta\n \nNetherlands\n \nNorway\n \nPoland\n \nPortugal\n \nRepublic of Moldova\n \nRomania\n \nSerbia\n \nSlovakia\n \nSlovenia\n \nSpain\n \nSweden\n \nSwitzerland\n \nTürkiye\n \nUkraine\n \nUnited Kingdom\n \nBritish Forces Post Office\nMiddle East / Africa\nAlgeria\n \nBahrain\n \nEgypt\n \nIsrael\n \nJordan\n \nKenya\n \nKuwait\n \nLebanon\n \nMauritius\n \nNigeria\n \nOman\n \nQatar\n \nSaudi Arabia\n \nSouth Africa\n \nUnited Arab Emirates",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "United Kingdom",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 106.11111450195312,
+            "y": 108,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Ireland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 289.5416564941406,
+            "y": 108,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Germany",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 472.97222900390625,
+            "y": 108,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Saudi Arabia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 656.4027709960938,
+            "y": 108,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Israel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 839.8333129882812,
+            "y": 108,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "United Arab Emirates",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1023.263916015625,
+            "y": 108,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Ukraine",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 106.11111450195312,
+            "y": 148,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Australia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 289.5416564941406,
+            "y": 148,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Kuwait",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 472.97222900390625,
+            "y": 148,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "USA",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 656.4027709960938,
+            "y": 148,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Poland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 839.8333129882812,
+            "y": 148,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Hong Kong",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1023.263916015625,
+            "y": 148,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Americas",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 196.88888549804688,
+            "width": 1136.2222900390625,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 247, 247)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Argentina",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 247.7777862548828,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Brazil",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 247.7777862548828,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Canada",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 247.7777862548828,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Chile",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 247.7777862548828,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Jamaica",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 247.7777862548828,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Mexico",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 247.7777862548828,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Peru",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 287.77777099609375,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "USA",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 287.77777099609375,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Asia Pacific",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 351.5555725097656,
+            "width": 1136.2222900390625,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 247, 247)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Australia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 402.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Bangladesh",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 402.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Cambodia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 402.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "China",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 402.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Hong Kong",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 402.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "India",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 402.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Indonesia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 442.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Japan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 442.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Kazakhstan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 442.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Kyrgyzstan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 442.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Macau",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 442.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Malaysia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 442.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Nepal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 482.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "New Zealand",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 482.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Pakistan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 482.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "Philippines",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 482.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "Singapore",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 482.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "South Korea",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 482.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "Sri Lanka",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 522.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "Taiwan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 522.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "Thailand",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 522.4444580078125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "Europe",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 586.2222290039062,
+            "width": 1136.2222900390625,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 247, 247)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "Armenia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 637.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "Austria",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 637.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "Azerbaijan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 637.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "Belarus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 637.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-48",
+          "text": "Belgium",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 637.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-49",
+          "text": "Bosnia and Herzegovina",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 637.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-50",
+          "text": "Bulgaria",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 677.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-51",
+          "text": "Croatia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 677.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-52",
+          "text": "Cyprus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 677.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-53",
+          "text": "Czech Republic",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 677.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-54",
+          "text": "Denmark",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 677.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-55",
+          "text": "Estonia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 677.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-56",
+          "text": "Finland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 717.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-57",
+          "text": "France",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 717.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-58",
+          "text": "Georgia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 717.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-59",
+          "text": "Germany",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 717.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-60",
+          "text": "Gibraltar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 717.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-61",
+          "text": "Greece",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 717.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-62",
+          "text": "Hungary",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 757.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-63",
+          "text": "Iceland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 757.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-64",
+          "text": "Ireland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 757.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-65",
+          "text": "Italy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 757.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-66",
+          "text": "Latvia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 757.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-67",
+          "text": "Lithuania",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 757.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-68",
+          "text": "Luxembourg",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 797.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-69",
+          "text": "Malta",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 797.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-70",
+          "text": "Netherlands",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 797.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-71",
+          "text": "Norway",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 797.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-72",
+          "text": "Poland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 797.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-73",
+          "text": "Portugal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 797.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-74",
+          "text": "Republic of Moldova",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 837.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-75",
+          "text": "Romania",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 837.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-76",
+          "text": "Serbia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 837.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-77",
+          "text": "Slovakia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 837.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-78",
+          "text": "Slovenia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 837.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-79",
+          "text": "Spain",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 837.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-80",
+          "text": "Sweden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 877.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-81",
+          "text": "Switzerland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 877.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-82",
+          "text": "Türkiye",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 877.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-83",
+          "text": "Ukraine",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 877.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-84",
+          "text": "United Kingdom",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 877.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-85",
+          "text": "British Forces Post Office",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 877.1111450195312,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-86",
+          "text": "Middle East / Africa",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 940.888916015625,
+            "width": 1136.2222900390625,
+            "height": 44
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(247, 247, 247)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-87",
+          "text": "Algeria",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 991.7777709960938,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-88",
+          "text": "Bahrain",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 991.7777709960938,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-89",
+          "text": "Egypt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 991.7777709960938,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-90",
+          "text": "Israel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 991.7777709960938,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-91",
+          "text": "Jordan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 991.7777709960938,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-92",
+          "text": "Kenya",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 991.7777709960938,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-93",
+          "text": "Kuwait",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 1031.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-94",
+          "text": "Lebanon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 1031.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-95",
+          "text": "Mauritius",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 1031.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-96",
+          "text": "Nigeria",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 657.2916870117188,
+            "y": 1031.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-97",
+          "text": "Oman",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 840.7222290039062,
+            "y": 1031.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-98",
+          "text": "Qatar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.15283203125,
+            "y": 1031.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-99",
+          "text": "Saudi Arabia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107,
+            "y": 1071.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-100",
+          "text": "South Africa",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 290.4305725097656,
+            "y": 1071.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-101",
+          "text": "United Arab Emirates",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.8611145019531,
+            "y": 1071.77783203125,
+            "width": 180,
+            "height": 40
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.nextdirect.com/CountrySelect"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.nextdirect.com/CountrySelect",
+  "captured_at": "2026-11-03T15:13:13.910558+00:00",
+  "cookies": [
+    {
+      "name": "ASP.NET_SessionId",
+      "domain": "www.nextdirect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akaas_MEGANAV_2022_PD",
+      "domain": "www.nextdirect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "akacd_prod-next-international",
+      "domain": "www.nextdirect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NextDeviceType",
+      "domain": ".nextdirect.com",
+      "path": "/",
+      "expires": 1793729585.568714,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NSC_JO0bbf1tep345llccsazsjbob4o1sbq",
+      "domain": "www.nextdirect.com",
+      "path": "/",
+      "expires": 1793721186.011434,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NSC_JOlg42afdnqvhvieri4lg5cob4mpvbq",
+      "domain": "www.nextdirect.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_so",
+      "domain": ".nextdirect.com",
+      "path": "/",
+      "expires": 1793805185.569039,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sz",
+      "domain": ".nextdirect.com",
+      "path": "/",
+      "expires": 1793733185.569087,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_mi",
+      "domain": ".nextdirect.com",
+      "path": "/",
+      "expires": 1793725986.01153,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.nextdirect.com",
+      "path": "/",
+      "expires": 1796310786,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".nextdirect.com",
+      "path": "/",
+      "expires": 1793725985.188484,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "domain": ".nextdirect.com",
+      "path": "/",
+      "expires": 1825254787.559417,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".nextdirect.com",
+      "path": "/",
+      "expires": 1796397187.961129,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.nextdirect.com",
+      "localKeys": [
+        "ak_a",
+        "ak_ax"
+      ],
+      "sessionKeys": [
+        "TAB_ID",
+        "ak_bm_tab_id"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://nextdirect.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.247010+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/CountrySelect",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.348622+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/CSS/mobile/common.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.625618+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/CSS/mobile/CountrySelector.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.633726+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Scripts/jquery-3.4.0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.634212+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Themes/Next/CSS/SASS/Desktop/OverrideStyle.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.634896+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/CSS/fonts/Mobile/Fonts.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.635471+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-United-Kingdom.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.636361+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Ireland.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.636761+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Germany.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.797228+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/CountrySelect",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.798637+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Saudi-Arabia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.803645+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Israel.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.864423+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/XPcDBjlXI/kl1_y/qd-at/Ol4Zmzmo/7GaprpawuEuazt/UEtAAzo/LC8bL/RJHcnI",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.866041+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/akam/13/6f7eec83",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.935560+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-United-Arab-Emirates.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:05.967588+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Ukraine.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.028533+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Australia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.047320+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Kuwait.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.050486+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-USA.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.058748+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Poland.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.066842+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Hong-Kong.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.067747+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Argentina.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.072632+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Brazil.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.073567+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Canada.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.074332+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Chile.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.075401+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Jamaica.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.076469+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Mexico.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.076831+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Peru.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.077446+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Bangladesh.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.078514+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Cambodia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.079238+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-China.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.080233+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-India.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.082976+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Indonesia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.083568+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Japan.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.084402+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Kazakhstan.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.085418+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Kyrgyzstan.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.085789+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Macau.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.086383+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Malaysia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.087336+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Nepal.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.087649+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-New-Zealand.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.088218+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Pakistan.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.089125+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Philippines.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.089806+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Singapore.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.090445+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-South-Korea.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.091836+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Sri-Lanka.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.092337+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Taiwan.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.093066+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Thailand.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.093669+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Armenia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.094230+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Austria.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.095267+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Azerbaijan.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.095584+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Belarus.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.096294+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Belgium.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.097126+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Bosnia-and-Herzegovina.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.098427+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Bulgaria.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.099409+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Croatia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.100187+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Cyprus.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.100892+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Czech-Republic.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.101556+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Denmark.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.102153+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Estonia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.103075+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Finland.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.103363+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-France.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.103933+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Georgia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.104509+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Gibraltar.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.105063+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Greece.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.105882+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Hungary.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.106607+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Iceland.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.107277+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Italy.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.107853+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Latvia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.108402+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Lithuania.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.108965+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Luxembourg.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.109524+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Malta.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.110123+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Netherlands.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.110687+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Norway.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.111238+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Portugal.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.111836+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Republic-of-Moldova.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.112930+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Romania.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.114693+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Serbia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.115568+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Slovakia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.116378+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Slovenia.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.117174+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Spain.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.117908+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Sweden.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.118702+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Switzerland.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.119456+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-T%C3%BCrkiye.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.120326+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-British-Forces-Post-Office.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.121410+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Algeria.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.122404+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Bahrain.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.123259+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Egypt.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.133919+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Jordan.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.135339+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Kenya.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.136149+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Lebanon.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.136854+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Mauritius.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.137539+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Nigeria.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.138391+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Oman.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.139335+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-Qatar.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.140309+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Mobile/Flags/m-flag-South-Africa.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.141136+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/XPcDBjlXI/kl1_y/qd-at/Ol4Zmzmo/whaprpaw/UjpEAzo/dWBSJ/j4AIUgZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.141758+00:00"
+    },
+    {
+      "url": "https://a42cdn.usablenet.com/a42/next/default/prod/cs-text-start",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.142421+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/images/mobile/sprites.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.670262+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/Images/Gel3-0/icon-ui-chevron.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.680341+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/static-content/ux-fabric/fonts/azo-sans-500.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.681207+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/static-content/ux-fabric/fonts/azo-sans-300.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.681892+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/static-content/ux-fabric/fonts/azo-sans-400.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.682568+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/XPcDBjlXI/kl1_y/qd-at/Ol4Zmzmo/7GaprpawuEuazt/UEtAAzo/LC8bL/RJHcnI",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:06.693421+00:00"
+    },
+    {
+      "url": "https://a42cdn.usablenet.com/a42/next/default/prod/channel-loader",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:06.702989+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/akam/13/pixel_6f7eec83",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:06.979594+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/static-content/icons/favicon/next.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:13:07.134218+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/static-content/icons/favicon/next.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:13:07.276236+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/XPcDBjlXI/kl1_y/qd-at/Ol4Zmzmo/7GaprpawuEuazt/UEtAAzo/LC8bL/RJHcnI",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:07.347978+00:00"
+    },
+    {
+      "url": "https://www.nextdirect.com/XPcDBjlXI/kl1_y/qd-at/Ol4Zmzmo/whaprpaw/UjpEAzo/dWBSJ/j4AIUgZ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:07.737909+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

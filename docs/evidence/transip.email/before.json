@@ -1,0 +1,236 @@
+{
+  "frames": [
+    {
+      "url": "https://transip.email/",
+      "title": "TransIP Webmail :: Welkom bij TransIP Webmail",
+      "text": "Webmail\nOveral je mail beheren\nInloggen\n \n \nInloggen",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 743.5069580078125,
+            "y": 337.52777099609375,
+            "width": 454.4236145019531,
+            "height": 45.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(255, 152, 37)",
+            "effectiveBackground": "rgb(255, 152, 37)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(255, 152, 37)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "747dcbb1aa754451a9740f021bfdbb96"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "747dcbb1aa754451a9740f021bfdbb96",
+      "frame_url": "https://transip.email/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://transip.email/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:40:39.051190+00:00",
+  "cookies": [
+    {
+      "name": "roundcube_sessid",
+      "domain": "transip.email",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://transip.email",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://transip.email/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.298534+00:00"
+    },
+    {
+      "url": "https://transip.email/skins/larry/styles.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.569587+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/xframework/assets/styles/larry.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.620612+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/xskin/assets/styles/styles.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.621087+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/xskin/assets/styles/larry_desktop.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.621883+00:00"
+    },
+    {
+      "url": "https://transip.email/skins/outlook/assets/desktop.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.622581+00:00"
+    },
+    {
+      "url": "https://transip.email/skins/larry/plugins/jqueryui/jquery-ui.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.623285+00:00"
+    },
+    {
+      "url": "https://transip.email/skins/larry/ui.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.623967+00:00"
+    },
+    {
+      "url": "https://transip.email/css/transip.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.624596+00:00"
+    },
+    {
+      "url": "https://transip.email/css/minified/webmail.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.626422+00:00"
+    },
+    {
+      "url": "https://transip.email/css/transip-login.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.628034+00:00"
+    },
+    {
+      "url": "https://transip.email/program/js/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.628359+00:00"
+    },
+    {
+      "url": "https://transip.email/program/js/common.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.629008+00:00"
+    },
+    {
+      "url": "https://transip.email/program/js/app.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.629632+00:00"
+    },
+    {
+      "url": "https://transip.email/program/js/jstz.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.630275+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/xframework/assets/bower_components/js-cookie/src/js.cookie.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.630953+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/xframework/assets/scripts/framework.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.632031+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/xskin/assets/scripts/xskin.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.632352+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/xskin/assets/scripts/larry_desktop.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.632969+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/jqueryui/js/jquery-ui.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.633545+00:00"
+    },
+    {
+      "url": "https://transip.email/plugins/jqueryui/js/i18n/datepicker-nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.634427+00:00"
+    },
+    {
+      "url": "https://transip.email/img/transip-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.635131+00:00"
+    },
+    {
+      "url": "https://transip.email/img/send.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:31.635767+00:00"
+    },
+    {
+      "url": "https://transip.email/img/identity.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:32.026432+00:00"
+    },
+    {
+      "url": "https://transip.email/img/lock.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:32.030547+00:00"
+    },
+    {
+      "url": "https://transip.email/img/background-image.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:32.032471+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

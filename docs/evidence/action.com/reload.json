@@ -1,0 +1,1249 @@
+{
+  "frames": [
+    {
+      "url": "https://www.action.com/",
+      "title": "Welcome to the Action website",
+      "text": "Welcome to the Action website\nNederlands\nNederland\nČeština\nČeská republika\nDeutsch\nÖsterreich\nDeutsch\nSchweiz\nDeutsch\nDeutschland\nEspañol\nEspaña\nFrançais\nBelgique\nFrançais\nSuisse\nFrançais\nFrance\nFrançais\nLuxembourg\nItaliano\nSvizzera\nItaliano\nItalia\nNederlands\nBelgië\nNederlands\nNederland\nPolski\nPolska\nPortuguês\nPortugal\nRomână\nRomânia\nSlovenčina\nSlovensko\nHrvatski\nHrvatska\nSlovenščina\nSlovenija\nБългарски\nБългария",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Nederlands Nederland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 258.6666564941406,
+            "y": 324.1111145019531,
+            "width": 206,
+            "height": 57.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(218, 223, 227)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Čeština Česká republika",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 472.6666564941406,
+            "y": 324.1111145019531,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Deutsch Österreich",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 686.6666870117188,
+            "y": 324.1111145019531,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Deutsch Schweiz",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 900.6666870117188,
+            "y": 324.1111145019531,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Deutsch Deutschland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 258.6666564941406,
+            "y": 385.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Español España",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 472.6666564941406,
+            "y": 385.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Français Belgique",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 686.6666870117188,
+            "y": 385.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Français Suisse",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 900.6666870117188,
+            "y": 385.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Français France",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 258.6666564941406,
+            "y": 445.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Français Luxembourg",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 472.6666564941406,
+            "y": 445.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Italiano Svizzera",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 686.6666870117188,
+            "y": 445.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Italiano Italia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 900.6666870117188,
+            "y": 445.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Nederlands België",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 258.6666564941406,
+            "y": 505.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Nederlands Nederland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 472.6666564941406,
+            "y": 505.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Polski Polska",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 686.6666870117188,
+            "y": 505.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Português Portugal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 900.6666870117188,
+            "y": 505.8888854980469,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Română România",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 258.6666564941406,
+            "y": 565.888916015625,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Slovenčina Slovensko",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 472.6666564941406,
+            "y": 565.888916015625,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Hrvatski Hrvatska",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 686.6666870117188,
+            "y": 565.888916015625,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Slovenščina Slovenija",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 900.6666870117188,
+            "y": 565.888916015625,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Български България",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 258.6666564941406,
+            "y": 625.888916015625,
+            "width": 206,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 26, 26)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 26, 26)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.action.com/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.action.com/",
+  "captured_at": "2026-11-03T15:06:14.859135+00:00",
+  "cookies": [
+    {
+      "name": "__cf_ob",
+      "domain": "www.action.com",
+      "path": "/cdn-cgi/challenge-platform",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.action.com",
+      "path": "/",
+      "expires": 1825254360,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".action.com",
+      "path": "/",
+      "expires": 1825254368.842309,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".action.com",
+      "path": "/",
+      "expires": 1793720168.842417,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.action.com",
+      "localKeys": [
+        "gtmUserId",
+        "hideCountryModal",
+        "userFavorites",
+        "currentUser"
+      ],
+      "sessionKeys": [
+        "gtm_engaged_session_start",
+        "gtm_engaged_session_fired",
+        "_cfPre_tabId",
+        "gtm_engaged_session_interacted"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "gtmUserId",
+        "hideCountryModal",
+        "userFavorites",
+        "currentUser"
+      ],
+      "sessionKeys": [
+        "gtm_engaged_session_start",
+        "gtm_engaged_session_fired",
+        "_cfPre_tabId",
+        "gtm_engaged_session_interacted"
+      ]
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.action.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.397002+00:00"
+    },
+    {
+      "url": "https://sst.action.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:07.525721+00:00"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.716153+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/1bc7fc94203521e3-s.p.0gm5xa07u9y0b.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.717737+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/216579b50e548914-s.p.1ay1jy0-bfc4a.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.721377+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/3df2de83712245dd-s.p.0w014qgprzbql.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.721886+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/cd72e39fe5f8e190-s.p.0e2034rwz-vfe.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.729422+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/3apr3nlce913_.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.730641+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/1bkmlxvkc1_9r.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.731508+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.com/uc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.732245+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0w0y3v5b01gvy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.732973+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/3lqi3y1bywfwy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.733650+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/27-9vg99y_hkd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.734336+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/3e_97yw9o_xye.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.735070+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/27k6mjyonq0rq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.735850+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/turbopack-0yy3pj4tnx_an.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.736567+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/13wxiixxyq08y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.737273+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0td5fv8tfgtx3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.737976+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0ub-nil-5yjfv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.738690+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/1ergr_uc8c4im.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.739735+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/3j6bu0q21_nrt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.740462+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/14bbogfuc_6w6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.741171+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/15b3odg0txbsl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.741871+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/2vuezco1l40s-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.742563+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0ts8ggwxz5547.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.743252+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/3kdonbatgjh6w.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.744712+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/3ids406s7posc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.745903+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/2o-a498428itr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.746728+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0sdnr_qbu0adf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.747489+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/1j-bcz9ervs6w.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.748199+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0eux72tuc30zv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.760345+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0swip6my-ty9u.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.761995+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/1e6_rynz7p4oj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.763632+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/1znamk7m4a2w1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.764905+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/35dab0372a508468-s.1t7520p5sfc1t.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.795608+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/798f80a4b3a62ae7-s.3dpa8acchrchc.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.796208+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/c02ac0fa909c6aa5-s.03xlgvoej3q4l.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.797565+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/media/da99beadb68683ca-s.2dudn6bv_poz-.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.798405+00:00"
+    },
+    {
+      "url": "https://asset.action.com/image/upload/w_1920/ActionStore_Shop_Entrance_2019_i3zava.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.799242+00:00"
+    },
+    {
+      "url": "https://www.action.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:07.802470+00:00"
+    },
+    {
+      "url": "https://www.action.com/cdn-cgi/challenge-platform/h/g/scripts/precursor/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.615822+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.616846+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/2bgikjp1ybew1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.617299+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0y3wabar2msef.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.618313+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/075vswqx7yx08.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.619006+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/1v0rau1b6ufoa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.619658+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/26qqu5jb5idsq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.620392+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/2ahad574zhelf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.620952+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/452orrwe-_qj1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.621504+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0g4yit95p_ubv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.622106+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/1ebey29h7p36q.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.622670+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/09q8_h2kg--az.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.623218+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/2emcy2gwd_cgz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.623759+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/44ssr5bim9no4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.624304+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/3zs645netlcnk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.624993+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/25-oy1q7ue84j.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.625534+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/334wci62erl1q.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.626078+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0xrdaev5r-re_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.626619+00:00"
+    },
+    {
+      "url": "https://www.action.com/_next/static/chunks/0tvr1v123h6lz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.627175+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/8283d89a-5ba2-4703-91f8-c768c701162d/settings.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.628345+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/8283d89a-5ba2-4703-91f8-c768c701162d/action.com/configuration.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.628630+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.629181+00:00"
+    },
+    {
+      "url": "https://www.action.com/cdn-cgi/challenge-platform/h/g/precursor/5c2e6b612edd/0.43658908410670183:1793715035:p-Yv5W6_OI0l3aCkTJdW5Tej0O4jm-ntjdY5toiS73A/a54c47f418520c49",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:06:08.813533+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.879628+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.880240+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.881056+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.881735+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:08.882430+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/8283d89a-5ba2-4703-91f8-c768c701162d/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.888378+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:08.939803+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=9808248;type=invmedia;cat=actio00;rcb=7;ord=9477916276380;npa=1;u1=www.action.com;u2=;u3=%2F;u4=undefined;u5=;u6=undefined;u7=undefined;u8=undefined;u10=undefined;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181464208z877106807za20gzb77106807zd77106807xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120412526~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.action.com%2F",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.940897+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/measurement/conversion",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:08.961271+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:08.961780+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=9808248;dc_pre=CO3lz9GJ7JcDFXc1ugAdg6o0Vg;type=invmedia;cat=actio00;rcb=7;ord=9477916276380;npa=1;u1=www.action.com;u2=;u3=%2F;u4=undefined;u5=;u6=undefined;u7=undefined;u8=undefined;u10=undefined;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181464208z877106807za20gzb77106807zd77106807xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120412526~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.action.com%2F",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.963079+00:00"
+    },
+    {
+      "url": "https://sst.action.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:06:08.990413+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/855908460/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:09.035123+00:00"
+    },
+    {
+      "url": "https://www.action.com/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:06:09.035576+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:09.037908+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:09.038254+00:00"
+    },
+    {
+      "url": "https://sst.action.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:06:09.509671+00:00"
+    },
+    {
+      "url": "https://www.action.com/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:06:10.034579+00:00"
+    },
+    {
+      "url": "https://71c48eaee4f848efa24fff0e1a6635a0.apm.westeurope.azure.elastic-cloud.com/intake/v2/rum/events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:10.546800+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:13.972918+00:00"
+    },
+    {
+      "url": "https://71c48eaee4f848efa24fff0e1a6635a0.apm.westeurope.azure.elastic-cloud.com/intake/v2/rum/events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:14.519876+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=9808248;type=invmedia;cat=actio00;rcb=7;ord=9477916276380;npa=1;u1=www.action.com;u2=;u3=%2F;u4=undefined;u5=;u6=undefined;u7=undefined;u8=undefined;u10=undefined;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181464208z877106807za20gzb77106807zd77106807xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120412526~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.action.com%2F",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/measurement/conversion",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=9808248;dc_pre=CO3lz9GJ7JcDFXc1ugAdg6o0Vg;type=invmedia;cat=actio00;rcb=7;ord=9477916276380;npa=1;u1=www.action.com;u2=;u3=%2F;u4=undefined;u5=;u6=undefined;u7=undefined;u8=undefined;u10=undefined;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6au1v9181464208z877106807za20gzb77106807zd77106807xeaxf1;gcs=G100;gcd=13q3qPq2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120412526~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.action.com%2F",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/conversion/855908460/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

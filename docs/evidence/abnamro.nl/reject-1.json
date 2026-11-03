@@ -21,6 +21,8 @@
             "color": "rgb(0, 55, 55)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "600",
             "borderWidth": 0.888889,
@@ -28,7 +30,8 @@
             "padding": "8px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-1",
@@ -46,6 +49,8 @@
             "color": "rgb(97, 97, 97)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -53,7 +58,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-2",
@@ -71,6 +77,8 @@
             "color": "rgb(97, 97, 97)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -78,7 +86,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-3",
@@ -96,6 +105,8 @@
             "color": "rgb(97, 97, 97)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -103,7 +114,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-4",
@@ -121,6 +133,8 @@
             "color": "rgb(243, 243, 243)",
             "background": "rgb(0, 76, 76)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -128,7 +142,8 @@
             "padding": "10px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-5",
@@ -146,6 +161,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -153,7 +170,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-6",
@@ -171,6 +189,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -178,7 +198,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-7",
@@ -196,6 +217,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -203,7 +226,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-8",
@@ -221,6 +245,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -228,7 +254,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-9",
@@ -246,6 +273,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -253,7 +282,8 @@
             "padding": "8px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-10",
@@ -271,6 +301,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -278,7 +310,8 @@
             "padding": "10px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-11",
@@ -296,6 +329,8 @@
             "color": "rgb(30, 30, 30)",
             "background": "rgb(255, 210, 0)",
             "effectiveBackground": "rgb(255, 210, 0)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -303,7 +338,8 @@
             "padding": "10px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-12",
@@ -321,6 +357,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -328,7 +366,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-13",
@@ -346,6 +385,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -353,7 +394,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-14",
@@ -371,6 +413,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -378,7 +422,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-15",
@@ -396,6 +441,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -403,7 +450,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-16",
@@ -421,6 +469,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -428,7 +478,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-17",
@@ -446,6 +497,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -453,7 +506,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-18",
@@ -471,6 +525,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -478,7 +534,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-19",
@@ -496,6 +553,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -503,7 +562,8 @@
             "padding": "16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-20",
@@ -521,6 +581,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -528,7 +590,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-21",
@@ -546,6 +609,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -553,7 +618,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-22",
@@ -571,6 +637,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -578,7 +646,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-23",
@@ -596,6 +665,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -603,7 +674,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-24",
@@ -621,6 +693,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -628,7 +702,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-25",
@@ -646,6 +721,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -653,7 +730,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-26",
@@ -671,6 +749,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -678,7 +758,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-27",
@@ -696,6 +777,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -703,7 +786,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-28",
@@ -721,6 +805,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -728,7 +814,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-29",
@@ -746,6 +833,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -753,7 +842,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-30",
@@ -771,6 +861,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -778,7 +870,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-31",
@@ -796,6 +889,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -803,7 +898,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-32",
@@ -821,6 +917,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -828,7 +926,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-33",
@@ -846,6 +945,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -853,7 +954,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-34",
@@ -871,6 +973,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -878,7 +982,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-35",
@@ -896,6 +1001,8 @@
             "color": "rgb(243, 243, 243)",
             "background": "rgb(0, 76, 76)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -903,7 +1010,8 @@
             "padding": "10px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-36",
@@ -921,6 +1029,8 @@
             "color": "rgb(243, 243, 243)",
             "background": "rgb(0, 76, 76)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -928,7 +1038,8 @@
             "padding": "10px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-37",
@@ -946,6 +1057,8 @@
             "color": "rgb(243, 243, 243)",
             "background": "rgb(0, 76, 76)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -953,7 +1066,8 @@
             "padding": "10px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-38",
@@ -971,6 +1085,8 @@
             "color": "rgb(243, 243, 243)",
             "background": "rgb(0, 76, 76)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -978,7 +1094,8 @@
             "padding": "10px 16px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-39",
@@ -996,6 +1113,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1003,7 +1122,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-40",
@@ -1021,6 +1141,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1028,7 +1150,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-41",
@@ -1046,6 +1169,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1053,7 +1178,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-42",
@@ -1071,6 +1197,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1078,7 +1206,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-43",
@@ -1096,6 +1225,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1103,7 +1234,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-44",
@@ -1121,6 +1253,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1128,7 +1262,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-45",
@@ -1146,6 +1281,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 76, 76)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1153,7 +1290,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-46",
@@ -1171,6 +1309,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1178,7 +1318,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-47",
@@ -1196,6 +1337,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1203,7 +1346,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-48",
@@ -1221,6 +1365,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1228,7 +1374,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-49",
@@ -1246,6 +1393,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1253,7 +1402,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-50",
@@ -1271,6 +1421,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1278,7 +1430,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-51",
@@ -1296,6 +1449,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1303,7 +1458,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-52",
@@ -1321,6 +1477,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1328,7 +1486,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-53",
@@ -1346,6 +1505,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1353,7 +1514,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-54",
@@ -1371,6 +1533,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1378,7 +1542,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-55",
@@ -1396,6 +1561,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1403,7 +1570,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-56",
@@ -1421,6 +1589,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1428,7 +1598,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-57",
@@ -1446,6 +1617,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1453,7 +1626,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-58",
@@ -1471,6 +1645,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1478,7 +1654,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-59",
@@ -1496,6 +1673,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1503,7 +1682,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-60",
@@ -1521,6 +1701,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1528,7 +1710,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-61",
@@ -1546,6 +1729,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1553,7 +1738,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-62",
@@ -1571,6 +1757,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1578,7 +1766,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-63",
@@ -1596,6 +1785,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1603,7 +1794,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-64",
@@ -1621,6 +1813,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1628,7 +1822,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-65",
@@ -1646,6 +1841,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1653,7 +1850,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-66",
@@ -1671,6 +1869,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1678,7 +1878,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-67",
@@ -1696,6 +1897,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1703,7 +1906,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-68",
@@ -1721,6 +1925,8 @@
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(0, 55, 55)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1728,7 +1934,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-69",
@@ -1746,6 +1953,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1753,7 +1962,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-70",
@@ -1771,6 +1981,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1778,7 +1990,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-71",
@@ -1796,6 +2009,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1803,7 +2018,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-72",
@@ -1821,6 +2037,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1828,7 +2046,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-73",
@@ -1846,6 +2065,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1853,7 +2074,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-74",
@@ -1871,6 +2093,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1878,7 +2102,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-75",
@@ -1896,6 +2121,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1903,7 +2130,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-76",
@@ -1921,6 +2149,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1928,7 +2158,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-77",
@@ -1946,6 +2177,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1953,7 +2186,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-78",
@@ -1971,6 +2205,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -1978,7 +2214,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-79",
@@ -1996,6 +2233,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2003,7 +2242,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-80",
@@ -2021,6 +2261,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 0,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2028,7 +2270,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-81",
@@ -2046,6 +2289,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 0,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2053,7 +2298,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-82",
@@ -2071,6 +2317,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 0,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2078,7 +2326,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-83",
@@ -2096,6 +2345,8 @@
             "color": "rgb(0, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 0,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2103,7 +2354,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-84",
@@ -2121,6 +2373,8 @@
             "color": "rgb(113, 128, 150)",
             "background": "rgb(255, 255, 255)",
             "effectiveBackground": "rgb(255, 255, 255)",
+            "backgroundImage": "none",
+            "contrastReliable": true,
             "fontSize": 14,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2128,7 +2382,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         },
         {
           "id": "ca-85",
@@ -2146,6 +2401,8 @@
             "color": "rgb(34, 34, 34)",
             "background": "rgba(0, 0, 0, 0)",
             "effectiveBackground": "rgb(243, 243, 243)",
+            "backgroundImage": "none",
+            "contrastReliable": false,
             "fontSize": 16,
             "fontWeight": "400",
             "borderWidth": 0,
@@ -2153,7 +2410,8 @@
             "padding": "0px"
           },
           "disabled": false,
-          "frame": 0
+          "frame": 0,
+          "frame_id": "dda337f1717242b9871515362e7bd673"
         }
       ],
       "webdriver": false,
@@ -2162,6 +2420,7 @@
         "width": 1365,
         "height": 900
       },
+      "frame_id": "dda337f1717242b9871515362e7bd673",
       "frame_url": "https://www.abnamro.nl/nl/prive/index.html"
     },
     {
@@ -2175,6 +2434,7 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "0a98761713584b899974afc5bc1b4655",
       "frame_url": "https://a5171550442225664.cdn.optimizely.com/client_storage/a5171550442225664.html"
     },
     {
@@ -2188,12 +2448,17 @@
         "width": 0,
         "height": 0
       },
+      "frame_id": "099fa8299af3443abc53367761f7dbec",
       "frame_url": "about:"
     }
   ],
   "frame_errors": [],
   "url": "https://www.abnamro.nl/nl/prive/index.html",
-  "captured_at": "2026-11-03T14:54:41.983574+00:00",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:45:36.846018+00:00",
   "cookies": [
     {
       "name": "chat_abId",
@@ -2217,7 +2482,7 @@
       "name": "ak_bmsc",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1793724866.673431,
+      "expires": 1793727921.224308,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -2226,7 +2491,7 @@
       "name": "UVID",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1825253666,
+      "expires": 1825256721,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2235,7 +2500,7 @@
       "name": "bm_sz",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1793732066.352039,
+      "expires": 1793735120.166383,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2244,7 +2509,7 @@
       "name": "fid",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1828277667.430464,
+      "expires": 1828280722.376099,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2253,7 +2518,7 @@
       "name": "SameSite",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1793717700.755592,
+      "expires": 1793720755.659178,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -2271,7 +2536,7 @@
       "name": "ai_user",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1825253667.57573,
+      "expires": 1825256722.579095,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2280,7 +2545,7 @@
       "name": "ai_session",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1793719467.593035,
+      "expires": 1793722522.603766,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2289,7 +2554,7 @@
       "name": "Homepage",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1825253667,
+      "expires": 1825256722,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2298,7 +2563,7 @@
       "name": "aab_fpd",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1825253667.611515,
+      "expires": 1825256722.626738,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -2325,16 +2590,16 @@
       "name": "optimizelySession",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1809269667,
+      "expires": 1809272722,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$session_state",
+      "name": "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$session_state",
       "domain": "a5171550442225664.cdn.optimizely.com",
       "path": "/",
-      "expires": 1809269667.810363,
+      "expires": 1809272722.897524,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2343,7 +2608,7 @@
       "name": "Segment",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1828277679.889558,
+      "expires": 1828280734.989213,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -2352,7 +2617,7 @@
       "name": "UVID",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1825253668,
+      "expires": 1825256723,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2361,7 +2626,7 @@
       "name": "_ga",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1828277668.625109,
+      "expires": 1828280723.905008,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2370,7 +2635,7 @@
       "name": "ADRUM_BTa",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1793717700.755545,
+      "expires": 1793720755.659133,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -2379,7 +2644,7 @@
       "name": "ADRUM_BT1",
       "domain": "www.abnamro.nl",
       "path": "/",
-      "expires": 1793717700.755703,
+      "expires": 1793720755.659292,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -2388,7 +2653,7 @@
       "name": "_ga_H38ZZ0N44L",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1828277674.918711,
+      "expires": 1828280729.771328,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2397,7 +2662,7 @@
       "name": "OptanonAlertBoxClosed",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1825253674,
+      "expires": 1825256729,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2406,7 +2671,7 @@
       "name": "OptanonConsent",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1825253674,
+      "expires": 1825256729,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2415,7 +2680,7 @@
       "name": "_abck",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1825253675.067698,
+      "expires": 1825256729.908857,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -2424,7 +2689,7 @@
       "name": "utag_main",
       "domain": ".abnamro.nl",
       "path": "/",
-      "expires": 1825253677,
+      "expires": 1825256732,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -2434,25 +2699,25 @@
     {
       "origin": "https://www.abnamro.nl",
       "localKeys": [
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$visitor_profile",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$variation_map",
         "QSI_ActionSetHistory",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$tracker_optimizely",
         "chat-caas",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$layer_states",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$contextual_mab",
         "ak_ax",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$event_queue",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$contextual_mab",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$session_state",
         "Q_INTER",
         "tealium_va_abn-amro_udh-production",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$visitor_profile",
         "tealium_va_update",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$layer_map",
         "tealium_va",
         "Segment",
         "s2",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$session_state",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$tracker_optimizely",
         "optimizely_data$$pending_events",
         "ak_a",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$variation_map",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$event_queue",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$layer_map",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$layer_states",
         "tealium_ga_enabled"
       ],
       "sessionKeys": [
@@ -2472,40 +2737,40 @@
     {
       "origin": "https://a5171550442225664.cdn.optimizely.com",
       "localKeys": [
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$variation_map",
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$visitor_profile",
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$layer_map",
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$contextual_mab",
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$tracker_optimizely",
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$event_queue",
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$tracker_optimizely",
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$contextual_mab",
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$variation_map",
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$layer_states",
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$visitor_profile",
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$session_state",
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$event_queue",
         "https://www.abnamro.nl_pending_events",
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$session_state",
-        "https://www.abnamro.nl_ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$layer_states"
+        "https://www.abnamro.nl_5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$layer_map"
       ],
       "sessionKeys": []
     },
     {
       "origin": "null",
       "localKeys": [
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$visitor_profile",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$variation_map",
         "QSI_ActionSetHistory",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$tracker_optimizely",
         "chat-caas",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$layer_states",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$contextual_mab",
         "ak_ax",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$event_queue",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$contextual_mab",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$session_state",
         "Q_INTER",
         "tealium_va_abn-amro_udh-production",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$visitor_profile",
         "tealium_va_update",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$layer_map",
         "tealium_va",
         "Segment",
         "s2",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$session_state",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$tracker_optimizely",
         "optimizely_data$$pending_events",
         "ak_a",
-        "optimizely_data$$ec884735-f079-4d58-9c12-29984f062098$$5171550442225664$$variation_map",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$event_queue",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$layer_map",
+        "optimizely_data$$5d750709-6501-4501-b6a1-d97eab4a3924$$5171550442225664$$layer_states",
         "tealium_ga_enabled"
       ],
       "sessionKeys": [
@@ -2528,85 +2793,85 @@
       "url": "https://www.abnamro.nl/KEjrDK/w5IM/F7qEz/BskJ/Dh6grdJQ/7fLONDchLONDVmr3/VCFqBwNIMAE/QXkeaGwH/GCk",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:54:34.925098+00:00"
+      "at": "2026-11-03T15:45:29.779087+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/main/aabnlnlprive_nietakkoord.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:34.925573+00:00"
+      "at": "2026-11-03T15:45:29.779896+00:00"
     },
     {
       "url": "https://collect.tealiumiq.com/event",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:54:34.926445+00:00"
+      "at": "2026-11-03T15:45:29.781125+00:00"
     },
     {
-      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a1e7895d0001a2a1b668e6c50506f002a067008f1",
+      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a21627f70014dfa91adbfc8b0506f002a067008f1",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:54:34.944987+00:00"
+      "at": "2026-11-03T15:45:29.803094+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/main/aabnlnlprive.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:35.094554+00:00"
+      "at": "2026-11-03T15:45:30.060769+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/main/aabnlnlprive_extrapensioenopbouwen.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:35.239379+00:00"
+      "at": "2026-11-03T15:45:30.197734+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/main/aabnlnlprive_extrapensioenopbouwen.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:35.387394+00:00"
+      "at": "2026-11-03T15:45:30.346694+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/main/aabnlnlprive_wijgebruikencookiesenvergelijkbaretechnieken.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:35.690663+00:00"
+      "at": "2026-11-03T15:45:30.659423+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/main/aabnlnlprive_nietakkoord.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:35.847292+00:00"
+      "at": "2026-11-03T15:45:30.799159+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/udh-production/chatbot000001.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:35.915210+00:00"
+      "at": "2026-11-03T15:45:31.030345+00:00"
     },
     {
       "url": "https://collect.tealiumiq.com/event",
       "resource_type": "xhr",
       "method": "POST",
-      "at": "2026-11-03T14:54:37.653384+00:00"
+      "at": "2026-11-03T15:45:32.652594+00:00"
     },
     {
-      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a1e7895d0001a2a1b668e6c50506f002a067008f1",
+      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a21627f70014dfa91adbfc8b0506f002a067008f1",
       "resource_type": "script",
       "method": "GET",
-      "at": "2026-11-03T14:54:37.748204+00:00"
+      "at": "2026-11-03T15:45:32.673236+00:00"
     },
     {
       "url": "https://region1.google-analytics.com/g/collect",
       "resource_type": "fetch",
       "method": "POST",
-      "at": "2026-11-03T14:54:39.922656+00:00"
+      "at": "2026-11-03T15:45:34.784620+00:00"
     },
     {
       "url": "https://tags.tiqcdn.com/dle/abn-amro/udh-production/chatbot000001.json",
       "resource_type": "fetch",
       "method": "GET",
-      "at": "2026-11-03T14:54:39.937034+00:00"
+      "at": "2026-11-03T15:45:35.054828+00:00"
     }
   ],
   "tracking": {
@@ -2642,7 +2907,7 @@
     },
     {
       "kind": "listed_endpoint",
-      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a1e7895d0001a2a1b668e6c50506f002a067008f1",
+      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a21627f70014dfa91adbfc8b0506f002a067008f1",
       "categories": [
         "Analytics"
       ]
@@ -2704,7 +2969,7 @@
     },
     {
       "kind": "listed_endpoint",
-      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a1e7895d0001a2a1b668e6c50506f002a067008f1",
+      "url": "https://visitor-service.tealiumiq.com/abn-amro/udh-production/01a1a21627f70014dfa91adbfc8b0506f002a067008f1",
       "categories": [
         "Analytics"
       ]
@@ -2726,6 +2991,7 @@
       ]
     }
   ],
-  "screenshot": "reject-1.png",
+  "blocked": false,
+  "screenshot": "reject-1.jpg",
   "context_excerpt_limit": 400
 }

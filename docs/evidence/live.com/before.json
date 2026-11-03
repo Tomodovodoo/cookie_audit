@@ -1,0 +1,1148 @@
+{
+  "frames": [],
+  "frame_errors": [
+    "TimeoutError"
+  ],
+  "url": "https://www.microsoft.com/nl-nl/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
+  "consent_state": {
+    "providers": [],
+    "unavailable": true
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:37:37.451364+00:00",
+  "cookies": [
+    {
+      "name": "PMGSKUMarketCk",
+      "domain": "www.microsoft.com",
+      "path": "/nl-nl/microsoft-365/outlook",
+      "expires": 1796312253,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ClientId",
+      "domain": "outlook.live.com",
+      "path": "/",
+      "expires": 1825256238.375617,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "X-OWA-RedirectHistory",
+      "domain": "outlook.live.com",
+      "path": "/",
+      "expires": 1793741958.375685,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "msal.cache.encryption",
+      "domain": "outlook.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-mKTpycHkgc",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1796312238.650549,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPRequ",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uaid",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OParams",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MC1",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1825256241.341027,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MS0",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1793722041.341118,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "domain": "www.microsoft.com",
+      "path": "/",
+      "expires": 1825256242.275875,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "domain": "www.microsoft.com",
+      "path": "/",
+      "expires": 1793722042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.microsoft.com",
+      "localKeys": [
+        "uhf-tas-cache",
+        "x-exp-clientid"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://live.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.054453+00:00"
+    },
+    {
+      "url": "https://outlook.live.com/owa/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.198382+00:00"
+    },
+    {
+      "url": "https://outlook.live.com/mail/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.553205+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mail.runtime.3bb189b3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.799198+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mailindex.7e0e4990.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.800219+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.shared.m.916f8e55.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.800575+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mail.m.a5f42f36.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.802818+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.styles.m.c2bad215.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.803196+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.36552.m.8d05a918.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.803889+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.46744.m.a743eac4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.804636+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.AppBoot.m.502cfbbd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.805359+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.98434.m.220db147.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.806101+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.71719.m.df8464ca.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.806862+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.MsalAuth.m.34c6ff1c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.807639+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/assets/framework/microsoft.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.834854+00:00"
+    },
+    {
+      "url": "https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.459878+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.worker.data.faf0b8d8.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.543305+00:00"
+    },
+    {
+      "url": "https://login.live.com/oauth20_authorize.srf",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.779382+00:00"
+    },
+    {
+      "url": "https://outlook.live.com/mail/oauthRedirect.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.261987+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/assets/msal-redirect-bridge/v.5.8.0/msal-redirect-bridge.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.535538+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.61028.m.52ad584e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.939393+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.90091.m.0174935f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.939918+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.19444.m.0a62f90f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.940905+00:00"
+    },
+    {
+      "url": "https://res.public.onecdn.static.microsoft/owamail/20261030007.04/resources/boot-analytics-ping.js",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.942553+00:00"
+    },
+    {
+      "url": "https://eu-office.events.data.microsoft.com/OneCollector/1.0/",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:37:20.183381+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/nl-nl/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.188100+00:00"
+    },
+    {
+      "url": "https://uhf.microsoft.com/statics/20261021.14.40/js/entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.912676+00:00"
+    },
+    {
+      "url": "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.915198+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/foundation/themes/critical.ACSHASH79a24d2ef5ac0ab16d96f21e5ae89510.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.928837+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/foundation/page/web-components/v1.ACSHASHf3a2a3b2a6a6cf97a1c81ff3c3bcadff.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.930075+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/foundation/page/web-components/v2.ACSHASH2ebc527eb9b24a149a913f4e159e31ef.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.930649+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-env/base.ACSHASH8cd32d1ad0be8a1a9b98c8f1eda1aae6.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.931612+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-shared-utils.ACSHASH85582cd0daa0608c383d45e2eba85e28.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.932417+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-utils/xf-wrapper.ACSHASH959cf4e6c9dbc0269984ead635843b60.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.933209+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-new/main-light.ACSHASH561c834597fb9bc5aac4021e21e006be.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.934582+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-reimagine/main-m365.ACSHASH4859a4a7a6ad550f145ff678f733910b.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.935754+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-vars/publisher.ACSHASHd04116a7de4f2a26cdce768dfe83c5b0.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.936675+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-onecloud-util.ACSHASHf9af4146713cc77d59a4ab6cfe87ae75.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.937397+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-new/main-light.ACSHASHfe9d5283cc0a38f995b64bf0f39192eb.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.938073+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-reimagine/main-light.ACSHASH31a8c51ab725b42d9fb59c0748aa1c9c.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.938696+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-events.ACSHASH4c28b55b872280fe389b01920b5c9315.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.939324+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-uhf.ACSHASHf9f2395c582fa601707b7a5dfae9f05f.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.939981+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-action.ACSHASH5d14c1b46a8aff2f66800d2b89373787.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.940611+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-reimagine-page/clientlib-aem-styles.ACSHASH093527e9cdc04c5006af824fb08a61c7.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.941269+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-polyfills.ACSHASHtrue.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.941895+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-jquery.ACSHASH75d0cb3e9ff9fee40f5ce5fd93c17fb2.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.942795+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-jquery-cookie.ACSHASH5c75a4fa9fb3503322f8a0c9dd51512d.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.943202+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/exp-analytics/v1.ACSHASHbf7b336dbb370c984e1bf59b1a980d86.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.944267+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/msonecloudapi/assets/msochead.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.945222+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/msonecloudapi/assets/msochead.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.945611+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-serversideconsent.ACSHASHb2684a0927e08f99397982aa54f43cb0.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.946281+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/dynamicclientsidelibs/handlerscripts/v1.ACSHASH6734c5d7a732130b83c7d4a6ba54dcec.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.947004+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs/site.ACSHASHba88550b05d37722ac0b4ce30f3c4d6c.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.947977+00:00"
+    },
+    {
+      "url": "https://uhf.microsoft.com/statics/20261021.14.40/css/style-PF2pqjN1.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.948925+00:00"
+    },
+    {
+      "url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.949816+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs/site.ACSHASHd9c9fd98fe2a540a7662eb6492aa9c30.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.950470+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/videoplayer/ump.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.951196+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/inline-price/v1.ACSHASH2add9535e4cc42506adab8184ab68f74.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.957132+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/market-selector/v1/market-selector/clientlibs/sites/base.ACSHASHbbf19119afee3c72253b59e12c3b5503.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.262758+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.274599+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHde5a77dc6cdb73df9c3096397924a3f0.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.423103+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/foundation/action/v1/action/clientlibs/sites.ACSHASH28145ea922039d6e81d73391c55fb222.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.424113+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-localstorage.ACSHASHb884ef4864d6867bd00aa4a7a5cfb368.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.424575+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-action.ACSHASH3d25c25f9dac7c8c4b7ed2fedb879a2f.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.425727+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/reimagine/reimagine-modal-redirect.ACSHASH332e741e8ddd083ab883337a548eedfa.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.426699+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/accordion/v2/accordion/clientlibs/site.ACSHASH1476bb18b47b03a6026164a3e74df19e.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.427097+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/core/wcm/components/tabs/v1/tabs/clientlibs/site.ACSHASHd54c23ba76bd8648119795790ae83779.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.428116+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/content/inline-video/v2/cascade-media-player/clientlibs/site.ACSHASH131d95cf2ec0e511b73b264fa0c84059.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.428433+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/content/inline-video/v2/cascade-media-player/clientlibs/site.ACSHASH5ac5cef1715d0f536be472175d2b684f.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.428995+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/tabs/v2/tabs/clientlib/sites.ACSHASHd919b4465ed6b38fc0af9d555fafb18a.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.429573+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/carousel/v1/carousel/clientlibs/pricing-styles.ACSHASHbcdafd3e07059ae596973551430292fc.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.430149+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/reimagine/clientlib-sku-telemetry.ACSHASH05922ae5c69da5ad2aeae9f3b3a651a1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.430966+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/card-plan-detail-list/v1/card-plan-detail-list/clientlibs/xf-wrappers.ACSHASHe37d05d05b82af9f1891de599fca9e1a.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.431552+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-onecloud-util.ACSHASHf9af4146713cc77d59a4ab6cfe87ae75.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.432558+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHf9c4f2ed4e61ec88e9a455f543919e32.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.434200+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-product-pricing.ACSHASHde5a77dc6cdb73df9c3096397924a3f0.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.435001+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/onecloud/components/content/reimagine/foundation/action/v1/action/clientlibs/sites.ACSHASH28145ea922039d6e81d73391c55fb222.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.435307+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-localstorage.ACSHASHb884ef4864d6867bd00aa4a7a5cfb368.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.436123+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/clientlib-action.ACSHASH3d25c25f9dac7c8c4b7ed2fedb879a2f.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.437116+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/onecloud/clientlibs/reimagine/clientlib-sku-telemetry.ACSHASH05922ae5c69da5ad2aeae9f3b3a651a1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.438416+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/blade/card-grid/v2/card-grid/clientlibs/sites.ACSHASH381c7c29564e2bdcfb644bc9e89e18a4.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.438751+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/blade/card-grid/v2/card-grid/clientlibs/sites.ACSHASHd3ed62f0a4dc79a4924ea359d0a5062b.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.439669+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/blade/cross-sell/v1/cross-sell/clientlibs/sites.ACSHASH9baf0ae91739c6ce0713cf187b3d6380.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.440365+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/blade/cross-sell/v1/cross-sell/clientlibs/sites.ACSHASH34b9f42f54bffdaae9faa11eb9c2c24b.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.441374+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/blade/faqs/v2/faqs/clientlib/faqs.ACSHASH3e2bbf17b5bf77ae832449b6e06073ab.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.441678+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/CtaStacked-Account-664x498.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.442252+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/CtaStacked-Premium-664x498.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.443131+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/footnote/v2/footnote/clientlibs/site.ACSHASHd1da57737f7587d5304532e6afd0b53c.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.444834+00:00"
+    },
+    {
+      "url": "https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.445550+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/reimagine/clientlib-reimagine-base.ACSHASH81b1ef0c4a6b80454291234fcd6e45b0.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.445860+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-base.ACSHASHfe5587eb04b2ad6eb9775bdfa99b4735.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.446948+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/reimagine/clientlib-reimagine-base.ACSHASHf41d97440f6fa5cbbebf0321d674529b.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.447282+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-base.ACSHASH2b143bed0ff34bc70bc0703346f70e08.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.448275+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-click-group-telemetry.ACSHASHf25fec6821f63d701a6b6291a4011894.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.449555+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/clientlib-httpclient.ACSHASH81e898694b0509d4273f98ebfa8f3470.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.450537+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-cookieconsent.ACSHASHc892f451b0c4db9c8ab2601a427c9b2c.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.450905+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-cookievalidator.ACSHASH04b308d6872be66a642fe37e02b619c2.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.451474+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/structure/page/clientlibs/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.452034+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.ACSHASH4c30d1ab2ba2274e01c92dfd8b2ea529.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.452701+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHdec0d75e509be6ebf6b36ff24c516111.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.453482+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-chat.ACSHASHfa6f56b2d3037982772378233706c9af.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.454612+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-chat.ACSHASHb21767ddb88a6a72011a1e8a790118f8.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.455555+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-env/publisher.ACSHASHcd629aed3cfa3b0e32904897f5959c98.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.456515+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-utils.ACSHASHdf9f1aee11e26e2efda89e1d85b07bb3.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.457397+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-telemetry.ACSHASHa71f95bbc4bf3a79c3a1d5c63994ea67.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.458181+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-csp.ACSHASHd96f33132be65b878f1461ed46629ec7.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.458962+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-utils/inline-price.ACSHASH4f33c56ca437d2f1e3132d6f888f400c.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.459733+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-contact-sales.ACSHASH4a1a21c1176e98acf994a206329519ba.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.460553+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-contact-sales.ACSHASH7a524381cfd41a23a665d6a325c6f129.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.461341+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/microsoft/clientlibs/exp-cookiecomp/v1.ACSHASHa238861e6209e4e02576ddf5d1749c8b.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.462121+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/msonecloudapi/assets/ocv-feedback.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.462916+00:00"
+    },
+    {
+      "url": "https://play.vidyard.com/embed/v4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.463680+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Linkedin-2",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.464713+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/945629-twitter-x-logo-100x100",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.466087+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/868ct6rym-Instagram",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.466490+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ThreadsLogo",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.467311+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Social_Media_Logo_FB",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.468528+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/868ct6rym-TIKTOK",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.468978+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/youtube-socialmedia-icon-32x32",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.469767+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/msonecloudapi/assets/msocbody.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.470623+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/foundation/themes/deferred.ACSHASH997850b0d97f7d736eccbed477313ced.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.471476+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-reimagine/resources/fonts/segoe-sans/west-european/latest.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.474240+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-new/resources/fonts/MWFFluentIcons.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.478136+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365_FY26_Evergreen_ProductPage_Outlook_Header_Pedestal_Desktop_1600x632",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.793558+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagine-base.sc-fe5587eb04b2ad6eb9775bdfa99b4735-1792773000-sc.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.795385+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/free-productivity-apps-Background-CTA-Stacked",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.800782+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1032407-accordion-1.1-800x513",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.801196+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook-new-Interactive-Demo-Background-1600x999",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.802013+00:00"
+    },
+    {
+      "url": "https://uhf.microsoft.com/statics/20261021.14.40/js/index-BoAUqyYg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.354980+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v1.58.0/components/inline-price/index.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.148652+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/videoplayer/chunks/nl-nl-g5scdy2t.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.440642+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/4112500-outlook-agentmodedemo",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.441251+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook-new-InteractiveDemo-Connect-832x468",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.441993+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook-new-InteractiveDemo-Free-832x468",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.442630+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3442900-Resource-2-416x178",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.443253+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3442900-Coach-thumbnail",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.443886+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3442900-Summarize-thumbnail",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.444496+00:00"
+    },
+    {
+      "url": "https://uhf-exp-fd-gbcrdgggfbggh0g3.b02.azurefd.net/api/v1/tas",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.478892+00:00"
+    },
+    {
+      "url": "https://browser.events.data.microsoft.com/OneCollector/1.0/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:37:23.489021+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v1.58.0/lit-core.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.521020+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v1.58.0/base-elements.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.523033+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v1.58.0/utilities.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.523446+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v1.58.0/media-text-stack.const.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.524210+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v1.58.0/viewport.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:23.574582+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/msonecloudapi/m365/product/price",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:37:35.006639+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/msonecloudapi/m365/product/price",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:37:35.008354+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/msonecloudapi/m365/product/price",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:37:35.009296+00:00"
+    },
+    {
+      "url": "https://catalogapi.azure.com/search",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:37:35.009980+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/357148-m-365-copilot-video-update-0x720-3266k",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.507494+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1032407-accordion-1.2-800x513",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.515925+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalAccordion-1-3-656x504",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.516599+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1032407-accordion-1.4-800x513",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.517777+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalAccordion-2-1-656x504",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.518538+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalAccordion-2-2-656x504",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.519289+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalAccordion-2-3-656x504",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.520254+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/3676461-AgentMode-Outlook-AgentModeAccordian",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.521257+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalAccordion-3-3-656x504",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.522997+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalAccordion-3-4-656x504",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.524120+00:00"
+    },
+    {
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1032407-accordion-3.1-800x513",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.525022+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/cascadeauth/microsoft-365/account/silentauth",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.526107+00:00"
+    },
+    {
+      "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:36.694973+00:00"
+    },
+    {
+      "url": "https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_8k_MLTH5HA-ha6OAu4vroQ2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:37.106449+00:00"
+    },
+    {
+      "url": "https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:37.424145+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "A block or incomplete page cannot establish absence of tracking."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

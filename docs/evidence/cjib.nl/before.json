@@ -1,0 +1,999 @@
+{
+  "frames": [
+    {
+      "url": "https://www.cjib.nl/",
+      "title": "Home | CJIB.nl",
+      "text": "Overslaan en naar de inhoud gaan\nDirect regelen\nOver ons\nContact\nInloggen\nZoeken\nNL\nPas op, nepmails! Mail, SMS of WhatsApp-bericht van het CJIB ontvangen over niet-betaalde bedragen? Deze is vals! \nWaarmee kunnen wij u helpen?\nIk wil graag\nIk regel zaken voor mijn cliënt\nweten wat ik moet betalen\nmijn foto bekijken\nweten hoe ik kan betalen\nmijn betalingsregeling bekijken\neen betalingsregeling afspreken\nbezwaar maken\nSlachtoffers\n\nBent u slachtoffer van een misdrijf? Lees dan hier wat het CJIB doet in de behandeling van uw zaak. \n\nLees meer\nVerbindingsproblemen CJIB opgelost\n07 oktober 2026\nLees meer\nOver deze website\nPrivacy\nArchief\nSitemap\nChat.\n✕",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Overslaan en naar de inhoud gaan",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": -19744,
+            "y": 0,
+            "width": 255.875,
+            "height": 45.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(88, 47, 111)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "CJIB.nl, to homepage",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 652.6111450195312,
+            "y": 0,
+            "width": 244,
+            "height": 76
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(88, 47, 111)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(88, 47, 111)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Direct regelen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 81.61111450195312,
+            "y": 106,
+            "width": 155.54861450195312,
+            "height": 46.5
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(206, 196, 212)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Over ons",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 237.15972900390625,
+            "y": 106,
+            "width": 118.30555725097656,
+            "height": 46.5
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(206, 196, 212)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 355.46527099609375,
+            "y": 106,
+            "width": 88.8125,
+            "height": 46.5
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(206, 196, 212)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1009.9375,
+            "y": 106.36111450195312,
+            "width": 116.72222137451172,
+            "height": 45.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Zoeken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1132.6597900390625,
+            "y": 106.36111450195312,
+            "width": 107.50694274902344,
+            "height": 45.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "NL",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1246.1666259765625,
+            "y": 106.36111450195312,
+            "width": 76.94444274902344,
+            "height": 45.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Pas op, nepmails! Mail, SMS of WhatsApp-bericht van het CJIB ontvangen over niet-betaalde bedragen? Deze is vals!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 27.11111068725586,
+            "y": 188.1666717529297,
+            "width": 882.9583129882812,
+            "height": 20.88888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(225, 240, 250)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Dismiss notification",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1285.611083984375,
+            "y": 178.5,
+            "width": 37.5,
+            "height": 41
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(225, 240, 250)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Ik wil graag",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 27.11111068725586,
+            "y": 383.1736145019531,
+            "width": 648,
+            "height": 85.5
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(88, 47, 111)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Ik regel zaken voor mijn cliënt",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 27.11111068725586,
+            "y": 478.6736145019531,
+            "width": 648,
+            "height": 85.5
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(88, 47, 111)",
+            "background": "rgb(231, 226, 233)",
+            "effectiveBackground": "rgb(231, 226, 233)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(88, 47, 111)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "weten wat ik moet betalen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 699.1111450195312,
+            "y": 376.4583435058594,
+            "width": 600,
+            "height": 65.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "mijn foto bekijken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 699.1111450195312,
+            "y": 443.09722900390625,
+            "width": 600,
+            "height": 65.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "weten hoe ik kan betalen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 699.1111450195312,
+            "y": 509.7361145019531,
+            "width": 600,
+            "height": 65.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "mijn betalingsregeling bekijken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 699.1111450195312,
+            "y": 576.375,
+            "width": 600,
+            "height": 65.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "een betalingsregeling afspreken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 699.1111450195312,
+            "y": 643.013916015625,
+            "width": 600,
+            "height": 65.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "bezwaar maken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 699.1111450195312,
+            "y": 709.6527709960938,
+            "width": 600,
+            "height": 65.75
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Versturen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1080.611083984375,
+            "y": 948.3611450195312,
+            "width": 62.5,
+            "height": 67
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(88, 47, 111)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(88, 47, 111)",
+            "padding": "20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Slachtoffers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 51.11111068725586,
+            "y": 1628.25,
+            "width": 133.38194274902344,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 26,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Lees meer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 51.11111068725586,
+            "y": 1737.861083984375,
+            "width": 125.71527862548828,
+            "height": 41.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Verbindingsproblemen CJIB opgelost",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 711.1111450195312,
+            "y": 1627.8055419921875,
+            "width": 313.7638854980469,
+            "height": 23.55555534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(88, 47, 111)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Lees meer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 711.1111450195312,
+            "y": 1703.361083984375,
+            "width": 125.71527862548828,
+            "height": 41.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Over deze website",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 27.11111068725586,
+            "y": 1927.638916015625,
+            "width": 104.41666412353516,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 151.5277862548828,
+            "y": 1927.638916015625,
+            "width": 40.77083206176758,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Archief",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 212.29861450195312,
+            "y": 1927.638916015625,
+            "width": 40.16666793823242,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Sitemap",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 272.46527099609375,
+            "y": 1927.638916015625,
+            "width": 47.5625,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "✕",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1282.7847900390625,
+            "y": 749,
+            "width": 43.4375,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.cjib.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "Start de chatbot",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 64,
+        "height": 64
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.cjib.nl/",
+  "captured_at": "2026-11-03T15:19:55.356948+00:00",
+  "cookies": [
+    {
+      "name": "__Secure-PROFILE",
+      "domain": "cjib.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01c970c1",
+      "domain": "cjib.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS044b319c027",
+      "domain": "cjib.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-PROFILE",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS01c970c1",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "stg_traffic_source_priority",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": 1793720989,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pk_id.da52a009-c974-48f5-b0d2-40e92b5dc86d.f2ce",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": 1801495188,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.da52a009-c974-48f5-b0d2-40e92b5dc86d.f2ce",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": 1793720988,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "stg_last_interaction",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": 1825255189,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "stg_returning_visitor",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": 1825255189,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "TS044b319c027",
+      "domain": "www.cjib.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.cjib.nl",
+      "localKeys": [
+        "notifications"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "notifications"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://cjib.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:19:45.195354+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:19:45.535664+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/themes/custom/cjib/assets/fonts/RO-SansWebText-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.111157+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/themes/custom/cjib/assets/fonts/RO-SansWebText-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.215445+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/sites/default/files/css/css_y994Z1e43Cz0wEtbhtHNZIQDf3kk0CeFsVp1kan9gIE.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.216625+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/sites/default/files/css/css_faWc0I0u097H_PwALQ5IZfXseRcd-obyuUTgbI2MMrM.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.217957+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/themes/custom/cjib/dist/patterns/utilities/tailwind.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.219001+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/sites/default/files/styles/large/public/2026-09/d180331jh0019-1920.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.220080+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/sites/default/files/css/css_0m_rQ-8VqADiG4cqcsMmhve56do5aaftqjmxYsopcyk.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.221172+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/sites/default/files/js/js_hispt-X9MHH2UA6VuFq9kHIABkp4rWze3tibUQQYMpE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.222691+00:00"
+    },
+    {
+      "url": "https://cloudstatic.obi4wan.com/ngbots/obi-launcher.bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.223342+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/modules/custom/cjib_live_chat/js/obi-bots.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:46.224400+00:00"
+    },
+    {
+      "url": "https://statistiek.rijksoverheid.nl/da52a009-c974-48f5-b0d2-40e92b5dc86d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:47.204384+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/sites/default/files/styles/medium/public/2024-12/900x600%20263773106.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:19:47.263248+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/sites/default/files/styles/medium/public/2026-10/adobestock_1988115792.jpeg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:19:47.263875+00:00"
+    },
+    {
+      "url": "https://app.obi4wan.ai/api/public/widgets/6fc4d2d6-e609-49e1-9fab-0966abffa2c7/",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:19:48.051816+00:00"
+    },
+    {
+      "url": "https://statistiek.rijksoverheid.nl/ppms.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:19:48.477144+00:00"
+    },
+    {
+      "url": "https://cloudstatic.obi4wan.com/ngbots/custom.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:48.901229+00:00"
+    },
+    {
+      "url": "https://statistiek.rijksoverheid.nl/ppms.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:19:49.033032+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/modules/custom/cjib_live_chat/css/obi-bots.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:49.063330+00:00"
+    },
+    {
+      "url": "https://cloudstatic.obi4wan.com/ngbots/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:19:49.215357+00:00"
+    },
+    {
+      "url": "https://www.cjib.nl/themes/custom/cjib/assets/favicon/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:19:49.526467+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_pk_id.da52a009-c974-48f5-b0d2-40e92b5dc86d.f2ce",
+      "domain": "www.cjib.nl"
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

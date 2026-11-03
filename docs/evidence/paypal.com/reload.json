@@ -1,0 +1,2017 @@
+{
+  "frames": [
+    {
+      "url": "https://www.paypal.com/nl/home",
+      "title": "Geld overmaken, winkelen, betalingen beheren en nog veel meer | PayPal NL",
+      "text": "Persoonlijk\nBedrijf\nGeld overmaken en aanvragen\nVeilig betalen\nBetaal op jouw manier\n\nWinkel bij enkele van 's werelds grootste merken met PayPal. Wees gerust, wetende PayPal Aankoopbescherming1 achter je staat bij het winkelen voor in aanmerking komende aankopen.\n\nBetalen met PayPal\nLaad je digitale\nportemonnee\n\nDebetkaarten. Creditcards. Bankrekeningen. Sla al je favoriete betaalmethoden veilig op en volg je PayPal transacties.\n\nBetaalmethoden toevoegen\nBeveiliging die altijd beschikbaar is\n\nJe transacties en betalingen zijn versleuteld. PayPal deelt niet je volledige financiële gegevens met webwinkels.\n\nMeer weten\nSnel verzenden\nMaak snel en veilig geld over en verzoek om geld naar vrijwel overal,2 snel en veilig\nGeld overmaken\nVerzoek\n\nZoek op naam, gebruikersnaam, e-mailadres of telefoonnummer om snel, gemakkelijk en veilig te verzenden.\n\nGeld overmaken\n\nVeilig terugbetaald worden\n\nEen geldverzoek doen\n\nDownload de PayPal-app\n\nAlles in de\nPayPal-app\n\nBetaal, verzend en beheer je transacties eenvoudig en veilig, allemaal op één plek. Download de app op je telefoon of meld je gratis online aan.\n\nDownload de App\nAlle schermafbeeldingen zijn alleen ter illustratie.\n1\nAankoopbescherming is alleen beschikbaar voor in aanmerking komende aankopen. Tijdslimiet en andere voorwaarden zijn van toepassing. Raadpleeg het gedeelte over Aankoopbescherming in je lokale Gebruikersovereenkomst voor meer informatie.\n2\nEen account is vereist om geld te verzenden en te ontvangen. Er worden kosten in rekening gebracht voor het omrekenen van valuta en het overmaken van ander geld dan GBP naar een rekening in een ander land. Zie kosten.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "PayPal logo",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 32,
+            "y": 20,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 102, 245)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 102, 245)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Privé",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 104,
+            "y": 24,
+            "width": 83.61805725097656,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(255, 255, 255, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 32px 8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Zakelijk",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 191.61805725097656,
+            "y": 24,
+            "width": 105.1875,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(255, 255, 255, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 32px 8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Ontwikkelaar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 300.8055725097656,
+            "y": 24,
+            "width": 130.9652862548828,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(255, 255, 255, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Hulp",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 933.7430419921875,
+            "y": 24,
+            "width": 61.3819465637207,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(255, 255, 255, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1011.125,
+            "y": 20,
+            "width": 111.92361450195312,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Rekening openen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1139.048583984375,
+            "y": 20,
+            "width": 179.17361450195312,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Persoonlijk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 589.6111450195312,
+            "y": 139.0625,
+            "width": 97.47222137451172,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.24)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Bedrijf",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 689.0833129882812,
+            "y": 139.0625,
+            "width": 71.52083587646484,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.24)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Betalen met PayPal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 187.73611450195312,
+            "y": 2704.84716796875,
+            "width": 188.4375,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(5, 55, 130, 0.08)",
+            "effectiveBackground": "rgba(5, 55, 130, 0.08)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Betaalmethoden toevoegen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 784.9166870117188,
+            "y": 3534.52783203125,
+            "width": 261.4583435058594,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(5, 55, 130, 0.08)",
+            "effectiveBackground": "rgba(5, 55, 130, 0.08)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Meer weten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 187.73611450195312,
+            "y": 4535.77099609375,
+            "width": 134.59722900390625,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(5, 55, 130, 0.08)",
+            "effectiveBackground": "rgba(5, 55, 130, 0.08)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Geld overmaken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 174.98611450195312,
+            "y": 6282.34716796875,
+            "width": 403.9513854980469,
+            "height": 59.25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 41, 145)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Verzoek",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 174.98611450195312,
+            "y": 6341.59716796875,
+            "width": 209.09722900390625,
+            "height": 59.25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 41, 145)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Geld overmaken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 187.73611450195312,
+            "y": 6929.59716796875,
+            "width": 171.3333282470703,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(204, 204, 204, 0.28)",
+            "effectiveBackground": "rgba(204, 204, 204, 0.28)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Een geldverzoek doen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 187.73611450195312,
+            "y": 6929.59716796875,
+            "width": 218.7708282470703,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(204, 204, 204, 0.28)",
+            "effectiveBackground": "rgba(204, 204, 204, 0.28)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Download de PayPal-app",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1091.2222900390625,
+            "y": 776,
+            "width": 235,
+            "height": 100
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Download de App",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 583.5416870117188,
+            "y": 7899.09716796875,
+            "width": 183.13888549804688,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(255, 255, 255, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Hulp",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 183.44444274902344,
+            "y": 8077.08349609375,
+            "width": 32.70833206176758,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Contactgegevens",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 240.1527862548828,
+            "y": 8077.08349609375,
+            "width": 121.15972137451172,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Kosten",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 385.3125,
+            "y": 8077.08349609375,
+            "width": 47.8125,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Veiligheid",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 457.125,
+            "y": 8077.08349609375,
+            "width": 69.84722137451172,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Apps",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 550.9722290039062,
+            "y": 8077.08349609375,
+            "width": 36.1944465637207,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Shopping",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 611.1666870117188,
+            "y": 8077.08349609375,
+            "width": 67.68055725097656,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Enterprise",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 702.8472290039062,
+            "y": 8077.08349609375,
+            "width": 71.33333587646484,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Partners",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 798.1805419921875,
+            "y": 8077.08349609375,
+            "width": 57.84027862548828,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "EU Digital Services Act",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 880.0208129882812,
+            "y": 8077.08349609375,
+            "width": 152.7152862548828,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Netherlands",
+          "tag": "A",
+          "context": "Hulp\nContactgegevens\nKosten\nVeiligheid\nApps\nShopping\nEnterprise\nPartners\nEU Digital Services Act\nNetherlands\nInfo\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 180.4375,
+            "y": 8116.3056640625,
+            "width": 114.46527862548828,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Land- of regiokiezer sluiten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1296.2222900390625,
+            "y": 920,
+            "width": 32,
+            "height": 32
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 102, 245)",
+            "background": "rgba(5, 55, 130, 0.08)",
+            "effectiveBackground": "rgba(5, 55, 130, 0.08)",
+            "fontSize": 14.7619,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 102, 245)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Info",
+          "tag": "A",
+          "context": "Info\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 183.44444274902344,
+            "y": 8183.47216796875,
+            "width": 27.47222328186035,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Newsroom",
+          "tag": "A",
+          "context": "Info\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 234.9166717529297,
+            "y": 8183.47216796875,
+            "width": 76.25,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Vacatures",
+          "tag": "A",
+          "context": "Info\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 335.1666564941406,
+            "y": 8183.47216796875,
+            "width": 67.45833587646484,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Ontwikkelaar",
+          "tag": "A",
+          "context": "Info\nNewsroom\nVacatures\nOntwikkelaar\n© 1999 - 2026\nToegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 426.625,
+            "y": 8183.47216796875,
+            "width": 93.59027862548828,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Toegankelijkheid",
+          "tag": "A",
+          "context": "Toegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 750.1458129882812,
+            "y": 8183.47216796875,
+            "width": 118.11805725097656,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "Toegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 892.263916015625,
+            "y": 8183.47216796875,
+            "width": 50.09722137451172,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Cookies",
+          "tag": "A",
+          "context": "Cookies",
+          "box": {
+            "x": 966.3611450195312,
+            "y": 8183.47216796875,
+            "width": 55.13888931274414,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Legal",
+          "tag": "A",
+          "context": "Toegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 1045.5,
+            "y": 8183.47216796875,
+            "width": 36.90972137451172,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "Klachten",
+          "tag": "A",
+          "context": "Toegankelijkheid\nPrivacy\nCookies\nLegal\nKlachten",
+          "box": {
+            "x": 1106.4097900390625,
+            "y": 8183.47216796875,
+            "width": 60.36805725097656,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "Gebruikersovereenkomst",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 624.3402709960938,
+            "y": 8317.5830078125,
+            "width": 177.2708282470703,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "Zie kosten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 689.1736450195312,
+            "y": 8367.5830078125,
+            "width": 71.06944274902344,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.paypal.com/nl/home"
+    },
+    {
+      "url": "https://www.paypalobjects.com/web/res/4fb/63c8a7a503762a46e777ea28ad88b/recaptcha/grcenterprise_v3.html",
+      "title": "",
+      "text": "\n\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://www.paypalobjects.com/web/res/4fb/63c8a7a503762a46e777ea28ad88b/recaptcha/grcenterprise_v3.html"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/anchor",
+      "title": "reCAPTCHA",
+      "text": "\n\n\n      recaptcha.anchor.Main.init(\"[\\x22ainput\\x22,[\\x22bgdata\\x22,null,null,null,\\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\\\\u003d\\x22],null,[\\x22conf\\x22,null,\\x226LdZXVcsAAAAAJKTQe5_Qe4pEYCfVFkVSVaNXM1M\\x22,0,null,null,null,1,[21,125,63,73,95,87,41,43,42,83,102,105,109,121],[6081985,542],0,null,null,null,null,0,null,0,1,700,1,null,0,\\x22CvQCEg8I8ajhFRgAOgZUOU5CNWISDwjmjuIVGAA6BlFCb29IYxIPCLOKoDgYAToGTFdKNWtiEg8IgezoFRgBOgZIdXZQamYSDwiunus3GAA6BkdiaU9RZBIPCPeI5jcYADoGb2lsZURkEg8I8M3jFRgBOgZmSVZJaGISDwjiyqA3GAE6BmdMTkNIYxIPCN6/tzcYAToGZWF6dTZkEg8It/vdOBgBOgZqR1R5UmMSDgi45ZQyGAE6BVFCT0QwEg8IqO+/OBgAOgZHRlVOY2YSDwi1s6s4GAE6Bm9yWVY2ZBIPCNLblTcYADoGZmZhV0FlEg8IldiUMhgBOgZQcTYwbmQSDwirkco4GAA6BkFaNE5iYhIPCMXziDcYADoGYVhvaWFjEg8IzOTvFRgAOgZyNmZqb2MSDwiNyoYyGAE6Bk93TjR0ZhIOCIr9iDcYADoFTWZJSTQaIAgDEhwdHf3NgTUZp4oJGa7gpQIZzJVAGZi5TBmI7RQZ\\x22,0,0,null,null,1,null,null,0,null,null,0,1,\\x22efb7961a821cf8d50b38ddbb03815f0d3d2dbc9115fb3cc95a6063001bb18c51\\x22],\\x22[Malformed URL omitted]\");\n    Je bent geverifieerdbeveiligd met reCAPTCHA",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://www.recaptcha.net/recaptcha/enterprise/anchor"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/bframe",
+      "title": "reCAPTCHA",
+      "text": "\n\n      \n        recaptcha.frame.Main.init(\"[\\x22finput\\x22,null,[\\x22conf\\x22,null,\\x226LdZXVcsAAAAAJKTQe5_Qe4pEYCfVFkVSVaNXM1M\\x22,0,null,null,0.75,null,[21,125,63,73,95,87,41,43,42,83,102,105,109,121]]]\");\n      \n    Verifiëren",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://www.recaptcha.net/recaptcha/enterprise/bframe"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.paypal.com/nl/home",
+  "captured_at": "2026-11-03T14:58:22.618760+00:00",
+  "cookies": [
+    {
+      "name": "ddgl",
+      "domain": ".paypal.com",
+      "path": "/smartchat/open/eligibility",
+      "expires": 1793718779.21862,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "domain": "www.recaptcha.net",
+      "path": "/recaptcha",
+      "expires": 1809269897.848512,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "LANG",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1793749455.110346,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "enforce_policy",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1825253899.110251,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "nsid",
+      "domain": "www.paypal.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts_c",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1825253898.110566,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "l7_az",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1793719698.110471,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookie_prefs",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1809485887.555378,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datadome",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1796309896.284472,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-pp-s",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tsrce",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1793977098.110429,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "domain": ".paypal.com",
+      "path": "/",
+      "expires": 1825253898.110519,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dd_s",
+      "domain": "www.paypal.com",
+      "path": "/",
+      "expires": 1793718802,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.paypal.com",
+      "localKeys": [
+        "pa_feature_mod"
+      ],
+      "sessionKeys": [
+        "getItem"
+      ]
+    },
+    {
+      "origin": "https://www.paypalobjects.com",
+      "localKeys": [
+        "_grecaptcha"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.recaptcha.net",
+      "localKeys": [
+        "rc::a",
+        "rc::f"
+      ],
+      "sessionKeys": [
+        "rc::b",
+        "rc::c"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_grecaptcha"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "rc::a",
+        "rc::f"
+      ],
+      "sessionKeys": [
+        "rc::b",
+        "rc::c"
+      ]
+    },
+    {
+      "origin": "https://www.recaptcha.net",
+      "localKeys": [
+        "rc::a",
+        "rc::f"
+      ],
+      "sessionKeys": [
+        "rc::b",
+        "rc::c"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.paypal.com/nl/home",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:14.641827+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T14:58:14.643908+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/globalnav/js/main-CagHxxYo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.234676+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components/fonts/PayPal%20Pro/PayPalProSWeb-Book.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.235158+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components/fonts/PayPal%20Pro/PayPalProSWeb-Black.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.235950+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components/fonts/PayPalPro/PayPalProTextVFWeb.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.236667+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-com-components-pds60-Bxi9GaB7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.237368+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/rolldown-runtime-Dd_uD5pT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.238013+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/react-Dur4fizb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.239048+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-react-icons.esm-DpXc3BUF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.239709+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/datadog-DNPX-sGw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.240382+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/rolldown-runtime-CEFd7nDs-BCZFoyCZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.241232+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/jsx-runtime-DK-0J77g.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.243204+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-react-theme.esm-w8gi7zMy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.244662+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/pp-com-components-pds60-sAWDx4AP.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.245708+00:00"
+    },
+    {
+      "url": "https://ddbm2.paypal.com/tags.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.246509+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/webcaptcha/ngrlCaptcha.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.253136+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/themes/paypal60-DJqhL8L_.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.253609+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/helpers-D6s78pYR.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.260502+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/TextGroupTemplate-7eTwo2M9.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.261372+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/HomepageHero-Cvb27bqe.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.262136+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/StickyQrBadge-CxXGkpIO.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.263109+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/globalnav/css/themes/tailwind-properties-09746872.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.264175+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/globalnav/css/themes/paypal60-C8Np0cJk.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.264885+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/globalnav/css/main-h6rr7q38.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.265547+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/web23/row/consumer/homepage/eur-en/mkt-eur-page-homepage-consumer-component-hero-size-tablet-up-suite-all.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.266139+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/csplog/api/log/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.298256+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/TextHeaderInner-CUx2U-o3.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.441708+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/SplitSectionItem-DrG4-a4R.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.451609+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/SplitSection-bvwBw1My.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.452080+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/Spacer-CNMe14Gq.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.453017+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/StackSection-CEdYxq8a.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.453771+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/TextSection-BosYhd5F.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.454594+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/ProductScrollSection-Dnx6-cj8.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.455587+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/pp-com-components-pds60/component-chunks/CtaClosingRebrand-BOR9pr6R.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.456391+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/martech/tm/paypal/gtm-bootstrap.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.457161+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ncs/ncs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.457968+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/auth/createchallenge/45b6e84fd9fb4830/recaptchav3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.458665+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/web/logos/paypal-mark-color_new.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.518335+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ncs/paypal/mapping.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.530922+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/myaccount/privacy/cookieprefs/getBanner",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.531884+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/HomepageHeroRebrand-jZEqN-qC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.539550+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/HomepageHero-DzPe7K96-Do3CHPCd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.539995+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextGroup-B1w35326.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.540739+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/AppDownloadGroup-DyftM6cW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.541654+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/AppDownloadTemplate-Mmu4NaQP-C5N-6_Fs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.542580+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/QrCode-_4JN-SiB-CBmOccmM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.543350+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/axios-DOGj7BWV-rwkU29nV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.544180+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextGroupTemplate-CANgkf3H-Db1IaBo1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.545309+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/PpReactCurrencyInput-Db3iFIqB-BEuONvAw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.546409+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/QrCodeDeepLinkGroup-BC1DqxVF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.547169+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/use-will-change-K6q55utn-D39vFQnk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.547800+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/BrandMoment-Vi_mgnDj-BFRerGCz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.548488+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/MinimalImageFrame-DMStZ62v-Dq2bi7iF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.549918+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/Hero.utils-CDZk5NWq-J_aqvS7K.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.550688+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/use-animate-Dzd2e9_f-7ExutraV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.551487+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/use-unmount-effect-Bu2eYZRM-CMv5X8PU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.552471+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/single-value-DwY1Qdst-9fqIU_uv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.553235+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/MinimalMediaFrame-rS7TVUKt-B7sMwVwy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.553832+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/HeroVideoAnimation-DtDBA_w--DhO7EgLd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.554512+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/layout-DQZ4xWf1-CMIQlklK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.555188+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/MinimalTextGroup-pg4ochgL-DbbWe-7y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.555873+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SplitSectionType-CTQ_cZU9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.556524+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SplitSection-CuzV4S-6-DyEmldRG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.557142+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextHeaderInner-D0Ft27Le-C5TGnXz-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.558001+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SplitSectionItem-7RA-op4--VITUaktj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.560019+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StackSectionType-BJxcacBB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.562832+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StackSection-DPtpPRl1-DFz41-bs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.563363+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/Spacer-BENOYjtq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.564286+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/BrandMomentSection-pe0Mwo_X.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.565108+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextSectionType-DWYue5HY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.565917+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/TextSection-ByZFildP-C52ORzCn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.566782+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/ProductScrollType-BfAgWNRM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.567602+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/ProductScrollSection-CJ9ASXmr-Dgni1-E3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.568561+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/modules-C7q71fQe-DDkUBOkk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.569496+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/useStickyElementHeight-D4Ni6ruA-CyG3eWny.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.570433+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/useSubNavHeight-0LYiv7wj-uul8HPn0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.571376+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/SubNav.utils-Dz355VYq-CwinK2WJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.572254+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StickyQRBadge-wQlU73gy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.573098+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/StickyQrBadge-CM__E2c6-Bw2dvF5I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.574804+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/AnimatePresence-7Aok2tYj-DiUAbwrs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.575760+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/ppcmsnodeweb/pp-com-components-pds60/CtaClosingRebrand-COPbENaN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.576747+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/csplog/api/log/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.581744+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.606873+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.609570+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.611110+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.612832+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/web/us/test-demo/qr-stealth/paypal-mark-black.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.681623+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/paypal-ui/logos/svg/asset-logo-paypal-secondary-alt.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.690428+00:00"
+    },
+    {
+      "url": "https://paypalobjects.com/marketing/web/US/en/quantum-leap/home/qrcode_sticky.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.745851+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/web/US/en/quantum-leap/home/qrcode_sticky.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.825714+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/myaccount/privacy/cookieprefs/cookies",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.858986+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/pa/js/min/pa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.871360+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/web/res/4fb/63c8a7a503762a46e777ea28ad88b/recaptcha/grcenterprise_v3.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.882073+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.892341+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.895386+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:15.896259+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/martech/tm/paypal/mktgtagmanager.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.897460+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/pa/mi/paypal/latmconf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.897796+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/helpcenter/smartchat/sales/v1/open-chat.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.924900+00:00"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.965478+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/martech/tm/paypal/mktconf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.968072+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/smartchat/open/eligibility",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T14:58:15.971537+00:00"
+    },
+    {
+      "url": "https://t.paypal.com/ts",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:16.001869+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:16.008486+00:00"
+    },
+    {
+      "url": "https://t.paypal.com/ts",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:16.056701+00:00"
+    },
+    {
+      "url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T14:58:16.089119+00:00"
+    },
+    {
+      "url": "https://ddbm2.paypal.com/js/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:16.090763+00:00"
+    },
+    {
+      "url": "https://browser-intake-us5-datadoghq.com/api/v2/rum",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:16.091828+00:00"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/anchor",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:16.177229+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:16.219909+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:16.220402+00:00"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/webworker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:17.086889+00:00"
+    },
+    {
+      "url": "https://t.paypal.com/ts",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:17.089743+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__nl.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T14:58:17.240112+00:00"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/bframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:17.528876+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:17.587440+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:17.588072+00:00"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/reload",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:17.776075+00:00"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/userverify",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:17.877842+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/auth/verifygrcenterprise",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:17.934821+00:00"
+    },
+    {
+      "url": "https://www.recaptcha.net/recaptcha/enterprise/clr",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:17.939569+00:00"
+    },
+    {
+      "url": "https://www.paypal.com/myaccount/privacy/cookieprefs/cookies",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T14:58:18.868263+00:00"
+    },
+    {
+      "url": "https://ddbm2.paypal.com/js/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:22.551487+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

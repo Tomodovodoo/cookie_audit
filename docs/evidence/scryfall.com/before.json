@@ -1,0 +1,1209 @@
+{
+  "frames": [
+    {
+      "url": "https://scryfall.com/",
+      "title": "Scryfall Magic: The Gathering Search",
+      "text": "Skip to main content\nSkip to footer\nScryfall\nFind cards\n\nAdvanced Search\nSyntax Guide\nAll Sets\nRandom Card\n\nNEW\nStar Trek full preview\nNEW\nStar Trek Commander full preview\nNEW\nStardates Bonus Sheet full preview\nNEW\nReality Fracture full preview\nFind your polling place\n\nCARDS\nAdvanced Search\nSyntax Guide\nAll Sets\nYour Decks\nRandom Card\nSCRYFALL\nSlack & Discord Bots\nSite FAQs & Help\nScryfall Blog\nScryfall Tagger\nMTG Wiki\nArt Game\nApril Fools Archive\nACCOUNT\nYour Account\nRegister\nTerms of Service\nContact Us\nPrivacy & Security\nDEVELOPERS\nAPI Documentation\nCard Objects\nCard Imagery\nBulk Data\nAPI Changelog\nMORE\nOur Team\nDonate to Scryfall\nPatreon\nBluesky\nGitHub\n\nPortions of Scryfall are unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. The literal and graphical information presented on this site about Magic: The Gathering, including card images and mana symbols, is copyright Wizards of the Coast, LLC. Scryfall is not produced by or endorsed by Wizards of the Coast.\n\nThe Slack, Discord, Cash App, PayPal, and Patreon logos are copyright their respective owners. Scryfall is not produced by or endorsed by these services.\n\nCard prices and promotional offers represent daily estimates and/or market values provided by our affiliates. Absolutely no guarantee is made for any price information. See stores for final prices and details.\n\nAll other content © 2026 Scryfall, LLC.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Skip to main content",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": -500,
+            "y": -500,
+            "width": 200,
+            "height": 34.17361068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 255)",
+            "background": "rgb(255, 250, 227)",
+            "effectiveBackground": "rgb(255, 250, 227)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(253, 253, 253)",
+            "padding": "5px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Skip to footer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": -500,
+            "y": -500,
+            "width": 200,
+            "height": 34.17361068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 255)",
+            "background": "rgb(255, 250, 227)",
+            "effectiveBackground": "rgb(255, 250, 227)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(253, 253, 253)",
+            "padding": "5px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Scryfall",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421.1111145019531,
+            "y": 383.5,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 32, 56)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Advanced Search",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 463.3888854980469,
+            "y": 455.1388854980469,
+            "width": 128.3125,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(255, 255, 255, 0.09)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.09)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Syntax Guide",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 597.701416015625,
+            "y": 455.1388854980469,
+            "width": 103.6388931274414,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(255, 255, 255, 0.09)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.09)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "All Sets",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 707.3402709960938,
+            "y": 455.1388854980469,
+            "width": 67.875,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(255, 255, 255, 0.09)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.09)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Random Card",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 781.2152709960938,
+            "y": 455.1388854980469,
+            "width": 105.61805725097656,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(255, 255, 255, 0.09)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.09)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(255, 255, 255, 0.6)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "NEW Star Trek full preview",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 584.763916015625,
+            "y": 495.1388854980469,
+            "width": 180.69444274902344,
+            "height": 22.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 32, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.8)",
+            "padding": "3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "NEW Star Trek Commander full preview",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 545.4791870117188,
+            "y": 517.5833129882812,
+            "width": 259.2638854980469,
+            "height": 22.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 32, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.8)",
+            "padding": "3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "NEW Stardates Bonus Sheet full preview",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 542.3472290039062,
+            "y": 540.0277709960938,
+            "width": 265.5208435058594,
+            "height": 22.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 32, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.8)",
+            "padding": "3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "NEW Reality Fracture full preview",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 563.5069580078125,
+            "y": 562.4722290039062,
+            "width": 223.2083282470703,
+            "height": 22.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 32, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.8)",
+            "padding": "3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Find your polling place",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 586.1666870117188,
+            "y": 586.9166870117188,
+            "width": 177.88888549804688,
+            "height": 24.22222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 32, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(255, 255, 255, 0.15)",
+            "padding": "3px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Advanced Search",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 957.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Syntax Guide",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 978.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "All Sets",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 999.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Random Card",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 175.11111450195312,
+            "y": 1020.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Slack & Discord Bots",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 345.1111145019531,
+            "y": 957.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Site FAQs & Help",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 345.1111145019531,
+            "y": 978.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Scryfall Blog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 345.1111145019531,
+            "y": 999.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Scryfall Tagger",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 345.1111145019531,
+            "y": 1020.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "MTG Wiki",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 345.1111145019531,
+            "y": 1041.111083984375,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Art Game",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 345.1111145019531,
+            "y": 1062.111083984375,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "April Fools Archive",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 345.1111145019531,
+            "y": 1083.111083984375,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Your Account",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 515.1111450195312,
+            "y": 957.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Register",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 515.1111450195312,
+            "y": 978.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Terms of Service",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 515.1111450195312,
+            "y": 999.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Contact Us",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 515.1111450195312,
+            "y": 1020.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Privacy & Security",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 515.1111450195312,
+            "y": 1041.111083984375,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "API Documentation",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 685.1111450195312,
+            "y": 957.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Card Objects",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 685.1111450195312,
+            "y": 978.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Card Imagery",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 685.1111450195312,
+            "y": 999.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Bulk Data",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 685.1111450195312,
+            "y": 1020.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "API Changelog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 685.1111450195312,
+            "y": 1041.111083984375,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Our Team",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.1111450195312,
+            "y": 957.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Donate to Scryfall",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.1111450195312,
+            "y": 978.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Patreon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.1111450195312,
+            "y": 999.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Bluesky",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.1111450195312,
+            "y": 1020.1111450195312,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "GitHub",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.1111450195312,
+            "y": 1041.111083984375,
+            "width": 160,
+            "height": 21
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(204, 204, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(25, 24, 31)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://scryfall.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://scryfall.com/",
+  "captured_at": "2026-11-03T15:11:00.453947+00:00",
+  "cookies": [
+    {
+      "name": "_ga_3P82LCZY01",
+      "domain": ".scryfall.com",
+      "path": "/",
+      "expires": 1828278653.240583,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".scryfall.com",
+      "path": "/",
+      "expires": 1828278653.427939,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "domain": ".scryfall.com",
+      "path": "/",
+      "expires": 1793805053,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_83673358_1",
+      "domain": ".scryfall.com",
+      "path": "/",
+      "expires": 1793718713,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://scryfall.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://scryfall.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.859010+00:00"
+    },
+    {
+      "url": "https://scryfall.com/assets/scryfall-bcfe57781c5c40ac087ec0315190ba0a697f9b8e8cd2e601e1017e70cc4ce405.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.986959+00:00"
+    },
+    {
+      "url": "https://scryfall.com/assets/flags/us-7dbc41eb742143c7d66ef6b614a57c697f0ea4f4e3d60f86538967d2a05e4a8f.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.991748+00:00"
+    },
+    {
+      "url": "https://cards.scryfall.io/grid/front/f/e/fe5dda31-159c-49c7-962e-a04b771256ea.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.992292+00:00"
+    },
+    {
+      "url": "https://cards.scryfall.io/grid/front/5/0/50ae3d9d-e269-4a83-9b2d-cfe34f5f0f78.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.993179+00:00"
+    },
+    {
+      "url": "https://cards.scryfall.io/grid/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.993845+00:00"
+    },
+    {
+      "url": "https://cards.scryfall.io/grid/front/7/1/7149df19-4833-47ca-8add-b897f55b930c.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.994913+00:00"
+    },
+    {
+      "url": "https://scryfall.com/assets/scryfall-893c32ba7a9f2f707a87d0e66261bc74c8fab26676d9cbc16026faeedf9ae7ad.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.995788+00:00"
+    },
+    {
+      "url": "https://cards.scryfall.io/grid/front/2/3/236e9bcf-ced2-4bee-8188-41dd94df02da.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.996394+00:00"
+    },
+    {
+      "url": "https://cards.scryfall.io/grid/front/4/d/4d9fcb2a-b4fa-4990-861c-789926052104.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.997035+00:00"
+    },
+    {
+      "url": "https://cards.scryfall.io/grid/front/f/9/f9fa20c5-f241-4da2-9c99-c9b650095d74.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.997946+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.998357+00:00"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:52.999040+00:00"
+    },
+    {
+      "url": "https://scryfall.com/assets/marketing/celebration-whirl-d18e2aae7b77a71fef1e998680a2a62f7a703e20c05cd1b83401a09f843c2dd7.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:53.082995+00:00"
+    },
+    {
+      "url": "https://scryfall.com/assets/marketing/celebration-d08042ea0cde176bda954b8545a5d84f163d8e6205ef2e642e18a1c5f402073a.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:10:53.083647+00:00"
+    },
+    {
+      "url": "https://scryfall.com/assets/lato/semibold-440d366009f76240327139dd5a54397c330f77c972999f3c8852d0e0b6c9d862.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:10:53.084885+00:00"
+    },
+    {
+      "url": "https://scryfall.com/assets/lato/regular-09208bfe1af7ceeb515e82cb87b83acdfd3071a779eaf174957847548cf603a2.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:10:53.085862+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:53.251605+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:10:53.252388+00:00"
+    },
+    {
+      "url": "https://scryfall.com/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:10:53.259918+00:00"
+    },
+    {
+      "url": "https://cloudflareinsights.com/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:10:53.262116+00:00"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:10:53.353242+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_3P82LCZY01",
+      "domain": ".scryfall.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".scryfall.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gid",
+      "domain": ".scryfall.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gat_gtag_UA_83673358_1",
+      "domain": ".scryfall.com"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cloudflareinsights.com/cdn-cgi/rum",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}
