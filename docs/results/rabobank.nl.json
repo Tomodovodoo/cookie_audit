@@ -1,0 +1,59 @@
+{
+  "rank": 103,
+  "domain": "rabobank.nl",
+  "name": "rabobank.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T14:53:34.510950+00:00",
+  "run": {
+    "started_at": "2026-11-03T14:53:34.017640+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 3,
+    "egress_country": "NL",
+    "version": "0.1.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "pass",
+      "reason": "Refusal completed with one click and the choice interface disappeared."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "persists": {
+      "status": "pass",
+      "reason": "Refusal survived a reload of the resulting page."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "WEIGEREN"
+    }
+  ],
+  "evidence": "evidence/rabobank.nl/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Particulieren - Rabobank"
+}

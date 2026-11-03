@@ -1,0 +1,45 @@
+{
+  "rank": 55,
+  "domain": "bol.com",
+  "name": "bol.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T14:53:34.510025+00:00",
+  "run": {
+    "started_at": "2026-11-03T14:53:34.017640+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 3,
+    "egress_country": "NL",
+    "version": "0.1.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 200)."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/bol.com/before.json",
+  "outcome": "blocked"
+}

@@ -33,6 +33,7 @@ Chrome is launched through Playwright with `--enable-automation` removed and `--
 - `prepare.py`: country ranking, adult filtering and tracker input snapshots.
 - `audit.py` and `inspect.js`: isolated browser journeys and redacted evidence capture.
 - `rules.py`: explicit matching and scoring rules. No site-specific pass/fail overrides.
+- `rescore.py`: reapply corrected rules to existing captures.
 - `build.py`: public JSON/CSV, sorting metadata, evidence hashes and documented company groupings.
 - `docs/`: buildless HTML/CSS/JS plus evidence and results, published using GitHub Pages.
 

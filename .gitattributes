@@ -1,0 +1,9 @@
+docs/evidence/** linguist-generated=true
+docs/results/** linguist-generated=true
+docs/audit.json linguist-generated=true
+docs/audit.csv linguist-generated=true
+docs/evidence-sha256.json linguist-generated=true
+data/** linguist-generated=true
+* text=auto eol=lf
+*.png binary
+*.jpg binary
