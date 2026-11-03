@@ -1,5 +1,5 @@
 """Build the public dataset from captures. Untested entries remain explicit."""
-import argparse,csv, hashlib, json, shutil
+import argparse,csv, hashlib, json, shutil,re
 from datetime import datetime,timezone
 from pathlib import Path
 ROOT=Path(__file__).parent
@@ -46,6 +46,10 @@ def main(domains=None,sites_path=ROOT/'data/sites.json'):
     rows.sort(key=lambda r:(-r['failures'],r.get('rank') or 999999,r['domain']))
     output={'generated_at':datetime.now(timezone.utc).isoformat(),'custom_cohort':custom,'input_manifest':sites_path.name,'sources':json.loads((ROOT/'data/sources.json').read_text(encoding='utf-8')),'excluded':0 if custom else len(json.loads((ROOT/'data/excluded.json').read_text(encoding='utf-8'))),'supplemental':sum(r['cohort']=='Supplemental .nl global ranking' for r in rows),'rows':rows}
     (docs/'audit.json').write_text(json.dumps(output,ensure_ascii=False,indent=2),encoding='utf-8')
+    index=docs/'index.html'
+    if index.exists():
+        version=hashlib.sha256((docs/'app.js').read_bytes()+(docs/'audit.json').read_bytes()).hexdigest()[:16]
+        index.write_text(re.sub(r'src="app\.js(?:\?v=[0-9a-f]+)?"',f'src="app.js?v={version}"',index.read_text(encoding='utf-8')),encoding='utf-8')
     with (docs/'audit.csv').open('w',newline='',encoding='utf-8-sig') as f:
         writer=csv.writer(f);writer.writerow(['Company / site','Group','Website','Cohort','NL source rank','Supplemental global rank','Outcome']+KEYS+['Tested UTC','Evidence'])
         for r in rows:writer.writerow([r['name'],r.get('company') or 'Unverified','https://'+r['domain'],r['cohort'],r.get('rank'),r.get('global_rank'),r['outcome']]+[r['checks'][k]['status'] for k in KEYS]+[r.get('tested_at',''),r.get('evidence') or r.get('result_file','')])

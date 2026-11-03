@@ -2,6 +2,7 @@ const keys=['reject','prominence','before','after','persists'];
 const labels={reject:'Cookie rejection',prominence:'Equal prominence',before:'No tracking before consent',after:'No tracking after refusal and reload',persists:'Refusal persists'};
 const glyph={pass:'✓',fail:'✕',unknown:'~'};
 const $=id=>document.getElementById(id);
+const buildVersion=new URL(document.currentScript.src).searchParams.get('v')||'manual';
 let data,filtered=[],page=0;const size=30;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function render(){
@@ -19,4 +20,4 @@ $('close').onclick=()=>$('details').close();$('details').addEventListener('click
 $('rows').addEventListener('click',e=>{const b=e.target.closest('[data-domain]');if(b)details(b.dataset.domain)});
 for(const id of ['search','filter','sort'])$(id).addEventListener(id==='search'?'input':'change',()=>{page=0;render()});
 $('prev').onclick=()=>{page--;render()};$('next').onclick=()=>{page++;render()};
-fetch('audit.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(d=>{data=d;$('attempted').textContent=d.rows.filter(r=>r.outcome!=='not_tested').length;$('findings').textContent=d.rows.filter(r=>r.failures>0).length;$('observed').textContent=d.rows.filter(r=>r.outcome==='observed').length;$('updated').textContent=`Built ${new Date(d.generated_at).toLocaleString()}. ${d.custom_cohort?'Custom manifest: '+d.input_manifest+'.':d.excluded+' adult-filter exclusions from the source top 1,000. '+(d.supplemental||0)+' separately labelled .nl supplements.'} This is an observational screen, not a legal verdict.`;render()}).catch(e=>{$('rows').innerHTML='<tr><td colspan="7">Results could not be loaded. Refresh the page or download audit.csv.</td></tr>';$('updated').textContent='Data unavailable: '+e.message});
+fetch('audit.json?v='+encodeURIComponent(buildVersion),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(d=>{data=d;$('attempted').textContent=d.rows.filter(r=>r.outcome!=='not_tested').length;$('findings').textContent=d.rows.filter(r=>r.failures>0).length;$('observed').textContent=d.rows.filter(r=>r.outcome==='observed').length;$('updated').textContent=`Built ${new Date(d.generated_at).toLocaleString()}. ${d.custom_cohort?'Custom manifest: '+d.input_manifest+'.':d.excluded+' adult-filter exclusions from the source top 1,000. '+(d.supplemental||0)+' separately labelled .nl supplements.'} This is an observational screen, not a legal verdict.`;render()}).catch(e=>{$('rows').innerHTML='<tr><td colspan="7">Results could not be loaded. Refresh the page or download audit.csv.</td></tr>';$('updated').textContent='Data unavailable: '+e.message});
