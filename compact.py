@@ -12,6 +12,7 @@ def main():
         for p in folder.glob('*.json'):
             state=sanitise_state(json.loads(p.read_text(encoding='utf-8')))
             if state.get('captured_at','')<row['tested_at']:continue
+            if state.get('blocked'):state.pop('screenshot',None)
             for frame in state.get('frames',[]):
                 for control in frame.get('controls',[]):control['context']=control.get('context','')[:400]
             state['context_excerpt_limit']=400

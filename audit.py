@@ -1,5 +1,5 @@
 """Resumable Chrome/CDP consent audit. Run `python audit.py --help`."""
-import argparse, asyncio, hashlib, json, os, re, shutil, socket, subprocess, tempfile, time, urllib.request
+import argparse, asyncio, hashlib, json, os, re, shutil, socket, subprocess, tempfile, time, urllib.request, uuid
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -15,9 +15,14 @@ def save(path,value):
     path.parent.mkdir(parents=True,exist_ok=True)
     tmp=path.with_suffix('.tmp'); tmp.write_text(json.dumps(value,ensure_ascii=False,indent=2),encoding='utf-8'); tmp.replace(path)
 def safe_url(url):
-    u=urlsplit(url)
-    return f'{u.scheme}://{u.netloc}{u.path}' if u.scheme in ('http','https') else u.scheme+':'
+    try:u=urlsplit(url)
+    except ValueError:return '[Malformed URL omitted]'
+    return f'{u.scheme}://{u.netloc.rsplit("@",1)[-1]}{u.path}' if u.scheme in ('http','https') else u.scheme+':'
 def sanitise_state(state):
+    main=(state.get('frames') or [{}])[0]
+    if state.get('blocked') or (state.get('http_status') and state['http_status']>=400) or BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200]):
+        state['blocked']=True
+        for frame in state.get('frames',[]):frame['text']='[Block-page text omitted to protect network identifiers.]';frame['controls']=[]
     for frame in state.get('frames',[]):
         text=frame.get('text','')
         if 'loadTimeDataRaw' in text or text.lstrip().startswith(("'use strict';",'"use strict";')) or frame.get('url','').startswith('chrome-error:'):
@@ -54,7 +59,9 @@ async def inspect(page):
                 for c in data['controls']:
                     b=c['box']
                     c['inViewport']=bool(c['inViewport'] and box and box['x']+b['x']>=0 and box['y']+b['y']>=0 and box['x']+b['x']+b['width']<=viewport['width'] and box['y']+b['y']+b['height']<=viewport['height'])
-            for c in data['controls']:c['frame']=len(frames)
+            if not hasattr(frame,'cookie_audit_frame_id'):frame.cookie_audit_frame_id=uuid.uuid4().hex
+            data['frame_id']=frame.cookie_audit_frame_id
+            for c in data['controls']:c['frame']=len(frames);c['frame_id']=frame.cookie_audit_frame_id
             data['frame_url']=safe_url(frame.url)
             frames.append(data)
         except Exception as e:errors.append(type(e).__name__)
@@ -74,7 +81,8 @@ async def snapshot(page,context,requests,folder,stage,mapping):
     verdict,signals,uncertain=tracking(clean,requests,mapping)
     if state['frame_errors'] and verdict['status']=='pass':verdict=result('unknown','Some frames could not be inspected.')
     main=state['frames'][0] if state['frames'] else {}
-    blocked=bool(BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200]))
+    state['http_status']=getattr(page,'cookie_audit_http_status',None)
+    blocked=bool(state['http_status'] and state['http_status']>=400 or BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200]))
     if not state['frames'] or blocked:
         verdict=result('unknown','A block or incomplete page cannot establish absence of tracking.')
     state.update({'captured_at':now(),'cookies':clean,'storage_keys':storage,'requests':list(requests),'tracking':verdict,'signals':signals,'uncertain_signals':uncertain})
@@ -94,12 +102,19 @@ async def snapshot(page,context,requests,folder,stage,mapping):
 async def click(page,control):
     # Find by the instrumented node id in the matching frame, including open shadow roots.
     for frame in page.frames:
+        if not control.get('frame_id') or getattr(frame,'cookie_audit_frame_id',None)!=control['frame_id']:continue
         loc=frame.locator('[data-cookie-audit="'+control['id']+'"]')
         try:
             if await loc.count() and await loc.first.evaluate("e => (e.innerText || e.getAttribute('aria-label') || e.value || '').trim().replace(/\\s+/g,' ')")==control['text']:
                 await loc.first.click(timeout=5000); return True
         except Exception:continue
     return False
+
+def watch_page(page):
+    def response(res):
+        if res.request.resource_type=='document' and res.frame==page.main_frame:page.cookie_audit_http_status=res.status
+    page.on('response',response)
+    page.on('dialog',lambda d:d.dismiss())
 
 async def navigate(page,url,wait):
     response=await page.goto(url,wait_until='domcontentloaded',timeout=35000)
@@ -129,9 +144,8 @@ async def audit_site(browser,site,args,mapping,metadata):
             if excluded(host,adult): await route.abort()
             else:await route.continue_()
         await context.route('**/*',guard)
-        page=await context.new_page(); requests=[]
+        page=await context.new_page();watch_page(page); requests=[]
         context.on('request',lambda req: requests.append({'url':safe_url(req.url),'resource_type':req.resource_type,'method':req.method,'at':now()}))
-        page.on('dialog',lambda d: d.dismiss())
         status=await navigate(page,'https://'+site['domain'],args.wait)
         before=await snapshot(page,context,requests,folder,'before',mapping)
         main=before['frames'][0] if before['frames'] else {}
@@ -174,10 +188,10 @@ async def audit_site(browser,site,args,mapping,metadata):
             elif row['checks']['reject']['status']=='pass':row['checks']['reject']=result('pass','Refusal completed with one click and the choice interface disappeared.')
             if advertising_consent_remains(state):row['checks']['reject']=result('fail','After refusal, the consent manager still reported advertising or special-feature consent. See the captured consent_state receipt.')
             requests.clear()
-            await navigate(page,page.url,args.wait)
+            reload_status=await navigate(page,page.url,args.wait)
             reloaded=await snapshot(page,context,requests,folder,'reload',mapping)
             rm=reloaded['frames'][0] if reloaded['frames'] else {}
-            if not rm or reloaded['frame_errors'] or reloaded.get('blocked') or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
+            if not rm or (reload_status and reload_status>=400) or reloaded['frame_errors'] or reloaded.get('blocked') or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
             elif candidates(reloaded,ACCEPT):row['checks']['persists']=result('fail','Consent interface reappeared after refusing and reloading.')
             else:row['checks']['persists']=result('pass','Refusal survived a reload of the resulting page.')
             row['checks']['after']=max([row['checks']['after'],reloaded['tracking']],key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
@@ -190,7 +204,7 @@ async def audit_site(browser,site,args,mapping,metadata):
             await context.close();contexts.remove(context)
             accepted=await browser.new_context(locale='nl-NL',timezone_id='Europe/Amsterdam',viewport={'width':1365,'height':900},accept_downloads=False)
             contexts.append(accepted); await accepted.route('**/*',guard)
-            ap=await accepted.new_page(); ar=[]
+            ap=await accepted.new_page();watch_page(ap); ar=[]
             accepted.on('request',lambda req:ar.append({'url':safe_url(req.url),'resource_type':req.resource_type,'method':req.method,'at':now()}))
             await navigate(ap,'https://'+site['domain'],args.wait)
             ast=await inspect(ap); opts=candidates(ast,ACCEPT)
@@ -222,7 +236,7 @@ async def main(args):
     if args.limit:sites=sites[:args.limit]
     if not args.force:sites=[s for s in sites if not (ROOT/'docs/results'/f'{s["domain"]}.json').exists()]
     if not sites:print('No untested sites. Use --force to repeat.');return
-    metadata={'started_at':now(),'browser_mode':'headless' if args.headless else 'stock Chrome offscreen','locale':'nl-NL','timezone':'Europe/Amsterdam','viewport':'1365x900','wait_seconds':args.wait,'workers':args.workers,'egress_country':args.country,'accept_control_enabled':not args.skip_accept,'version':'0.1.1'}
+    metadata={'started_at':now(),'browser_mode':'headless' if args.headless else 'stock Chrome offscreen','locale':'nl-NL','timezone':'Europe/Amsterdam','viewport':'1365x900','wait_seconds':args.wait,'workers':args.workers,'egress_country':args.country,'accept_control_enabled':not args.skip_accept,'version':'0.2.0'}
     async with async_playwright() as p:
         browser=await p.chromium.launch(executable_path=args.chrome,headless=args.headless,ignore_default_args=['--enable-automation'],args=['--window-position=-32000,-32000','--disable-blink-features=AutomationControlled'])
         try:

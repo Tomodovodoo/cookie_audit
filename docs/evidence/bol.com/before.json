@@ -3,84 +3,8 @@
     {
       "url": "https://www.bol.com/",
       "title": "bol",
-      "text": "\n\n\n\nIP address is blocked\n\nYour access to bol has been temporarily blocked due to possible abuse from this IP address.\n\n\nThis may be caused by several factors, including:\nUse of a VPN: Please turn off your VPN and try accessing the site again.\nOutdated browser or browser extensions: Make sure you're using the latest version of a browser such as Safari, Chrome, Firefox, or Microsoft Edge. Also, disable any unnecessary plugins.\nAutomated scripts: If you're using a script that collects data automatically from bol.com, please refer to our Developer Guide for more information.\n\nAdditionally, the block may be caused by malicious software on your device.\nWe recommend installing up-to-date antivirus or anti-spyware software and running a full scan of your device.\n\nFor more information, you can contact our customer service by email at: customerservice@bol.com\nPlease always mention your IP address so we can assist you more effectively.\n\n\n\n\nIf you're a developer and are interested in interfacing with bol, check out our developer guides on developers.bol.com for information about our Open API program.\n\n",
-      "controls": [
-        {
-          "id": "ca-0",
-          "text": "customerservice@bol.com",
-          "tag": "A",
-          "context": "",
-          "box": {
-            "x": 847.3680419921875,
-            "y": 806.1805419921875,
-            "width": 200.81944274902344,
-            "height": 18.66666603088379
-          },
-          "inViewport": true,
-          "style": {
-            "color": "rgb(0, 0, 255)",
-            "background": "rgba(0, 0, 0, 0)",
-            "effectiveBackground": "rgba(0, 0, 0, 0)",
-            "fontSize": 16,
-            "fontWeight": "400",
-            "borderWidth": 0,
-            "borderColor": "rgb(0, 0, 255)",
-            "padding": "0px"
-          },
-          "disabled": false,
-          "frame": 0
-        },
-        {
-          "id": "ca-1",
-          "text": "IP address",
-          "tag": "A",
-          "context": "",
-          "box": {
-            "x": 599.7777709960938,
-            "y": 830.1805419921875,
-            "width": 76.97916412353516,
-            "height": 18.66666603088379
-          },
-          "inViewport": true,
-          "style": {
-            "color": "rgb(0, 0, 255)",
-            "background": "rgba(0, 0, 0, 0)",
-            "effectiveBackground": "rgba(0, 0, 0, 0)",
-            "fontSize": 16,
-            "fontWeight": "400",
-            "borderWidth": 0,
-            "borderColor": "rgb(0, 0, 255)",
-            "padding": "0px"
-          },
-          "disabled": false,
-          "frame": 0
-        },
-        {
-          "id": "ca-2",
-          "text": "developers.bol.com",
-          "tag": "A",
-          "context": "",
-          "box": {
-            "x": 430.1666564941406,
-            "y": 935.9583129882812,
-            "width": 148.69444274902344,
-            "height": 18.66666603088379
-          },
-          "inViewport": false,
-          "style": {
-            "color": "rgb(0, 0, 255)",
-            "background": "rgba(0, 0, 0, 0)",
-            "effectiveBackground": "rgba(0, 0, 0, 0)",
-            "fontSize": 16,
-            "fontWeight": "400",
-            "borderWidth": 0,
-            "borderColor": "rgb(0, 0, 255)",
-            "padding": "0px"
-          },
-          "disabled": false,
-          "frame": 0
-        }
-      ],
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
       "webdriver": false,
       "language": "nl-NL",
       "viewport": {
@@ -220,5 +144,6 @@
   },
   "signals": [],
   "uncertain_signals": [],
-  "context_excerpt_limit": 400
+  "context_excerpt_limit": 400,
+  "blocked": true
 }

@@ -17,6 +17,9 @@ def main():
             if state.get('frame_errors') and state['tracking']['status']=='pass':state['tracking']=result('unknown','Some frames could not be inspected.')
             states[p.stem]=state;save(p,state)
         if 'before' not in states:continue
+        if states['before'].get('blocked'):
+            row['outcome']='blocked';row['checks']={k:result('unknown','Page blocked browser verification; not an assessable visit.') for k in row['checks']}
+            save(path,row);count+=1;continue
         ease,prominence=ui_rules(states['before'])
         row['checks']['prominence']=prominence
         if ease['status']=='fail':row['checks']['reject']=ease
@@ -26,7 +29,7 @@ def main():
             else:row['checks']['reject']=result('unknown','Refusal control recognised by updated rules; journey needs a new capture.')
         row['checks']['before']=states['before']['tracking']
         refusal=states.get('reject-'+str(len(row.get('steps',[]))))
-        if refusal and refusal.get('frame_errors'):
+        if refusal and (refusal.get('frame_errors') or refusal.get('blocked')):
             if row['checks']['reject']['status']=='pass':row['checks']['reject']=result('unknown','Refusal interface could not be fully inspected.')
             row['checks']['after']=result('unknown','Refusal completion could not be verified across all frames.')
             row['checks']['persists']=result('unknown','Refusal completion could not be verified across all frames.')
@@ -34,8 +37,8 @@ def main():
             names=sorted(n for n in states if n.startswith('reject-') and int(n.split('-')[1])<=len(row.get('steps',[])))
             checks=[states[n]['tracking'] for n in ([names[-1]] if names else [])+(['reload'] if 'reload' in states else [])]
             if checks:row['checks']['after']=max(checks,key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
-        if states.get('reload',{}).get('frame_errors') and row['checks']['persists']['status']=='pass':row['checks']['persists']=result('unknown','Reload frames could not be fully inspected.')
+        if (states.get('reload',{}).get('frame_errors') or states.get('reload',{}).get('blocked')) and row['checks']['persists']['status'] in ('pass','fail'):row['checks']['persists']=result('unknown','Reload was blocked or could not be fully inspected.')
         if refusal and advertising_consent_remains(refusal):row['checks']['reject']=result('fail','After refusal, the consent manager still reported advertising or special-feature consent. See the captured consent_state receipt.')
-        row['rules_version']='0.1.1';save(path,row);count+=1
+        row['rules_version']='0.2.0';save(path,row);count+=1
     print(f'Rescored {count} observed results. Captures and timestamps retained.')
 if __name__=='__main__':main()
