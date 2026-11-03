@@ -1,7 +1,7 @@
 """Prepare completed evidence for publication; archive superseded capture files locally."""
 import json,shutil
 from pathlib import Path
-from audit import ROOT,save
+from audit import ROOT,save,sanitise_state
 def main():
     archived=0;count=0
     for result_path in (ROOT/'docs/results').glob('*.json'):
@@ -10,7 +10,7 @@ def main():
         if not folder.exists():continue
         keep=set()
         for p in folder.glob('*.json'):
-            state=json.loads(p.read_text(encoding='utf-8'))
+            state=sanitise_state(json.loads(p.read_text(encoding='utf-8')))
             if state.get('captured_at','')<row['tested_at']:continue
             for frame in state.get('frames',[]):
                 for control in frame.get('controls',[]):control['context']=control.get('context','')[:400]

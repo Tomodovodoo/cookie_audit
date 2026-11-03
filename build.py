@@ -30,11 +30,11 @@ def main(domains=None):
         row['passes']=sum(v['status']=='pass' for v in row['checks'].values())
         rows.append(row)
     rows.sort(key=lambda r:(-r['failures'],r.get('rank') or 999999,r['domain']))
-    output={'generated_at':datetime.now(timezone.utc).isoformat(),'sources':json.loads((ROOT/'data/sources.json').read_text(encoding='utf-8')),'excluded':len(json.loads((ROOT/'data/excluded.json').read_text(encoding='utf-8'))),'rows':rows}
+    output={'generated_at':datetime.now(timezone.utc).isoformat(),'sources':json.loads((ROOT/'data/sources.json').read_text(encoding='utf-8')),'excluded':len(json.loads((ROOT/'data/excluded.json').read_text(encoding='utf-8'))),'supplemental':sum(r['cohort']=='Supplemental .nl global ranking' for r in rows),'rows':rows}
     (docs/'audit.json').write_text(json.dumps(output,ensure_ascii=False,indent=2),encoding='utf-8')
     with (docs/'audit.csv').open('w',newline='',encoding='utf-8-sig') as f:
-        writer=csv.writer(f);writer.writerow(['Company / site','Group','Website','NL source rank','Outcome']+KEYS+['Tested UTC','Evidence'])
-        for r in rows:writer.writerow([r['name'],r.get('company') or 'Unverified','https://'+r['domain'],r.get('rank'),r['outcome']]+[r['checks'][k]['status'] for k in KEYS]+[r.get('tested_at',''),r.get('evidence','')])
+        writer=csv.writer(f);writer.writerow(['Company / site','Group','Website','Cohort','NL source rank','Supplemental global rank','Outcome']+KEYS+['Tested UTC','Evidence'])
+        for r in rows:writer.writerow([r['name'],r.get('company') or 'Unverified','https://'+r['domain'],r['cohort'],r.get('rank'),r.get('global_rank'),r['outcome']]+[r['checks'][k]['status'] for k in KEYS]+[r.get('tested_at',''),r.get('evidence','')])
     manifest={str(p.relative_to(docs)).replace('\\','/'):hashlib.sha256(p.read_bytes().replace(b'\r\n',b'\n') if p.suffix=='.json' else p.read_bytes()).hexdigest() for p in (docs/'evidence').rglob('*') if p.is_file() and (domains is None or p.parent.name in domains)} if (docs/'evidence').exists() else {}
     (docs/'evidence-sha256.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     for name in ['sources.json','excluded.json'] :shutil.copyfile(ROOT/'data'/name,docs/name)

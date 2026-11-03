@@ -1,8 +1,8 @@
 """Reapply current screening rules to captured evidence without revisiting websites."""
 import json
 from pathlib import Path
-from audit import ROOT,save,tracker_map
-from rules import result,tracking,ui_rules
+from audit import ROOT,save,tracker_map,sanitise_state
+from rules import result,tracking,ui_rules,advertising_consent_remains
 def main():
     mapping=tracker_map();count=0
     for path in (ROOT/'docs/results').glob('*.json'):
@@ -10,15 +10,17 @@ def main():
         if row['outcome']!='observed':continue
         folder=ROOT/'docs/evidence'/row['domain'];states={}
         for p in folder.glob('*.json'):
-            state=json.loads(p.read_text(encoding='utf-8'))
+            state=sanitise_state(json.loads(p.read_text(encoding='utf-8')))
             if 'cookies' not in state:continue
             state['tracking'],state['signals'],state['uncertain_signals']=tracking(state['cookies'],state['requests'],mapping)
+            if state.get('blocked'):state['tracking']=result('unknown','Block page, not a completed observation.')
             if state.get('frame_errors') and state['tracking']['status']=='pass':state['tracking']=result('unknown','Some frames could not be inspected.')
             states[p.stem]=state;save(p,state)
         if 'before' not in states:continue
         ease,prominence=ui_rules(states['before'])
         row['checks']['prominence']=prominence
         if ease['status']=='fail':row['checks']['reject']=ease
+        elif ease['status']=='unknown' and states['before'].get('frame_errors'):row['checks']['reject']=ease
         elif ease['status']=='pass' and row['checks']['reject']['status']=='fail':
             if row.get('steps') and len(row['steps'])>1:pass
             else:row['checks']['reject']=result('unknown','Refusal control recognised by updated rules; journey needs a new capture.')
@@ -33,6 +35,7 @@ def main():
             checks=[states[n]['tracking'] for n in ([names[-1]] if names else [])+(['reload'] if 'reload' in states else [])]
             if checks:row['checks']['after']=max(checks,key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
         if states.get('reload',{}).get('frame_errors') and row['checks']['persists']['status']=='pass':row['checks']['persists']=result('unknown','Reload frames could not be fully inspected.')
+        if refusal and advertising_consent_remains(refusal):row['checks']['reject']=result('fail','After refusal, the consent manager still reported advertising or special-feature consent. See the captured consent_state receipt.')
         row['rules_version']='0.1.1';save(path,row);count+=1
     print(f'Rescored {count} observed results. Captures and timestamps retained.')
 if __name__=='__main__':main()

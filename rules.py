@@ -11,6 +11,11 @@ ANALYTICS_COOKIE = re.compile(r'^(_ga($|_)|_gid$|_gat|_pk_id|AMCV_|s_vi$|_clck$|
 BLOCK = re.compile(r'^(just a moment|access denied|attention required|403 forbidden|robot or human|security check)|IP address is blocked|temporarily blocked|verify you are human|checking your browser|unusual traffic|bevestig dat je (een mens|geen robot)|toegang geweigerd',re.I)
 
 def result(status, reason): return {'status':status,'reason':reason}
+def advertising_consent_remains(state):
+    for receipt in state.get('consent_state',{}).get('providers',[]):
+        if receipt.get('provider')=='Cookiebot' and receipt.get('hasResponse') and 'marketing' in receipt.get('optionalGranted',[]):return True
+        if receipt.get('provider')=='IAB TCF' and receipt.get('gdprApplies') is True and receipt.get('eventStatus')=='useractioncomplete' and (set(receipt.get('purposesGranted',[]))&{'3','4'} or receipt.get('specialFeaturesGranted')):return True
+    return False
 def candidates(state, pattern):
     return [c for f in state.get('frames',[]) for c in f.get('controls',[]) if c.get('context') and not c.get('disabled') and pattern.search(c['text'])]
 def rgb(text):
@@ -26,7 +31,9 @@ def ui_rules(state):
     unknown=result('unknown','No unambiguous accept/refuse pair found in a consent interface.')
     if not a:return unknown,unknown
     a=max(a,key=lambda c:c['inViewport'])
-    if not r:return result('fail','Accept is offered on the first layer; no direct refusal control was detected.'),result('fail','No refusal control detected alongside the first-layer accept control.')
+    if not r:
+        if state.get('frame_errors'):return result('unknown','Refusal absence cannot be established while a frame is inaccessible.'),result('unknown','Incomplete frame inspection prevents a prominence verdict.')
+        return result('fail','Accept is offered on the first layer; no direct refusal control was detected.'),result('fail','No refusal control detected alongside the first-layer accept control.')
     r=max(r,key=lambda c:c['inViewport'])
     ease=result('pass','Direct refusal control detected on the first layer; completion checked separately.')
     if a['inViewport'] and not r['inViewport']:return result('fail','Accept is visible; refusal requires scrolling.'),result('fail','Refusal is outside the initial viewport.')

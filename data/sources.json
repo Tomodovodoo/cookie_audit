@@ -13,5 +13,12 @@
     "url": "https://raw.githubusercontent.com/disconnectme/disconnect-tracking-protection/master/services.json",
     "retrieved": "2026-11-03T14:47:13.184598+00:00",
     "sha256": "80e1bf6844c55f4901dcace193c2689c91aad3901804bd408fc3df049190e557"
+  },
+  "supplemental_global_ranking": {
+    "url": "https://netapi.com/netapi_top1mln.csv",
+    "retrieved": "2026-11-03T15:26:15.860547+00:00",
+    "sha256": "c4a9fbe7f50811c01d73cc4bdb559f922f00e6363ca0e91fb5b200088794bb44",
+    "selected": 124,
+    "method": "Highest globally ranked eligible .nl domains absent from the filtered country cohort; not assigned a Netherlands rank."
   }
 }

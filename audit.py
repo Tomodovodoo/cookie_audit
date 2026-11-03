@@ -4,10 +4,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
 from playwright.async_api import async_playwright
-from rules import ACCEPT, REJECT, SETTINGS, BLOCK, candidates, result, tracking, ui_rules
+from rules import ACCEPT, REJECT, SETTINGS, BLOCK, candidates, result, tracking, ui_rules,advertising_consent_remains
+from exclusions import excluded
 
 ROOT=Path(__file__).parent
 INSPECT=(ROOT/'inspect.js').read_text(encoding='utf-8')
+CONSENT_STATE=(ROOT/'consent-state.js').read_text(encoding='utf-8')
 def now():return datetime.now(timezone.utc).isoformat()
 def save(path,value):
     path.parent.mkdir(parents=True,exist_ok=True)
@@ -15,6 +17,19 @@ def save(path,value):
 def safe_url(url):
     u=urlsplit(url)
     return f'{u.scheme}://{u.netloc}{u.path}' if u.scheme in ('http','https') else u.scheme+':'
+def sanitise_state(state):
+    for frame in state.get('frames',[]):
+        text=frame.get('text','')
+        if 'loadTimeDataRaw' in text or text.lstrip().startswith(("'use strict';",'"use strict";')) or frame.get('url','').startswith('chrome-error:'):
+            frame['text']='[Browser error/configuration or script text omitted.]';frame['controls']=[]
+    def clean(value):
+        if isinstance(value,str):
+            value=value.replace('\\/','/')
+            return re.sub(r'https?://[^\s\"\'<>]+',lambda m:safe_url(m.group(0)),value)
+        if isinstance(value,list):return [clean(x) for x in value]
+        if isinstance(value,dict):return {k:clean(v) for k,v in value.items()}
+        return value
+    return clean(state)
 def tracker_map():
     out={}
     for category,companies in json.loads((ROOT/'data/trackers.json').read_text(encoding='utf-8'))['categories'].items():
@@ -47,6 +62,8 @@ async def inspect(page):
 
 async def snapshot(page,context,requests,folder,stage,mapping):
     state=await inspect(page)
+    try:state['consent_state']=await asyncio.wait_for(page.evaluate(CONSENT_STATE),3)
+    except Exception:state['consent_state']={'providers':[],'unavailable':True}
     cookies=await context.cookies()
     # Never publish cookie values, storage values, request bodies, query strings, or auth headers.
     clean=[{k:c[k] for k in ('name','domain','path','expires','httpOnly','secure','sameSite') if k in c} for c in cookies]
@@ -57,13 +74,20 @@ async def snapshot(page,context,requests,folder,stage,mapping):
     verdict,signals,uncertain=tracking(clean,requests,mapping)
     if state['frame_errors'] and verdict['status']=='pass':verdict=result('unknown','Some frames could not be inspected.')
     main=state['frames'][0] if state['frames'] else {}
-    if not state['frames'] or BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200]):
+    blocked=bool(BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200]))
+    if not state['frames'] or blocked:
         verdict=result('unknown','A block or incomplete page cannot establish absence of tracking.')
     state.update({'captured_at':now(),'cookies':clean,'storage_keys':storage,'requests':list(requests),'tracking':verdict,'signals':signals,'uncertain_signals':uncertain})
-    try:
-        await page.screenshot(path=str(folder/(stage+'.jpg')),type='jpeg',quality=65,full_page=False,timeout=15000,animations='disabled')
-        state['screenshot']=stage+'.jpg'
-    except Exception as e:state['screenshot_error']=type(e).__name__
+    state['blocked']=blocked
+    if blocked:
+        for f in state['frames']:
+            f['text']='[Block-page text omitted to protect network identifiers.]';f['controls']=[]
+    else:
+        try:
+            await page.screenshot(path=str(folder/(stage+'.jpg')),type='jpeg',quality=65,full_page=False,timeout=15000,animations='disabled')
+            state['screenshot']=stage+'.jpg'
+        except Exception as e:state['screenshot_error']=type(e).__name__
+    state=sanitise_state(state)
     save(folder/(stage+'.json'),state)
     return state
 
@@ -102,7 +126,7 @@ async def audit_site(browser,site,args,mapping,metadata):
         adult=set(json.loads((ROOT/'data/adult-domains.json').read_text(encoding='utf-8')))
         async def guard(route):
             host=urlsplit(route.request.url).hostname or ''
-            if any('.'.join(host.split('.')[i:]) in adult for i in range(len(host.split('.')))): await route.abort()
+            if excluded(host,adult): await route.abort()
             else:await route.continue_()
         await context.route('**/*',guard)
         page=await context.new_page(); requests=[]
@@ -111,7 +135,7 @@ async def audit_site(browser,site,args,mapping,metadata):
         status=await navigate(page,'https://'+site['domain'],args.wait)
         before=await snapshot(page,context,requests,folder,'before',mapping)
         main=before['frames'][0] if before['frames'] else {}
-        blocked=status in (401,403,429,451,503) or BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200])
+        blocked=before.get('blocked') or status in (401,403,429,451,503) or BLOCK.search(main.get('title','')) or BLOCK.search(main.get('text','')[:1200])
         if blocked or (len(main.get('text',''))<80 and not candidates(before,ACCEPT)):
             # Block screens can expose an egress IP. Keep redacted JSON only.
             (folder/'before.png').unlink(missing_ok=True)
@@ -143,16 +167,17 @@ async def audit_site(browser,site,args,mapping,metadata):
                 # A surviving choice interface is not evidence of successful rejection.
                 if not candidates(state,ACCEPT):break
         final_main=state['frames'][0] if state['frames'] else {}
-        complete=refusal_clicked and not candidates(state,ACCEPT) and bool(state['frames']) and not state['frame_errors'] and not BLOCK.search(final_main.get('text','')[:1200]) and not BLOCK.search(final_main.get('title',''))
+        complete=refusal_clicked and not candidates(state,ACCEPT) and bool(state['frames']) and not state['frame_errors'] and not state.get('blocked') and not BLOCK.search(final_main.get('text','')[:1200]) and not BLOCK.search(final_main.get('title',''))
         if complete:
             row['checks']['after']=state['tracking']
             if len(row['steps'])>1 and accept_seen:row['checks']['reject']=result('fail',f'Refusal required {len(row["steps"])} clicks; acceptance was offered directly.')
             elif row['checks']['reject']['status']=='pass':row['checks']['reject']=result('pass','Refusal completed with one click and the choice interface disappeared.')
+            if advertising_consent_remains(state):row['checks']['reject']=result('fail','After refusal, the consent manager still reported advertising or special-feature consent. See the captured consent_state receipt.')
             requests.clear()
             await navigate(page,page.url,args.wait)
             reloaded=await snapshot(page,context,requests,folder,'reload',mapping)
             rm=reloaded['frames'][0] if reloaded['frames'] else {}
-            if not rm or reloaded['frame_errors'] or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
+            if not rm or reloaded['frame_errors'] or reloaded.get('blocked') or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
             elif candidates(reloaded,ACCEPT):row['checks']['persists']=result('fail','Consent interface reappeared after refusing and reloading.')
             else:row['checks']['persists']=result('pass','Refusal survived a reload of the resulting page.')
             row['checks']['after']=max([row['checks']['after'],reloaded['tracking']],key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])

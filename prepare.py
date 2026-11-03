@@ -2,6 +2,7 @@
 import csv, hashlib, io, json, re, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
+from exclusions import EXPLICIT,excluded as nsfw
 
 ROOT = Path(__file__).parent
 DATA = ROOT / 'data'
@@ -20,16 +21,15 @@ def main():
     write('sources.json', {key:{'url':url,'retrieved':datetime.now(timezone.utc).isoformat(),'sha256':hashlib.sha256(raw[key]).hexdigest()} for key,url in sources.items()})
     (DATA/'ranking.csv').write_bytes(raw['ranking'])
     adult = {line.split()[1].removeprefix('www.') for line in raw['adult_filter'].decode().splitlines() if line.startswith(('0.0.0.0 ', '127.0.0.1 ')) and len(line.split())>1}
-    extra = {'onlyfans.com','fansly.com','hasmoves.com','chaturbate.com','stripchat.com','xhamster.com','xvideos.com','xnxx.com','pornhub.com'}
-    adult |= extra
+    adult |= EXPLICIT
     rows, excluded = [], []
     for item in csv.reader(io.StringIO(raw['ranking'].decode('utf-8-sig'))):
         if len(item)<2 or not item[0].isdigit(): continue
         rank, domain = int(item[0]), item[1].strip().lower().removeprefix('www.')
         if not re.fullmatch(r'[a-z0-9.-]+\.[a-z]{2,}',domain): raise ValueError(domain)
         record = {'rank':rank,'domain':domain,'name':domain,'company':None,'cohort':'NetAPI Netherlands top 1000'}
-        if any(domain==x or domain.endswith('.'+x) for x in adult) or re.search(r'porn|xxx|hentai|sexvideo',domain):
-            excluded.append({**record,'reason':'adult domain filter'}); continue
+        if nsfw(domain,adult):
+            excluded.append({**record,'reason':'adult blocklist or conservative NSFW exclusion'}); continue
         rows.append(record)
     # User-requested calibration sites stay explicit if absent from the ranked sample.
     for domain in ['bol.com','abnamro.nl','rabobank.nl','nrc.nl','ad.nl','marktplaats.nl']:
