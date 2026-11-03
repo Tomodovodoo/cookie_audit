@@ -219,5 +219,6 @@
     "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
   },
   "signals": [],
-  "uncertain_signals": []
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400
 }

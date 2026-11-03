@@ -21,7 +21,7 @@
   "checks": {
     "reject": {
       "status": "fail",
-      "reason": "Refusal required 2 clicks; acceptance was offered directly."
+      "reason": "Accept is offered on the first layer; no direct refusal control was detected."
     },
     "prominence": {
       "status": "fail",
@@ -60,5 +60,6 @@
   },
   "outcome": "observed",
   "http_status": 200,
-  "title": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek"
+  "title": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+  "rules_version": "0.1.1"
 }

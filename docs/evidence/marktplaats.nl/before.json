@@ -9461,7 +9461,7 @@
           "id": "ca-3",
           "text": "Doorgaan zonder te accepteren",
           "tag": "BUTTON",
-          "context": "Mogen we cookies gebruiken?\n\nOm Marktplaats beter voor jou te laten werken, het gebruik van onze app te kunnen analyseren en jou relevante advertenties te kunnen tonen en jou ook buiten onze app te kunnen bereiken, maken wij gebruik van persoonlijke data, namelijk cookies en gepseudonimiseerde gebruikersdata. Daarnaast maken wij en onze 189 partners gebruik van cookies en vergelijkbare technieken om gepersonaliseerde advertenties en content te leveren, advertentie- en contentmetingen te kunnen doen, doelgroepenonderzoek uit te voeren en diensten te ontwikkelen, informatieve apparaatkenmerken te gebruiken en je precieze geolocatie te bepalen.\n\n\n\n\nDoor op “Accepteren” te klikken ga je hiermee akkoord voor onze website. Weigeren kan door op onderstaande link te klikken. Je kunt je toestemming altijd intrekken of wijzigen via ‘Privacyvoorkeuren’ onder ‘Jouw Privacy’ in het zijmenu, of via de footer van onze website.\n\n\n\n\nMeer weten? Lees onze FAQ, cookiebeleid en onze privacyverklaring.\n\n\n\n\n\n\n\n\n\n\nDoorgaan zonder te accepteren\nInstellingen\nAccepteren",
+          "context": "Mogen we cookies gebruiken?\n\nOm Marktplaats beter voor jou te laten werken, het gebruik van onze app te kunnen analyseren en jou relevante advertenties te kunnen tonen en jou ook buiten onze app te kunnen bereiken, maken wij gebruik van persoonlijke data, namelijk cookies en gepseudonimiseerde gebruikersdata. Daarnaast maken wij en onze 189 partners gebruik van cookies en vergelijkbare technieken ",
           "box": {
             "x": 388.6666564941406,
             "y": 663.4444580078125,
@@ -9486,7 +9486,7 @@
           "id": "ca-4",
           "text": "Instellingen",
           "tag": "BUTTON",
-          "context": "Mogen we cookies gebruiken?\n\nOm Marktplaats beter voor jou te laten werken, het gebruik van onze app te kunnen analyseren en jou relevante advertenties te kunnen tonen en jou ook buiten onze app te kunnen bereiken, maken wij gebruik van persoonlijke data, namelijk cookies en gepseudonimiseerde gebruikersdata. Daarnaast maken wij en onze 189 partners gebruik van cookies en vergelijkbare technieken om gepersonaliseerde advertenties en content te leveren, advertentie- en contentmetingen te kunnen doen, doelgroepenonderzoek uit te voeren en diensten te ontwikkelen, informatieve apparaatkenmerken te gebruiken en je precieze geolocatie te bepalen.\n\n\n\n\nDoor op “Accepteren” te klikken ga je hiermee akkoord voor onze website. Weigeren kan door op onderstaande link te klikken. Je kunt je toestemming altijd intrekken of wijzigen via ‘Privacyvoorkeuren’ onder ‘Jouw Privacy’ in het zijmenu, of via de footer van onze website.\n\n\n\n\nMeer weten? Lees onze FAQ, cookiebeleid en onze privacyverklaring.\n\n\n\n\n\n\n\n\n\n\nDoorgaan zonder te accepteren\nInstellingen\nAccepteren",
+          "context": "Mogen we cookies gebruiken?\n\nOm Marktplaats beter voor jou te laten werken, het gebruik van onze app te kunnen analyseren en jou relevante advertenties te kunnen tonen en jou ook buiten onze app te kunnen bereiken, maken wij gebruik van persoonlijke data, namelijk cookies en gepseudonimiseerde gebruikersdata. Daarnaast maken wij en onze 189 partners gebruik van cookies en vergelijkbare technieken ",
           "box": {
             "x": 666.826416015625,
             "y": 701.4444580078125,
@@ -9511,7 +9511,7 @@
           "id": "ca-5",
           "text": "Accepteren",
           "tag": "BUTTON",
-          "context": "Mogen we cookies gebruiken?\n\nOm Marktplaats beter voor jou te laten werken, het gebruik van onze app te kunnen analyseren en jou relevante advertenties te kunnen tonen en jou ook buiten onze app te kunnen bereiken, maken wij gebruik van persoonlijke data, namelijk cookies en gepseudonimiseerde gebruikersdata. Daarnaast maken wij en onze 189 partners gebruik van cookies en vergelijkbare technieken om gepersonaliseerde advertenties en content te leveren, advertentie- en contentmetingen te kunnen doen, doelgroepenonderzoek uit te voeren en diensten te ontwikkelen, informatieve apparaatkenmerken te gebruiken en je precieze geolocatie te bepalen.\n\n\n\n\nDoor op “Accepteren” te klikken ga je hiermee akkoord voor onze website. Weigeren kan door op onderstaande link te klikken. Je kunt je toestemming altijd intrekken of wijzigen via ‘Privacyvoorkeuren’ onder ‘Jouw Privacy’ in het zijmenu, of via de footer van onze website.\n\n\n\n\nMeer weten? Lees onze FAQ, cookiebeleid en onze privacyverklaring.\n\n\n\n\n\n\n\n\n\n\nDoorgaan zonder te accepteren\nInstellingen\nAccepteren",
+          "context": "Mogen we cookies gebruiken?\n\nOm Marktplaats beter voor jou te laten werken, het gebruik van onze app te kunnen analyseren en jou relevante advertenties te kunnen tonen en jou ook buiten onze app te kunnen bereiken, maken wij gebruik van persoonlijke data, namelijk cookies en gepseudonimiseerde gebruikersdata. Daarnaast maken wij en onze 189 partners gebruik van cookies en vergelijkbare technieken ",
           "box": {
             "x": 829.875,
             "y": 701.4444580078125,
@@ -10569,5 +10569,6 @@
       ]
     }
   ],
-  "screenshot": "before.png"
+  "screenshot": "before.png",
+  "context_excerpt_limit": 400
 }

@@ -72,7 +72,7 @@ async def click(page,control):
     for frame in page.frames:
         loc=frame.locator('[data-cookie-audit="'+control['id']+'"]')
         try:
-            if await loc.count() and re.sub(r'\s+',' ',(await loc.first.inner_text(timeout=1000)).strip())==control['text']:
+            if await loc.count() and await loc.first.evaluate("e => (e.innerText || e.getAttribute('aria-label') || e.value || '').trim().replace(/\\s+/g,' ')")==control['text']:
                 await loc.first.click(timeout=5000); return True
         except Exception:continue
     return False
@@ -119,7 +119,7 @@ async def audit_site(browser,site,args,mapping,metadata):
             row['checks']={k:result('unknown',f'Page could not be assessed reliably (HTTP {status}).') for k in ('reject','prominence','before','after','persists')}
             return row
         row['checks']['reject'],row['checks']['prominence']=ui_rules(before)
-        row['checks']['before']=before['tracking'] if not before['frame_errors'] else result('unknown','One or more frames could not be inspected.')
+        row['checks']['before']=before['tracking']
         state=before; refusal_clicked=False; accept_seen=bool(candidates(before,ACCEPT))
         for step in range(4):
             reject=candidates(state,REJECT)
@@ -150,7 +150,7 @@ async def audit_site(browser,site,args,mapping,metadata):
             if not rm or BLOCK.search(rm.get('text','')[:1200]) or BLOCK.search(rm.get('title','')):row['checks']['persists']=result('unknown','Reload was blocked or incomplete.')
             elif candidates(reloaded,ACCEPT):row['checks']['persists']=result('fail','Consent interface reappeared after refusing and reloading.')
             else:row['checks']['persists']=result('pass','Refusal survived a reload of the resulting page.')
-            if reloaded['tracking']['status']!='pass':row['checks']['after']=reloaded['tracking']
+            row['checks']['after']=max([row['checks']['after'],reloaded['tracking']],key=lambda x:{'pass':0,'unknown':1,'fail':2}[x['status']])
         else:
             if row['checks']['reject']['status']=='pass':row['checks']['reject']=result('unknown','A refusal control exists, but completion could not be verified.')
             row['checks']['after']=result('unknown','A completed refusal journey was not observed.')

@@ -15706,11 +15706,6 @@
     },
     {
       "kind": "marketing_cookie",
-      "name": "bcookie",
-      "domain": ".linkedin.com"
-    },
-    {
-      "kind": "marketing_cookie",
       "name": "_uetsid",
       "domain": ".marktplaats.nl"
     },
@@ -15718,11 +15713,6 @@
       "kind": "marketing_cookie",
       "name": "_uetvid",
       "domain": ".marktplaats.nl"
-    },
-    {
-      "kind": "marketing_cookie",
-      "name": "MUID",
-      "domain": ".bing.com"
     },
     {
       "kind": "marketing_cookie",
@@ -15738,11 +15728,6 @@
       "kind": "marketing_cookie",
       "name": "cto_bundle",
       "domain": ".criteo.com"
-    },
-    {
-      "kind": "marketing_cookie",
-      "name": "MUID",
-      "domain": ".clarity.ms"
     }
   ],
   "uncertain_signals": [
@@ -15752,9 +15737,19 @@
       "domain": ".marktplaats.nl"
     },
     {
+      "kind": "multipurpose_identifier",
+      "name": "MUID",
+      "domain": ".bing.com"
+    },
+    {
       "kind": "analytics_cookie",
       "name": "_clck",
       "domain": ".marktplaats.nl"
+    },
+    {
+      "kind": "multipurpose_identifier",
+      "name": "MUID",
+      "domain": ".clarity.ms"
     },
     {
       "kind": "analytics_cookie",
@@ -19240,5 +19235,6 @@
       ]
     }
   ],
-  "screenshot": "accept-control.png"
+  "screenshot": "accept-control.png",
+  "context_excerpt_limit": 400
 }

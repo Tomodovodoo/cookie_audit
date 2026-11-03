@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:02:41.668304+00:00",
+  "generated_at": "2026-11-03T15:08:44.334711+00:00",
   "sources": {
     "ranking": {
       "url": "https://netapi.com/top-websites/nl/download/",
@@ -42,7 +42,7 @@
       "checks": {
         "reject": {
           "status": "fail",
-          "reason": "Refusal required 2 clicks; acceptance was offered directly."
+          "reason": "Accept is offered on the first layer; no direct refusal control was detected."
         },
         "prominence": {
           "status": "fail",
@@ -82,14 +82,13 @@
       "outcome": "observed",
       "http_status": 200,
       "title": "DPG Media Privacy Gate",
+      "rules_version": "0.1.1",
       "screenshot": "evidence/ad.nl/before.jpg",
       "capture_files": [
         "evidence/ad.nl/accept-control.json",
         "evidence/ad.nl/before.json",
         "evidence/ad.nl/reject-1.json",
         "evidence/ad.nl/reject-2.json",
-        "evidence/ad.nl/reject-3.json",
-        "evidence/ad.nl/reject-4.json",
         "evidence/ad.nl/reload.json"
       ],
       "company_source": "https://www.dpgmediagroup.com/en-NL/permission-brands",
@@ -119,7 +118,7 @@
       "checks": {
         "reject": {
           "status": "fail",
-          "reason": "Refusal required 2 clicks; acceptance was offered directly."
+          "reason": "Accept is offered on the first layer; no direct refusal control was detected."
         },
         "prominence": {
           "status": "fail",
@@ -159,14 +158,13 @@
       "outcome": "observed",
       "http_status": 200,
       "title": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "rules_version": "0.1.1",
       "screenshot": "evidence/nrc.nl/before.jpg",
       "capture_files": [
         "evidence/nrc.nl/accept-control.json",
         "evidence/nrc.nl/before.json",
         "evidence/nrc.nl/reject-1.json",
         "evidence/nrc.nl/reject-2.json",
-        "evidence/nrc.nl/reject-3.json",
-        "evidence/nrc.nl/reject-4.json",
         "evidence/nrc.nl/reload.json"
       ],
       "company_source": "https://www.mediahuis.com/nl/merken",
@@ -231,6 +229,7 @@
       "outcome": "observed",
       "http_status": 200,
       "title": "Marktplaats - De plek om nieuwe en tweedehands spullen te kopen en verkopen",
+      "rules_version": "0.1.1",
       "screenshot": "evidence/marktplaats.nl/before.png",
       "capture_files": [
         "evidence/marktplaats.nl/accept-control.json",
@@ -3421,6 +3420,7 @@
       "outcome": "observed",
       "http_status": 200,
       "title": "Particulieren - Rabobank",
+      "rules_version": "0.1.1",
       "screenshot": "evidence/rabobank.nl/before.png",
       "capture_files": [
         "evidence/rabobank.nl/accept-control.json",
@@ -8265,6 +8265,7 @@
       "outcome": "observed",
       "http_status": 200,
       "title": "ABN AMRO Bank - Jouw bankzaken goed geregeld - ABN AMRO",
+      "rules_version": "0.1.1",
       "screenshot": "evidence/abnamro.nl/before.png",
       "capture_files": [
         "evidence/abnamro.nl/accept-control.json",

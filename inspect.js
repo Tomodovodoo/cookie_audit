@@ -11,7 +11,7 @@
     let parent=e, context='';
     for(let i=0;i<7 && parent;i++,parent=parent.parentElement || parent.getRootNode().host){
       const t=(parent.innerText||'').trim();
-      if(/cookie|tracking|privacy-instellingen|privacy settings|toestemming|consent/i.test(t) && t.length<18000){context=t.slice(0,6000);break;}
+      if(/cookie|tracking|privacy-instellingen|privacy settings|toestemming|consent/i.test(t) && t.length<18000){context=t.slice(0,400);break;}
     }
     const s=getComputedStyle(e), r=e.getBoundingClientRect();
     let p=e, bg=s.backgroundColor;
