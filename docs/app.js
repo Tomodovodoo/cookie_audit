@@ -75,11 +75,9 @@ Promise.all(['audit.json','nl.json'].map(file=>fetch(file+'?v='+encodeURICompone
  data=d;nl=translations;
  $('attempted').textContent=number.format(d.rows.filter(r=>r.outcome!=='not_tested').length);
  $('findings').textContent=number.format(d.rows.filter(r=>r.failures>0).length);
- $('observed').textContent=number.format(d.rows.filter(r=>r.outcome==='observed').length);
- const times=d.rows.map(r=>Date.parse(r.tested_at)).filter(Number.isFinite);
- $('updated').textContent=times.length?'Laatste meting: '+date.format(new Date(Math.max(...times)))+'.':'Nog geen metingen beschikbaar.';
  render();
-}).catch(e=>{
+}).catch(()=>{
+ $('attempted').textContent='~';
+ $('findings').textContent='~';
  $('rows').innerHTML='<tr><td colspan="7">De resultaten konden niet worden geladen. Vernieuw de pagina of download het CSV bestand.</td></tr>';
- $('updated').textContent='Gegevens niet beschikbaar.'+(/^HTTP \d+$/.test(e.message)?' '+e.message:'');
 });
