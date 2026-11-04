@@ -1,5 +1,5 @@
 """Download versioned inputs; never call a global ranking a Dutch traffic ranking."""
-import csv, hashlib, io, json, re, urllib.request
+import csv, io, json, re, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 from exclusions import EXPLICIT,excluded as nsfw
@@ -18,7 +18,7 @@ def main():
         'trackers': 'https://raw.githubusercontent.com/disconnectme/disconnect-tracking-protection/master/services.json',
     }
     raw = {key: fetch(url) for key,url in sources.items()}
-    write('sources.json', {key:{'url':url,'retrieved':datetime.now(timezone.utc).isoformat(),'sha256':hashlib.sha256(raw[key]).hexdigest()} for key,url in sources.items()})
+    write('sources.json', {key:{'url':url,'retrieved':datetime.now(timezone.utc).isoformat()} for key,url in sources.items()})
     (DATA/'ranking.csv').write_bytes(raw['ranking'])
     adult = {line.split()[1].removeprefix('www.') for line in raw['adult_filter'].decode().splitlines() if line.startswith(('0.0.0.0 ', '127.0.0.1 ')) and len(line.split())>1}
     adult |= EXPLICIT

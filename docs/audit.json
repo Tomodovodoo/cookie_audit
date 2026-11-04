@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-11-04T09:25:25.901681+00:00",
+  "generated_at": "2026-11-04T10:07:07.042511+00:00",
   "custom_cohort": false,
   "input_manifest": "sites.json",
   "sources": {
     "ranking": {
       "url": "https://netapi.com/top-websites/nl/download/",
-      "retrieved": "2026-11-03T14:47:13.183456+00:00",
-      "sha256": "cc398f9a01feb7bbba522123e7b2639289d27b69ee26d43b17ddf7cc4750d53b"
+      "retrieved": "2026-11-03T14:47:13.183456+00:00"
     },
     "adult_filter": {
       "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
-      "retrieved": "2026-11-03T14:47:13.183506+00:00",
-      "sha256": "a9c5da91798eace14db0cc2f3e5353fecad84e2cc643dbc7164dec0e949fd40b"
+      "retrieved": "2026-11-03T14:47:13.183506+00:00"
     },
     "trackers": {
       "url": "https://raw.githubusercontent.com/disconnectme/disconnect-tracking-protection/master/services.json",
-      "retrieved": "2026-11-03T14:47:13.184598+00:00",
-      "sha256": "80e1bf6844c55f4901dcace193c2689c91aad3901804bd408fc3df049190e557"
+      "retrieved": "2026-11-03T14:47:13.184598+00:00"
     },
     "supplemental_global_ranking": {
       "url": "https://netapi.com/netapi_top1mln.csv",
       "retrieved": "2026-11-03T15:26:15.860547+00:00",
-      "sha256": "c4a9fbe7f50811c01d73cc4bdb559f922f00e6363ca0e91fb5b200088794bb44",
       "selected": 124,
       "method": "Highest globally ranked eligible .nl domains absent from the filtered country cohort; not assigned a Netherlands rank."
     }
