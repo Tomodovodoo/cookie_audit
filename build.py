@@ -49,8 +49,8 @@ def main(domains=None,sites_path=ROOT/'data/sites.json'):
     nl=json.loads((docs/'nl.json').read_text(encoding='utf-8'))
     index=docs/'index.html'
     if index.exists():
-        version=hashlib.sha256(b''.join((docs/name).read_bytes() for name in ('app.js','nl.json','style.css','audit.json'))).hexdigest()[:16]
-        index.write_text(re.sub(r'src="app\.js(?:\?v=[0-9a-f]+)?"',f'src="app.js?v={version}"',index.read_text(encoding='utf-8')),encoding='utf-8')
+        version=hashlib.sha256(b''.join((docs/name).read_bytes() for name in ('app.js','scene.js','nl.json','style.css','audit.json'))).hexdigest()[:16]
+        index.write_text(re.sub(r'src="((?:app|scene)\.js)(?:\?v=[0-9a-f]+)?"',lambda m:f'src="{m[1]}?v={version}"',index.read_text(encoding='utf-8')),encoding='utf-8')
         for html in docs.glob('*.html'):
             html.write_text(re.sub(r'href="((?:/cookie_audit/)?style\.css)(?:\?v=[0-9a-f]+)?"',lambda m:f'href="{m[1]}?v={version}"',html.read_text(encoding='utf-8')),encoding='utf-8')
     with (docs/'audit.csv').open('w',newline='',encoding='utf-8-sig') as f:
