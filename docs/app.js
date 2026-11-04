@@ -26,6 +26,7 @@ function rankText(r){
 }
 
 function render(){
+ if(!data||!nl)return;
  const query=$('search').value.toLocaleLowerCase('nl-NL'),filter=$('filter').value;
  filtered=data.rows.filter(r=>(r.domain+' '+r.name+' '+(r.company||'')).toLocaleLowerCase('nl-NL').includes(query)&&({all:true,fail:r.failures>0,tested:r.outcome!=='not_tested',unknown:r.outcome!=='not_tested'&&keys.some(k=>r.checks[k].status==='unknown'),pending:r.outcome==='not_tested'}[filter]));
  const groups={};
@@ -50,7 +51,8 @@ function captureLabel(path){
 
 function runText(run){
  if(!run)return '';
- return [nl.browser_modes[run.browser_mode]||'Browsersessie',run.viewport?`Venster ${run.viewport}`:'',run.egress_country?`Internetlocatie ${run.egress_country}`:'',run.wait_seconds?`Minimaal ${run.wait_seconds} seconden per meetstap`:''].filter(Boolean).join(' · ');
+ const viewport=run.viewport?.replace('initial DOM; stage viewports in captures','bij de eerste opname; schermformaten per stap in de meetgegevens');
+ return [nl.browser_modes[run.browser_mode]||'Browsersessie',viewport?`Venster ${viewport}`:'',run.egress_country?`Internetlocatie ${run.egress_country}`:'',run.wait_seconds?`Minimaal ${run.wait_seconds} seconden per meetstap`:''].filter(Boolean).join(' · ');
 }
 
 function details(domain){
