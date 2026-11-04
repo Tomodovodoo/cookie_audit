@@ -1,5 +1,5 @@
 """Extend the filtered country cohort with explicitly labelled globally ranked .nl sites."""
-import csv,hashlib,io,json,re
+import csv,io,json,re
 from datetime import datetime,timezone
 from prepare import DATA,fetch,write
 from exclusions import excluded
@@ -17,7 +17,7 @@ def main():
     write('sites.json',sites+extra)
     write('supplemental-sites.json',extra)
     sources=json.loads((DATA/'sources.json').read_text(encoding='utf-8'))
-    sources['supplemental_global_ranking']={'url':url,'retrieved':datetime.now(timezone.utc).isoformat(),'sha256':hashlib.sha256(raw).hexdigest(),'selected':len(extra),'method':'Highest globally ranked eligible .nl domains absent from the filtered country cohort; not assigned a Netherlands rank.'}
+    sources['supplemental_global_ranking']={'url':url,'retrieved':datetime.now(timezone.utc).isoformat(),'selected':len(extra),'method':'Highest globally ranked eligible .nl domains absent from the filtered country cohort; not assigned a Netherlands rank.'}
     write('sources.json',sources)
     print(f'{len(sites)} country-cohort sites + {len(extra)} labelled supplements = {len(sites)+len(extra)} targets.')
 if __name__=='__main__':main()

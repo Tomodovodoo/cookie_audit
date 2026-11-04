@@ -56,11 +56,8 @@ def main(domains=None,sites_path=ROOT/'data/sites.json'):
     with (docs/'audit.csv').open('w',newline='',encoding='utf-8-sig') as f:
         writer=csv.writer(f);writer.writerow(['Naam','Bedrijfsgroep','Website','Selectie','Nederlandse bronrang','Wereldrang aanvulling','Bezoekstatus']+[nl['checks'][k] for k in KEYS]+['Gemeten op UTC','Bewijs'])
         for r in rows:writer.writerow([r['name'],r.get('company') or '', 'https://'+r['domain'],nl['cohorts'].get(r['cohort'],'Eigen selectie'),r.get('rank'),r.get('global_rank'),nl['outcomes'][r['outcome']]]+[nl['statuses'][r['checks'][k]['status']] for k in KEYS]+[r.get('tested_at',''),r.get('evidence') or r.get('result_file','')])
-    included={r['domain'] for r in rows if r['outcome']!='not_tested'}
-    manifest={str(p.relative_to(docs)).replace('\\','/'):hashlib.sha256(p.read_bytes().replace(b'\r\n',b'\n') if p.suffix=='.json' else p.read_bytes()).hexdigest() for p in (docs/'evidence').rglob('*') if p.is_file() and p.parent.name in included} if (docs/'evidence').exists() else {}
-    (docs/'evidence-sha256.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     for name in ['sources.json','excluded.json'] :shutil.copyfile(ROOT/'data'/name,docs/name)
-    print(f'Built {len(rows)} rows, {sum(r["outcome"]!="not_tested" for r in rows)} attempted; {len(manifest)} evidence files.')
+    print(f'Built {len(rows)} rows, {sum(r["outcome"]!="not_tested" for r in rows)} attempted.')
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--domains',help='Publish only these captures; other ranked sites remain not tested.')
     parser.add_argument('--sites',type=Path,default=ROOT/'data/sites.json',help='Same manifest supplied to audit.py.')
