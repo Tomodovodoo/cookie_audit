@@ -1,0 +1,227 @@
+{
+  "frames": [
+    {
+      "url": "https://www.flowapp.nl/",
+      "title": "FlowApp",
+      "text": " FlowApp\nBINNENKORT ONLINE!",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "c66e490ee1af4161aea126289866c059",
+      "frame_url": "https://www.flowapp.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.flowapp.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:44:23.594365+00:00",
+  "cookies": [
+    {
+      "name": "_ga",
+      "domain": ".flowapp.nl",
+      "path": "/",
+      "expires": 1828280656.42538,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "domain": ".flowapp.nl",
+      "path": "/",
+      "expires": 1793807056,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "domain": ".flowapp.nl",
+      "path": "/",
+      "expires": 1793720716,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_QQSWTXM5TQ",
+      "domain": ".flowapp.nl",
+      "path": "/",
+      "expires": 1828280656.990434,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.flowapp.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://flowapp.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.688053+00:00"
+    },
+    {
+      "url": "https://www.flowapp.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.721391+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.869183+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.869783+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.872003+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.887213+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.888656+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.889742+00:00"
+    },
+    {
+      "url": "https://www.flowapp.nl/css/layout.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.892366+00:00"
+    },
+    {
+      "url": "https://www.flowapp.nl/js/google-analytics.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:44:15.893359+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:44:16.171706+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rj.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:44:16.172504+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAo.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:44:16.173571+00:00"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:44:16.176239+00:00"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:44:16.449836+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:44:16.548711+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:44:17.109604+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".flowapp.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gid",
+      "domain": ".flowapp.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gat",
+      "domain": ".flowapp.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_QQSWTXM5TQ",
+      "domain": ".flowapp.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.google-analytics.com/j/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

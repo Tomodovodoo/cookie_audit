@@ -1,0 +1,46 @@
+{
+  "rank": 460,
+  "domain": "aerobe.net",
+  "name": "aerobe.net",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:39:59.854102+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://aerobe.net/"
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://aerobe.net/"
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://aerobe.net/"
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://aerobe.net/"
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://aerobe.net/"
+    }
+  },
+  "steps": [],
+  "outcome": "error",
+  "error": "Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://aerobe.net/"
+}

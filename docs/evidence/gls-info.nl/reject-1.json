@@ -1,0 +1,299 @@
+{
+  "frames": [
+    {
+      "url": "https://gls-info.nl/",
+      "title": "GLS-Info (NL)",
+      "text": "navigate_before\nNL\nmenu\nVind je pakket\nVind je GLS Point\nVind je\npakket\nZoek mijn pakket",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "navigate_before",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 15,
+            "y": 16,
+            "width": 90,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "NL",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1221.8194580078125,
+            "y": 16,
+            "width": 57.02777862548828,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "menu",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1303.8333740234375,
+            "y": 11,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 71, 78)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 24,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 71, 78)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Zoek mijn pakket",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 72,
+            "y": 582.5555419921875,
+            "width": 280,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(6, 26, 177)",
+            "effectiveBackground": "rgb(6, 26, 177)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(6, 26, 177)",
+            "padding": "8px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Open het cookie-instellingen widget",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 842,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://gls-info.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/gls-spotlight",
+      "title": "",
+      "text": "Geen pakket meer missen?\n\nKies hoe jij al je pakketten wilt ontvangen: shop, automaat of veilige plek.\n\nGa naar de site",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Ga naar de site",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 500,
+            "y": 540.201416015625,
+            "width": 191.29861450195312,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(25, 25, 25)",
+            "effectiveBackground": "rgb(25, 25, 25)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(25, 25, 25)",
+            "padding": "0px 32px"
+          },
+          "disabled": false,
+          "frame": 4
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://spotlight.glsnxt.com/gls-spotlight"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://gls-info.nl/",
+  "captured_at": "2026-11-03T15:27:32.591670+00:00",
+  "cookies": [
+    {
+      "name": "CookieConsent",
+      "domain": "gls-info.nl",
+      "path": "/",
+      "expires": 1825255645,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://gls-info.nl",
+      "localKeys": [
+        "cookiebotTcfConsentString",
+        "cookiebotGacmConsentString"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "cookiebotTcfConsentString",
+        "cookiebotGacmConsentString"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "cookiebotTcfConsentString",
+        "cookiebotGacmConsentString"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://spotlight.glsnxt.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://consent.cookiebot.com/logconsent.ashx",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.535001+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.com/Scripts/widgetIcon.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.642578+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/a33fce50-3d48-4480-b1bb-41d9827ece0e/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.643754+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

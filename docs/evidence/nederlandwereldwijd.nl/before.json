@@ -1,0 +1,912 @@
+{
+  "frames": [
+    {
+      "url": "https://www.nederlandwereldwijd.nl/",
+      "title": "Home | NederlandWereldwijd",
+      "text": "Ga direct naar inhoud\nNaar de homepage van www.nederlandwereldwijd.nl\nMinisterie van Buitenlandse Zaken\nMenu\nContact\nNederlandWereldwijd\nWaar kunnen wij u bij helpen?\n\nVul een zoekopdracht in en gebruik de pijltoetsen om een zoekresultaat te selecteren.\n\nZoeken\nHome\nSNEL NAAR\nReisadvies per land\nPaspoort aanvragen\nSchengenvisum aanvragen\nONDERWERPEN\nReizen\n\nReisadviezen, Visum, Hulp bij nood, ...\n\nIdentiteit\n\nPaspoort, ID-kaart, DigiD, Nationaliteit, Legalisatie documenten, RNI, ...\n\nFamilie\n\nTrouwen, Kind krijgen, Nationaliteit, ...\n\nWonen\n\nWonen in het buitenland, Komen wonen in Nederland, ...\n\nWerken\n\nWerken in het buitenland, Komen werken in Nederland, ...\n\nGeld\n\nAOW, Belastingaangifte, Pensioen, Uitkeringen, ...\n\nGezondheid\n\nMedicijnen mee op reis, Zorgverzekering, Vaccinaties, ...\n\nOnderwijs\n\nStuderen, Stage lopen, Nederlands taal- en cultuuronderwijs, ...\n\nVervoer\n\nRijbewijs, Auto importeren, Auto exporteren, ...\n\nOnderwerpen A-Z\n\nVan ambassades tot zorgtoeslag\n\nNederlandWereldwijd\nOver NederlandWereldwijd\nOver de website\nThis website in English",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Ga direct naar inhoud",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": -1350.3333740234375,
+            "y": -900,
+            "width": 211.57638549804688,
+            "height": 49.33333206176758
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 123, 199)",
+            "effectiveBackground": "rgb(0, 123, 199)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 2.66667,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Naar de homepage van www.nederlandwereldwijd.nl Ministerie van Buitenlandse Zaken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 618.1111450195312,
+            "y": 0,
+            "width": 322.02777099609375,
+            "height": 103
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(21, 66, 115)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(21, 66, 115)",
+            "padding": "0px 0px 3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Menu",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 152.7152862548828,
+            "y": 113,
+            "width": 83.02083587646484,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 199)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 199)",
+            "padding": "1px 6px 3px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 279.7361145019531,
+            "y": 113,
+            "width": 93.72222137451172,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 199)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 199)",
+            "padding": "0px 0px 3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Zoeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1135.111083984375,
+            "y": 389.59722900390625,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 123, 199)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 2.66667,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Reisadvies per land",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 155.11111450195312,
+            "y": 638.6805419921875,
+            "width": 1040,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px 0px 3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Paspoort aanvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 155.11111450195312,
+            "y": 682.6805419921875,
+            "width": 1040,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px 0px 3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Schengenvisum aanvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 155.11111450195312,
+            "y": 726.6805419921875,
+            "width": 1040,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px 0px 3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Reizen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 256.1111145019531,
+            "y": 866.9861450195312,
+            "width": 72.3888931274414,
+            "height": 30.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Identiteit",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 773.1111450195312,
+            "y": 866.9861450195312,
+            "width": 102.3263931274414,
+            "height": 30.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Familie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 256.1111145019531,
+            "y": 1005.6805419921875,
+            "width": 78.45833587646484,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Wonen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 773.1111450195312,
+            "y": 1005.6805419921875,
+            "width": 78.1875,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Werken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 256.1111145019531,
+            "y": 1144.375,
+            "width": 84.47916412353516,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Geld",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 773.1111450195312,
+            "y": 1144.375,
+            "width": 49.97916793823242,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Gezondheid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 256.1111145019531,
+            "y": 1283.0694580078125,
+            "width": 130.80555725097656,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Onderwijs",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 773.1111450195312,
+            "y": 1283.0694580078125,
+            "width": 111.3263931274414,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Vervoer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 256.1111145019531,
+            "y": 1421.763916015625,
+            "width": 84.22916412353516,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Onderwerpen A-Z",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 773.1111450195312,
+            "y": 1421.763916015625,
+            "width": 193.43055725097656,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 116, 189)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 250, 255)",
+            "fontSize": 25.5,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 116, 189)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Over NederlandWereldwijd",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 155.11111450195312,
+            "y": 1830.236083984375,
+            "width": 221.1666717529297,
+            "height": 31.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(94, 101, 104)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 0px 3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Over de website",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 464.27777099609375,
+            "y": 1830.236083984375,
+            "width": 131.38194274902344,
+            "height": 31.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(94, 101, 104)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 0px 3px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "English",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 288.59722900390625,
+            "y": 1919.013916015625,
+            "width": 76.24305725097656,
+            "height": 33.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 199)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(0, 123, 199)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.nederlandwereldwijd.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.nederlandwereldwijd.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:35:01.064830+00:00",
+  "cookies": [
+    {
+      "name": "stg_traffic_source_priority",
+      "domain": "www.nederlandwereldwijd.nl",
+      "path": "/",
+      "expires": 1793721894,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "stg_last_interaction",
+      "domain": "www.nederlandwereldwijd.nl",
+      "path": "/",
+      "expires": 1825256094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "stg_returning_visitor",
+      "domain": "www.nederlandwereldwijd.nl",
+      "path": "/",
+      "expires": 1825256094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pk_id.d40986bf-608c-4f9d-9b5d-472195f6282f.1715",
+      "domain": "www.nederlandwereldwijd.nl",
+      "path": "/",
+      "expires": 1801496094,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.d40986bf-608c-4f9d-9b5d-472195f6282f.1715",
+      "domain": "www.nederlandwereldwijd.nl",
+      "path": "/",
+      "expires": 1793721894,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.nederlandwereldwijd.nl",
+      "localKeys": [
+        "mopDeploy"
+      ],
+      "sessionKeys": [
+        "mopDeploy"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://nederlandwereldwijd.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.708568+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.746358+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/media/3b915b92ecaa9e36.p.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.854707+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/media/61d42c00416bf818.p.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.856889+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/media/8ac7a61535a117db.p.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.857746+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/media/c61f4c0e2af2a350.p.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.858799+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/media/f0d0e2c646081107.p.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.859719+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/d565cbe55016e030.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.860710+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/fe056fc00f48765b.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.861699+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/98a76862185ac347.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.862517+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/b8bd49c77dbacba3.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.863360+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/890eafd9bd0198c4.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.864152+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/dba8148f3aa19dc3.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.864929+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/2fdc293fdbbf62ae.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.865683+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/56529651675afb74.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.866427+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/4e176481dc3c75a6.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.867571+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/css/d41d2225bcd0ebfd.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.868276+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/logo-ro-v7.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.869062+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/webpack-6f7a819fa0847bf4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.948102+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/8f666a61-2c32f1ed70726067.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.948626+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/1920-2e9bfb93b0ab394c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.949468+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/main-app-1d090216cc0e7ca0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.950150+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/9969-bfab0ef0b5f60648.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.950800+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/8722-24c65f1563754670.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.951413+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/app/error-0a3b9f1a46a58ee4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.952215+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/9261-833d110eea951db7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.953092+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/9325-0c6010f06644803e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.964312+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/1224-35f52afe32cfcd82.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.965186+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/app/%5B%5B...route%5D%5D/page-4ecee0fadd01c91e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:53.965830+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/afbeeldingen/nww-wereldbol-rgb-wit-1.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.061815+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/reisbagage-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.062820+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/paspoort-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.063320+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/familie-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.064261+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/laag-huis-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.065019+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/werk-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.494945+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/budget-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.496672+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/zorg-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.497353+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/onderwijs-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.498036+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/auto-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.498677+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/binaries/content/gallery/p1o/navigatie-blauw/kompas-blauw.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.499318+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.502365+00:00"
+    },
+    {
+      "url": "https://statistiek.rijksoverheid.nl/d40986bf-608c-4f9d-9b5d-472195f6282f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.502699+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/_next/static/chunks/7874.6ae2be7b9e009e9c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.503641+00:00"
+    },
+    {
+      "url": "https://statistiek.rijksoverheid.nl/ppms.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.593729+00:00"
+    },
+    {
+      "url": "https://survey-deploy.platformrijksoverheid.nl/js/pastease.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.594160+00:00"
+    },
+    {
+      "url": "https://www.nederlandwereldwijd.nl/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.631856+00:00"
+    },
+    {
+      "url": "https://statistiek.rijksoverheid.nl/ppms.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:34:54.638011+00:00"
+    },
+    {
+      "url": "https://survey-deploy.platformrijksoverheid.nl/config/3eQ5lZ65tJrngdq3uXz2DWYCXoexgcCBYhtNcg8X",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:34:54.642648+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_pk_id.d40986bf-608c-4f9d-9b5d-472195f6282f.1715",
+      "domain": "www.nederlandwereldwijd.nl"
+    }
+  ],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

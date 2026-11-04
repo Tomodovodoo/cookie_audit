@@ -1,0 +1,2456 @@
+{
+  "frames": [
+    {
+      "url": "https://www.fundainbusiness.nl/",
+      "title": "Bedrijfspand Nederland | Zoek bedrijfspanden [funda in business]",
+      "text": "Hoofdmenu\n Inloggen\nHet grootste aanbod\nbedrijfspanden van Nederland\nKopen of huren Beleggen\nSoort aanbod\nKantoor, bedrijfshal, winkel, etc.\nAlle bedrijfsaanbod\nKantoor\nBedrijfshal\nWinkel\nHoreca\nAgrarisch bedrijf\nAgrarische grond\nBouwgrond\nGaragebox\nPraktijkruimte\nToerisme & dagrecreatie\nSportinstelling\nCulturele instelling\nReligieuze instelling\nOnderwijsinstelling\nZorginstelling\nVerhard buitenterrein\n\t\n[Straal]\n+ 0 km\n+ 1 km\n+ 2 km\n+ 5 km\n+ 10 km\n+ 15 km\n+ 30 km\n+ 50 km\n+ 100 km\nZoek\nZoek direct bedrijfspanden te huur en te koop in Amsterdam, Den Haag, Rotterdam, Utrecht, Apeldoorn, Eindhoven, Amersfoort, Almere, Breda of Arnhem.\nZoek een bedrijfsmakelaar\nZoek op de kaart\nZoek bedrijfspanden\nBedrijf in beeld\n\nZwaansprengweg 21-99, Apeldoorn\n\nBedrijfshal\n\n€ 182.500 v.o.n.\n\nMeerdere makelaars betrokken\n\nDe Groote Heeze 37, Heijen\n\nBedrijfshal\n\n€ 46 /m²/jaar\n\nPeelrand Makelaardij Venray B.V.\n\nBrouwerstraat 15, Ede\n\nWinkel|Bistro|Café-restaurant\n\n€ 242 /m²/jaar\n\nActiVast Bedrijfshuisvesting\n\tfunda\n\tfunda landelijk\n\tAanbod plaatsen?\nSnel naar\nZoek een bedrijfsmakelaar\nBlader door al het aanbod\nInformatie\nVraag & antwoord\nVoor makelaars\nMeld je aan bij funda in business\nPlaats en promoot objecten\nPromoot je kantoor\nVerbreed je kennis\nInloggen funda desk\nMeer funda in business\nOver funda in business\nWerken bij funda\nVoor adverteerders\nContact\n\n© 2001-2026 funda\n\n• Privacy\n• Cookies\n• Voorwaarden\n• Cookievoorkeuren\nEnglish",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "Hoofdmenu\n Inloggen\nHet grootste aanbod\nbedrijfspanden van Nederland\nKopen of huren Beleggen\nSoort aanbod\nKantoor, bedrijfshal, winkel, etc.\nAlle bedrijfsaanbod\nKantoor\nBedrijfshal\nWinkel\nHoreca\nAgrarisch bedrijf\nAgrarische grond\nBouwgrond\nGaragebox\nPraktijkruimte\nToerisme & dagrecreatie\nSportinstelling\nCulturele instelling\nReligieuze instelling\nOnderwijsinstelling\nZorginstelling\nVerhard buitenter",
+          "box": {
+            "x": 1049.4305419921875,
+            "y": 0,
+            "width": 117.68055725097656,
+            "height": 60
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Kopen of huren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 331,
+            "width": 141.82638549804688,
+            "height": 44.79166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(71, 139, 179)",
+            "effectiveBackground": "rgb(71, 139, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "6.4px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Beleggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 329.0625,
+            "y": 331,
+            "width": 100.55555725097656,
+            "height": 44.79166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "6.4px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Zoek",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1071.111083984375,
+            "y": 395.7916564941406,
+            "width": 96,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(255, 155, 33)",
+            "effectiveBackground": "rgb(255, 155, 33)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Amsterdam",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 525.8680419921875,
+            "y": 462.0138854980469,
+            "width": 82.36805725097656,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Den Haag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 616.263916015625,
+            "y": 462.0138854980469,
+            "width": 71.42361450195312,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Rotterdam",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 695.7152709960938,
+            "y": 462.0138854980469,
+            "width": 74.5763931274414,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Utrecht",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 778.3194580078125,
+            "y": 462.0138854980469,
+            "width": 53.1875,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Apeldoorn",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 839.5347290039062,
+            "y": 462.0138854980469,
+            "width": 75,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Eindhoven",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 922.5625,
+            "y": 462.0138854980469,
+            "width": 75.71527862548828,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Amersfoort",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1006.3055419921875,
+            "y": 462.0138854980469,
+            "width": 79.98611450195312,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Almere",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1094.3194580078125,
+            "y": 462.0138854980469,
+            "width": 51.22222137451172,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Breda",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 486.0138854980469,
+            "width": 42.68055725097656,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Arnhem",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 248.09722900390625,
+            "y": 486.0138854980469,
+            "width": 56.70138931274414,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 113, 179)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Zoek een bedrijfsmakelaar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 539.7916870117188,
+            "width": 311.9930725097656,
+            "height": 61.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(230, 242, 247)",
+            "padding": "18px 65px 18px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Zoek op de kaart",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 519.1041870117188,
+            "y": 539.7916870117188,
+            "width": 311.9930725097656,
+            "height": 61.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(230, 242, 247)",
+            "padding": "18px 65px 18px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Zoek bedrijfspanden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.0972290039062,
+            "y": 539.7916870117188,
+            "width": 311.9930725097656,
+            "height": 61.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(230, 242, 247)",
+            "padding": "18px 65px 18px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Bedrijf in beeld",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 646.4583129882812,
+            "width": 189.2083282470703,
+            "height": 33.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 28,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Zwaansprengweg 21-99, Apeldoorn",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 703.5694580078125,
+            "width": 312,
+            "height": 244
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Meerdere makelaars betrokken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 1018.5694580078125,
+            "width": 312,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "De Groote Heeze 37, Heijen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 519.1111450195312,
+            "y": 703.5694580078125,
+            "width": 312,
+            "height": 244
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Peelrand Makelaardij Venray B.V.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 519.1111450195312,
+            "y": 1018.5694580078125,
+            "width": 312,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Brouwerstraat 15, Ede",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.1111450195312,
+            "y": 703.5694580078125,
+            "width": 312,
+            "height": 244
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "ActiVast Bedrijfshuisvesting",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 855.1111450195312,
+            "y": 1018.5694580078125,
+            "width": 312,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "funda",
+          "tag": "A",
+          "context": "Hoofdmenu\n Inloggen\nHet grootste aanbod\nbedrijfspanden van Nederland\nKopen of huren Beleggen\nSoort aanbod\nKantoor, bedrijfshal, winkel, etc.\nAlle bedrijfsaanbod\nKantoor\nBedrijfshal\nWinkel\nHoreca\nAgrarisch bedrijf\nAgrarische grond\nBouwgrond\nGaragebox\nPraktijkruimte\nToerisme & dagrecreatie\nSportinstelling\nCulturele instelling\nReligieuze instelling\nOnderwijsinstelling\nZorginstelling\nVerhard buitenter",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 1066.5694580078125,
+            "width": 311.9930725097656,
+            "height": 91.60416412353516
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(255, 155, 33)",
+            "effectiveBackground": "rgb(255, 155, 33)",
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "funda landelijk",
+          "tag": "A",
+          "context": "Hoofdmenu\n Inloggen\nHet grootste aanbod\nbedrijfspanden van Nederland\nKopen of huren Beleggen\nSoort aanbod\nKantoor, bedrijfshal, winkel, etc.\nAlle bedrijfsaanbod\nKantoor\nBedrijfshal\nWinkel\nHoreca\nAgrarisch bedrijf\nAgrarische grond\nBouwgrond\nGaragebox\nPraktijkruimte\nToerisme & dagrecreatie\nSportinstelling\nCulturele instelling\nReligieuze instelling\nOnderwijsinstelling\nZorginstelling\nVerhard buitenter",
+          "box": {
+            "x": 519.1041870117188,
+            "y": 1066.5694580078125,
+            "width": 311.9930725097656,
+            "height": 91.60416412353516
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(172, 199, 0)",
+            "effectiveBackground": "rgb(172, 199, 0)",
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Aanbod plaatsen?",
+          "tag": "A",
+          "context": "Hoofdmenu\n Inloggen\nHet grootste aanbod\nbedrijfspanden van Nederland\nKopen of huren Beleggen\nSoort aanbod\nKantoor, bedrijfshal, winkel, etc.\nAlle bedrijfsaanbod\nKantoor\nBedrijfshal\nWinkel\nHoreca\nAgrarisch bedrijf\nAgrarische grond\nBouwgrond\nGaragebox\nPraktijkruimte\nToerisme & dagrecreatie\nSportinstelling\nCulturele instelling\nReligieuze instelling\nOnderwijsinstelling\nZorginstelling\nVerhard buitenter",
+          "box": {
+            "x": 855.0972290039062,
+            "y": 1066.5694580078125,
+            "width": 311.9930725097656,
+            "height": 91.60416412353516
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(230, 242, 247)",
+            "effectiveBackground": "rgb(230, 242, 247)",
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Zoek een bedrijfsmakelaar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 1298.5694580078125,
+            "width": 186.8958282470703,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Blader door al het aanbod",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 183.11111450195312,
+            "y": 1334.5694580078125,
+            "width": 186.8958282470703,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Vraag & antwoord",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 410.0069580078125,
+            "y": 1298.5694580078125,
+            "width": 126.11805725097656,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Meld je aan bij funda in business",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 576.125,
+            "y": 1298.5694580078125,
+            "width": 228.05555725097656,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Plaats en promoot objecten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 576.125,
+            "y": 1334.5694580078125,
+            "width": 228.05555725097656,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Promoot je kantoor",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 576.125,
+            "y": 1370.5694580078125,
+            "width": 228.05555725097656,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Verbreed je kennis",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 576.125,
+            "y": 1406.5694580078125,
+            "width": 228.05555725097656,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Inloggen funda desk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 576.125,
+            "y": 1442.5694580078125,
+            "width": 228.05555725097656,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Over funda in business",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 844.1805419921875,
+            "y": 1298.5694580078125,
+            "width": 165.72222900390625,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Werken bij funda",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 844.1805419921875,
+            "y": 1334.5694580078125,
+            "width": 165.72222900390625,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "Voor adverteerders",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 844.1805419921875,
+            "y": 1370.5694580078125,
+            "width": 165.72222900390625,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 844.1805419921875,
+            "y": 1406.5694580078125,
+            "width": 165.72222900390625,
+            "height": 36
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "YouTube",
+          "tag": "A",
+          "context": "© 2001-2026 funda\n\n• Privacy\n• Cookies\n• Voorwaarden\n• Cookievoorkeuren\nEnglish",
+          "box": {
+            "x": 866.8680419921875,
+            "y": 1543.52783203125,
+            "width": 32,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "LinkedIn",
+          "tag": "A",
+          "context": "© 2001-2026 funda\n\n• Privacy\n• Cookies\n• Voorwaarden\n• Cookievoorkeuren\nEnglish",
+          "box": {
+            "x": 906.8680419921875,
+            "y": 1543.52783203125,
+            "width": 32,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "• Privacy\n• Cookies\n• Voorwaarden\n• Cookievoorkeuren",
+          "box": {
+            "x": 328.6944580078125,
+            "y": 1543.52783203125,
+            "width": 50.27777862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "Cookies",
+          "tag": "A",
+          "context": "Cookies",
+          "box": {
+            "x": 404.8263854980469,
+            "y": 1543.52783203125,
+            "width": 57.36805725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "• Privacy\n• Cookies\n• Voorwaarden\n• Cookievoorkeuren",
+          "box": {
+            "x": 488.0486145019531,
+            "y": 1543.52783203125,
+            "width": 94.02777862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 113, 179)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "Cookievoorkeuren",
+          "tag": "BUTTON",
+          "context": "Cookievoorkeuren",
+          "box": {
+            "x": 607.9305419921875,
+            "y": 1540.486083984375,
+            "width": 132.20138549804688,
+            "height": 25.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "English",
+          "tag": "BUTTON",
+          "context": "© 2001-2026 funda\n\n• Privacy\n• Cookies\n• Voorwaarden\n• Cookievoorkeuren\nEnglish",
+          "box": {
+            "x": 1100.7847900390625,
+            "y": 1540.4166259765625,
+            "width": 84.3263931274414,
+            "height": 25.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 113, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.fundainbusiness.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://a18146640370.cdn.optimizely.com/client_storage/a18146640370.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://a18146640370.cdn.optimizely.com/client_storage/a18146640370.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.fundainbusiness.nl/",
+  "captured_at": "2026-11-03T15:18:02.328308+00:00",
+  "cookies": [
+    {
+      "name": "SNLB",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".ASPXANONYMOUS",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1799719065.19166,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "html-classes",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1828279076.044908,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1793726265.444733,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionstarted",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1825341474,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1825341474,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_consent",
+      "domain": ".www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1828279074.985611,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userConsentPersonalization",
+      "domain": ".www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1828279074.986022,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1793726275.318394,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dd_s",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1793719975,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "optimizelyEndUserId",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1809271075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pubcid",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1825255075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pubcid_cst",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1825255075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_retry_request",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1793722675,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_env_src_ats",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1796311075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_Z6K4CQPTG9",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1828279076.044246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uid",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827415076.073566,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_dc",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1817046420.131419,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1817046420.131519,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_cc",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1817047076.131557,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_aud",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1817047076.131592,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pbjs-unifiedid",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1798903076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid_cst",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1798903076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1825255076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1794323876,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cc_id",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1817047076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1794323876,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827415076.262847,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1827418675,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bidid",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1827418675,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".fundadesk.nl",
+      "path": "/",
+      "expires": 1793726276.63209,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fd-user-checked",
+      "domain": "www.fundainbusiness.nl",
+      "path": "/",
+      "expires": 1796311076,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lib",
+      "domain": ".bmtrcs.com",
+      "path": "/",
+      "expires": 1793722676.756896,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id5",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1801495076.816668,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "optimizelySession",
+      "domain": ".fundainbusiness.nl",
+      "path": "/",
+      "expires": 1809271077,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.fundainbusiness.nl",
+      "localKeys": [
+        "cto_bidid",
+        "__bm_m",
+        "id5id_exp",
+        "cto_bundle",
+        "__bm_id",
+        "id5id",
+        "_cc_id",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$event_queue",
+        "__bm_s",
+        "optimizely_data$$pending_events",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_map",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$contextual_mab",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$visitor_profile",
+        "ajs_anonymous_id",
+        "panoramaId_expiry",
+        "segment_user_traits",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "id5id_v2_signature",
+        "UINFO",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$variation_map",
+        "__bm_migr",
+        "didomi_token",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$tracker_optimizely",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_states",
+        "id5id_cached_consent_data_exp",
+        "euconsent-v2",
+        "id5id_privacy_exp",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$session_state",
+        "ajs_user_id",
+        "id5id_v2_1745056533469447"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "cto_bidid",
+        "__bm_m",
+        "id5id_exp",
+        "cto_bundle",
+        "__bm_id",
+        "id5id",
+        "_cc_id",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$event_queue",
+        "__bm_s",
+        "optimizely_data$$pending_events",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_map",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$contextual_mab",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$visitor_profile",
+        "ajs_anonymous_id",
+        "panoramaId_expiry",
+        "segment_user_traits",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "id5id_v2_signature",
+        "UINFO",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$variation_map",
+        "__bm_migr",
+        "didomi_token",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$tracker_optimizely",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_states",
+        "id5id_cached_consent_data_exp",
+        "euconsent-v2",
+        "id5id_privacy_exp",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$session_state",
+        "ajs_user_id",
+        "id5id_v2_1745056533469447"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://a18146640370.cdn.optimizely.com",
+      "localKeys": [
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$layer_states",
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$event_queue",
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$visitor_profile",
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$contextual_mab",
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$tracker_optimizely",
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$layer_map",
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$variation_map",
+        "https://www.fundainbusiness.nl_pending_events",
+        "https://www.fundainbusiness.nl_oeu1793719075704r0.35524730416711126$$18270954652$$session_state"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "cto_bidid",
+        "__bm_m",
+        "id5id_exp",
+        "cto_bundle",
+        "__bm_id",
+        "id5id",
+        "_cc_id",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$event_queue",
+        "__bm_s",
+        "optimizely_data$$pending_events",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_map",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$contextual_mab",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$visitor_profile",
+        "ajs_anonymous_id",
+        "panoramaId_expiry",
+        "segment_user_traits",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "id5id_v2_signature",
+        "UINFO",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$variation_map",
+        "__bm_migr",
+        "didomi_token",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$tracker_optimizely",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_states",
+        "id5id_cached_consent_data_exp",
+        "euconsent-v2",
+        "id5id_privacy_exp",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$session_state",
+        "ajs_user_id",
+        "id5id_v2_1745056533469447"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "cto_bidid",
+        "__bm_m",
+        "id5id_exp",
+        "cto_bundle",
+        "__bm_id",
+        "id5id",
+        "_cc_id",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$event_queue",
+        "__bm_s",
+        "optimizely_data$$pending_events",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_map",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$contextual_mab",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$visitor_profile",
+        "ajs_anonymous_id",
+        "panoramaId_expiry",
+        "segment_user_traits",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "id5id_v2_signature",
+        "UINFO",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$variation_map",
+        "__bm_migr",
+        "didomi_token",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$tracker_optimizely",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$layer_states",
+        "id5id_cached_consent_data_exp",
+        "euconsent-v2",
+        "id5id_privacy_exp",
+        "optimizely_data$$oeu1793719075704r0.35524730416711126$$18270954652$$session_state",
+        "ajs_user_id",
+        "id5id_v2_1745056533469447"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.privacy-center.org/v1/events",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:17:54.981471+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:54.984865+00:00"
+    },
+    {
+      "url": "https://browser-http-intake.logs.datadoghq.eu/v1/input/pub3196ca2f04eed55f858c57dfdb2b818b",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:17:55.003535+00:00"
+    },
+    {
+      "url": "https://www.fundainbusiness.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.004714+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.096457+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.097153+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/app-fonts/proximanova-regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.435533+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/app-fonts/proximanova-semibold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.437307+00:00"
+    },
+    {
+      "url": "https://cdn.optimizely.com/js/18270954652.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.438591+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/tailwind.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.457126+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/index-fundainbusiness.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.457687+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/hero-fib/bedrijfspanden@0.5x.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.458464+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/hero-fib/bedrijfspanden@0.5x_mobile.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.459166+00:00"
+    },
+    {
+      "url": "https://sdk.privacy-center.org/e55671d2-c3ec-4ee2-a126-f60cb0a7fe01/loader.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.459835+00:00"
+    },
+    {
+      "url": "https://cloud.funda.nl/valentina_media/235/805/574_720x480.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.460456+00:00"
+    },
+    {
+      "url": "https://cloud.funda.nl/valentina_media/235/703/363_720x480.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.461142+00:00"
+    },
+    {
+      "url": "https://cloud.funda.nl/valentina_media/231/833/445_720x480.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.461831+00:00"
+    },
+    {
+      "url": "https://www.datadoghq-browser-agent.com/datadog-logs-eu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.462486+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/logo/fundainbusiness-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.463065+00:00"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/157253/996/pwt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.464331+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.465273+00:00"
+    },
+    {
+      "url": "https://evs.seg.funda.nl/analytics.js/v1/5rjjIGXRTZWv1wOki4MbXfJm1vhqYocq/analytics.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.466808+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/app-icons/icons.data.svg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.467816+00:00"
+    },
+    {
+      "url": "https://sdk.privacy-center.org/sdk/0b37e7f856ef97d5fb5d2796fd13096d85d48105/modern/sdk.0b37e7f856ef97d5fb5d2796fd13096d85d48105.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.555649+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/app-icons/icons/makelaar-blue.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.601593+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/app-icons/icons/location-pin-blue.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.602912+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/app-icons/icons/search-blue.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.603989+00:00"
+    },
+    {
+      "url": "https://evs.seg.funda.nl/v1/projects/5rjjIGXRTZWv1wOki4MbXfJm1vhqYocq/settings",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.628458+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/advertisements.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.642298+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/vendor.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.642854+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/index.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.643841+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/app-icons/icons.data.svg.css",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.735248+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.752601+00:00"
+    },
+    {
+      "url": "https://a18146640370.cdn.optimizely.com/client_storage/a18146640370.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.753411+00:00"
+    },
+    {
+      "url": "https://sdk.privacy-center.org/sdk/0b37e7f856ef97d5fb5d2796fd13096d85d48105/modern/src_sdk_core_modules_integrations_sdk-integrations_providers_gcm_gcm_js.0b37e7f856ef97d5fb5d2796fd13096d85d48105.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.828588+00:00"
+    },
+    {
+      "url": "https://api.privacy-center.org/v1/events",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:17:55.835511+00:00"
+    },
+    {
+      "url": "https://ut.pubmatic.com/geo",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.929327+00:00"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.930252+00:00"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/157253/996/141/config.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.933967+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/api/config/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:17:55.944653+00:00"
+    },
+    {
+      "url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.945248+00:00"
+    },
+    {
+      "url": "https://api.rlcdn.com/api/identity/envelope",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.946365+00:00"
+    },
+    {
+      "url": "https://id.crwdcntrl.net/id",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.947654+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/rid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.948885+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sid/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.981026+00:00"
+    },
+    {
+      "url": "https://evs.seg.funda.nl/analytics-next/bundles/ajs-destination.bundle.40628baed746e9904edc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.987349+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/209.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.993874+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/393.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.994465+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/524.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.995585+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/app.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:55.996462+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.068243+00:00"
+    },
+    {
+      "url": "https://evs.seg.funda.nl/analytics-next/bundles/schemaFilter.bundle.a6a77355d52c20e3a83d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.071161+00:00"
+    },
+    {
+      "url": "https://mug.criteo.com/sid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.128295+00:00"
+    },
+    {
+      "url": "https://status.funda.nl/js/funda.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.159287+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/components/hero-fib/bedrijfspanden@1x.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.187191+00:00"
+    },
+    {
+      "url": "https://cloud.funda.nl/valentina_media/107/147/250_logogroot.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.213210+00:00"
+    },
+    {
+      "url": "https://cloud.funda.nl/valentina_media/139/580/892_logogroot.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.213913+00:00"
+    },
+    {
+      "url": "https://cloud.funda.nl/valentina_media/027/641/735_logogroot.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.216327+00:00"
+    },
+    {
+      "url": "https://evs.seg.funda.nl/next-integrations/integrations/optimizely/3.5.1/optimizely.dynamic.js.gz",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.217067+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/815/id5-api-js",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.230808+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.232519+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.243321+00:00"
+    },
+    {
+      "url": "https://api.seg.funda.nl/v1/t",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:17:56.275170+00:00"
+    },
+    {
+      "url": "https://evs.seg.funda.nl/next-integrations/integrations/vendor/commons.59560acdd69ed701c941.js.gz",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.362705+00:00"
+    },
+    {
+      "url": "https://www.fundadesk.nl/lis",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.468820+00:00"
+    },
+    {
+      "url": "https://cdn.brandmetrics.com/tag/a1a90ea5-6f17-4f48-89e3-f15589b12869/funda.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.474617+00:00"
+    },
+    {
+      "url": "https://assets.fstatic.nl/master-358674/assets/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.514688+00:00"
+    },
+    {
+      "url": "https://phx.bmtrcs.com/api/v2/cd4b0ed9-980c-4434-90c2-33305b05b22d/lib/site.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.621001+00:00"
+    },
+    {
+      "url": "https://lbs.eu-1-id5-sync.com/lbs/v1",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.685350+00:00"
+    },
+    {
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.685828+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/bounce",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.688928+00:00"
+    },
+    {
+      "url": "https://phx.bmtrcs.com/api/v2/cd4b0ed9-980c-4434-90c2-33305b05b22d/lib/ev/0",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.711445+00:00"
+    },
+    {
+      "url": "https://logx.optimizely.com/v1/events",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:17:56.727996+00:00"
+    },
+    {
+      "url": "https://collector.brandmetrics.com/states/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.786937+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/gm/v3",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:17:56.794294+00:00"
+    },
+    {
+      "url": "https://phx.bmtrcs.com/api/v2/a1a90ea5-6f17-4f48-89e3-f15589b12869/srv/sop",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.840234+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/purl_config",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:17:56.975176+00:00"
+    },
+    {
+      "url": "https://logx.optimizely.com/v1/events",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:17:58.641502+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:18:01.060718+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".criteo.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".fundainbusiness.nl"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bidid",
+      "domain": ".fundainbusiness.nl"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".fundainbusiness.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_Z6K4CQPTG9",
+      "domain": ".fundainbusiness.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://browser-http-intake.logs.datadoghq.eu/v1/input/pub3196ca2f04eed55f858c57dfdb2b818b",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/157253/996/pwt.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ut.pubmatic.com/geo",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.pubmatic.com/AdServer/js/pwt/157253/996/141/config.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/api/config/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.rlcdn.com/api/identity/envelope",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.crwdcntrl.net/id",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/rid",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sid/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mug.criteo.com/sid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/815/id5-api-js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.brandmetrics.com/tag/a1a90ea5-6f17-4f48-89e3-f15589b12869/funda.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://lbs.eu-1-id5-sync.com/lbs/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/bounce",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://logx.optimizely.com/v1/events",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://collector.brandmetrics.com/states/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/gm/v3",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/purl_config",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://logx.optimizely.com/v1/events",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

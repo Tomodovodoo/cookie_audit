@@ -1,0 +1,46 @@
+{
+  "rank": 589,
+  "domain": "bidfood.nl",
+  "name": "bidfood.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:20:36.279969+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:12:23.542623+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 403)."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/bidfood.nl/before.json",
+  "outcome": "blocked"
+}

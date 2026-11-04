@@ -1,0 +1,54 @@
+{
+  "rank": 278,
+  "domain": "omroepbrabant.nl",
+  "name": "omroepbrabant.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:38:35.991068+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "A refusal control exists, but completion could not be verified."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Alles weigeren"
+    }
+  ],
+  "evidence": "evidence/omroepbrabant.nl/before.json",
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Omroep Brabant: het laatste nieuws uit Brabant, sport en informatie uit jouw regio.",
+  "rules_version": "0.2.0"
+}

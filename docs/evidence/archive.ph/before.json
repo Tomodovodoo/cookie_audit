@@ -1,0 +1,470 @@
+{
+  "frames": [
+    {
+      "url": "https://archive.ph/",
+      "title": "Webpage archive",
+      "text": "archive.today\nwebpage capture\n\temailblogFAQdonate\nMy url is alive and I want to archive its content\nArchive.today is a time capsule for web pages!\nIt takes a 'snapshot' of a webpage that will always be online even if the original page disappears.\nIt saves a text and a graphical copy of the page for better accuracy\nand provides a short and reliable link to an unalterable record of any web page\nincluding those from Web 2.0 sites:\nhttps://archive.ph/2020.04.21/rt.live/\nhttps://archive.ph/2014.06.26/google.com/maps/…\nThis can be useful if you want to take a 'snapshot' of a page which could change soon: price list, job offer, real estate listing, drunk blog post, ...\nSaved pages will have no active elements and no scripts, so they keep you safe as they cannot have any popups or malware!\nI want to search the archive for saved snapshots\nsearch queries by example\nmicrosoft.comfor snapshots from the host microsoft.com\n*.microsoft.comfor snapshots from microsoft.com and all its subdomains (e.g. www.microsoft.com)\nhttp://twitter.com/burgerkingfor snapshots from exact url (search is case-sensitive)\nhttp://twitter.com/burg*for snapshots from urls starting with http://twitter.com/burg",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "archive.today webpage capture",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 207.6666717529297,
+            "y": 20,
+            "width": 142.75,
+            "height": 41.33333206176758
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "email",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 890.951416015625,
+            "y": 9.333333015441895,
+            "width": 48.68055725097656,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "blog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 959.6319580078125,
+            "y": 9.333333015441895,
+            "width": 42.6875,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "FAQ",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1022.3194580078125,
+            "y": 9.333333015441895,
+            "width": 44.0069465637207,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "donate",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1086.326416015625,
+            "y": 9.333333015441895,
+            "width": 61.34027862548828,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "save",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 1037.6666259765625,
+            "y": 165.7777862548828,
+            "width": 100,
+            "height": 26.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(240, 240, 240)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "https://archive.ph/2020.04.21/rt.live/",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 272.6666564941406,
+            "y": 378,
+            "width": 190.11805725097656,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "https://archive.ph/2014.06.26/google.com/maps/…",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 272.6666564941406,
+            "y": 391.77777099609375,
+            "width": 268.1666564941406,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "search",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 1037.6666259765625,
+            "y": 528.7777709960938,
+            "width": 100,
+            "height": 26.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(240, 240, 240)",
+            "effectiveBackground": "rgb(240, 240, 240)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "microsoft.com",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 247.6666717529297,
+            "y": 620.888916015625,
+            "width": 86.68055725097656,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px 12px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "*.microsoft.com",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 247.6666717529297,
+            "y": 634.6666870117188,
+            "width": 94.6875,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px 12px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "http://twitter.com/burgerking",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 247.6666717529297,
+            "y": 648.4444580078125,
+            "width": 159.4027862548828,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px 12px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "http://twitter.com/burg*",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 247.6666717529297,
+            "y": 662.2222290039062,
+            "width": 131.38888549804688,
+            "height": 13.333333015441895
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(29, 45, 64)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 250, 225)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(29, 45, 64)",
+            "padding": "0px 12px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://archive.ph/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://archive.ph/",
+  "captured_at": "2026-11-03T15:03:57.646893+00:00",
+  "cookies": [
+    {
+      "name": "qki",
+      "domain": ".archive.ph",
+      "path": "/",
+      "expires": 1793721830.506627,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HstCfa2293961",
+      "domain": "archive.ph",
+      "path": "/",
+      "expires": 1825254230,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HstCla2293961",
+      "domain": "archive.ph",
+      "path": "/",
+      "expires": 1825254230,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HstCmu2293961",
+      "domain": "archive.ph",
+      "path": "/",
+      "expires": 1825254230,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HstPn2293961",
+      "domain": "archive.ph",
+      "path": "/",
+      "expires": 1825254230,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HstPt2293961",
+      "domain": "archive.ph",
+      "path": "/",
+      "expires": 1825254230,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HstCnv2293961",
+      "domain": "archive.ph",
+      "path": "/",
+      "expires": 1825254230,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "HstCns2293961",
+      "domain": "archive.ph",
+      "path": "/",
+      "expires": 1825254230,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://archive.ph",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://archive.ph/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:03:50.391405+00:00"
+    },
+    {
+      "url": "https://s10.histats.com/js15_as.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:50.645728+00:00"
+    },
+    {
+      "url": "https://s4.histats.com/stats/0.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:50.794190+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s10.histats.com/js15_as.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s4.histats.com/stats/0.php",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

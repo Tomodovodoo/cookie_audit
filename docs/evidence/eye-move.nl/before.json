@@ -1,0 +1,193 @@
+{
+  "frames": [
+    {
+      "url": "https://auth.eye-move.nl/account/login",
+      "title": "Login - EyeMove",
+      "text": "Inloggen\nWachtwoord vergeten?\n© 2026 - Powered by EyeMove",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 55.5,
+            "y": 535.8680419921875,
+            "width": 79.5,
+            "height": 33.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(51, 122, 183)",
+            "effectiveBackground": "rgb(51, 122, 183)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(46, 109, 164)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "a19bd0c03a1340149a507b58fd207cf0"
+        },
+        {
+          "id": "ca-1",
+          "text": "Wachtwoord vergeten?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 210.63888549804688,
+            "y": 545.6458129882812,
+            "width": 143.45138549804688,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 122, 183)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 122, 183)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "a19bd0c03a1340149a507b58fd207cf0"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "a19bd0c03a1340149a507b58fd207cf0",
+      "frame_url": "https://auth.eye-move.nl/account/login"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://auth.eye-move.nl/account/login",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:40:07.951314+00:00",
+  "cookies": [
+    {
+      "name": "ASP.NET_SessionId",
+      "domain": "eye-move.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Antiforgery.wwceWZ78XsM",
+      "domain": "auth.eye-move.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://auth.eye-move.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://eye-move.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.394474+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/connect/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.457771+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/account/login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.598993+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/lib/bootstrap/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.751138+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/css/client_standalone.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.766776+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/eyemove-logo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.767441+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/eyemove_1280.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.768494+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/lib/jquery/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.769313+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/lib/bootstrap/js/bootstrap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.770110+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/js/language.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.770910+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/js/bootstrap-select.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.772101+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.896137+00:00"
+    },
+    {
+      "url": "https://auth.eye-move.nl/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:40:00.915138+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

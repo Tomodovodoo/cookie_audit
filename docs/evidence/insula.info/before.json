@@ -1,0 +1,360 @@
+{
+  "frames": [
+    {
+      "url": "https://www.insula.info/",
+      "title": "Leerling Volgsysteem (LVS) | Insula",
+      "text": "Leerling\nInloggen\nOf login met je Kennisnet account\nSchool\nInloggen\nWachtwoord vergeten?\nMethode Rekenkracht, een product van Insula ABT © 2026",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 312.96527099609375,
+            "y": 535.1041870117188,
+            "width": 169.3958282470703,
+            "height": 43.3819465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 150, 64)",
+            "effectiveBackground": "rgb(0, 150, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(0, 150, 64)",
+            "padding": "10px 50px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Of login met je Kennisnet account",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 274.375,
+            "y": 596.263916015625,
+            "width": 246.57638549804688,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 96, 160)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(178, 226, 247)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 96, 160)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 882.9652709960938,
+            "y": 535.1041870117188,
+            "width": 169.3958282470703,
+            "height": 43.3819465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 150, 64)",
+            "effectiveBackground": "rgb(0, 150, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(0, 150, 64)",
+            "padding": "10px 50px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Wachtwoord vergeten?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 883.3611450195312,
+            "y": 596.263916015625,
+            "width": 168.6041717529297,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 96, 160)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(178, 226, 247)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 96, 160)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Methode Rekenkracht",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 127.66666412353516,
+            "y": 861.7777709960938,
+            "width": 161,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 96, 160)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(178, 226, 247)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 96, 160)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.insula.info/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.insula.info/",
+  "captured_at": "2026-11-03T15:27:32.278513+00:00",
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "domain": "www.insula.info",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.insula.info",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://insula.info/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:24.481067+00:00"
+    },
+    {
+      "url": "https://www.insula.info/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:24.545397+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/fonts.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:24.965734+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.007312+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.007895+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/metismenu.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.008666+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/icons.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.009325+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.009935+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/overwrite.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.010532+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/custom.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.011117+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/css/toastr.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.011706+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/images/logo-rekenkracht.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.012268+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/images/icon-balloon.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.012902+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.013484+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/bootstrap.bundle.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.014191+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/metismenu.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.014815+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/jquery.slimscroll.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.015822+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/waves.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.016508+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/pageFilter.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.017256+00:00"
+    },
+    {
+      "url": "https://www.insula.info/plugins/parsleyjs/parsley.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.017907+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/jquery.cookie.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.018530+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/toastr.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.019116+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/toastService.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.019682+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/js/app.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.020256+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.182017+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/images/bg.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.252460+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/images/block-left.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.252965+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/images/block-right.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.253832+00:00"
+    },
+    {
+      "url": "https://www.insula.info/assets/fonts/shag.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.254433+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.256007+00:00"
+    },
+    {
+      "url": "https://www.insula.info/",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:27:25.286688+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

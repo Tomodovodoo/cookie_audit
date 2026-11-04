@@ -1,0 +1,5811 @@
+{
+  "frames": [
+    {
+      "url": "https://www.taaloefenen.nl/",
+      "title": "Taaloefenen.nl - taal oefenen voor groep 4, groep 5, groep 6, groep 7 en groep 8!",
+      "text": "    \nhome woordenschat zinsdelen woordsoorten leestekens klas docenten\n\n\n\n\n\nWat wil je oefenen?\n\n\n\n\n\nLeuk en leerzaam\nSpelend taal oefenen; dat is wat deze website te bieden heeft. Door spelen en leren af te wisselen blijven kinderen gemotiveerd om verder te oefenen met taal. Naast woordenschat kan er op deze website ook geoefend worden met woordsoorten en zinsdelen, ook wel taalkundig en redekundig ontleden genoemd, en leestekens. Uniek daarbij is dat deze oefeningen op verschillende niveaus geoefend kunnen worden. Zo kunnen kinderen een bepaald onderdeel eerst makkelijk oefenen en het steeds moeilijker maken.\t\nPassend bij de taalmethode\nBij de woordenschatoefeningen kan er gekozen worden uit verschillende veelgebruikte taalmethodes. Hierdoor kunnen kinderen altijd oefenen met de woordenschatwoorden die ze bij een bepaald thema moeten leren. Bij woordsoorten en zinsdelen kun je kiezen voor de categorieën die je moet leren. Zo is het niveau voor iedereen geschikt!\t\nSimpel en gratis!\nOp deze website hoef je niet in te loggen en je hoeft nergens voor te betalen. Je kunt direct beginnen met spelen zonder beperkingen! Je hoeft maar 1 keer je groep en taalmethode te kiezen, de website 'onthoudt' die gegevens. Vind je de spelletjes op deze website ook leuk en leerzaam? Deel deze website dan ook met je vrienden!\nMeer over taaloefenen.nl\nWe proberen onze producten steeds te verbeteren. Daarvoor testen we altijd in de praktijk van het basisonderwijs. Er worden regelmatig verbeteringen aangebracht en nieuwe spelletjes gemaakt, zodat het voor kinderen leuk en uitdagend blijft! Verder horen we graag wat u vindt van deze website en tips zijn dan ook altijd welkom. Stuur ons een bericht!\n\n\nGame development door Gamedesign.nl\n© 2026 Taaloefenen.nl™   |   Privacy   |   Blog   |   Bijdeles.online   |   Contact",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 186.4027862548828,
+            "y": 171,
+            "width": 117,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-1",
+          "text": "woordenschat",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 306.8055725097656,
+            "y": 171,
+            "width": 163,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-2",
+          "text": "zinsdelen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 473.2083435058594,
+            "y": 171,
+            "width": 117,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-3",
+          "text": "woordsoorten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 593.6111450195312,
+            "y": 171,
+            "width": 163,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-4",
+          "text": "leestekens",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 760.013916015625,
+            "y": 171,
+            "width": 163,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-5",
+          "text": "klas",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 926.4166870117188,
+            "y": 171,
+            "width": 117,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-6",
+          "text": "docenten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1046.8194580078125,
+            "y": 171,
+            "width": 117,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-7",
+          "text": "Stuur ons een bericht!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 635.5972290039062,
+            "y": 1300.3333740234375,
+            "width": 156.38888549804688,
+            "height": 21.33333396911621
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(100, 160, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(220, 206, 170)",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 160, 3)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-8",
+          "text": "Game development door Gamedesign.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 920.7569580078125,
+            "y": 1799,
+            "width": 244.3541717529297,
+            "height": 21.50694465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(220, 206, 170)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-9",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 333.2291564941406,
+            "y": 1800.77783203125,
+            "width": 39.51388931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(220, 206, 170)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-10",
+          "text": "Blog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 391.4791564941406,
+            "y": 1800.77783203125,
+            "width": 24.5625,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(220, 206, 170)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-11",
+          "text": "Bijdeles.online",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 434.77777099609375,
+            "y": 1800.77783203125,
+            "width": 80.25,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(220, 206, 170)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        },
+        {
+          "id": "ca-12",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 533.763916015625,
+            "y": 1800.77783203125,
+            "width": 42.45138931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(220, 206, 170)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "f365a14c4d124d7995b692a96d1de3e0"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "f365a14c4d124d7995b692a96d1de3e0",
+      "frame_url": "https://www.taaloefenen.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "77f01e9ec6cf45479b880aab76e1672b",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "a941f383e74d4c00add647408ab46d34",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "bb7217c859ee4c6fa88e282ab72d4bd6",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "3a240984c0d24a6c95b2f806262892ab",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "2e25429029ac477c82762d52663ba2fe",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "5dfd1f17498c4474a1c8ac7d4b4822a0",
+      "frame_url": "https://cm.g.doubleclick.net/partnerpixels"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "2301443b94b1481c8c22b514222c0273",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.taaloefenen.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "64b17d690c6446948188f78d3d5ca2d4",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.taaloefenen.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 300
+      },
+      "frame_id": "422e682f4c7c4fadab33957ca1199c31",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/xbbe/pixel",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "cecacdf5f1ce4701ad542f6e20a311e2",
+      "frame_url": "https://googleads.g.doubleclick.net/xbbe/pixel"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "title": "",
+      "text": "\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "8bdbaea8e13f44fbb96cec606c7902cf",
+      "frame_url": "https://gum.criteo.com/syncframe"
+    },
+    {
+      "url": "https://www.taaloefenen.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "0a2448069b2e477f92a7dfcf0d2de865",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullsrcdoc",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "df042c52bf624dcab9b6c9cb7c61efd8",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullsrcdoc",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "e1f2baea6d0c4f9f801c8a2e02f74742",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/index.html",
+      "title": "",
+      "text": "DRIVE-IN: INRIJDEN, INLADEN, UITRIJDEN.\nBEKIJK HIER >",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "BEKIJK HIER >",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 558,
+            "y": 28.86111068725586,
+            "width": 128.79861450195312,
+            "height": 32.26388931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(80, 174, 66)",
+            "effectiveBackground": "rgb(80, 174, 66)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 15,
+          "frame_id": "801532ee2f16431d818c0fcc6ffbc785"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "801532ee2f16431d818c0fcc6ffbc785",
+      "frame_url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/index.html"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;dc_eid=40004000;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=gf9ldz;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3D39faee18-cd3a-4633-b657-1488bcbf7214%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3D2Icq1vNT04rypL4Z-0f7RDPD7ADQBh7IPQgXD__ilnU.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.taaloefenen.nl%26rcats%3D%26mste%3Dwww.taaloefenen.nl%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.17356978%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTwUNFgCzF1hQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okG15E2dhURkwLUQY8LUQxYKRRAyNTikk5ElACiU_hgvUYsovBAiJlreHU0oAWsSxEUXiDAHzTPK6D-F1jvTKODW1NZa2lxX_0-LrFYC_dLQfEjzKa_FMqYb_jDDc9Kn-v10-pfM2KROUrpny-4NwNxm_pqfU1zaPEoA9DZ9I8Jt0dX_2LetvGhjaZktYilfy8vB6h2eUs9uNpX8DdbCcL4p4w5jLIneGCM3lb68Jop_Kmq3VC3RzT8WBx7H8pr9faFbu0Yn3v-4wKQ9Syfc93PV9w17EHfCQdutFCkrW5v_QOGHstSLF4oMMhCpSoQeSkRp9nFIYrxPMsVcF1KZWJiBoS9aP-70ufun7t4MOKWWe7_g11UiErZJE0RIAqmC5XAhSvuGizmwxyTY489LbN92_O3zuP6zaIevwRVUYJgD94Tnu__dxZHFFy2BbpIZdaWnAQbYtIal6acdLJdxSEyhYPpurvEaKQPPnQlTpEwI0VKPeDsVFyErusaAFqa1_KIRaGWPW21Ed1ZdC_3ELjam9VyLsVcM-3qhkNQX7H2xLHk_IVhhLOb_ird32EXEU3Lu3zDKgA7-e1mKoCgeyLnOxPYWRnVLaUR4pImOgx3BP0CvPDEqb7eRJTasSxnVIrWjAXXu27-3lGcaNpKMWrl8PEmTbrxTeecAAJ6g9aQCVUm6Rvj70FSkprHECOfhiSITYJnJBwAAk-MbsKDwBXfHKBCiKrG8perIAvIW_JA9dU7m8zAaYX_Z_zlnsu5aCak3Nwqx_B5_yFEbRSAAHIjhuBLhPmLJMH7QyYAu2oJom8XHxKktyXdT44xis20jsH9WF3pmKCqj3UxgB0v5N-t0NlEyFCacBmd-Y-T2qLh3HZ2Q043b0.%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM4-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3Dd709daee-6fe5-4a5a-a68c-a2bd47011c75%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.taaloefenen.nl%2F$0;xdt=0;crlt=E-zB1Kkrz.;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=374;prcl=s",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "5598e553e16544cd9bb9fecd996d0084",
+      "frame_url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;dc_eid=40004000;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=gf9ldz;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3D39faee18-cd3a-4633-b657-1488bcbf7214%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3D2Icq1vNT04rypL4Z-0f7RDPD7ADQBh7IPQgXD__ilnU.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.taaloefenen.nl%26rcats%3D%26mste%3Dwww.taaloefenen.nl%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.17356978%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTwUNFgCzF1hQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okG15E2dhURkwLUQY8LUQxYKRRAyNTikk5ElACiU_hgvUYsovBAiJlreHU0oAWsSxEUXiDAHzTPK6D-F1jvTKODW1NZa2lxX_0-LrFYC_dLQfEjzKa_FMqYb_jDDc9Kn-v10-pfM2KROUrpny-4NwNxm_pqfU1zaPEoA9DZ9I8Jt0dX_2LetvGhjaZktYilfy8vB6h2eUs9uNpX8DdbCcL4p4w5jLIneGCM3lb68Jop_Kmq3VC3RzT8WBx7H8pr9faFbu0Yn3v-4wKQ9Syfc93PV9w17EHfCQdutFCkrW5v_QOGHstSLF4oMMhCpSoQeSkRp9nFIYrxPMsVcF1KZWJiBoS9aP-70ufun7t4MOKWWe7_g11UiErZJE0RIAqmC5XAhSvuGizmwxyTY489LbN92_O3zuP6zaIevwRVUYJgD94Tnu__dxZHFFy2BbpIZdaWnAQbYtIal6acdLJdxSEyhYPpurvEaKQPPnQlTpEwI0VKPeDsVFyErusaAFqa1_KIRaGWPW21Ed1ZdC_3ELjam9VyLsVcM-3qhkNQX7H2xLHk_IVhhLOb_ird32EXEU3Lu3zDKgA7-e1mKoCgeyLnOxPYWRnVLaUR4pImOgx3BP0CvPDEqb7eRJTasSxnVIrWjAXXu27-3lGcaNpKMWrl8PEmTbrxTeecAAJ6g9aQCVUm6Rvj70FSkprHECOfhiSITYJnJBwAAk-MbsKDwBXfHKBCiKrG8perIAvIW_JA9dU7m8zAaYX_Z_zlnsu5aCak3Nwqx_B5_yFEbRSAAHIjhuBLhPmLJMH7QyYAu2oJom8XHxKktyXdT44xis20jsH9WF3pmKCqj3UxgB0v5N-t0NlEyFCacBmd-Y-T2qLh3HZ2Q043b0.%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM4-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3Dd709daee-6fe5-4a5a-a68c-a2bd47011c75%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.taaloefenen.nl%2F$0;xdt=0;crlt=E-zB1Kkrz.;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=374;prcl=s"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "title": "",
+      "text": "/** Anti-fraud and anti-abuse applications only. See google.com/recaptcha */ try{var clients={'sodar':'https://pagead2.googlesyndication.com/pagead/sodar','sodar_atqg':'https://ep1.adtrafficquality.google/pagead/sodar'};window.addEventListener(\"message\",function(a){try{if(a.source===window.parent){var b=JSON.parse(a.data);var c=clients[b['id']];if(c){var d=document.createElement('img');d.src=c+b['params']+'&rc='+(localStorage.getItem(\"rc::a\")?sessionStorage.getItem(\"rc::b\"):\"\");window.document.body.appendChild(d);sessionStorage.setItem(\"rc::e\",parseInt(sessionStorage.getItem(\"rc::e\")||0)+1);localStorage.setItem(\"rc::h\",'1793720604804');}}}catch(b){}});window.parent.postMessage(\"_grecaptcha_ready\", \"*\");}catch(b){}",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "005e16034bee494eb41e7c160426f27a",
+      "frame_url": "https://www.google.com/recaptcha/api2/aframe"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "(function n(t,r,e){var o;function c(n){new Image(1,1).src=n}function i(){\"function\"==typeof window.clearTimeout&&RetrayLoader.timerRef&&window.clearTimeout(RetrayLoader.timerRef)}window.RetrayLoader||(window.RetrayLoader={MAX_NUM_OF_TRIES:3,TIMEOUT:400,numOfTries:1,timerRef:null}),t&&((o=document.createElement(\"script\")).src=t,o.onload=function(){window.isDVMLoaded=!0,i()},e&&o.setAttribute&&o.setAttribute(\"data-injection-id\",e),o.onerror=function(){window.isDVMLoaded||(o&&\"function\"==typeof o.remove&&(o.remove(),o=null),\"function\"==typeof window.setTimeout&&RetrayLoader.MAX_NUM_OF_TRIES!==RetrayLoader.numOfTries?(++RetrayLoader.numOfTries,i(),RetrayLoader.timerRef=window.setTimeout((function(){n(t,r,e)}),RetrayLoader.TIMEOUT)):\"function\"==typeof fetch?fetch(t).then((function(n){n.status>=500?c(r.replace(/cerrt=\\d+/,\"cerrt=262144\").replace(/napr=[^&]*/,\"napr=\"+encodeURIComponent(\"LoadTagError__SecondaryScriptUnavailable__5xx\"))):c(r)})).catch((function(){c(r)})):c(r))},document.body.appendChild(o))})(\"https://cdn.doubleverify.com/dv-measurements11207.js\",\"https://tps.doubleverify.com/visit.jpg\",\"null\");",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "da5a6470d76c4e7f9ac3e0985bacb9d2",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "8a302b5545944167be2d6e5f44342992",
+      "frame_url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "867ce3dec0e34ca1ba2ee19c704b4180",
+      "frame_url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html"
+    },
+    {
+      "url": "https://www.taaloefenen.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "b31750714bd34cdf982b4d93a3f37311",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "title": "",
+      "text": "STREAM NU\nALLE AFLEVERINGEN\n\nABONNEER JE\n\nVANAF € 5,99/MAAND\n\nAbonnement vereist. Voorwaarden gelden. 18+",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "660fce07a8934074a9a48e4f0cde6596",
+      "frame_url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html"
+    },
+    {
+      "url": "https://www.awin1.com/cshow.php",
+      "title": "cshow.php (1×1)",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "fb9b252128c44278a5cc6b8ed00ac439",
+      "frame_url": "https://www.awin1.com/cshow.php"
+    },
+    {
+      "url": "https://hal900021.redintelligence.net/request_content.php",
+      "title": "",
+      "text": "Online veilig browsen\nOnline veilig internetbankieren\nKoop nu \nSchuurman Schoenen\nMeer dan 80 A-merken voor dames, heren en kids.\nShop nu! \nPazzox: jouw online apotheek\nOntdek duizenden producten aan korting\nBestel nu \n\nTRG\nAD",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Online veilig browsen Online veilig internetbankieren Koop nu",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 30,
+            "width": 280,
+            "height": 66
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 24,
+          "frame_id": "7afe7acd67c743f185553fd4d72f439d"
+        },
+        {
+          "id": "ca-1",
+          "text": "Schuurman Schoenen Meer dan 80 A-merken voor dames, heren en kids. Shop nu!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 96,
+            "width": 280,
+            "height": 66
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 24,
+          "frame_id": "7afe7acd67c743f185553fd4d72f439d"
+        },
+        {
+          "id": "ca-2",
+          "text": "Pazzox: jouw online apotheek Ontdek duizenden producten aan korting Bestel nu",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 162,
+            "width": 280,
+            "height": 66
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 24,
+          "frame_id": "7afe7acd67c743f185553fd4d72f439d"
+        },
+        {
+          "id": "ca-3",
+          "text": "TRG",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 242.5,
+            "y": 281.5555725097656,
+            "width": 31.66666603088379,
+            "height": 18.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(231, 231, 231)",
+            "effectiveBackground": "rgb(231, 231, 231)",
+            "fontSize": 10,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "3px 7px"
+          },
+          "disabled": false,
+          "frame": 24,
+          "frame_id": "7afe7acd67c743f185553fd4d72f439d"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 300
+      },
+      "frame_id": "7afe7acd67c743f185553fd4d72f439d",
+      "frame_url": "https://hal900021.redintelligence.net/request_content.php"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "8250a45d64fb4b5495cbfc779dc61b31",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 19,
+        "height": 15
+      },
+      "frame_id": "81cf38feb9d449e7a210dce6b6ed7b74",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.taaloefenen.nl/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "specialFeaturesGranted": [
+          "1",
+          "2"
+        ],
+        "vendorsConsented": 491,
+        "legitimateInterestPurposes": [
+          "2",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:43:33.109533+00:00",
+  "cookies": [
+    {
+      "name": "sync",
+      "domain": ".3lift.com",
+      "path": "/sync",
+      "expires": 1796312606.478643,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_dt",
+      "domain": "s.seedtag.com",
+      "path": "/c",
+      "expires": 1794325402.561282,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1828280601.424537,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cmpconsentx66181",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1825256601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcccx66181",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1825256601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_G498BPS9T7",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1828280601.423154,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "r89_sid",
+      "domain": "www.taaloefenen.nl",
+      "path": "/",
+      "expires": 1793722401.430776,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session_id",
+      "domain": "www.taaloefenen.nl",
+      "path": "/",
+      "expires": 1793721501,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pv",
+      "domain": "www.taaloefenen.nl",
+      "path": "/",
+      "expires": 1793721501,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedID",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1796312601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedID_cst",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1796312601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hb_insticator_uid",
+      "domain": "www.taaloefenen.nl",
+      "path": "/",
+      "expires": 1796312601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid",
+      "domain": "www.taaloefenen.nl",
+      "path": "/",
+      "expires": 1798904602,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid_cst",
+      "domain": "www.taaloefenen.nl",
+      "path": "/",
+      "expires": 1798904602,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pubcid",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1817048602,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbw",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1825256602.527224,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1825256602.527318,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1809272602.527378,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sasd",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1793807002.527454,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1801440000.527346,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sasd2",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1793807002.527418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_ssp",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1796312602.561215,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_uid",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1825256602.561049,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256602.574512,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256602.574621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uids",
+      "domain": ".4dex.io",
+      "path": "/",
+      "expires": 1798848000.630408,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496604.896186,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "icu",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496602.713793,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496604.896265,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "presage-ssp",
+      "domain": ".presage.io",
+      "path": "/",
+      "expires": 1809531806.982569,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1825278202.813842,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "connectId",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1825256602.816251,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1817046420.838322,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1817048602,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1794325402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1794325402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaIdType",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1794325402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__gads",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1827416602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1827416602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1809272602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827416604.180851,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1825256606.618798,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id5",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1801496604.189416,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1827416604.225876,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "domain": ".connectad.io",
+      "path": "/",
+      "expires": 1796312604.48826,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "consent",
+      "domain": ".connectad.io",
+      "path": "/",
+      "expires": 1796312604.488339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id",
+      "domain": ".connectad.io",
+      "path": "/",
+      "expires": 1796312604.488396,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1825256605.598557,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1801496604.711242,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1801496605.598615,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827416604.862532,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496604.896245,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".taaloefenen.nl",
+      "path": "/",
+      "expires": 1827416604,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "APC",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1809272605.077395,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "domain": ".adform.net",
+      "path": "/",
+      "expires": 1798904605.231737,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "amuid2",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1825256605.617219,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sd_amuid2",
+      "domain": ".sync.a-mo.net",
+      "path": "/",
+      "expires": 1825256605.617263,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pamuid2",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1825256605.617284,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "psd_amuid2",
+      "domain": ".sync.a-mo.net",
+      "path": "/",
+      "expires": 1825256605.617308,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sv3_0",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1793807005.617331,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_sv3_0",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1793807005.617349,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_b",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720905.617377,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_b",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720905.617393,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_s",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720905.617418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_t",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720905.617442,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_s",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720905.617458,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_t",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720905.61749,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "8lcfmzhxc8d6_uid",
+      "domain": ".redintelligence.net",
+      "path": "/",
+      "expires": 1801496606.501174,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "presage-freshness",
+      "domain": ".presage.io",
+      "path": "/",
+      "expires": 1794325406.062342,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1801496606.812286,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KTPCACOOKIE",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1793807006.296608,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256606.489694,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256606.297308,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256606.489781,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1825256606.379101,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_gc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1809272606.379228,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793807006.379281,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793722406.379322,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SyncRTB4",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1801496606.481481,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KADUSERCOOKIE",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1825256607.205645,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "consent",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1793720906.489816,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csd",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1793720906.48985,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1809272606.673189,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1825256606.61886,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1809272606.67326,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "awpv8472",
+      "domain": ".awin1.com",
+      "path": "/",
+      "expires": 1793893406.786164,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "av-mid",
+      "domain": ".ads.avads.net",
+      "path": "/",
+      "expires": 1826833406.875293,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NMUID",
+      "domain": "cookies.nextmillmedia.com",
+      "path": "/",
+      "expires": 1825256606.875521,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-id",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1814456606.899802,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1828280606.899864,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".tradetracker.net",
+      "path": "/",
+      "expires": 1802360607.143295,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "awpv18785",
+      "domain": ".awin1.com",
+      "path": "/",
+      "expires": 1794152606.918227,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSESS",
+      "domain": ".awin1.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_80",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1801496606.982167,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1796312606.98229,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uf",
+      "domain": ".tradetracker.net",
+      "path": "/",
+      "expires": 1825256607.143183,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "av-tp-bsw",
+      "domain": ".ads.avads.net",
+      "path": "/",
+      "expires": 1793893408.154805,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1793807007.20559,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "chkChromeAb67Sec",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1801496607.205722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1796312608.41511,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ayl_visitor",
+      "domain": ".omnitagjs.com",
+      "path": "/",
+      "expires": 1796312607.616798,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uids",
+      "domain": ".refinery89.com",
+      "path": "/",
+      "expires": 1801496607.765107,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.taaloefenen.nl",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://cm.g.doubleclick.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.taaloefenen.nl",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.taaloefenen.nl",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://googleads.g.doubleclick.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://gum.criteo.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.taaloefenen.nl",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://tpc.googlesyndication.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://ad.doubleclick.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.google.com",
+      "localKeys": [
+        "rc::h"
+      ],
+      "sessionKeys": [
+        "rc::e"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://ep2.adtrafficquality.google",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://ep2.adtrafficquality.google",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.taaloefenen.nl",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://s0.2mdn.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.awin1.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://hal900021.redintelligence.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://s0.2mdn.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx66181_expire_.taaloefenen.nl",
+        "__cmpcccx66181_expire_.taaloefenen.nl",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpconsentx66181_.taaloefenen.nl",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "__cmpcccx66181_.taaloefenen.nl",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "id5id_cached_consent_data",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.id5-sync.com/analytics/985/pbjs",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.533665+00:00"
+    },
+    {
+      "url": "https://b.delivery.consentmanager.net/delivery/consent.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.536853+00:00"
+    },
+    {
+      "url": "https://b.delivery.consentmanager.net/delivery/info/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.584323+00:00"
+    },
+    {
+      "url": "https://www.google.nl/ads/ga-audiences",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.584963+00:00"
+    },
+    {
+      "url": "https://region1.analytics.google.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.592694+00:00"
+    },
+    {
+      "url": "https://pixel.yabidos.com/fltiu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.593749+00:00"
+    },
+    {
+      "url": "https://script.4dex.io/a/latest/adagio.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.594479+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/api/config/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.595224+00:00"
+    },
+    {
+      "url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.595953+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/rid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.596712+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.600599+00:00"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.602065+00:00"
+    },
+    {
+      "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.602441+00:00"
+    },
+    {
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.603086+00:00"
+    },
+    {
+      "url": "https://cdn.mgaru.dev/static/myGaruStandalone.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.603674+00:00"
+    },
+    {
+      "url": "https://tags.crwdcntrl.net/lt/c/16589/sync.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.606184+00:00"
+    },
+    {
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.607106+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/cookie_sync",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.880526+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.881512+00:00"
+    },
+    {
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.882244+00:00"
+    },
+    {
+      "url": "https://tlx.3lift.com/header/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.883216+00:00"
+    },
+    {
+      "url": "https://prebid.smilewanted.com/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.886550+00:00"
+    },
+    {
+      "url": "https://prebid.smilewanted.com/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.887519+00:00"
+    },
+    {
+      "url": "https://bid.missena.io/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.889246+00:00"
+    },
+    {
+      "url": "https://a.bids.ws/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.890404+00:00"
+    },
+    {
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.891496+00:00"
+    },
+    {
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.892504+00:00"
+    },
+    {
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.893471+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.894439+00:00"
+    },
+    {
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.895403+00:00"
+    },
+    {
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.896362+00:00"
+    },
+    {
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.897307+00:00"
+    },
+    {
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.898309+00:00"
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.901437+00:00"
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.902678+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.908449+00:00"
+    },
+    {
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.908896+00:00"
+    },
+    {
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.909778+00:00"
+    },
+    {
+      "url": "https://bid.missena.io/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.910572+00:00"
+    },
+    {
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.912453+00:00"
+    },
+    {
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.913276+00:00"
+    },
+    {
+      "url": "https://tlx.3lift.com/header/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.914300+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.915749+00:00"
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.929718+00:00"
+    },
+    {
+      "url": "https://a.bids.ws/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.930237+00:00"
+    },
+    {
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.931266+00:00"
+    },
+    {
+      "url": "https://prebid.smilewanted.com/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.932000+00:00"
+    },
+    {
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.932634+00:00"
+    },
+    {
+      "url": "https://mp.4dex.io/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.933358+00:00"
+    },
+    {
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.934060+00:00"
+    },
+    {
+      "url": "https://mp.4dex.io/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.934775+00:00"
+    },
+    {
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.945154+00:00"
+    },
+    {
+      "url": "https://mweb-hb.presage.io/api/header-bidding-request",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.969163+00:00"
+    },
+    {
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.969589+00:00"
+    },
+    {
+      "url": "https://pixel.yabidos.com/flimpobj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.029567+00:00"
+    },
+    {
+      "url": "https://pre.glotgrx.com/nflrc.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.139423+00:00"
+    },
+    {
+      "url": "https://ups.analytics.yahoo.com/ups/58813/fed",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.149876+00:00"
+    },
+    {
+      "url": "https://bcp.crwdcntrl.net/6/map",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:22.160240+00:00"
+    },
+    {
+      "url": "https://ident.mygaru.com/v2/id",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.164900+00:00"
+    },
+    {
+      "url": "https://onetag-sys.com/usync/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.440497+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.603369+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.603917+00:00"
+    },
+    {
+      "url": "https://1e6901283dfaf1e8675c3cf6529159d3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.612779+00:00"
+    },
+    {
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.640491+00:00"
+    },
+    {
+      "url": "https://lbs.eu-1-id5-sync.com/lbs/v1",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.662815+00:00"
+    },
+    {
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.663507+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/bounce",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.664446+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.744903+00:00"
+    },
+    {
+      "url": "https://ms-ads-monitoring-events.presage.io/bid_timeout",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:22.811887+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:22.815387+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:22.816735+00:00"
+    },
+    {
+      "url": "https://pre.glotgrx.com/vbl.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.124025+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/mysidia/1a6c8d76751db1ca6b691968c556700c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.082293+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/load_preloaded_resource_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.085766+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/mysidia/ad8be658496d0db70b662a4b2883d18a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.086176+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/mysidia/7a49cf276010fe13332fba2b8e0a7682.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.086895+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.087498+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/window_focus_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.088282+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/qs_click_protection_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.089147+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.089744+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/mysidia/8be3d52a9ea300037ab0bb6760f29c1c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.090347+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/dv3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.090970+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/window_focus_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.091590+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/qs_click_protection_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.092177+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.092747+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.093308+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/xbbe/pixel",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.097079+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.098468+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.099068+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.100727+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.104212+00:00"
+    },
+    {
+      "url": "https://ie1-bid.adsrvr.org/bid/feedback/refinery",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.109388+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.109841+00:00"
+    },
+    {
+      "url": "https://www.googletagservices.com/dcm/dcmads.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.110703+00:00"
+    },
+    {
+      "url": "https://choices.truste.com/ca",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.111644+00:00"
+    },
+    {
+      "url": "https://cdn.doubleverify.com/dvtp_src.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.112552+00:00"
+    },
+    {
+      "url": "https://s.update.adsrvr.org/2/357427/analytics.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.113235+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/pie/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.113925+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.115362+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.120048+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/gm/v3",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.125340+00:00"
+    },
+    {
+      "url": "https://sync.connectad.io/ImageSyncer",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.126777+00:00"
+    },
+    {
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.169472+00:00"
+    },
+    {
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.170970+00:00"
+    },
+    {
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.172213+00:00"
+    },
+    {
+      "url": "https://www.googletagservices.com/dcm/impl_v107.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.307272+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sid/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.309309+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.392552+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.418751+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.419767+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.420587+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.427852+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.444751+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.494240+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.501587+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.525002+00:00"
+    },
+    {
+      "url": "https://mug.criteo.com/sid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.529327+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.534786+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.535449+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.536686+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.579753+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/btr/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.580433+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.685092+00:00"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;dc_eid=40004000;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=gf9ldz;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3D39faee18-cd3a-4633-b657-1488bcbf7214%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3D2Icq1vNT04rypL4Z-0f7RDPD7ADQBh7IPQgXD__ilnU.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.taaloefenen.nl%26rcats%3D%26mste%3Dwww.taaloefenen.nl%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.17356978%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTwUNFgCzF1hQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okG15E2dhURkwLUQY8LUQxYKRRAyNTikk5ElACiU_hgvUYsovBAiJlreHU0oAWsSxEUXiDAHzTPK6D-F1jvTKODW1NZa2lxX_0-LrFYC_dLQfEjzKa_FMqYb_jDDc9Kn-v10-pfM2KROUrpny-4NwNxm_pqfU1zaPEoA9DZ9I8Jt0dX_2LetvGhjaZktYilfy8vB6h2eUs9uNpX8DdbCcL4p4w5jLIneGCM3lb68Jop_Kmq3VC3RzT8WBx7H8pr9faFbu0Yn3v-4wKQ9Syfc93PV9w17EHfCQdutFCkrW5v_QOGHstSLF4oMMhCpSoQeSkRp9nFIYrxPMsVcF1KZWJiBoS9aP-70ufun7t4MOKWWe7_g11UiErZJE0RIAqmC5XAhSvuGizmwxyTY489LbN92_O3zuP6zaIevwRVUYJgD94Tnu__dxZHFFy2BbpIZdaWnAQbYtIal6acdLJdxSEyhYPpurvEaKQPPnQlTpEwI0VKPeDsVFyErusaAFqa1_KIRaGWPW21Ed1ZdC_3ELjam9VyLsVcM-3qhkNQX7H2xLHk_IVhhLOb_ird32EXEU3Lu3zDKgA7-e1mKoCgeyLnOxPYWRnVLaUR4pImOgx3BP0CvPDEqb7eRJTasSxnVIrWjAXXu27-3lGcaNpKMWrl8PEmTbrxTeecAAJ6g9aQCVUm6Rvj70FSkprHECOfhiSITYJnJBwAAk-MbsKDwBXfHKBCiKrG8perIAvIW_JA9dU7m8zAaYX_Z_zlnsu5aCak3Nwqx_B5_yFEbRSAAHIjhuBLhPmLJMH7QyYAu2oJom8XHxKktyXdT44xis20jsH9WF3pmKCqj3UxgB0v5N-t0NlEyFCacBmd-Y-T2qLh3HZ2Q043b0.%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM4-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3Dd709daee-6fe5-4a5a-a68c-a2bd47011c75%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.taaloefenen.nl%2F$0;xdt=0;crlt=E-zB1Kkrz.;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=374;prcl=s",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.698946+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.702289+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.704405+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.707946+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.729070+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/gadgets/html5/api/exitapi-impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.729510+00:00"
+    },
+    {
+      "url": "https://cdn.doubleverify.com/dv-measurements11207.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.788735+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.790137+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.791338+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/dbm/ad",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.791950+00:00"
+    },
+    {
+      "url": "https://c1.adform.net/cookie",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.793542+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/gadgets/html5/addata.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.813485+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/5269de8b7c4c6a69131bfdf675c3734b.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.814268+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/88be629f26bc7f38c9d7d047e9cf3b70.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.815064+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.912577+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.920896+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_287.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.207703+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/elements/html/omrhp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.208586+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/3a3a542af32778561de2fe703fdf4525.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.219222+00:00"
+    },
+    {
+      "url": "https://tps.doubleverify.com/visit.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.235565+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.236165+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.238817+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/6b8d6ee8802ebc8bf028a716af06cf2e.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.242585+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/fonts/taz_525_normal.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.243119+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/fonts/taz_450_normal.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.244067+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.264637+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.264875+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/zone/ngpsw5aa65mw",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.265317+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.269005+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.269599+00:00"
+    },
+    {
+      "url": "https://sync.a-mo.net/cchain/0",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.343210+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.462717+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.465844+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.466310+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.495030+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.497513+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.500276+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.508784+00:00"
+    },
+    {
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.529616+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.557251+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.558503+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.590146+00:00"
+    },
+    {
+      "url": "https://hal900021.redintelligence.net/request.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.607113+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.752160+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.761871+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.762309+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.800557+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.826039+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/usersync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.862530+00:00"
+    },
+    {
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.868218+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.870066+00:00"
+    },
+    {
+      "url": "https://go.mediagotechnology.com/cs/equativ",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.872844+00:00"
+    },
+    {
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.873811+00:00"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.875290+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.876618+00:00"
+    },
+    {
+      "url": "https://ms-cookie-sync.presage.io/user-sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.877693+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.878732+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/MaxSans-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.928771+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/MaxSans-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.930234+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/MaxSans-Demi.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.930663+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adlib.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.931363+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adStyle.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.932777+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/879366/Enabler_01_262.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.933494+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.934598+00:00"
+    },
+    {
+      "url": "https://d17ebhrlbr4s4.cloudfront.net/preview-utils.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.935584+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/hboMaxLogo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.936272+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/textFit.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.936944+00:00"
+    },
+    {
+      "url": "https://sync.richaudience.com/f7872c90c5d3791e2b51f7edce1a0a5d/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.106373+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.179748+00:00"
+    },
+    {
+      "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=1ddffb65-0396-4100-a2e3-1fe40d37d432&gdpr=1&gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.278126+00:00"
+    },
+    {
+      "url": "https://hal900021.redintelligence.net/request.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.279990+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.282630+00:00"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/dcm",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.384300+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.408020+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.408522+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.410098+00:00"
+    },
+    {
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.410504+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/ul_cb/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.410966+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/runtime.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.411314+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/dynamic.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.420380+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/invocation.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.434780+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adlib.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.435698+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/animation.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.436114+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.467916+00:00"
+    },
+    {
+      "url": "https://dsp-2.presage.io/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.474249+00:00"
+    },
+    {
+      "url": "https://cookies.nextmillmedia.com/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.526249+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/generic",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.530025+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.530395+00:00"
+    },
+    {
+      "url": "https://ads.avads.net/sync/bsw",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.546711+00:00"
+    },
+    {
+      "url": "https://dpm.demdex.net/demconf.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.566397+00:00"
+    },
+    {
+      "url": "https://ti.tradetracker.net/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.584990+00:00"
+    },
+    {
+      "url": "https://www.awin1.com/cshow.php",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.618766+00:00"
+    },
+    {
+      "url": "https://www.awin1.com/cshow.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.619196+00:00"
+    },
+    {
+      "url": "https://hal900021.redintelligence.net/request_content.php",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.620123+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.632727+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.633501+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.634950+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.640926+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.648641+00:00"
+    },
+    {
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.651705+00:00"
+    },
+    {
+      "url": "https://s.amazon-adsystem.com/dcm",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.676240+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/xuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.678410+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/app.smartly.io/warren/images/972e189d-5f3c-45a5-bb46-b72ca59f96f8/blob-LOC_NT_Lanterns%20-%20Binge%20Creative_KA_Ultrawide_withBleed_NLD.jpg_1790787747286_blob.jpeg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.728939+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.748352+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/846b1a10-6302-47c7-a9cc-60bc0d0e24d4/fullbleed.png_1783062335550_fullbleed.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.776524+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/app.smartly.io/warren/images/3d5a6a72-198b-42e8-a0a9-08ad8e318733/blob-blank.png_1751977415257_blob.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.777570+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/846b1a10-6302-47c7-a9cc-60bc0d0e24d4/blank.png_1783062335550_blank.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.778017+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/generic",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.803979+00:00"
+    },
+    {
+      "url": "https://image2.pubmatic.com/AdServer/Pug",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.837595+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.840143+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.870739+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.890374+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/scale/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.891745+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/scale/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.892404+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/scale/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.893350+00:00"
+    },
+    {
+      "url": "https://ms-cookie-sync.presage.io/user-sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.912675+00:00"
+    },
+    {
+      "url": "https://ads.avads.net/sync/bsw",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.934798+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.935200+00:00"
+    },
+    {
+      "url": "https://ti.tradetracker.net/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.976911+00:00"
+    },
+    {
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.087438+00:00"
+    },
+    {
+      "url": "https://ap.lijit.com/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.144848+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.166099+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v24/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.166792+00:00"
+    },
+    {
+      "url": "https://hal900021.redintelligence.net/viewability",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.169132+00:00"
+    },
+    {
+      "url": "https://static.tradetracker.net/nl/material_image/e1/795da0ea59a4cc8f8e88a59b451bb2e0e26a79.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.219563+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.223393+00:00"
+    },
+    {
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.374675+00:00"
+    },
+    {
+      "url": "https://choices.trustarc.com/get",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.398036+00:00"
+    },
+    {
+      "url": "https://choices.trustarc.com/cap",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.402661+00:00"
+    },
+    {
+      "url": "https://visitor.omnitagjs.com/visitor/bsync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.416280+00:00"
+    },
+    {
+      "url": "https://d1hyarjnwqrenh.cloudfront.net/",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:27.648206+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.649769+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.658938+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.664477+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.665804+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.666352+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.667700+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.668622+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.669323+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.693467+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:28.432910+00:00"
+    },
+    {
+      "url": "https://maestro-ew1.tps.dv.tech/event.png",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:28.730315+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:30.071233+00:00"
+    },
+    {
+      "url": "https://maestro-ew1.tps.dv.tech/event.png",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:30.758342+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "uuid2",
+      "domain": ".adnxs.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "IDE",
+      "domain": ".doubleclick.net"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".criteo.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "anj",
+      "domain": ".adnxs.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".taaloefenen.nl"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".taaloefenen.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_G498BPS9T7",
+      "domain": ".taaloefenen.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/985/pbjs",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.analytics.google.com/g/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pixel.yabidos.com/fltiu.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://script.4dex.io/a/latest/adagio.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/api/config/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/rid",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tags.crwdcntrl.net/lt/c/16589/sync.min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/cookie_sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tlx.3lift.com/header/auction",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebid.smilewanted.com/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebid.smilewanted.com/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tlx.3lift.com/header/auction",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebid.smilewanted.com/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mp.4dex.io/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mp.4dex.io/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mweb-hb.presage.io/api/header-bidding-request",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pixel.yabidos.com/flimpobj.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pre.glotgrx.com/nflrc.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ups.analytics.yahoo.com/ups/58813/fed",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bcp.crwdcntrl.net/6/map",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://onetag-sys.com/usync/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://1e6901283dfaf1e8675c3cf6529159d3.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://lbs.eu-1-id5-sync.com/lbs/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/bounce",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ms-ads-monitoring-events.presage.io/bid_timeout",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/event",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/event",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pre.glotgrx.com/vbl.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/load_preloaded_resource_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/window_focus_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/qs_click_protection_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/dv3.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/window_focus_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/qs_click_protection_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/xbbe/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/event",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/syncframe",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ie1-bid.adsrvr.org/bid/feedback/refinery",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.googletagservices.com/dcm/dcmads.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.doubleverify.com/dvtp_src.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.update.adsrvr.org/2/357427/analytics.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/pie/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/gm/v3",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.connectad.io/ImageSyncer",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.googletagservices.com/dcm/impl_v107.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sid/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/index.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mug.criteo.com/sid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/btr/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;dc_eid=40004000;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=gf9ldz;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3D39faee18-cd3a-4633-b657-1488bcbf7214%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3D2Icq1vNT04rypL4Z-0f7RDPD7ADQBh7IPQgXD__ilnU.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.taaloefenen.nl%26rcats%3D%26mste%3Dwww.taaloefenen.nl%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.17356978%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTwUNFgCzF1hQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okG15E2dhURkwLUQY8LUQxYKRRAyNTikk5ElACiU_hgvUYsovBAiJlreHU0oAWsSxEUXiDAHzTPK6D-F1jvTKODW1NZa2lxX_0-LrFYC_dLQfEjzKa_FMqYb_jDDc9Kn-v10-pfM2KROUrpny-4NwNxm_pqfU1zaPEoA9DZ9I8Jt0dX_2LetvGhjaZktYilfy8vB6h2eUs9uNpX8DdbCcL4p4w5jLIneGCM3lb68Jop_Kmq3VC3RzT8WBx7H8pr9faFbu0Yn3v-4wKQ9Syfc93PV9w17EHfCQdutFCkrW5v_QOGHstSLF4oMMhCpSoQeSkRp9nFIYrxPMsVcF1KZWJiBoS9aP-70ufun7t4MOKWWe7_g11UiErZJE0RIAqmC5XAhSvuGizmwxyTY489LbN92_O3zuP6zaIevwRVUYJgD94Tnu__dxZHFFy2BbpIZdaWnAQbYtIal6acdLJdxSEyhYPpurvEaKQPPnQlTpEwI0VKPeDsVFyErusaAFqa1_KIRaGWPW21Ed1ZdC_3ELjam9VyLsVcM-3qhkNQX7H2xLHk_IVhhLOb_ird32EXEU3Lu3zDKgA7-e1mKoCgeyLnOxPYWRnVLaUR4pImOgx3BP0CvPDEqb7eRJTasSxnVIrWjAXXu27-3lGcaNpKMWrl8PEmTbrxTeecAAJ6g9aQCVUm6Rvj70FSkprHECOfhiSITYJnJBwAAk-MbsKDwBXfHKBCiKrG8perIAvIW_JA9dU7m8zAaYX_Z_zlnsu5aCak3Nwqx_B5_yFEbRSAAHIjhuBLhPmLJMH7QyYAu2oJom8XHxKktyXdT44xis20jsH9WF3pmKCqj3UxgB0v5N-t0NlEyFCacBmd-Y-T2qLh3HZ2Q043b0.%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM4-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3Dd709daee-6fe5-4a5a-a68c-a2bd47011c75%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.taaloefenen.nl%2F$0;xdt=0;crlt=E-zB1Kkrz.;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=374;prcl=s",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/gadgets/html5/api/exitapi-impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.doubleverify.com/dv-measurements11207.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/dbm/ad",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c1.adform.net/cookie",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/gadgets/html5/addata.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/5269de8b7c4c6a69131bfdf675c3734b.svg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/88be629f26bc7f38c9d7d047e9cf3b70.svg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_287.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/elements/html/omrhp.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/3a3a542af32778561de2fe703fdf4525.jpg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tps.doubleverify.com/visit.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15528439719841933518/media/6b8d6ee8802ebc8bf028a716af06cf2e.jpg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.a-mo.net/cchain/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/usersync",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://px.ads.linkedin.com/setuid",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ms-cookie-sync.presage.io/user-sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/879366/Enabler_01_262.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/hboMaxLogo.svg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/textFit.min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.richaudience.com/f7872c90c5d3791e2b51f7edce1a0a5d/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=1ddffb65-0396-4100-a2e3-1fe40d37d432&gdpr=1&gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.amazon-adsystem.com/dcm",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/ul_cb/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/runtime.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/dynamic.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/invocation.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adlib.min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/animation.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsp-2.presage.io/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cookies.nextmillmedia.com/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/cmf/generic",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.avads.net/sync/bsw",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dpm.demdex.net/demconf.jpg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ti.tradetracker.net/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.amazon-adsystem.com/dcm",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/xuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/app.smartly.io/warren/images/972e189d-5f3c-45a5-bb46-b72ca59f96f8/blob-LOC_NT_Lanterns%20-%20Binge%20Creative_KA_Ultrawide_withBleed_NLD.jpg_1790787747286_blob.jpeg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/846b1a10-6302-47c7-a9cc-60bc0d0e24d4/fullbleed.png_1783062335550_fullbleed.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/app.smartly.io/warren/images/3d5a6a72-198b-42e8-a0a9-08ad8e318733/blob-blank.png_1751977415257_blob.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/846b1a10-6302-47c7-a9cc-60bc0d0e24d4/blank.png_1783062335550_blank.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/cmf/generic",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image2.pubmatic.com/AdServer/Pug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ms-cookie-sync.presage.io/user-sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.avads.net/sync/bsw",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ti.tradetracker.net/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ap.lijit.com/pixel",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.tradetracker.net/nl/material_image/e1/795da0ea59a4cc8f8e88a59b451bb2e0e26a79.png",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://visitor.omnitagjs.com/visitor/bsync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://maestro-ew1.tps.dv.tech/event.png",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/dv/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://maestro-ew1.tps.dv.tech/event.png",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

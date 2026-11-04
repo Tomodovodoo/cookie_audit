@@ -1,0 +1,1742 @@
+{
+  "frames": [
+    {
+      "url": "https://nlnetlabs.nl/",
+      "title": "NLnet Labs - Home",
+      "text": "NLnet Labs\nSoftware\nServices & Support\nExpertise\nAbout\n×\nSECURITY UPDATE\nKrill 0.16.1 is available\n\nUpgrade immediately to patch three security vulnerabilities (CVE-2026-109140 to -109142).\n\nRead more →\nOpen source innovation.\nMission critical reliability.\n\nWe’re a nonprofit foundation building open source technologies that keep the internet’s core — DNS and routing — secure, resilient, and always on.\n\nWe don’t just write code. Through software, standards, and expert support, we keep critical infrastructure running for everyone, everywhere — open, trusted, and built to last.\n\nCascade\nA purpose-built DNSSEC\nsigning solution\nNSD\nFast and robust authoritative DNS nameserver\nUnbound\nLean and versatile recursive\nDNS resolver\nKrill\nFlexible and scalable\nRPKI Certificate Authority\nRoutinator\nLightweight RPKI Relying\nParty software\nRotonda\nFlexible BGP application platform\nResilience and uptime isn't negotiable\n\nYou can’t afford downtime. And you shouldn’t have to gamble on unreliable support.\n\nThat’s why we deliver open-source infrastructure—with direct access to the people who built it. No ticket queues. No intermediaries. Just answers.\n\nNews and updates\nKrill 0.16.1 'No Small Wonder' released\n02 Nov 2026\nRoutinator 0.16.0-rc1 released\n29 Oct 2026\nRoutinator 0.15.3 'Until It Ends, There Is No End' released\n26 Oct 2026\n\nSign up on the community forum to get release notifications and join the discussion.\n\nWe help keep mission critical networks running\n\nNo news is good news. When your infrastructure is stable, invisible, and quietly doing its job—that’s success.\n\nWe help make that happen, so you can keep the world connected without worrying about what's under the hood.\n\nBlog\nRoutinator users, we want your feedback\n03 Nov 2026\nNLnet Labs as an open-source software steward under the CRA\n20 Oct 2026\nMaintaining the love for coding in the time of AI\n16 Sept 2026\n\nSubscribe to the blog for the latest deep dives.\n\n\n\nOur work is used professionally by\n1\n2\n3\n4\n5\n6\n\nPROFESSIONAL SUPPORT\n\nFurther navigation\nOrganisation\nCode of Conduct\nPrivacy Statement\nSoftware Signing Keys\nSubmit Security Report\nLLM Policy\n    \nStichting NLnet Labs\nScience Park 400, 1098 XH Amsterdam, The Netherlands\n\nGeneral contact address: labs@nlnetlabs.nl\nFor product support please use our community forum.\n\nNLnet Labs is a non-profit Public Benefit Organisation (Algemeen Nut Beogende Instelling or ANBI).\n\n© 2026 Stichting NLnet Labs\n↑\nGo to the top",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "NLnet Labs",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 120.11111450195312,
+            "y": 16,
+            "width": 200,
+            "height": 65.125
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "16px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Software",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 718.9722290039062,
+            "y": 24.96527862548828,
+            "width": 111.8125,
+            "height": 47.1875
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10.4px 12.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Services & Support",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 830.7847290039062,
+            "y": 24.96527862548828,
+            "width": 193.9583282470703,
+            "height": 47.1875
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10.4px 12.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Expertise",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1024.7430419921875,
+            "y": 24.96527862548828,
+            "width": 115.7638931274414,
+            "height": 47.1875
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10.4px 12.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "About",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1140.5069580078125,
+            "y": 24.96527862548828,
+            "width": 89.60416412353516,
+            "height": 47.1875
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10.4px 12.8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "×",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1294.951416015625,
+            "y": 98.90277862548828,
+            "width": 54.3819465637207,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 24,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Read more →",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1170.3194580078125,
+            "y": 137.8125,
+            "width": 123.0138931274414,
+            "height": 44.0694465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "9.6px 13.6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Cascade A purpose-built DNSSEC signing solution",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 113.11111450195312,
+            "y": 757.6597290039062,
+            "width": 363.9930725097656,
+            "height": 228.3958282470703
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "24px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "NSD Fast and robust authoritative DNS nameserver",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 493.1041564941406,
+            "y": 757.6597290039062,
+            "width": 363.9930725097656,
+            "height": 228.3958282470703
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "24px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Unbound Lean and versatile recursive DNS resolver",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 873.0972290039062,
+            "y": 757.6597290039062,
+            "width": 363.9930725097656,
+            "height": 228.3958282470703
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "24px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Krill Flexible and scalable RPKI Certificate Authority",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 113.11111450195312,
+            "y": 1002.0555419921875,
+            "width": 363.9930725097656,
+            "height": 228.3958282470703
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "24px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Routinator Lightweight RPKI Relying Party software",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 493.1041564941406,
+            "y": 1002.0555419921875,
+            "width": 363.9930725097656,
+            "height": 228.3958282470703
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "24px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Rotonda Flexible BGP application platform",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 873.0972290039062,
+            "y": 1002.0555419921875,
+            "width": 363.9930725097656,
+            "height": 228.3958282470703
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "24px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "direct access",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 695.1111450195312,
+            "y": 1378.3541259765625,
+            "width": 500.40972900390625,
+            "height": 45.95138931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 236, 223)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Krill 0.16.1 'No Small Wonder' released",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 120.11111450195312,
+            "y": 1605.875,
+            "width": 354,
+            "height": 53.76388931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 22.4,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Routinator 0.16.0-rc1 released",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 498.1111145019531,
+            "y": 1605.875,
+            "width": 354,
+            "height": 26.88194465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 22.4,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Routinator 0.15.3 'Until It Ends, There Is No End' released",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 876.1111450195312,
+            "y": 1605.875,
+            "width": 354,
+            "height": 53.76388931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 22.4,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Sign up on the community forum",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 120.11111450195312,
+            "y": 1742.1041259765625,
+            "width": 240.11805725097656,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "help make that happen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 726.3472290039062,
+            "y": 1914.4375,
+            "width": 192.5625,
+            "height": 19.55555534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 236, 223)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Routinator users, we want your feedback",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 120.11111450195312,
+            "y": 2115.5625,
+            "width": 354,
+            "height": 53.76388931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 22.4,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "NLnet Labs as an open-source software steward under the CRA",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 498.1111145019531,
+            "y": 2115.5625,
+            "width": 354,
+            "height": 53.76388931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 22.4,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Maintaining the love for coding in the time of AI",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 876.1111450195312,
+            "y": 2115.5625,
+            "width": 354,
+            "height": 53.76388931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 22.4,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Subscribe to the blog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 120.11111450195312,
+            "y": 2251.791748046875,
+            "width": 153.23611450195312,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "1",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 590.1111450195312,
+            "y": 2649.951416015625,
+            "width": 20,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 235, 231)",
+            "fontSize": 0,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "2",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 620.1111450195312,
+            "y": 2649.951416015625,
+            "width": 20,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 235, 231)",
+            "fontSize": 0,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "3",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 650.1111450195312,
+            "y": 2649.951416015625,
+            "width": 20,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 235, 231)",
+            "fontSize": 0,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "4",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 680.1111450195312,
+            "y": 2649.951416015625,
+            "width": 20,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 235, 231)",
+            "fontSize": 0,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 710.1111450195312,
+            "y": 2649.951416015625,
+            "width": 20,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 235, 231)",
+            "fontSize": 0,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "6",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 740.1111450195312,
+            "y": 2649.951416015625,
+            "width": 20,
+            "height": 20
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(241, 235, 231)",
+            "fontSize": 0,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "PROFESSIONAL SUPPORT",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 120.11111450195312,
+            "y": 2674.951416015625,
+            "width": 248.20138549804688,
+            "height": 48.875
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(242, 101, 34)",
+            "effectiveBackground": "rgb(242, 101, 34)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(242, 101, 34)",
+            "padding": "12px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Organisation",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 135.11111450195312,
+            "y": 2834.4931640625,
+            "width": 92.96527862548828,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Code of Conduct",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 135.11111450195312,
+            "y": 2857.59033203125,
+            "width": 119.98611450195312,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Privacy Statement",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 135.11111450195312,
+            "y": 2880.6875,
+            "width": 130.9791717529297,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Software Signing Keys",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 135.11111450195312,
+            "y": 2903.78466796875,
+            "width": 159.125,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Submit Security Report",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 135.11111450195312,
+            "y": 2926.882080078125,
+            "width": 167.1666717529297,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "LLM Policy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 135.11111450195312,
+            "y": 2949.979248046875,
+            "width": 76.72916412353516,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "mastodon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 365.1041564941406,
+            "y": 2846.9931640625,
+            "width": 35,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "discourse",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 403.9375,
+            "y": 2846.9931640625,
+            "width": 35,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "codeberg",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 442.7708435058594,
+            "y": 2846.9931640625,
+            "width": 35,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "github",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 481.6041564941406,
+            "y": 2846.9931640625,
+            "width": 35,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "linkedin",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 520.4375,
+            "y": 2846.9931640625,
+            "width": 35,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "labs@nlnetlabs.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 775.4444580078125,
+            "y": 2896.6875,
+            "width": 126.91666412353516,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "community forum",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 851.0208129882812,
+            "y": 2919.78466796875,
+            "width": 130.86805725097656,
+            "height": 16.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(254, 236, 223)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(254, 236, 223)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://nlnetlabs.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://nlnetlabs.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:33:32.880232+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://nlnetlabs.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://nlnetlabs.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:33:24.736716+00:00"
+    },
+    {
+      "url": "https://use.typekit.net/cxt3dey.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:24.991802+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/css/custom.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:24.999071+00:00"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v7.3.1/css/all.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:24.999750+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/images/nlnetlabs-wordmark.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.000922+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/logos/Cascade/cascade-icon-light.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.001985+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/logos/NSD/nsd-icon.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.003030+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/logos/Unbound/unbound-icon.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.004389+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/logos/Krill/krill-icon.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.005529+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/js/jquery-3.2.1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.006537+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/js/bootstrap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.007487+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/js/slick.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.008464+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/js/customer_carousel.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.009861+00:00"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v7.3.1/js/all.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.010856+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/logos/Routinator/routinator-icon.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.011759+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/logos/Rotonda/rotonda-icon-light.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.012693+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/google.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.013707+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/godaddy.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.014633+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/internetstiftelsen.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.015547+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/meta.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.016403+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/capgemini.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.017177+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/identity-digital.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.018033+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/ibm.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.018859+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/oracle.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.020243+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/equinix.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.021987+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/vodafone.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.022946+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/infoblox.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.023844+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/netnod.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.024772+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/aws.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.025851+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/ripe-ncc.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.026937+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/lets-encrypt.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.027942+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/nominet.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.029271+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/nic-br.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.030235+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/sidn.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.031163+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/arelion.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.032012+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/afnic.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.107042+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/fastly.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.108374+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/microsoft.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.109540+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/verisign.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.110399+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/icann.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.111081+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/images/nlnetlabs-symbol-white.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.111858+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/js/community_news.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.112551+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/js/blog_posts.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.113201+00:00"
+    },
+    {
+      "url": "https://p.typekit.net/p.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.296080+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/images/nlnetlabs-letterform-light.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.739498+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/google.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.740375+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/godaddy.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.742646+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/internetstiftelsen.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.743835+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/meta.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.745002+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/capgemini.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.746213+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/identity-digital.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.747247+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/ibm.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.748457+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/oracle.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.749561+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/equinix.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.750634+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/vodafone.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.751826+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/infoblox.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.752745+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/netnod.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.753863+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/aws.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.754925+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/ripe-ncc.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.755942+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/lets-encrypt.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.757469+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/nominet.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.758528+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/nic-br.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.759431+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/sidn.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.760410+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/arelion.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.761483+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/afnic.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.762556+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/fastly.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.763462+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/microsoft.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.764439+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/verisign.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.765490+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/icann.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.766480+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/fonts/Montserrat-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.767381+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/fonts/Montserrat-Medium.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.768449+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/fonts/Montserrat-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.769966+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/fonts/P22Mackinac-Medium.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.770869+00:00"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v7.3.1/webfonts/fa-brands-400.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.771808+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/fonts/Montserrat-Italic.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.772933+00:00"
+    },
+    {
+      "url": "https://community.nlnetlabs.nl/latest.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.842484+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.ghost.io/ghost/api/content/posts/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.865072+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/theme/css/ajax-loader.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.909870+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/icann.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.921380+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/verisign.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.936703+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/microsoft.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.937881+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/fastly.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.938952+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/google.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.939470+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/godaddy.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.940458+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/internetstiftelsen.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.941213+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/meta.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.941955+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/capgemini.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.942781+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/identity-digital.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.943757+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/ibm.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.950612+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/oracle.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.951819+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/equinix.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.952478+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/vodafone.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.953116+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/infoblox.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.953793+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/netnod.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.954452+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/aws.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.955117+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/ripe-ncc.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.955733+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/lets-encrypt.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.956323+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/nominet.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.956934+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/nic-br.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.957524+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/sidn.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.958317+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/arelion.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.959187+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/static/customer_logos/monochrome/afnic.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.959829+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/extra/favicons/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:33:26.625918+00:00"
+    },
+    {
+      "url": "https://nlnetlabs.nl/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:33:26.698808+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

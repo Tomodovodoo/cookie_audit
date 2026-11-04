@@ -1,0 +1,604 @@
+{
+  "frames": [
+    {
+      "url": "https://yandex.com/",
+      "title": "Yandex — fast Internet search",
+      "text": "Services\nImages\nVideo\nMaps\nTranslate\nWeather\nMail\nAll\nSearch with Yandex AI",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Profile, not logged in",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1276.2222900390625,
+            "y": 30,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 35.1,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Images",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 306.7708435058594,
+            "y": 284,
+            "width": 100.09722137451172,
+            "height": 78
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Video",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 412.8680725097656,
+            "y": 284,
+            "width": 100.09722137451172,
+            "height": 78
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Maps",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 518.9652709960938,
+            "y": 284,
+            "width": 100.09722137451172,
+            "height": 78
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Translate",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 625.0625,
+            "y": 284,
+            "width": 100.09722137451172,
+            "height": 78
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Weather",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 731.1597290039062,
+            "y": 284,
+            "width": 100.09722137451172,
+            "height": 78
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Mail",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 837.2569580078125,
+            "y": 284,
+            "width": 100.09722137451172,
+            "height": 78
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "All",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 943.3541870117188,
+            "y": 284,
+            "width": 100.09722137451172,
+            "height": 78
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://yandex.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://yandex.com/",
+  "captured_at": "2026-11-03T15:32:12.599947+00:00",
+  "cookies": [
+    {
+      "name": "yandex_gid",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1796311918.262128,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yp",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279926.090738,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279918.262248,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr_b",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279918.262268,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279918.262314,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279918.262343,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255918.262386,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "domain": "mc.yandex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255928,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "my",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279920.599091,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_yasc",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279923.755225,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gdpr",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_uid",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sync_cookie_csrf",
+      "domain": ".mc.yandex.com",
+      "path": "/",
+      "expires": 1793720525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sync_cookie_csrf",
+      "domain": ".mc.yandex.ru",
+      "path": "/",
+      "expires": 1793720525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828279925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sync_cookie_ok",
+      "domain": ".mc.yandex.com",
+      "path": "/",
+      "expires": 1793806325,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828279926.001269,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828279926.001342,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828279926.001375,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825255925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828279928,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://yandex.com",
+      "localKeys": [
+        "_ym_synced",
+        "_ym44746606_lastHit",
+        "_ym_retryReqs",
+        "_ym_wasSynced",
+        "beerka",
+        "_ym_uid",
+        "_ym44746606_lsid",
+        "_ym44746606:0_reqNum",
+        "_ym3_lsid",
+        "_ym3:0_reqNum"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mc.yandex.com/sync_cookie_image_check",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:32:05.585341+00:00"
+    },
+    {
+      "url": "https://yandex.com/clck/counter",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:05.641177+00:00"
+    },
+    {
+      "url": "https://yandex.com/clck/click",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:05.796978+00:00"
+    },
+    {
+      "url": "https://yandex.com/clck/click/reqid=1793719918068134-14227176320741940422-yjfentz7orltx4am-BAL/slots=912283,0,65;1733170,0,40/table=morda_baobab",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:05.811124+00:00"
+    },
+    {
+      "url": "https://mc.yandex.ru/sync_cookie_image_start",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:32:05.813732+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/sync_cookie_image_decide",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:32:05.896108+00:00"
+    },
+    {
+      "url": "https://mc.yandex.ru/sync_cookie_image_finish",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:32:05.960803+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/watch/44746606",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:32:06.022415+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/watch/44746606/1",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:06.098499+00:00"
+    },
+    {
+      "url": "https://yandex.com/clck/click",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:08.519940+00:00"
+    },
+    {
+      "url": "https://yandex.com/clck/counter",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:08.527808+00:00"
+    },
+    {
+      "url": "https://yandex.com/clck/click/reqid=1793719918068134-14227176320741940422-yjfentz7orltx4am-BAL/slots=912283,0,65;1733170,0,40/table=morda_baobab",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:08.605523+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/watch/44746606",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:32:08.773208+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/sync_cookie_image_check",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.ru/sync_cookie_image_start",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/sync_cookie_image_decide",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.ru/sync_cookie_image_finish",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/watch/44746606",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/watch/44746606/1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/watch/44746606",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

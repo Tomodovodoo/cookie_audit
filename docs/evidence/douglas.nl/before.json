@@ -1,0 +1,161 @@
+{
+  "frames": [
+    {
+      "url": "https://www.douglas.nl/",
+      "title": "Access Denied",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.douglas.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.douglas.nl/",
+  "captured_at": "2026-11-03T15:16:43.949037+00:00",
+  "cookies": [
+    {
+      "name": "bm_so",
+      "domain": ".douglas.nl",
+      "path": "/",
+      "expires": 1793805396.093778,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_sz",
+      "domain": ".douglas.nl",
+      "path": "/",
+      "expires": 1793733396.093802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.douglas.nl",
+      "path": "/",
+      "expires": 1796310996,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akavpau_VP-NL",
+      "domain": "www.douglas.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_abck",
+      "domain": ".douglas.nl",
+      "path": "/",
+      "expires": 1825254998.407058,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".douglas.nl",
+      "path": "/",
+      "expires": 1793726195.494899,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".douglas.nl",
+      "path": "/",
+      "expires": 1796397398.494957,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bm_sc",
+      "domain": ".douglas.nl",
+      "path": "/",
+      "expires": 1793719008.495016,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.douglas.nl",
+      "localKeys": [],
+      "sessionKeys": [
+        "ak_bm_tab_id"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://douglas.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:35.354864+00:00"
+    },
+    {
+      "url": "https://www.douglas.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:35.544268+00:00"
+    },
+    {
+      "url": "https://www.douglas.nl/rRsr7ByJOkN65/WMsuvss/cDN0RnY/Gbm3N8ucSa/G21JfQE/VEVwQ/yllVWMZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:36.241971+00:00"
+    },
+    {
+      "url": "https://www.douglas.nl/rRsr7ByJOkN65/WMsuvss/cDN0RnY/Eum3N8zSGbp6DQ5k/Zxs-fQE/T094X/AxiOj4",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:36.259264+00:00"
+    },
+    {
+      "url": "https://www.douglas.nl/rRsr7ByJOkN65/WMsuvss/cDN0RnY/Eum3N8zSGbp6DQ5k/Zxs-fQE/T094X/AxiOj4",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:16:36.927663+00:00"
+    },
+    {
+      "url": "https://www.douglas.nl/rRsr7ByJOkN65/WMsuvss/cDN0RnY/Eum3N8zSGbp6DQ5k/Zxs-fQE/T094X/AxiOj4",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:16:38.040137+00:00"
+    },
+    {
+      "url": "https://www.douglas.nl/rRsr7ByJOkN65/WMsuvss/cDN0RnY/Gbm3N8ucSa/G21JfQE/VEVwQ/yllVWMZ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:16:38.089043+00:00"
+    },
+    {
+      "url": "https://www.douglas.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:38.362329+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "A block or incomplete page cannot establish absence of tracking."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,281 @@
+{
+  "frames": [
+    {
+      "url": "https://myprivacy.dpgmediagroup.net/consent",
+      "title": "DPG Media Privacy Gate",
+      "text": "",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Cookiebeleid",
+          "tag": "A",
+          "context": "Cookiebeleid",
+          "box": {
+            "x": 354.22222900390625,
+            "y": 692.2222290039062,
+            "width": 75.29166412353516,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Akkoord",
+          "tag": "BUTTON",
+          "context": "Deze website maakt gebruik van cookies\n\nDPG Media Group gebruikt cookies om informatie over je toestel, browser en surfgedrag te verzamelen. Dit laat toe het gebruik van de site te analyseren en personaliseren, de site te verbeteren, sociale media te integreren en je gerichte advertenties te tonen op andere websites en apps. Meer informatie vind je terug in ons Cookiebeleid.\n\nHieronder kan je toes",
+          "box": {
+            "x": 32,
+            "y": 818,
+            "width": 311.9375,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 36, 36)",
+            "background": "rgb(250, 187, 34)",
+            "effectiveBackground": "rgb(250, 187, 34)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(250, 187, 34)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Instellen",
+          "tag": "BUTTON",
+          "context": "Deze website maakt gebruik van cookies\n\nDPG Media Group gebruikt cookies om informatie over je toestel, browser en surfgedrag te verzamelen. Dit laat toe het gebruik van de site te analyseren en personaliseren, de site te verbeteren, sociale media te integreren en je gerichte advertenties te tonen op andere websites en apps. Meer informatie vind je terug in ons Cookiebeleid.\n\nHieronder kan je toes",
+          "box": {
+            "x": 359.9375,
+            "y": 818,
+            "width": 208.0625,
+            "height": 50
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(36, 36, 36)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://myprivacy.dpgmediagroup.net/consent"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://myprivacy.dpgmediagroup.net/consent",
+  "captured_at": "2026-11-03T15:06:41.226298+00:00",
+  "cookies": [
+    {
+      "name": "ak_bmsc",
+      "domain": ".dpgmediagroup.com",
+      "path": "/",
+      "expires": 1793725593.88881,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xAuthId",
+      "domain": "myprivacy.dpgmediagroup.net",
+      "path": "/",
+      "expires": 1827414394.040091,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authId",
+      "domain": "myprivacy.dpgmediagroup.net",
+      "path": "/",
+      "expires": 1827414394.040161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".dpgmediagroup.net",
+      "path": "/",
+      "expires": 1793725594.040206,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".dpgmediagroup.net",
+      "path": "/",
+      "expires": 1793725594.320003,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.7669",
+      "domain": ".dpgmediagroup.net",
+      "path": "/",
+      "expires": 1793720194,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.7669",
+      "domain": ".dpgmediagroup.net",
+      "path": "/",
+      "expires": 1828278394.463697,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp",
+      "domain": ".dpgmedia.net",
+      "path": "/",
+      "expires": 1825254394.534505,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://myprivacy.dpgmediagroup.net",
+      "localKeys": [
+        "snowplowOutQueue_snowplow_dpg"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "snowplowOutQueue_snowplow_dpg"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://dpgmedia.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:33.505579+00:00"
+    },
+    {
+      "url": "https://www.dpgmediagroup.com/nl-NL",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:33.651848+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmediagroup.net/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:06:33.914477+00:00"
+    },
+    {
+      "url": "https://myprivacy-static.dpgmedia.net/consent.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:34.122849+00:00"
+    },
+    {
+      "url": "https://myprivacy-static.dpgmedia.net/consent/resources/logos/logo-dpgmedia.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:34.127515+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:34.179774+00:00"
+    },
+    {
+      "url": "https://myprivacy-static.dpgmedia.net/consent/resources/backgrounds/dpgmediagroup.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:06:34.185198+00:00"
+    },
+    {
+      "url": "https://myprivacy-static.dpgmedia.net/integrator-config/dpgmediagroup-nl.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:06:34.196644+00:00"
+    },
+    {
+      "url": "https://pg.dpgmediagroup.net/api/consent",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:06:34.210016+00:00"
+    },
+    {
+      "url": "https://sp.dpgmedia.net/X9MmT8zP6LqV4RdK7Jw_v4_4_0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:06:34.340266+00:00"
+    },
+    {
+      "url": "https://pg.dpgmedia.net/api/metrics",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:06:34.398300+00:00"
+    },
+    {
+      "url": "https://c.dpgmedia.net/a/b",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:06:34.459998+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

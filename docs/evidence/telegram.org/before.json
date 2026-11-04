@@ -1,0 +1,1704 @@
+{
+  "frames": [
+    {
+      "url": "https://telegram.org/",
+      "title": "Telegram Messenger",
+      "text": "NL \nEnglish\nNederlands\nBahasa Indonesia\nBahasa Melayu\nDeutsch\nEspañol\nFrançais\nItaliano\nO‘zbek\nPolski\nPortuguês (Brasil)\nTürkçe\nБеларуская\nРусский\nУкраїнська\nҚазақша\nالعربية\nفارسی\n한국어\n Follow on X\nHome\nFAQ\nApps\nAPI\nModeratie\nHet laatste nieuws\n25 aug.\nWelkomstberichten, berichten met knoppen en gesigneerde cadeaus\n14 jul.\nRijke teksteditor, gemeenschappen, onzichtbare berichten in groepen, 350 miljoen GIF's\n11 jun.\nSmartwatch-apps, rijke tekst voor bots, AI-moderatie voor groepen en nog veel meer\n\neen nieuw communicatietijdperk\n\nTelegram voor Android\nTelegram voor iPhone / iPad\nTelegram voor PC / Linux\nTelegram voor macOS\nHet laatste nieuws\nWelkomstberichten, berichten met knoppen en gesigneerde cadeaus\nMaak kennis met welkomstberichten om nieuwe leden van groepen of kanalen te begroeten, knoppen in berichten om elke tekst interactief te…\n25 aug. 2026\nRijke teksteditor, gemeenschappen, onzichtbare berichten in groepen, 350 miljoen GIF's\nMaak kennis met de rijke teksteditor, die je kunt gebruiken om tekst te formatteren en te…\n14 jul. 2026\nWaarom Telegram?\nEenvoudig\nTelegram is zo eenvoudig dat je al weet hoe het werkt.\nPrivé\nTelegram-berichten zijn zwaarbeveiligd en kunnen automatisch verdwijnen.\nGesynchroniseerd\nMet Telegram heb je vanaf al je apparaten toegang tot je chats.\nSnel\nTelegram bezorgt berichten sneller dan alle andere apps.\nKrachtig\nBij Telegram zit er geen limiet op de grootte van je media en chats.\nTransparant\nDe API en broncode van Telegram zijn openbaar toegankelijk.\nVeilig\nTelegram beschermt je berichten tegen aanvallen van hackers.\nSociaal\nTelegram-groepen kunnen tot wel 200.000 leden hebben.\nExpressief\nMet Telegram kun je jouw chat-app volledig personaliseren.\nTelegram\nTelegram is een chat-app in de cloud, voor mobiele en desktopapparaten, met veiligheid en snelheid als topprioriteit.\nOver\nVeelgestelde vragen\nPrivacy\nPers\nMobiele apps\niPhone/iPad\nAndroid\nMobiele webversie\nDesktopapps\nPC/Mac/Linux\nmacOS\nWebbrowser\nPlatform\nAPI\nVertalingen\nSnelle weergave",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Toggle light/dark theme",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1296.2222900390625,
+            "y": 0,
+            "width": 54,
+            "height": 51
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(138, 147, 157)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(138, 147, 157)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "NL",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 998.138916015625,
+            "y": 0,
+            "width": 82.96527862548828,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.84)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "15.5px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "English",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 54.233333587646484,
+            "width": 9.316731452941895,
+            "height": 4.950002193450928
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Nederlands",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 54.233333587646484,
+            "width": 13.145833015441895,
+            "height": 4.950002193450928
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Bahasa Indonesia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 59.75,
+            "width": 17.15212631225586,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Bahasa Melayu",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 59.75,
+            "width": 15.21983528137207,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Deutsch",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 65.26667022705078,
+            "width": 10.16981315612793,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Español",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 65.26667022705078,
+            "width": 9.832356452941895,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Français",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 70.78333282470703,
+            "width": 10.14279556274414,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Italiano",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 70.78333282470703,
+            "width": 9.630208015441895,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "O‘zbek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 76.30000305175781,
+            "width": 9.114583015441895,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Polski",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 76.30000305175781,
+            "width": 8.12196159362793,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Português (Brasil)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 81.81666564941406,
+            "width": 17.4521484375,
+            "height": 4.950005531311035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Türkçe",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 81.81666564941406,
+            "width": 8.73654556274414,
+            "height": 4.950005531311035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Беларуская",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 87.33333587646484,
+            "width": 13.479166984558105,
+            "height": 4.950005531311035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Русский",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 87.33333587646484,
+            "width": 10.328125,
+            "height": 4.950005531311035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Українська",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 92.85000610351562,
+            "width": 12.93446159362793,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Қазақша",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 92.85000610351562,
+            "width": 10.95421028137207,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "العربية",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 98.3666763305664,
+            "width": 8.3740234375,
+            "height": 4.949991703033447
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "فارسی",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1060.0875244140625,
+            "y": 98.3666763305664,
+            "width": 7.885416507720947,
+            "height": 4.949991703033447
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "한국어",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1041.3375244140625,
+            "y": 103.88333892822266,
+            "width": 8.850043296813965,
+            "height": 4.94999885559082
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "9px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Follow on X",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1081.1041259765625,
+            "y": 0,
+            "width": 135.00694274902344,
+            "height": 49.33333206176758
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.84)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "15.5px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 105.11111450195312,
+            "y": 0,
+            "width": 71.24305725097656,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.84)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "15.5px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "FAQ",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 176.3541717529297,
+            "y": 0,
+            "width": 58.04861068725586,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.84)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "15.5px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Apps",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 234.4027862548828,
+            "y": 0,
+            "width": 64.61805725097656,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.84)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "15.5px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "API",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 299.0208435058594,
+            "y": 0,
+            "width": 53.21527862548828,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.84)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "15.5px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Moderatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 352.2361145019531,
+            "y": 0,
+            "width": 100.52083587646484,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.84)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "15.5px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Het laatste nieuws",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 942.1111450195312,
+            "y": 92,
+            "width": 224,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "25 aug. Welkomstberichten, berichten met knoppen en gesigneerde cadeaus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 942.1111450195312,
+            "y": 125,
+            "width": 224,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "14 jul. Rijke teksteditor, gemeenschappen, onzichtbare berichten in groepen, 350 miljoen GIF's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 942.1111450195312,
+            "y": 189,
+            "width": 224,
+            "height": 72
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "11 jun. Smartwatch-apps, rijke tekst voor bots, AI-moderatie voor groepen en nog veel meer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 942.1111450195312,
+            "y": 271,
+            "width": 224,
+            "height": 72
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Telegram voor Android",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 309.1111145019531,
+            "y": 375.59722900390625,
+            "width": 290,
+            "height": 300
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "262px 0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Telegram voor iPhone / iPad",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 599.1111450195312,
+            "y": 375.59722900390625,
+            "width": 441.9930725097656,
+            "height": 300
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "262px 0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Telegram voor PC / Linux",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 377.6111145019531,
+            "y": 747.5972290039062,
+            "width": 309.3958435058594,
+            "height": 308
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "270px 20px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Telegram voor macOS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 687.0069580078125,
+            "y": 747.5972290039062,
+            "width": 285.59722900390625,
+            "height": 308
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "270px 0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Het laatste nieuws",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 579.5555419921875,
+            "y": 1101.486083984375,
+            "width": 191.11111450195312,
+            "height": 30.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 23,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "API",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 886.2430419921875,
+            "y": 2191.007080078125,
+            "width": 22.06944465637207,
+            "height": 19.55555534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "Over",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 526.2708129882812,
+            "y": 2638.7431640625,
+            "width": 30.19444465637207,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "Veelgestelde vragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 526.2708129882812,
+            "y": 2666.694580078125,
+            "width": 124.3888931274414,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 526.2708129882812,
+            "y": 2689.694580078125,
+            "width": 43.17361068725586,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "Pers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 526.2708129882812,
+            "y": 2712.694580078125,
+            "width": 25.45138931274414,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "Mobiele apps",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.826416015625,
+            "y": 2638.7431640625,
+            "width": 85.99305725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "iPhone/iPad",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.826416015625,
+            "y": 2666.694580078125,
+            "width": 74.18055725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "Android",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.826416015625,
+            "y": 2689.694580078125,
+            "width": 49.90277862548828,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "Mobiele webversie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 691.826416015625,
+            "y": 2712.694580078125,
+            "width": 115.48611450195312,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "Desktopapps",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 848.4722290039062,
+            "y": 2638.7431640625,
+            "width": 82.59722137451172,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "PC/Mac/Linux",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 848.4722290039062,
+            "y": 2666.694580078125,
+            "width": 85.83333587646484,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "macOS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 848.4722290039062,
+            "y": 2689.694580078125,
+            "width": 43.64583206176758,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-48",
+          "text": "Webbrowser",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 848.4722290039062,
+            "y": 2712.694580078125,
+            "width": 77.63194274902344,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-49",
+          "text": "Platform",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 975.4652709960938,
+            "y": 2638.7431640625,
+            "width": 54.97916793823242,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-50",
+          "text": "API",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 975.4652709960938,
+            "y": 2666.694580078125,
+            "width": 20.59722328186035,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-51",
+          "text": "Vertalingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 975.4652709960938,
+            "y": 2689.694580078125,
+            "width": 70.05555725097656,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-52",
+          "text": "Snelle weergave",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 975.4652709960938,
+            "y": 2712.694580078125,
+            "width": 99.64583587646484,
+            "height": 18.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 136, 204)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 136, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://telegram.org/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://telegram.org/",
+  "captured_at": "2026-11-03T15:28:50.652277+00:00",
+  "cookies": [
+    {
+      "name": "stel_ssid",
+      "domain": "telegram.org",
+      "path": "/",
+      "expires": 1793759722.832773,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://telegram.org",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://telegram.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.740938+00:00"
+    },
+    {
+      "url": "https://telegram.org/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.905642+00:00"
+    },
+    {
+      "url": "https://telegram.org/css/telegram.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.922155+00:00"
+    },
+    {
+      "url": "https://telegram.org/css/telegram-theme.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.923641+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/400780400741/6/aFBFZ5lNqO8.66680.webp/0e567958d5b96a2184",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.924265+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/400780400366/6/dI0zgi0mM5s.323818.webp/6a362dadee6e7e6011",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.925546+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001897/3/f0Go0rLpEwk.11343.png/dd4eeb46cc5efc0688",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.927270+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001737/4/Fn57W9l3xI0.15286.png/d4b936ecc2c939f4fa",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.928307+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001560/2/n7EACfx4FPY.16465.png/7318c11715aa2ec45b",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.929190+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.930885+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/tgsticker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.931774+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/main-theme.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.932566+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001132/3/-1qvqKPZsQQ.17975.png/7d57d7159cf4fbe9b2",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.933272+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001828/11e9a/1yY7a721t4o.30567.png/e113973dae2bee508b",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.934304+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001880/3/xOpm7ohoHQ0.12690.png/feb1e161b1d3608613",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.935232+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001453/3/mNzXWC3RX0c.15740.png/9ce5fa5f3fb74460b4",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.937249+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001402/5/eOMSj3GzJXo.13579.png/f3cec6c451d023c109",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.938195+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001166/2/FzTl8_M5mQA.19325.png/b6c5dbc0e4f6553805",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:42.939287+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/themeMoon.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.354200+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/xLogo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.379356+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/SiteIconAndroid.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.380714+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/SiteAndroid.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.381706+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/SiteIconApple.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.382592+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/SiteiOS.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.383389+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/SiteDesktop.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.384750+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/t_logo_sprite.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.434680+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/t_main_Android_demo.mp4",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.435631+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/t_main_iOS_demo.mp4",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.436408+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/tgsticker-worker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.463375+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.869197+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/website_icon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:43.998683+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.wasm",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.079403+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/pako-inflate.min.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.090896+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/tgsticker-worker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.182269+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/tgsticker-worker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.182710+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/tgsticker-worker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.184177+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.232958+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.233953+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.234807+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.wasm",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.287969+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/pako-inflate.min.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.290855+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.wasm",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.292278+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/pako-inflate.min.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.293201+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/rlottie-wasm.wasm",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.293988+00:00"
+    },
+    {
+      "url": "https://telegram.org/js/pako-inflate.min.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.294961+00:00"
+    },
+    {
+      "url": "https://telegram.org/img/sun_outline.tgs",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.383156+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001484/1/bzi7gr7XRGU.10147/815df2ef527132dd23",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.388018+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001493/2/hV6uPcaHk_E.17388/dcccb066a7b4fe44ee",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.389444+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001418/1/fabnJFzygPY.17422/bc9dec9fd8bd26e00e",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.389943+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001560/1/zLlKYgeDLoA.14496/62085b07461f2d87e4",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.390736+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001828/11e99/2FUYW30UXAI.12708/7604effa1e02ddf7f9",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.394890+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001166/1/01aTJ2ISKeU.21801/24028c7b6d07639794",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.395398+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001812/2/kLAK2TPyvUU.12545/f68c1caf735a2ea3db",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.396836+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001880/2/VGTLBN3QuYM.10959/8940838e7dddc787d8",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.397735+00:00"
+    },
+    {
+      "url": "https://telegram.org/file/464001453/2/eW_MzRhUGoM.10926/fe1f3bc3dd08367c0a",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:28:44.398456+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

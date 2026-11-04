@@ -1,0 +1,618 @@
+{
+  "frames": [
+    {
+      "url": "https://www.google.com/",
+      "title": "Google",
+      "text": "Over\nStore\nGmailAfbeeldingen\nInloggen\nAI-modus\n \nGoogle aangeboden in: Frysk\nNederland\nAdverteren\nBedrijf\nHoe Google Zoeken werkt\nOns derde decennium van klimaatactie: dit is wat we doen\nPrivacy\nVoorwaarden\nInstellingen",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Over",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 21,
+            "y": 16.77777862548828,
+            "width": 40.34027862548828,
+            "height": 26.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Store",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 71.34027862548828,
+            "y": 16.77777862548828,
+            "width": 43.46527862548828,
+            "height": 26.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Gmail",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1082.4791259765625,
+            "y": 16.22222328186035,
+            "width": 33.95138931274414,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(227, 227, 227)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(227, 227, 227)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Afbeeldingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1131.4305419921875,
+            "y": 16.22222328186035,
+            "width": 75.90277862548828,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(227, 227, 227)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(227, 227, 227)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Google-apps",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1222.3333740234375,
+            "y": 8.222222328186035,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 195, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 195, 255)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1270.3333740234375,
+            "y": 8.222222328186035,
+            "width": 85,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 29, 53)",
+            "background": "rgb(194, 231, 255)",
+            "effectiveBackground": "rgb(194, 231, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 29, 53)",
+            "padding": "10px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Bestanden en tools toevoegen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 345.5555725097656,
+            "y": 383.8888854980469,
+            "width": 36,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(54, 56, 64)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Gesproken zoekopdracht",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 823.3611450195312,
+            "y": 389.8888854980469,
+            "width": 40,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(54, 56, 64)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Zoeken op afbeelding",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 863.3611450195312,
+            "y": 389.8888854980469,
+            "width": 40,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(54, 56, 64)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "AI-modus",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 911.3611450195312,
+            "y": 383.8888854980469,
+            "width": 106.41666412353516,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgb(54, 56, 64)",
+            "effectiveBackground": "rgb(54, 56, 64)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Google Zoeken",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 548.4652709960938,
+            "y": 456.77777099609375,
+            "width": 130.57638549804688,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 237)",
+            "background": "rgb(48, 49, 52)",
+            "effectiveBackground": "rgb(48, 49, 52)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(48, 49, 52)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Ik doe een gok",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 690.9375,
+            "y": 456.77777099609375,
+            "width": 125.93055725097656,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 237)",
+            "background": "rgb(48, 49, 52)",
+            "effectiveBackground": "rgb(48, 49, 52)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(48, 49, 52)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Frysk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 736.1736450195312,
+            "y": 542.4444580078125,
+            "width": 31.77083396911621,
+            "height": 14.222222328186035
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(153, 195, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(153, 195, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Adverteren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 20,
+            "y": 852.4444580078125,
+            "width": 98.48611450195312,
+            "height": 47.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Bedrijf",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 118.48611450195312,
+            "y": 852.4444580078125,
+            "width": 69.6875,
+            "height": 47.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Hoe Google Zoeken werkt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 188.17361450195312,
+            "y": 852.4444580078125,
+            "width": 192.6458282470703,
+            "height": 47.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Ons derde decennium van klimaatactie: dit is wat we doen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 478,
+            "y": 852.4444580078125,
+            "width": 409.3333435058594,
+            "height": 47.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1056.09033203125,
+            "y": 852.4444580078125,
+            "width": 75.90277862548828,
+            "height": 47.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1131.9930419921875,
+            "y": 852.4444580078125,
+            "width": 112.50694274902344,
+            "height": 47.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Instellingen",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 1244.5,
+            "y": 852.4444580078125,
+            "width": 100.83333587646484,
+            "height": 46.4444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(232, 234, 242)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 36, 42)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(232, 234, 242)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.google.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.google.com/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:33:41.991191+00:00",
+  "cookies": [
+    {
+      "name": "SEARCH_SAMESITE",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1809272005.688926,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AEC",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1809272005.689151,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SOCS",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1827848015.080487,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-ENID",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1827906704.080611,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.google.com",
+      "localKeys": [
+        "sb_wiz.zpc.gws-wiz.",
+        "aim;;aim_welcome_animation_plays",
+        "_c;;i"
+      ],
+      "sessionKeys": [
+        "hsb;;1793720004635",
+        "hsb;;1793720004634",
+        "_c;;i"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://consent.google.com/save",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:34.945352+00:00"
+    },
+    {
+      "url": "https://www.google.com/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:33:34.950004+00:00"
+    },
+    {
+      "url": "https://www.google.com/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:33:34.950595+00:00"
+    },
+    {
+      "url": "https://www.google.com/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:33:34.971388+00:00"
+    },
+    {
+      "url": "https://www.google.com/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:33:35.055782+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

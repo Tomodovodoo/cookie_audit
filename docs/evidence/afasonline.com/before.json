@@ -1,0 +1,291 @@
+{
+  "frames": [
+    {
+      "url": "https://idp.afasonline.com/Account/Login",
+      "title": "AFAS Online",
+      "text": "AFAS Status\nNL\nInloggen bij AFAS Online\nHELP\nVul hier je e-mailadres in.\nE-mailadres\nInloggen met een passkey\nVolgende",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "AFAS Status",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1029.5347900390625,
+            "y": 4.44444465637207,
+            "width": 79.6388931274414,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 15,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Inloggen met een passkey",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 472.6666564941406,
+            "y": 525.4444580078125,
+            "width": 262.7916564941406,
+            "height": 38.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(60, 198, 88)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(60, 198, 88)",
+            "padding": "6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Volgende",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 755.4583129882812,
+            "y": 525.4444580078125,
+            "width": 137.2083282470703,
+            "height": 38.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(60, 198, 88)",
+            "effectiveBackground": "rgb(60, 198, 88)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "6px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://idp.afasonline.com/Account/Login"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://idp.afasonline.com/Account/Login",
+  "captured_at": "2026-11-03T15:14:40.741520+00:00",
+  "cookies": [
+    {
+      "name": "__Secure-.AFAS.Portal.NonceCfDJ8Plc12FDpa9CqNIfu0WOWPDEklxhG6tDC6CvdpL2Tu7zg_IeobqYB5n7dlX5njho-pRL3P6te_MsOtuuODOyBnU5fzH_T36R-ImlgvgMIkFWbWZFZIpiXtPAnkLOdqS7y3E9awYl9XHoE3goAVyk5v-XsdNhr8ctQk0nroZxe6l90LsJe46YkSP46D2DE1Kdczl27M9-UeK17A1uGLZDITk2gKk9RMcEuVkurXlu7OxvXJf-Su53Ita1c5bf-JMGNbhrrUpaOOoiXTPmsWX9M8w",
+      "domain": "login.afasonline.com",
+      "path": "/signin-oidc",
+      "expires": 1793722474.404458,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-.AFAS.Portal.Correlation8dbiCvXs0TcM4Ak00c7HKX0eyaWtC4qpFYB8KnO9X_Q",
+      "domain": "login.afasonline.com",
+      "path": "/signin-oidc",
+      "expires": 1793722474.404485,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-.AFAS.Portal.Auth",
+      "domain": "login.afasonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-.AFAS.Portal.Session",
+      "domain": "login.afasonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-.AFAS.STS.Session.CQ4F54NZLP07-S3XVGHSZVKPXN",
+      "domain": "sts.afasonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-.AFAS.IdP.Nonce-ba20968f846e2caab588507ae212ef3ad31219c5d8492bd5ea27e0cdf4f51e1d",
+      "domain": "idp.afasonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-.AFAS.IdP.Session",
+      "domain": "idp.afasonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-.AFAS.Csrf",
+      "domain": "idp.afasonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://idp.afasonline.com",
+      "localKeys": [],
+      "sessionKeys": [
+        "returnUrl"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://afasonline.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.207015+00:00"
+    },
+    {
+      "url": "https://login.afasonline.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.261077+00:00"
+    },
+    {
+      "url": "https://sts.afasonline.com/connect/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.450795+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/connect/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.559119+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/Account/Login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.599727+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/css/StyleSheet.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.630626+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/images/VinkjeOnlinePortal.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.635385+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/images/AFASOnlineWit.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.635945+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/images/fido-passkey-green.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.636794+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/js/Functions.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.637453+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/js/Views/Account/Email.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.638604+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/js/Views/Account/Passkeys.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.639233+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.650528+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/images/Patroon.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.708579+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.709168+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.710059+00:00"
+    },
+    {
+      "url": "https://idp.afasonline.com/api/afasstatus",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:14:33.713168+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,1428 @@
+{
+  "frames": [
+    {
+      "url": "https://www.shutterstock.com/nl/",
+      "title": "Stockafbeeldingen, foto's, vectoren, video en muziek | Shutterstock",
+      "text": "Direct naar content\nGa voor Onbeperkt\nPrijzen\nInloggen\nAfbeeldingen\nVideo\nMuziek\nRedactioneel\n3D\nStudios\nAI-gegevenslicenties\nBedrijfsoplossingen\nAI-tools\nBegin nooit vanaf nul\n\nBegin met hoogwaardige door mensen ontwikkelde content en gebruik vervolgens onze AI-tools om precies te krijgen wat u nodig hebt\n\nAlle afbeeldingen\n​\nZoeken\n​\nTrending:\nNatuur\nLiefde\nGoedemorgen\nFijne verjaardag\nBedankt\nPas elk bedrijfsmiddel aan met bewerkingen op basis van AI\nBegin met hoogwaardige, door mensen gemaakte middelen\n\nBegin met hoogwaardige, door mensen gemaakte middelen\n\nEen enorme bibliotheek van premium activa van een diverse creatieve gemeenschap over de hele wereld. Alles binnen handbereik.\n\nNu verkennen\nAlle bedrijfsmiddelen aanpassen\nGenereer iets gloednieuw\nVan idee naar commercieel klaar\nDe meest toonaangevende AI-modellen, allemaal op één plek\n\nGebruik toonaangevende modellen om je AI-foto's en -video's te maken. Of laat onze match-functie voor modellen er een voor je uitzoeken op basis van je project.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Direct naar content",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": -80,
+            "width": 166.1458282470703,
+            "height": 37.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(20, 20, 20)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 16,
+            "fontWeight": "670",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(86, 86, 86)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Ga voor Onbeperkt",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 12,
+            "y": 12,
+            "width": 187.6527862548828,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 16,
+            "fontWeight": "670",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Prijzen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1015.1041870117188,
+            "y": 15.111111640930176,
+            "width": 70.97222137451172,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Taal selecteren",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1094.076416015625,
+            "y": 12,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Collecties",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1146.076416015625,
+            "y": 12,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Winkelwagen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1198.076416015625,
+            "y": 12,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1250.076416015625,
+            "y": 12,
+            "width": 88.14583587646484,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(20, 20, 20)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "670",
+            "borderWidth": 0,
+            "borderColor": "rgb(20, 20, 20)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Afbeeldingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 155.0277862548828,
+            "y": 72,
+            "width": 114.50694274902344,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Video",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 289.53472900390625,
+            "y": 72,
+            "width": 65.40972137451172,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Muziek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 374.9444580078125,
+            "y": 72,
+            "width": 74.04861450195312,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Redactioneel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 468.9930725097656,
+            "y": 72,
+            "width": 111.84722137451172,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "3D",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 600.8402709960938,
+            "y": 72,
+            "width": 45.79861068725586,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Studios",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 666.638916015625,
+            "y": 72,
+            "width": 76.0763931274414,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "AI-gegevenslicenties",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 762.7152709960938,
+            "y": 72,
+            "width": 161.29861450195312,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Bedrijfsoplossingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 944.013916015625,
+            "y": 72,
+            "width": 153.875,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "AI-tools",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1117.888916015625,
+            "y": 72,
+            "width": 77.29861450195312,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 14,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgba(0, 0, 0, 0)",
+            "padding": "8px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Op afbeelding zoeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1231.111083984375,
+            "y": 366.6666564941406,
+            "width": 36,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.87)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Zoeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1271.111083984375,
+            "y": 359.77777099609375,
+            "width": 44,
+            "height": 49.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(20, 20, 20)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 180, 64)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(20, 20, 20)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Natuur",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 35.11111068725586,
+            "y": 455.5555725097656,
+            "width": 55.63888931274414,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 18,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Liefde",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 98.75,
+            "y": 455.5555725097656,
+            "width": 49.98611068725586,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 18,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Goedemorgen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 156.73611450195312,
+            "y": 455.5555725097656,
+            "width": 118.77083587646484,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 18,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Fijne verjaardag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 283.5069580078125,
+            "y": 455.5555725097656,
+            "width": 127.69444274902344,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 18,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Bedankt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 419.2013854980469,
+            "y": 455.5555725097656,
+            "width": 67.21527862548828,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 18,
+            "fontWeight": "430",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Begin met hoogwaardige, door mensen gemaakte middelen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 42,
+            "y": 702.5555419921875,
+            "width": 506.4930725097656,
+            "height": 646.2986450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.87)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Nu verkennen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 94,
+            "y": 1238.8541259765625,
+            "width": 145.90972900390625,
+            "height": 58
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(20, 20, 20)",
+            "effectiveBackground": "rgb(20, 20, 20)",
+            "fontSize": 18,
+            "fontWeight": "670",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Alle bedrijfsmiddelen aanpassen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 548.4930419921875,
+            "y": 702.5555419921875,
+            "width": 253.24305725097656,
+            "height": 646.2986450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.87)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Genereer iets gloednieuw",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 801.7361450195312,
+            "y": 702.5555419921875,
+            "width": 253.24305725097656,
+            "height": 646.2986450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.87)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Van idee naar commercieel klaar",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1054.9791259765625,
+            "y": 702.5555419921875,
+            "width": 253.24305725097656,
+            "height": 646.2986450195312
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.87)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.shutterstock.com/nl/"
+    },
+    {
+      "url": "nullsrcdoc",
+      "title": "",
+      "text": "/**/",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.shutterstock.com/nl/",
+  "captured_at": "2026-11-03T15:31:30.382100+00:00",
+  "cookies": [
+    {
+      "name": "stck_anonymous_id",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1828279888.457145,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sstk_anonymous_id",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1828279888.457226,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "locale",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NEXT_LOCALE",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hl",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sstk_session_start",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1828279889.79724,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stck_session_id",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1793721689,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sstk_session_id",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1793721689,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "n_v",
+      "domain": "www.shutterstock.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "x-client-app",
+      "domain": "www.shutterstock.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "downlink",
+      "domain": "www.shutterstock.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visit_id",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1828279890.077178,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "visitor_id",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1828279890.077808,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "htjs_anonymous_id",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1825255890,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datadome",
+      "domain": ".shutterstock.com",
+      "path": "/",
+      "expires": 1825255890.370301,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.shutterstock.com",
+      "localKeys": [
+        "statsig.stable_id.421132752",
+        "NRBA_SESSION::3f5fed9c",
+        "statsig.session_id.421132752",
+        "htjs_anonymous_id"
+      ],
+      "sessionKeys": [
+        "getItem"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "statsig.stable_id.421132752",
+        "NRBA_SESSION::3f5fed9c",
+        "statsig.session_id.421132752",
+        "htjs_anonymous_id"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://shutterstock.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:21.612240+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:22.153957+00:00"
+    },
+    {
+      "url": "https://ct.captcha-delivery.com/i.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:22.745704+00:00"
+    },
+    {
+      "url": "https://geo.captcha-delivery.com/interstitial/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:23.408150+00:00"
+    },
+    {
+      "url": "https://ct.captcha-delivery.com/interstitial.1.35.0.202611031.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:26.234742+00:00"
+    },
+    {
+      "url": "https://geo.captcha-delivery.com/interstitial/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:27.436651+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:28.172665+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:28.574421+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/polyfills/polyfillString",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.294245+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/60551.233ff45381167fd0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.327970+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/6417.257208cd2798cc26.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.329320+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/74745.cbb137bc7fd1c366.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.330862+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/57938.c490bc3141573f25.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.331509+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/69506.cb385d79af8b3730.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.332469+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/81541.01aa5794e725285b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.333316+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/38025.2eaa73d17cd7bd1c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.334424+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/31940.fc66a5738d3541b0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.335588+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/39995.613d5c403fcefaca.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.337001+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/97335-619698001e938ebd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.337989+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/4973.c8ef5f96c5fa5e19.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.339567+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/95862.191d76b03ce36489.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.340272+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/61688.f0307b6be7ae67da.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.340916+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/60059.968e602d4c600739.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.341539+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/webpack-0a0bcefb610e8282.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.342173+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/framework-7b59d6cc49a9ce86.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.343079+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/main-d194ff57adda7f5a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.344352+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/constants-51f82fca4f1225a2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.345389+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/common-b6efd274eaefe422.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.346331+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/graphql-3aef099142288bdd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.347262+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/i18next-0d4cb919b67eec64.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.348219+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/analytics-004a38f61c0ec9bc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.349546+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/pages/_app-6b580e0a9798a57e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.350471+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/28277-d0fb12d051c5db50.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.351788+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/73602-abd798f9a2f3714b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.352781+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/86481-cfc05c98255bc335.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.353733+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/19831-b335f64392dc4645.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.354662+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/96060-e896c344511651c5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.355540+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/8959-40c89657c537a707.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.356367+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/10136-74bf8782e85f40f7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.357172+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/27490-396db8f036c4d3c8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.358069+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/50122-15186da802591424.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.358864+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/80790-8322b3e73b65e5cc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.360069+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/pages/_shutterstock-d65323fb66f59c97.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.360948+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/a68686ab224/_buildManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.361696+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/a68686ab224/_ssgManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.362485+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/4xpKSJC4wIz0CtluCy9Uax/95b43e4ef753933e16dc72e4ef2b5b21/Google.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.363301+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/WCzlFIN2h7O12AhqgefCU/f3eb4909e7440d295a917ebe9c97689e/AWS.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.364058+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/34mIZZ0vf1PhESQRZu3hAQ/6050877680aa00f557cd0cecb776c79d/OpenAI.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.364838+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/3bRy2V2nvp2lV4AdOdAyun/ee6c444e902c8b4acd19509ee6d6eb16/Runway.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.365588+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/4OgHxh1mfNqhl6nz6B0Z8d/186a4fa5bf03eb0f603b6bb0bc4f1b04/SSTKAI.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.366394+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/css/ba83434078a761ef.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.367262+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/css/9c1f4173be6fb0ec.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.368255+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/assets/images/uhp-ai-everywhere-impact-mark.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.369163+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/static/fonts/haffer/haffer-700.latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.377129+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/static/fonts/haffer/haffer-400.latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.378342+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/6fVVqZZVyIl6FHzYvgzyWq/642c50a99cdc9d745493534c96b6fd8e/NSFS_Slot_1.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.381979+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/6rBhoC40lDBrTA2siI6W8J/a333877fcc9066a275c211a2847c54b6/NSFS_Slot_2.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.387575+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/47wfARrEw441I0uK7PGnjY/79669bcf63434edc134f918b37c0483d/NSFS_Slot_3.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.387975+00:00"
+    },
+    {
+      "url": "https://images.ctfassets.net/hrltx12pl8hq/7w5Atk5gJpeO3jbibdLn93/ca608c0f6234624179b991fe857b62cb/NSFS_Slot_4b.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.388666+00:00"
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-spa-1.324.1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:29.761962+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/36173.a5050d8bb09f6740.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.035180+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/tags.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.036768+00:00"
+    },
+    {
+      "url": "https://plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws/v1/rgstr",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.050520+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/assets/images/favicon/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.067122+00:00"
+    },
+    {
+      "url": "https://bam.nr-data.net/browser/connect/2/NRBR-c71f8dc9cab489f627e",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.069716+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/static/libs/ads.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.075401+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/_next/static/chunks/48486.d8c43139333091ba.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.108280+00:00"
+    },
+    {
+      "url": "https://ht-cdn.analytics.shutterstock.com/browser/release/latest/events.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.108785+00:00"
+    },
+    {
+      "url": "https://ssgtm.shutterstock.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.109506+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.198664+00:00"
+    },
+    {
+      "url": "https://bam.nr-data.net/rum/2/NRBR-c71f8dc9cab489f627e",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.258890+00:00"
+    },
+    {
+      "url": "https://bam.nr-data.net/events/1/NRBR-c71f8dc9cab489f627e",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.259718+00:00"
+    },
+    {
+      "url": "https://bam.nr-data.net/jserrors/1/NRBR-c71f8dc9cab489f627e",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.260794+00:00"
+    },
+    {
+      "url": "https://bam.nr-data.net/events/1/NRBR-c71f8dc9cab489f627e",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.262741+00:00"
+    },
+    {
+      "url": "https://bam.nr-data.net/ins/1/NRBR-c71f8dc9cab489f627e",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.264091+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/2b1c9cb7-49df-49f0-b7a6-8dc6d4ccda31/2b1c9cb7-49df-49f0-b7a6-8dc6d4ccda31.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.271185+00:00"
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.305681+00:00"
+    },
+    {
+      "url": "https://www.shutterstock.com/datadome/js/",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:31:30.341929+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:30.364325+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://js-agent.newrelic.com/nr-spa-1.324.1.min.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.nr-data.net/browser/connect/2/NRBR-c71f8dc9cab489f627e",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.nr-data.net/rum/2/NRBR-c71f8dc9cab489f627e",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.nr-data.net/events/1/NRBR-c71f8dc9cab489f627e",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.nr-data.net/jserrors/1/NRBR-c71f8dc9cab489f627e",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.nr-data.net/events/1/NRBR-c71f8dc9cab489f627e",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.nr-data.net/ins/1/NRBR-c71f8dc9cab489f627e",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "context_excerpt_limit": 400
+}

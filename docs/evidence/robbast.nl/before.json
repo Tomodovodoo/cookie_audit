@@ -1,0 +1,219 @@
+{
+  "frames": [
+    {
+      "url": "https://robbast.nl/",
+      "title": "Rob Bast | Nerd for Hire",
+      "text": "Rob Bast\n“ nerd for hire ”\n\nI love a hands-on approach. Give me a keyboard and a task, and I will find a way to get it done, even if it is something completely new to me. Experienced with development in PHP, Javascript, Python and Erlang. Currently focused on CI/CD with Kubernetes on GCP/Azure. The internet has been my playground for well over a decade. For more details about my past experience, download my curriculum vitae.\n\nIn my spare time I like to contribute to and collaborate on various open source projects. Have a look at my GitHub account.\n\nYou can reach me via e-mail or on LinkedIn.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "curriculum vitae",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 720.0277709960938,
+            "y": 485.0833435058594,
+            "width": 119.04166412353516,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(204, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 18,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 0, 0) rgb(204, 0, 0) rgba(255, 255, 255, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "GitHub",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 692.3958129882812,
+            "y": 566.0833129882812,
+            "width": 52.95833206176758,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(204, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 18,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 0, 0) rgb(204, 0, 0) rgba(255, 255, 255, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "e-mail",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.0416870117188,
+            "y": 647.0833129882812,
+            "width": 47.32638931274414,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(204, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 18,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 0, 0) rgb(204, 0, 0) rgba(255, 255, 255, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "LinkedIn",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 780.9375,
+            "y": 647.0833129882812,
+            "width": 62.46527862548828,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(204, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 18,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(204, 0, 0) rgb(204, 0, 0) rgba(255, 255, 255, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://robbast.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://robbast.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:34:09.042671+00:00",
+  "cookies": [
+    {
+      "name": "_ga",
+      "domain": ".robbast.nl",
+      "path": "/",
+      "expires": 1828280041.996366,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_ZGL63EV7NF",
+      "domain": ".robbast.nl",
+      "path": "/",
+      "expires": 1828280042.007465,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://robbast.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://robbast.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:01.562730+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:01.747650+00:00"
+    },
+    {
+      "url": "https://robbast.nl/photo.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:01.772537+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:34:02.103740+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:34:07.014271+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".robbast.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_ZGL63EV7NF",
+      "domain": ".robbast.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

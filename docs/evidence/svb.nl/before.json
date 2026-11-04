@@ -1,0 +1,1324 @@
+{
+  "frames": [
+    {
+      "url": "https://www.svb.nl/nl/",
+      "title": "Homepage SVB | Sociale Verzekeringsbank | SVB",
+      "text": "Ga direct naar tekst\nGa direct naar menu\nInloggen\nMenu\nZoeken\nKies een taal\nTaal is nu Nederlands\nNederlands\nSociale Verzekeringsbank\nAOW\nKinderbijslag\nPGB\nEenvoudige uitleg\nAlle regelingen\nSnel naar\nZelf regelen\nInloggen op Mijn SVB\nWijziging doorgeven\nOnze post digitaal in uw Berichtenbox\nDigiD aanvragen\nUitleg Mijn SVB\nUw situatie\nAls iemand met AOW overlijdt\nAls u met iemand gaat wonen\nAls u buiten Nederland gaat wonen\nHulp bij schulden\nBetaaldagen\n23\nnov.\nAOW betaaldag\n04\njan.\nKinderbijslag betaaldag\n23\nnov.\nNabestaanden­uitkering betaaldag\nBerichten\nBezoek ons bij een gemeente\n\nHeeft u vragen aan ons? Dan kunt u ons in 8 gemeenten bezoeken.\n\nBij welke gemeenten kunt u ons bezoeken\nInloggen op Mijn SVB\n\nLees stap voor stap hoe u kunt inloggen op Mijn SVB.\n\nInloggen stap voor stap\nNepberichten en valse telefoontjes\n\nVertrouwt u een bericht van ons niet? Of een video van ons op internet?\n\nWat te doen bij nepberichten\nWat vindt u van deze pagina?*\nVolg ons\nFacebook\nU gaat naar een andere site. Deze opent in een nieuw venster.\nLinkedIn\nU gaat naar een andere site. Deze opent in een nieuw venster.\nX\nU gaat naar een andere site. Deze opent in een nieuw venster.\nService en contact\nServicegarantie\nContact\nToegankelijkheid\nMeer over de Sociale Verzekeringsbank\nPrivacy\nKlachten\nOver de SVB\nWerken bij\nPers en nieuws\nZakelijk\nDe SVB, de uitvoerder van volksverzekeringen in Nederland",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Ga direct naar tekst",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 667.1111450195312,
+            "y": -999,
+            "width": 16,
+            "height": 4
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "2px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Ga direct naar menu",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 667.1111450195312,
+            "y": -999,
+            "width": 16,
+            "height": 4
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "2px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Inloggen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1085.6666259765625,
+            "y": 35,
+            "width": 157.44444274902344,
+            "height": 46
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(0, 122, 98)",
+            "effectiveBackground": "rgb(0, 122, 98)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "2px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Menu",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 91.11111450195312,
+            "y": 122.66666412353516,
+            "width": 132.6458282470703,
+            "height": 74.33333587646484
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(219, 240, 234)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Zoeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 834.9375,
+            "y": 135.8333282470703,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(0, 122, 98)",
+            "effectiveBackground": "rgb(0, 122, 98)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Kies een taal Taal is nu Nederlands Nederlands",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1074.111083984375,
+            "y": 122.66666412353516,
+            "width": 185,
+            "height": 74.33333587646484
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(219, 240, 234)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "7px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "AOW",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107.11111450195312,
+            "y": 303.6944580078125,
+            "width": 269,
+            "height": 169.2291717529297
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Kinderbijslag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 396.1111145019531,
+            "y": 303.6944580078125,
+            "width": 269,
+            "height": 169.2291717529297
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "PGB",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 685.1111450195312,
+            "y": 303.6944580078125,
+            "width": 269,
+            "height": 169.2291717529297
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Eenvoudige uitleg",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 974.1111450195312,
+            "y": 303.6944580078125,
+            "width": 269,
+            "height": 169.2291717529297
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(204, 204, 204)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Alle regelingen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 107.11111450195312,
+            "y": 514.9236450195312,
+            "width": 224.4791717529297,
+            "height": 60
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(0, 122, 98)",
+            "padding": "0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Inloggen op Mijn SVB",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 132,
+            "y": 799.8055419921875,
+            "width": 226.44444274902344,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Wijziging doorgeven",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 132,
+            "y": 842.138916015625,
+            "width": 217.3402862548828,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Onze post digitaal in uw Berichtenbox",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 132,
+            "y": 884.4722290039062,
+            "width": 318.22222900390625,
+            "height": 60
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "DigiD aanvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 132,
+            "y": 954.4722290039062,
+            "width": 182,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Uitleg Mijn SVB",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 132,
+            "y": 996.8055419921875,
+            "width": 167.94444274902344,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Als iemand met AOW overlijdt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 516,
+            "y": 799.8055419921875,
+            "width": 304.34027099609375,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Als u met iemand gaat wonen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 516,
+            "y": 842.138916015625,
+            "width": 304.8819580078125,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Als u buiten Nederland gaat wonen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 516,
+            "y": 884.4722290039062,
+            "width": 318.22222900390625,
+            "height": 60
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Hulp bij schulden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 516,
+            "y": 954.4722290039062,
+            "width": 187.6666717529297,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "23 nov. AOW betaaldag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 881,
+            "y": 799.8055419921875,
+            "width": 356.22222900390625,
+            "height": 77
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "04 jan. Kinderbijslag betaaldag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 881,
+            "y": 894.138916015625,
+            "width": 356.22222900390625,
+            "height": 77
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "23 nov. Nabestaanden­uitkering betaaldag",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 881,
+            "y": 988.4722290039062,
+            "width": 356.22222900390625,
+            "height": 77
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Bij welke gemeenten kunt u ons bezoeken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 132,
+            "y": 1683.0069580078125,
+            "width": 318.22222900390625,
+            "height": 60
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Inloggen stap voor stap",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 516,
+            "y": 1713.0069580078125,
+            "width": 318.22222900390625,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Wat te doen bij nepberichten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 900,
+            "y": 1713.0069580078125,
+            "width": 318.22222900390625,
+            "height": 30
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Facebook U gaat naar een andere site. Deze opent in een nieuw venster.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107.11111450195312,
+            "y": 2069.9375,
+            "width": 101.72916412353516,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "LinkedIn U gaat naar een andere site. Deze opent in een nieuw venster.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107.11111450195312,
+            "y": 2109.9375,
+            "width": 95.125,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "X U gaat naar een andere site. Deze opent in een nieuw venster.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 107.11111450195312,
+            "y": 2149.9375,
+            "width": 39.3819465637207,
+            "height": 24
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Servicegarantie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.1111145019531,
+            "y": 2067.270751953125,
+            "width": 141.2777862548828,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.1111145019531,
+            "y": 2109.604248046875,
+            "width": 82.8888931274414,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Toegankelijkheid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.1111145019531,
+            "y": 2151.9375,
+            "width": 151.5625,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 2067.270751953125,
+            "width": 78.36111450195312,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Klachten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 963.1111450195312,
+            "y": 2067.270751953125,
+            "width": 90.27083587646484,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Over de SVB",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 2109.604248046875,
+            "width": 117.22916412353516,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Werken bij",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 963.1111450195312,
+            "y": 2109.604248046875,
+            "width": 104.90972137451172,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Pers en nieuws",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.1111450195312,
+            "y": 2151.9375,
+            "width": 138.38194274902344,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "Zakelijk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 963.1111450195312,
+            "y": 2151.9375,
+            "width": 81.625,
+            "height": 25
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(234, 245, 241)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(34, 34, 34)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.svb.nl/nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.svb.nl/nl/",
+  "captured_at": "2026-11-03T15:05:17.441373+00:00",
+  "cookies": [
+    {
+      "name": "f22ec9e4d7950995481154d42eb2d9d6",
+      "domain": "svb.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dtCookie",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rxVisitor",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dtSa",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pk_id.8bda5495-3d5b-40c3-a4ac-3636b5895400.d8ba",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": 1827673509,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.8bda5495-3d5b-40c3-a4ac-3636b5895400.d8ba",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": 1793720109,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rxvt",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dtPC",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "f22ec9e4d7950995481154d42eb2d9d6",
+      "domain": "www.svb.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.svb.nl",
+      "localKeys": [
+        "menuObject",
+        "mopDeploy"
+      ],
+      "sessionKeys": [
+        "dtSa",
+        "rxVisitor",
+        "saved-state",
+        "rxvt",
+        "mopDeploy",
+        "rxvisitid"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://svb.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.168571+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.208878+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/css/uikit.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.362925+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/serverpath/ruxitagentjs_ICANVfghqrux_10345260810170330.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.364883+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/gfx/logo-desktop.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.365387+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/js/menu-templating.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.366186+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.580230+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/media/ill-AOW_02-in-het-kort_w270_h118_n.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.599087+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/media/ill-Akw_02-voor-welke-kinderen_w270_h118_n.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.599556+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/media/ill-PGB_02-in-het-kort_w270_h118_n.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.717827+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/media/ill-eenvoudige-uitleg_w270_h118_n.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.799189+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/js/svbnl-mopinion.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.799662+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/js/piwik-custom-tracking.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.800436+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/js/piwik-pp-base.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.801181+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/js/piwik-init.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.801927+00:00"
+    },
+    {
+      "url": "https://svb.containers.piwik.pro/8bda5495-3d5b-40c3-a4ac-3636b5895400.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.802771+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/media/bezoek-ons-bij-de-gemeente_w1198.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.803688+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/media/mijn-svb-inloggen_w1198.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.804873+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/media/vragen-via-mail_w1198.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.805748+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/js/uikit.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.806957+00:00"
+    },
+    {
+      "url": "https://deploy.mopinion.com/js/pastease.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.807912+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/gfx/sprite.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.808713+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/gfx/sprite.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.809476+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.825067+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/gfx/img-sprite.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:08.834085+00:00"
+    },
+    {
+      "url": "https://svb.piwik.pro/ppms.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:09.134422+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/navigation.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:05:10.412399+00:00"
+    },
+    {
+      "url": "https://svb.piwik.pro/ppms.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:10.419376+00:00"
+    },
+    {
+      "url": "https://deploy.mopinion.com/config/p4gs1mdv5iermewnj0e8qqr6rjfjvj84vg9",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:05:10.420052+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/gfx/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:10.457021+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/static/3.1.11/gfx/favicon-16x16.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:10.514172+00:00"
+    },
+    {
+      "url": "https://collect.mopinion.com/assets/surveys/2.0/js/survey.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:11.533134+00:00"
+    },
+    {
+      "url": "https://cacheorcheck.mopinion.com/survey/public/json-config",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:05:11.772925+00:00"
+    },
+    {
+      "url": "https://fonts.mopinion.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:05:11.901097+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/beacon/rb_629d52ce-ab69-4d59-8702-a6fa8a3d1338",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:05:13.130418+00:00"
+    },
+    {
+      "url": "https://www.svb.nl/nl/beacon/rb_629d52ce-ab69-4d59-8702-a6fa8a3d1338",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:05:15.157959+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_pk_id.8bda5495-3d5b-40c3-a4ac-3636b5895400.d8ba",
+      "domain": "www.svb.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://svb.containers.piwik.pro/8bda5495-3d5b-40c3-a4ac-3636b5895400.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://svb.piwik.pro/ppms.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://svb.piwik.pro/ppms.php",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

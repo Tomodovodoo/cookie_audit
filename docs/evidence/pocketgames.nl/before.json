@@ -1,0 +1,124 @@
+{
+  "frames": [
+    {
+      "url": "https://pocketgames.nl/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://pocketgames.nl/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/3q8im/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/3q8im/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://pocketgames.nl/",
+  "captured_at": "2026-11-03T15:27:49.939558+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://pocketgames.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://pocketgames.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:42.399626+00:00"
+    },
+    {
+      "url": "https://pocketgames.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:42.591621+00:00"
+    },
+    {
+      "url": "https://pocketgames.nl/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:42.980608+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:43.590066+00:00"
+    },
+    {
+      "url": "https://pocketgames.nl/cdn-cgi/challenge-platform/h/g/fo/3677099278:1793718613:Cp3bxca5R7mbLPawrufF8zdne-_SfQ7QYuM4cI5sZtM/a54c6792df37fffd/rIvcNnpQkCZTf_YJs9kwsrN__6_GoiMTUL8Moin5tK4-1793719662-1.2.1.1-S8tGa0zICUIf2tBRmSvqWHjkfJy4G_t140eH_KTiv6.NnhfYcvwRVKm7ab5.UCU4",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:43.762702+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/3q8im/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:44.026820+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/2302969978:1793718624:ibCdoA1TAvSo-Fx7wH-DsOS3s9wVxZFhEeGcI5BvCQI/a54c679bf8259a0e/CqaGrAVOxfK-Ze1ykJDFFbR02uLEQfS7B0obdmNCuW7pFz2CZeGkNfUN0aBgeuXMJXz1mgn52rg4u3l33scjzvoc65C9rHac3W7xGJHZ1XaO-c8YBuXgVxgRRrHeXCekxg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:44.666479+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c679bf8259a0e/CqaGrAVOxfK-Ze1ykJDFFbR02uLEQfS7B0obdmNCuW7pFz2CZeGkNfUN0aBgeuXMJXz1mgn52rg4u3l33scjzvoc65C9rHac3W7xGJHZ1XaO-c8YBuXgVxgRRrHeXCekxg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:45.323800+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c679bf8259a0e/1793719664696/1111688cbd818af2234e9ff54f6e352adb9e2010011ec8df034faad2fea6b15c/CjreYB1RjkTDSAGiRpWTP4vQfalMQ17aZ14_XJ7054v6Jw9XQ1vjFCNF2qDCsok4jkV52Jo5Vj3An4s5a_UZZVfs710tx5BcsBZRi3C4mckbdce8GEyn8mXtNGI7PKj4EZURRSU9HU9jdhxQ5NHwxTowHR0ANjfqX8osNEDL8rZ7zvfGF0Amfq5s4A6AaX1xcSForBd4jvI0fvCwo4Zx0yRP-DetijEnfITO_OwoCyyif7zz75d1Vj5ln4P3gpwXNNs88vqW27ZVRyJNpn_sWtlpfPueT0246YWvRXV51jAuTePjMgRJnMWA4hhuRKCO0ZOrO6AtDOUly-h8E-bRKF02v7VcOSaTL0SLE0HEEEhdrcNkXCbfqBVqDpermRfCWfnh2bwLVJ0g_Jt_CnJVojxVJl3NiteY5MF-oNd5s1ivvQWhhXXhtK6ApYSHH947gAwP77N13paTP4shrHniY-5z-i4XahRplyTY_-WP35ECcUmHoRofjLLbJczQMkDygpQoz-EPQF1359RrzkNs45lwdxnZHxjq2ercQrLVk0egavATOAXWPjNCWp9TaBnOuD6LFsvroQS7S2wT0jM1_PDcFb5U_muhYBzr82ZBaakqvvgLQMs9bXSTO3iNO9mIKyEJKD92ygIjIDhCpf_U",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:45.324266+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c679bf8259a0e/1793719664708/CtrI_QA2piXB8ZF8E8slnw1ahnVNOH07-ksXAjTlF-qWETHNKgziOu1GgOdAQRmkkywcm3u7fFAB5W-bh2d6hyNU1eVsPqKLWan4sTjCFo8MMdDHMmUmHNGSKFeB8nWfP0U1Zs30FW89lwryB4TBKo1Y637CluB2tt47xwsE5P7kutcVSE6SQEMZp9GkGQCpZzrUm2jch0KPMJ9ApkakaRpMbrnUPqRNKL7J2LmbZEMj15ppP9XCOHsqiiIHv5G5AkJaqB9R6-8VTNZDi9PlA-_wrtFj1vTr5hdIvaTmTrA9Efl5623amZWh1871VNajamYKlVwZbrMgyL2_FPvUyKxsgk1kRyhQupOrsJHzFUa0ZNbvtBKmkRGZq5ZWFgi0o2cxXExGUUJ__EE3CoW7nFTMezmRDr6PI1CsTt2pwJ_ZSW_soLwErzFm1kuYpAUt2TlsWgntjqw98mvWcTug3e_rOjRgLFCQPrtTjdnMwkjXHE69rG9qhgmozCe0bSPKrZTA7k-2aRuR3K215gfpDIjoo9PHv9IVO7BWaHBED7xGYfasliW52zq0XppJlRyYbyjQZnjdQEwr7LLpRN7C",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:45.935839+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/2302969978:1793718624:ibCdoA1TAvSo-Fx7wH-DsOS3s9wVxZFhEeGcI5BvCQI/a54c679bf8259a0e/CqaGrAVOxfK-Ze1ykJDFFbR02uLEQfS7B0obdmNCuW7pFz2CZeGkNfUN0aBgeuXMJXz1mgn52rg4u3l33scjzvoc65C9rHac3W7xGJHZ1XaO-c8YBuXgVxgRRrHeXCekxg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:46.861509+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

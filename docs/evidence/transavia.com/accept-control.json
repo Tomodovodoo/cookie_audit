@@ -1,0 +1,1893 @@
+{
+  "frames": [
+    {
+      "url": "https://www.transavia.com/",
+      "title": "Welcome to Transavia",
+      "text": "Welcome\nWhere are you flying from?\nNederland (NL)\nNetherlands (EN)\nUnited Kingdom\nBelgië (NL)\nBelgique (FR)\nEspaña\nFrance\nItalia\nDeutschland\nPortugal\nOther (EN)\nFooter\n\n© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights\n\nFeedback",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Nederland (NL)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 219.11111450195312,
+            "y": 303.1111145019531,
+            "width": 124.85416412353516,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-1",
+          "text": "Netherlands (EN)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 219.11111450195312,
+            "y": 335.1111145019531,
+            "width": 138.32638549804688,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-2",
+          "text": "United Kingdom",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 219.11111450195312,
+            "y": 367.1111145019531,
+            "width": 131.9375,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-3",
+          "text": "België (NL)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 219.11111450195312,
+            "y": 399.1111145019531,
+            "width": 94.5138931274414,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-4",
+          "text": "Belgique (FR)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 219.11111450195312,
+            "y": 431.1111145019531,
+            "width": 112.30555725097656,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-5",
+          "text": "España",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 219.11111450195312,
+            "y": 463.1111145019531,
+            "width": 68.54861450195312,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-6",
+          "text": "France",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 384.1111145019531,
+            "y": 303.1111145019531,
+            "width": 64.5763931274414,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-7",
+          "text": "Italia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 384.1111145019531,
+            "y": 335.1111145019531,
+            "width": 50.02083206176758,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-8",
+          "text": "Deutschland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 384.1111145019531,
+            "y": 367.1111145019531,
+            "width": 106.20833587646484,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-9",
+          "text": "Portugal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 384.1111145019531,
+            "y": 399.1111145019531,
+            "width": 76.75694274902344,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-10",
+          "text": "Other (EN)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 384.1111145019531,
+            "y": 431.1111145019531,
+            "width": 91.25,
+            "height": 25.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(36, 100, 219)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(255, 255, 255, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(36, 100, 219)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-11",
+          "text": "Accessibility statement",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 232.73611450195312,
+            "y": 780.9861450195312,
+            "width": 124.54166412353516,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-12",
+          "text": "Conditions of carriage",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 381.27777099609375,
+            "y": 780.9861450195312,
+            "width": 117.5763931274414,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-13",
+          "text": "Services Access and Distribution Policy",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 522.8541870117188,
+            "y": 780.9861450195312,
+            "width": 209.56944274902344,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-14",
+          "text": "Conditions for re-routing, refunding and creating a voucher",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 756.4236450195312,
+            "y": 780.9861450195312,
+            "width": 312.7083435058594,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-15",
+          "text": "Legal Notice",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 1093.1319580078125,
+            "y": 780.9861450195312,
+            "width": 66.9513931274414,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-16",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 115.11111450195312,
+            "y": 816.5416870117188,
+            "width": 39.15972137451172,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-17",
+          "text": "Disclaimer",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 178.2708282470703,
+            "y": 816.5416870117188,
+            "width": 56.8125,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-18",
+          "text": "Safe payment",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 259.0833435058594,
+            "y": 816.5416870117188,
+            "width": 73.33333587646484,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-19",
+          "text": "Cookie policy",
+          "tag": "A",
+          "context": "Cookie policy",
+          "box": {
+            "x": 356.4166564941406,
+            "y": 816.5416870117188,
+            "width": 71.68055725097656,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-20",
+          "text": "Linked travel arrangements",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 452.09722900390625,
+            "y": 816.5416870117188,
+            "width": 146.23611450195312,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-21",
+          "text": "Coordinated vulnerability disclosure (CVD)",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 622.3333129882812,
+            "y": 816.5416870117188,
+            "width": 226.28472900390625,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-22",
+          "text": "Israeli Aviation Services Law",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 872.6180419921875,
+            "y": 816.5416870117188,
+            "width": 150.18055725097656,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 68, 68)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-23",
+          "text": "Kingdom of Saudi Arabia Passenger Rights",
+          "tag": "A",
+          "context": "© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy\n\nLinked travel arrangements\n\nCoordinated vulnerability disclosure (CVD)\n\nIsraeli Aviation Services Law\n\nKingdom of Saudi Arabia Passenger Rights",
+          "box": {
+            "x": 115.11111450195312,
+            "y": 852.0972290039062,
+            "width": 228.18055725097656,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(28, 78, 171)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(28, 78, 171)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        },
+        {
+          "id": "ca-24",
+          "text": "Feedback",
+          "tag": "BUTTON",
+          "context": "Welcome\nWhere are you flying from?\nNederland (NL)\nNetherlands (EN)\nUnited Kingdom\nBelgië (NL)\nBelgique (FR)\nEspaña\nFrance\nItalia\nDeutschland\nPortugal\nOther (EN)\nFooter\n\n© 2026 Transavia\n\nAccessibility statement\n\nConditions of carriage\n\nServices Access and Distribution Policy\n\nConditions for re-routing, refunding and creating a voucher\n\nLegal Notice\n\nPrivacy\n\nDisclaimer\n\nSafe payment\n\nCookie policy",
+          "box": {
+            "x": 1313.4444580078125,
+            "y": 357.6666564941406,
+            "width": 39.77777862548828,
+            "height": 112.22222137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(34, 34, 34)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px 24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4b16b9471e214fa3aa752c346cbdca2e"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "4b16b9471e214fa3aa752c346cbdca2e",
+      "frame_url": "https://www.transavia.com/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_id": "460f8491745c485c9f9bee1f97203941",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "a23dc586db99414d8a70d4a8122943e1",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://collector.transavia.com/_/service_worker/6al0/sw_iframe.html",
+      "title": "",
+      "text": "[Browser error/configuration or script text omitted.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "320297aa7ae54862b69880da3905ad83",
+      "frame_url": "https://collector.transavia.com/_/service_worker/6al0/sw_iframe.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.transavia.com/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:38:38.244261+00:00",
+  "cookies": [
+    {
+      "name": "websiteeu#lang",
+      "domain": "www.transavia.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "domain": "www.transavia.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "df_vs",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1793722103,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "df_ss",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1793722103,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "df_bpln",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1793722103,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tmDeviceId",
+      "domain": "www.transavia.com",
+      "path": "/",
+      "expires": 1825256303.95381,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tmId",
+      "domain": "www.transavia.com",
+      "path": "/",
+      "expires": 1825256303.953855,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1825256304.141385,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1793722104.14144,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "spses.a620",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1793722110,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tra_ga",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1828280304.493591,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1825256311.416861,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cookies_accepted",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1825256310,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tmConsentLocal",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1828280310.934896,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496310,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "spid.a620",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1828280310.986258,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tra_ga_21Q6T8Z90B",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1828280310.999456,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tmConsent",
+      "domain": "www.transavia.com",
+      "path": "/",
+      "expires": 1825256311.217301,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "FPAU",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496311.332302,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_cdi2_id",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1824824311.430664,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_cdi2_id_s",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1824824311.43073,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "h",
+      "domain": "ts.cdi2.transavia.com",
+      "path": "/",
+      "expires": 1796139511.430756,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ttp",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1801496311.453955,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1793806711,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1827416311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ttp",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ttcsid_D5IFMUBC77U666PPK0PG",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ttcsid",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1801496311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1825256311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pin_unauth",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1825256312,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1827416313.482147,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pinterest_ct_ua",
+      "domain": ".ct.pinterest.com",
+      "path": "/",
+      "expires": 1825256312.289159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1794325113.482253,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1827416313.482291,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "domain": ".transavia.com",
+      "path": "/",
+      "expires": 1793806712,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SM",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1827416313.442085,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1794325113.442124,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1793720913.442142,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.transavia.com",
+      "localKeys": [
+        "lastExternalReferrerTime",
+        "hams_q",
+        "_uetvid_exp",
+        "tmStorage",
+        "mopDeploy",
+        "_uetsid_exp",
+        "FontLoaded",
+        "_uetvid",
+        "snowplowOutQueue_snowplow_transavia_web",
+        "lastExternalReferrer",
+        "_gcl_ls",
+        "_cdi2_id",
+        "_uetsid"
+      ],
+      "sessionKeys": [
+        "AI_sentBuffer_1",
+        "203aa157-9392-40cb-bdc7-f9d6ae92cec0:https://dc.services.visualstudio.com/v2/track",
+        "is_eu",
+        "mopDeploy",
+        "AI_buffer_1",
+        "tt_appInfo",
+        "tt_sessionId",
+        "tt_pixel_session_index",
+        "_rdt_cfg",
+        "ab_session_check",
+        "_cltk"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "lastExternalReferrerTime",
+        "hams_q",
+        "_uetvid_exp",
+        "tmStorage",
+        "mopDeploy",
+        "_uetsid_exp",
+        "FontLoaded",
+        "_uetvid",
+        "snowplowOutQueue_snowplow_transavia_web",
+        "lastExternalReferrer",
+        "_gcl_ls",
+        "_cdi2_id",
+        "_uetsid"
+      ],
+      "sessionKeys": [
+        "AI_sentBuffer_1",
+        "203aa157-9392-40cb-bdc7-f9d6ae92cec0:https://dc.services.visualstudio.com/v2/track",
+        "is_eu",
+        "mopDeploy",
+        "AI_buffer_1",
+        "tt_appInfo",
+        "tt_sessionId",
+        "tt_pixel_session_index",
+        "_rdt_cfg",
+        "ab_session_check",
+        "_cltk"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "lastExternalReferrerTime",
+        "hams_q",
+        "_uetvid_exp",
+        "tmStorage",
+        "mopDeploy",
+        "_uetsid_exp",
+        "FontLoaded",
+        "_uetvid",
+        "snowplowOutQueue_snowplow_transavia_web",
+        "lastExternalReferrer",
+        "_gcl_ls",
+        "_cdi2_id",
+        "_uetsid"
+      ],
+      "sessionKeys": [
+        "AI_sentBuffer_1",
+        "203aa157-9392-40cb-bdc7-f9d6ae92cec0:https://dc.services.visualstudio.com/v2/track",
+        "is_eu",
+        "mopDeploy",
+        "AI_buffer_1",
+        "tt_appInfo",
+        "tt_sessionId",
+        "tt_pixel_session_index",
+        "_rdt_cfg",
+        "ab_session_check",
+        "_cltk"
+      ]
+    },
+    {
+      "origin": "https://collector.transavia.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.transavia.com/marketing-tracking/consent",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.019399+00:00"
+    },
+    {
+      "url": "https://s.pinimg.com/ct/core.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.020310+00:00"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.021438+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.022532+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/events.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.023163+00:00"
+    },
+    {
+      "url": "https://www.redditstatic.com/ads/pixel.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.023761+00:00"
+    },
+    {
+      "url": "https://deploy.mopinion.com/js/pastease.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.024362+00:00"
+    },
+    {
+      "url": "https://www.clarity.ms/tag/fmcopzk04o",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.024959+00:00"
+    },
+    {
+      "url": "https://ts.cdi2.transavia.com/cdi2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.025564+00:00"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.095197+00:00"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ccm/s/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.117938+00:00"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.118584+00:00"
+    },
+    {
+      "url": "https://collector.transavia.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.119262+00:00"
+    },
+    {
+      "url": "https://collector.transavia.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.210924+00:00"
+    },
+    {
+      "url": "https://collector.transavia.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.211490+00:00"
+    },
+    {
+      "url": "https://collector.transavia.com/trama/sp",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.250333+00:00"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/897624274132044",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.418493+00:00"
+    },
+    {
+      "url": "https://deploy.mopinion.com/config/eG0jTB0NR1ZPAkxD8nVwzG0d9NSTSuridhZvxxhX",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.450344+00:00"
+    },
+    {
+      "url": "https://www.transavia.com/csp-report/",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.452406+00:00"
+    },
+    {
+      "url": "https://alb.reddit.com/rp",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.479593+00:00"
+    },
+    {
+      "url": "https://s.pinimg.com/ct/lib/main.c61fa7c9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.482834+00:00"
+    },
+    {
+      "url": "https://scripts.clarity.ms/0.8.75/clarity.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.491236+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/p/action/4006767.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.497676+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.512912+00:00"
+    },
+    {
+      "url": "https://col.cdi2.transavia.com/p",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.516611+00:00"
+    },
+    {
+      "url": "https://col.cdi2.transavia.com/p",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.517563+00:00"
+    },
+    {
+      "url": "https://col.cdi2.transavia.com/p",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.518737+00:00"
+    },
+    {
+      "url": "https://col.cdi2.transavia.com/p",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.520693+00:00"
+    },
+    {
+      "url": "https://www.facebook.com/tr/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.739018+00:00"
+    },
+    {
+      "url": "https://www.transavia.com/csp-report/",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.781252+00:00"
+    },
+    {
+      "url": "https://ct.pinterest.com/user/",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.782103+00:00"
+    },
+    {
+      "url": "https://ct.pinterest.com/user/",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.783347+00:00"
+    },
+    {
+      "url": "https://ct.pinterest.com/v3/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.784328+00:00"
+    },
+    {
+      "url": "https://xd-f1cf3d4fdb19408ea770fc6f80817dcb.ecs.us-east-1.on.aws/events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:31.785400+00:00"
+    },
+    {
+      "url": "https://collect.mopinion.com/assets/surveys/2.0/js/survey.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.824910+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/action/0",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:31.978510+00:00"
+    },
+    {
+      "url": "https://www.transavia.com/csp-report/",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.016039+00:00"
+    },
+    {
+      "url": "https://bat.bing.net/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.025258+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.026083+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_9fbdaf50.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.032599+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.037116+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.042824+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.043415+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.050586+00:00"
+    },
+    {
+      "url": "https://www.transavia.com/csp-report/",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.051227+00:00"
+    },
+    {
+      "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.052439+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.054454+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.055702+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.056613+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.057433+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.058242+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.059278+00:00"
+    },
+    {
+      "url": "https://c.clarity.ms/c.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.060177+00:00"
+    },
+    {
+      "url": "https://ct.pinterest.com/v3/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.130204+00:00"
+    },
+    {
+      "url": "https://ct.pinterest.com/static/ct/token_create.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.134460+00:00"
+    },
+    {
+      "url": "https://ct.pinterest.com/ct.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.164409+00:00"
+    },
+    {
+      "url": "https://s.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.168232+00:00"
+    },
+    {
+      "url": "https://cacheorcheck.mopinion.com/survey/public/json-config",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.216271+00:00"
+    },
+    {
+      "url": "https://ct.pinterest.com/stats/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.222568+00:00"
+    },
+    {
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:32.359130+00:00"
+    },
+    {
+      "url": "https://c.bing.com/c.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.381986+00:00"
+    },
+    {
+      "url": "https://fonts.mopinion.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.452484+00:00"
+    },
+    {
+      "url": "https://collect.mopinion.com/custom/test/add-class-to-inputs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:32.453160+00:00"
+    },
+    {
+      "url": "https://c.clarity.ms/c.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:33.409994+00:00"
+    },
+    {
+      "url": "https://gstatic.mopinion.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:38:33.465397+00:00"
+    },
+    {
+      "url": "https://s.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:38:33.490421+00:00"
+    },
+    {
+      "url": "https://s.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:38:34.242843+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "_gcl_au",
+      "domain": ".transavia.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_ttp",
+      "domain": ".tiktok.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_fbp",
+      "domain": ".transavia.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_uetsid",
+      "domain": ".transavia.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_uetvid",
+      "domain": ".transavia.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_ttp",
+      "domain": ".transavia.com"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_clck",
+      "domain": ".transavia.com"
+    },
+    {
+      "kind": "multipurpose_identifier",
+      "name": "MUID",
+      "domain": ".bing.com"
+    },
+    {
+      "kind": "multipurpose_identifier",
+      "name": "MUID",
+      "domain": ".clarity.ms"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/bat.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/i18n/pixel/events.js",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.redditstatic.com/ads/pixel.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.clarity.ms/tag/fmcopzk04o",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ad.doubleclick.net/ccm/s/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connect.facebook.net/signals/config/897624274132044",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://alb.reddit.com/rp",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://scripts.clarity.ms/0.8.75/clarity.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/p/action/4006767.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MA.js",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.facebook.com/tr/",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/action/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/actionp/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_9fbdaf50.js",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/pixel",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c.clarity.ms/c.gif",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.tiktok.com/api/v2/monitor",
+      "categories": [
+        "Advertising",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c.clarity.ms/c.gif",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

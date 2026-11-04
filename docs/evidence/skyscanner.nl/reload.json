@@ -1,0 +1,589 @@
+{
+  "frames": [
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+      "title": "Skyscanner",
+      "text": "Ben je een persoon of een robot?\nDit is niet persoonlijk bedoeld; tegenwoordig zijn sommige scripts en bots bijna niet meer van echte mensen te onderscheiden!\nErvaar je nog steeds problemen bij het openen van de pagina? Controleer of je JavaScript en cookies hebt ingeschakeld en of je browser ze niet blokkeert tijdens het laden.\nc501e580-d799-11f1-875e-ddd42e6ec2a2",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+      "title": "Menselijke verificatiewedstrijd",
+      "text": "Ingedrukt houden •••",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+      "title": "Menselijke verificatiewedstrijd",
+      "text": "Ingedrukt houden •••",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+      "title": "Menselijke verificatiewedstrijd",
+      "text": "Ingedrukt houden •••",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+      "title": "Menselijke verificatiewedstrijd",
+      "text": "Ingedrukt houden •••",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+      "title": "Menselijke verificatiewedstrijd",
+      "text": "Human Challenge vereist verificatie. Druk één keer op de knop, wacht op bevestiging en druk opnieuw wanneer daarom wordt gevraagd\nINGEDRUKT HOUDEN\t\nHUMAN CHALLENGE VEREIST VERIFICATIE. HOUD DE KNOP INGEDRUKT TOT JE GEVERIFIEERD BENT",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Human Challenge vereist verificatie. Druk één keer op de knop, wacht op bevestiging en druk opnieuw wanneer daarom wordt gevraagd",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 80,
+            "y": 31.11111068725586,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 6
+        },
+        {
+          "id": "ca-1",
+          "text": "INGEDRUKT HOUDEN HUMAN CHALLENGE VEREIST VERIFICATIE. HOUD DE KNOP INGEDRUKT TOT JE GEVERIFIEERD BENT",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 128,
+            "y": 1,
+            "width": 260,
+            "height": 100.22222137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 6
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 468,
+        "height": 102
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://js.px-cloud.net/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "https://js.px-cloud.net/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+  "captured_at": "2026-11-03T15:18:36.924830+00:00",
+  "cookies": [
+    {
+      "name": "ssculture",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": 1809271085.739979,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ffcc",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": 1796311085.740115,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tcc",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-session_id",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": 1794323885.74019,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pxvid",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": 1825255086.394192,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-consent_id",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": 1828279088.257216,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-consent_id_raw",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": 1828279088.257313,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_swb",
+      "domain": ".skyscanner.nl",
+      "path": "/",
+      "expires": 1828279088,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ketch_consent_v1_",
+      "domain": ".skyscanner.nl",
+      "path": "/",
+      "expires": 1828279095,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_swb_consent_",
+      "domain": ".skyscanner.nl",
+      "path": "/",
+      "expires": 1794323896,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_px3",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": 1793891905.554017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pxcts",
+      "domain": "www.skyscanner.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.skyscanner.nl",
+      "localKeys": [
+        "_ketch_tcf_tcdata_v1_",
+        "PXrf8vapwA_px-ff",
+        "SID",
+        "PXrf8vapwA_px_hvd",
+        "PXrf8vapwA_px_fp",
+        "_ketch_tcf_ping_v1_",
+        "PXrf8vapwA_px_af",
+        "NRBA_SESSION::ad9565ee",
+        "_swb_consent_",
+        "_swb_consent__metadata",
+        "_ketch_consent_v1_"
+      ],
+      "sessionKeys": [
+        "router_reject_all_consent_flag",
+        "pxsid",
+        "PXrf8vapwA_pxtiming",
+        "fss",
+        "PXrf8vapwA_px_c_p_PXrf8vapwA",
+        "PXrf8vapwA_px_nfsp"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_ketch_tcf_tcdata_v1_",
+        "PXrf8vapwA_px-ff",
+        "SID",
+        "PXrf8vapwA_px_hvd",
+        "PXrf8vapwA_px_fp",
+        "_ketch_tcf_ping_v1_",
+        "PXrf8vapwA_px_af",
+        "NRBA_SESSION::ad9565ee",
+        "_swb_consent_",
+        "_swb_consent__metadata",
+        "_ketch_consent_v1_"
+      ],
+      "sessionKeys": [
+        "router_reject_all_consent_flag",
+        "pxsid",
+        "PXrf8vapwA_pxtiming",
+        "fss",
+        "PXrf8vapwA_px_c_p_PXrf8vapwA",
+        "PXrf8vapwA_px_nfsp"
+      ]
+    },
+    {
+      "origin": "https://www.skyscanner.nl",
+      "localKeys": [
+        "_ketch_tcf_tcdata_v1_",
+        "PXrf8vapwA_px-ff",
+        "SID",
+        "PXrf8vapwA_px_hvd",
+        "PXrf8vapwA_px_fp",
+        "_ketch_tcf_ping_v1_",
+        "PXrf8vapwA_px_af",
+        "NRBA_SESSION::ad9565ee",
+        "_swb_consent_",
+        "_swb_consent__metadata",
+        "_ketch_consent_v1_"
+      ],
+      "sessionKeys": [
+        "router_reject_all_consent_flag",
+        "pxsid",
+        "PXrf8vapwA_pxtiming",
+        "fss",
+        "PXrf8vapwA_px_c_p_PXrf8vapwA",
+        "PXrf8vapwA_px_nfsp"
+      ]
+    },
+    {
+      "origin": "https://www.skyscanner.nl",
+      "localKeys": [
+        "_ketch_tcf_tcdata_v1_",
+        "PXrf8vapwA_px-ff",
+        "SID",
+        "PXrf8vapwA_px_hvd",
+        "PXrf8vapwA_px_fp",
+        "_ketch_tcf_ping_v1_",
+        "PXrf8vapwA_px_af",
+        "NRBA_SESSION::ad9565ee",
+        "_swb_consent_",
+        "_swb_consent__metadata",
+        "_ketch_consent_v1_"
+      ],
+      "sessionKeys": [
+        "router_reject_all_consent_flag",
+        "pxsid",
+        "PXrf8vapwA_pxtiming",
+        "fss",
+        "PXrf8vapwA_px_c_p_PXrf8vapwA",
+        "PXrf8vapwA_px_nfsp"
+      ]
+    },
+    {
+      "origin": "https://www.skyscanner.nl",
+      "localKeys": [
+        "_ketch_tcf_tcdata_v1_",
+        "PXrf8vapwA_px-ff",
+        "SID",
+        "PXrf8vapwA_px_hvd",
+        "PXrf8vapwA_px_fp",
+        "_ketch_tcf_ping_v1_",
+        "PXrf8vapwA_px_af",
+        "NRBA_SESSION::ad9565ee",
+        "_swb_consent_",
+        "_swb_consent__metadata",
+        "_ketch_consent_v1_"
+      ],
+      "sessionKeys": [
+        "router_reject_all_consent_flag",
+        "pxsid",
+        "PXrf8vapwA_pxtiming",
+        "fss",
+        "PXrf8vapwA_px_c_p_PXrf8vapwA",
+        "PXrf8vapwA_px_nfsp"
+      ]
+    },
+    {
+      "origin": "https://www.skyscanner.nl",
+      "localKeys": [
+        "_ketch_tcf_tcdata_v1_",
+        "PXrf8vapwA_px-ff",
+        "SID",
+        "PXrf8vapwA_px_hvd",
+        "PXrf8vapwA_px_fp",
+        "_ketch_tcf_ping_v1_",
+        "PXrf8vapwA_px_af",
+        "NRBA_SESSION::ad9565ee",
+        "_swb_consent_",
+        "_swb_consent__metadata",
+        "_ketch_consent_v1_"
+      ],
+      "sessionKeys": [
+        "router_reject_all_consent_flag",
+        "pxsid",
+        "PXrf8vapwA_pxtiming",
+        "fss",
+        "PXrf8vapwA_px_c_p_PXrf8vapwA",
+        "PXrf8vapwA_px_nfsp"
+      ]
+    },
+    {
+      "origin": "https://www.skyscanner.nl",
+      "localKeys": [
+        "_ketch_tcf_tcdata_v1_",
+        "PXrf8vapwA_px-ff",
+        "SID",
+        "PXrf8vapwA_px_hvd",
+        "PXrf8vapwA_px_fp",
+        "_ketch_tcf_ping_v1_",
+        "PXrf8vapwA_px_af",
+        "NRBA_SESSION::ad9565ee",
+        "_swb_consent_",
+        "_swb_consent__metadata",
+        "_ketch_consent_v1_"
+      ],
+      "sessionKeys": [
+        "router_reject_all_consent_flag",
+        "pxsid",
+        "PXrf8vapwA_pxtiming",
+        "fss",
+        "PXrf8vapwA_px_c_p_PXrf8vapwA",
+        "PXrf8vapwA_px_nfsp"
+      ]
+    },
+    {
+      "origin": "https://js.px-cloud.net",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.skyscanner.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:22.897281+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:22.943362+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/static/js/main.81dbcf5a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.013711+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/static/css/main.13c02330.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.015371+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/sttc/px/captcha-v2/strings.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.087829+00:00"
+    },
+    {
+      "url": "https://js.skyscnr.com/sttc/px/captcha-v2/captcha-01.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.088786+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/rf8vapwA/captcha.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.109660+00:00"
+    },
+    {
+      "url": "https://client.px-cloud.net/PXrf8vapwA/main.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.356917+00:00"
+    },
+    {
+      "url": "https://ift.px-cloud.net/ns",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.428992+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/rf8vapwA/xhr/assets/js/bundle",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:18:23.436527+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.677235+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/rf8vapwA/captcha.js",
+      "resource_type": "xhr",
+      "method": "HEAD",
+      "at": "2026-11-03T15:18:23.684916+00:00"
+    },
+    {
+      "url": "https://client.px-cloud.net/PXrf8vapwA/main.min.js",
+      "resource_type": "xhr",
+      "method": "HEAD",
+      "at": "2026-11-03T15:18:23.696709+00:00"
+    },
+    {
+      "url": "https://js.px-cloud.net/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.702435+00:00"
+    },
+    {
+      "url": "https://crcldu.com/bd/sync.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.704133+00:00"
+    },
+    {
+      "url": "https://crcldu.com/bd/auditor.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.774778+00:00"
+    },
+    {
+      "url": "https://collector-pxrf8vapwa.px-client.net/b/g",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:18:23.804855+00:00"
+    },
+    {
+      "url": "https://fst-ec.px-cloud.net/",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:18:24.255268+00:00"
+    },
+    {
+      "url": "https://dvp.px-cloud.net/v",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:18:24.256750+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/rf8vapwA/xhr/assets/js/bundle",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:18:24.424662+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/rf8vapwA/xhr/assets/js/bundle",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:18:25.370398+00:00"
+    },
+    {
+      "url": "https://www.skyscanner.nl/rf8vapwA/xhr/assets/js/bundle",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:18:30.730394+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

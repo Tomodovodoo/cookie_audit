@@ -1,0 +1,2543 @@
+{
+  "frames": [
+    {
+      "url": "https://chatgpt.com/",
+      "title": "ChatGPT: Chat, Work, Create & Code with AI",
+      "text": "Aanmelden\nGratis registreren\nChatGPT\nNieuwe chat\nAfbeeldingen\nPlug-ins\nPlannen en prijzen bekijken\nHelp\nDiepgaand onderzoek\nInstellingen\nOntvang op jou afgestemde reacties\n\nMeld je aan om antwoorden te krijgen op basis van opgeslagen chats, afbeeldingen te maken en bestanden te uploaden.\n\nAanmelden\nWaar zullen we beginnen?\nWat kun je doen?\nChat met ChatGPT\n\nChatGPT is AI. Door het te gebruiken, ga je akkoord met onze Voorwaarden en ons Privacybeleid. Chats kunnen worden bekeken en gebruikt om onze AI-modellen te verbeteren. Meer informatie\n\nWij gebruiken cookies\n\nCookies helpen deze site werken, gebruik te meten en marketing te ondersteunen. Beheer je cookievoorkeuren wanneer je wilt. Meer info in ons cookiebeleid.\n\nNiet-essentiële verwerpen\nAlles accepteren",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Aanmelden",
+          "tag": "BUTTON",
+          "context": "Aanmelden\nGratis registreren\nChatGPT\nNieuwe chat\nAfbeeldingen\nPlug-ins\nPlannen en prijzen bekijken\nHelp\nDiepgaand onderzoek\nInstellingen\nOntvang op jou afgestemde reacties\n\nMeld je aan om antwoorden te krijgen op basis van opgeslagen chats, afbeeldingen te maken en bestanden te uploaden.\n\nAanmelden\nWaar zullen we beginnen?\nWat kun je doen?\nChat met ChatGPT\n\nChatGPT is AI. Door het te gebruiken, ga",
+          "box": {
+            "x": 1111.6041259765625,
+            "y": 8.5,
+            "width": 95.69444274902344,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(13, 13, 13)",
+            "effectiveBackground": "rgb(13, 13, 13)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(13, 13, 13)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-1",
+          "text": "Gratis registreren",
+          "tag": "BUTTON",
+          "context": "Aanmelden\nGratis registreren\nChatGPT\nNieuwe chat\nAfbeeldingen\nPlug-ins\nPlannen en prijzen bekijken\nHelp\nDiepgaand onderzoek\nInstellingen\nOntvang op jou afgestemde reacties\n\nMeld je aan om antwoorden te krijgen op basis van opgeslagen chats, afbeeldingen te maken en bestanden te uploaden.\n\nAanmelden\nWaar zullen we beginnen?\nWat kun je doen?\nChat met ChatGPT\n\nChatGPT is AI. Door het te gebruiken, ga",
+          "box": {
+            "x": 1215.298583984375,
+            "y": 8.5,
+            "width": 134.03472900390625,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.2)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-2",
+          "text": "ChatGPT",
+          "tag": "SPAN",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 4,
+            "width": 92.36111450195312,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 16,
+            "fontWeight": "650",
+            "borderWidth": 0,
+            "borderColor": "rgb(13, 13, 13)",
+            "padding": "0px 4px 0px 8px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-3",
+          "text": "Nieuwe chat",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 60,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-4",
+          "text": "Afbeeldingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 96,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-5",
+          "text": "Plug-ins",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 132,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-6",
+          "text": "Plannen en prijzen bekijken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 168,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-7",
+          "text": "Help",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 204,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-8",
+          "text": "Diepgaand onderzoek",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 240,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-9",
+          "text": "Instellingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 6,
+            "y": 276,
+            "width": 247.11111450195312,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-10",
+          "text": "Zijbalk sluiten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 210,
+            "y": 4,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-11",
+          "text": "Aanmelden",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 20,
+            "y": 836,
+            "width": 220,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgb(243, 243, 243)",
+            "effectiveBackground": "rgb(243, 243, 243)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-12",
+          "text": "Wat kun je doen?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 743.2708129882812,
+            "y": 484,
+            "width": 138.7916717529297,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.2)",
+            "padding": "0px 14px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-13",
+          "text": "Bestanden en meer toevoegen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 435.5555725097656,
+            "y": 424,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-14",
+          "text": "Dicteren starten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1103.77783203125,
+            "y": 424,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-15",
+          "text": "Start Spraak",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1147.77783203125,
+            "y": 424,
+            "width": 44,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-16",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 631.201416015625,
+            "y": 879.1111450195312,
+            "width": 69.0138931274414,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-17",
+          "text": "Privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 741.263916015625,
+            "y": 879.1111450195312,
+            "width": 68.1875,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-18",
+          "text": "Meer informatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1232.923583984375,
+            "y": 879.1111450195312,
+            "width": 83.63194274902344,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(252, 252, 252)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-19",
+          "text": "Beheer",
+          "tag": "A",
+          "context": "Cookies helpen deze site werken, gebruik te meten en marketing te ondersteunen. Beheer je cookievoorkeuren wanneer je wilt. Meer info in ons cookiebeleid.",
+          "box": {
+            "x": 624.451416015625,
+            "y": 814.4722290039062,
+            "width": 42.78472137451172,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-20",
+          "text": "cookiebeleid",
+          "tag": "A",
+          "context": "cookiebeleid",
+          "box": {
+            "x": 653.75,
+            "y": 834.8194580078125,
+            "width": 78.44444274902344,
+            "height": 18.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(93, 93, 93)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(93, 93, 93)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-21",
+          "text": "Niet-essentiële verwerpen",
+          "tag": "BUTTON",
+          "context": "Wij gebruiken cookies\n\nCookies helpen deze site werken, gebruik te meten en marketing te ondersteunen. Beheer je cookievoorkeuren wanneer je wilt. Meer info in ons cookiebeleid.\n\nNiet-essentiële verwerpen\nAlles accepteren",
+          "box": {
+            "x": 833.9930419921875,
+            "y": 793.1597290039062,
+            "width": 198.63194274902344,
+            "height": 39.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(13, 13, 13)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.1)",
+            "padding": "12px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        },
+        {
+          "id": "ca-22",
+          "text": "Alles accepteren",
+          "tag": "BUTTON",
+          "context": "Wij gebruiken cookies\n\nCookies helpen deze site werken, gebruik te meten en marketing te ondersteunen. Beheer je cookievoorkeuren wanneer je wilt. Meer info in ons cookiebeleid.\n\nNiet-essentiële verwerpen\nAlles accepteren",
+          "box": {
+            "x": 1040.625,
+            "y": 793.1597290039062,
+            "width": 135.1527862548828,
+            "height": 39.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(13, 13, 13)",
+            "effectiveBackground": "rgb(13, 13, 13)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "12px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "c0b4208011b64b1b96f8ab427900a969"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "c0b4208011b64b1b96f8ab427900a969",
+      "frame_url": "https://chatgpt.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://chatgpt.com/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:37:25.163886+00:00",
+  "cookies": [
+    {
+      "name": "oai-did",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1825256237.31399,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-did-first-seen",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1825256237.314057,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-mweb-route",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1794325037.314081,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oai-mweb-origin",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1793722037.314138,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "domain": "chatgpt.com",
+      "path": "/",
+      "expires": 1793723841.690205,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oai-sc",
+      "domain": ".chatgpt.com",
+      "path": "/",
+      "expires": 1825256241.690102,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://chatgpt.com",
+      "localKeys": [
+        "oai/apps/lightweight-web/composerDraft/owner.v2",
+        "oai/apps/noAuthUserMessageCount"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://chatgpt.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.072026+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/stylex-remaining-modern-aGWTpygD.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.551397+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/stylex-initial-modern-wXlnxxWg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.556644+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/scripts/images-home-document-transition-bootstrap-a9b569d9a614.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.556948+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/octane-home-client-DqJfQ4pt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.557589+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-initial-sentinel-prewarm-5MDXXTEL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.558256+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-initial-composer-sentinel-runtime-pdB3UDAK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.559027+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/scripts/legacy-hash-router-d41ab3332f6b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:17.559969+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/scripts/declarative-partial-updates-0716daaa665d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.097478+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/scripts/app-install-beacon-handoff-872c1ef4c00f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.100116+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/ds-button-1UixvUOi.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.120204+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/shared-sidebar-haAB75zE.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.120615+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/octane-signal-bootstrap-Up5LZD8S.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.227723+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/octane-shell-shared-B1C2btjY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.238885+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-JddWuP4i.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.240269+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C29wnxvu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.242042+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-t6NX-nnh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.242645+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-N9AxtEc3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.243202+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D_0cJy9W.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.699536+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/images/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.758100+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/rolldown-runtime-BflCKaFw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.783224+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/octane-signals-engine-B5VWQaSx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.783638+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DquLENUe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.784364+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CW2n4Efr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.785147+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CskZs4tm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.785931+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CnFewHly.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.787165+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-t7lj7xhL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.787935+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BmAWLdZU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.788803+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Bp1nVVfX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.789690+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C4zeIYjo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.790477+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BXlOFTeE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:18.791214+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DnrWTgAH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.042498+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Bq7cHS3Z.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.043488+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Bm0HtvzR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.044720+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BV9hliCU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.045664+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BB7FX5pg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.046507+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-4wWXtvpa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.452157+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DPeboKgj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:19.895645+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/application-presentation-runtime-DQ6ZMdMu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.184313+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BCumLYMg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.189306+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BZTIDVUD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.190474+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-3oAKa9VE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.191220+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D4210PhU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.192424+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BjxgVN-o.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.193878+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BalXqa4Y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.195127+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CeomoJl9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.196946+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-sFt1XmxH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.198156+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BsfpWxW3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.198889+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/client-loader-YHbpRujE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.199552+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-dvf4IkeR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.200162+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D8E4K-rk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.200772+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DpMj7rs2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.201375+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B4j2-xrR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.201937+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BC7_QoNj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.202575+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Cjtqu_x0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.203198+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C-qCBBM5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.203882+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-wulOQQOq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.204587+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Dp0JpEMO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.205425+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D_ZSH_ou.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.206002+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DXR9hO5M.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.206639+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-XBgPiQm8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.207219+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CXdKSygi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.207792+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-xqjaV2R1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.208473+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CmnZk6VB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.209168+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Du1rSNA0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.209821+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DkJE9raW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.210463+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BYsjDFhj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.211208+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BZ1UQTqi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.211961+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D2V09_uO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.212890+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DCJkvktz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.214250+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-OT3UjrJR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.215066+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-s68QQCgB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.215854+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BhTgObil.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.216586+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BlGdcWr9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.217372+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-if4ervWX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.218086+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-6cqy9uRr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.218748+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-p_xN0q1I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.219350+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Boe8vO17.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.219941+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/abort-signal-any-CMRGJTbF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.220594+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Cwq9jWFH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.221585+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-PXf05nOy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.232195+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DBW7qPfl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.233284+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-4JY5QwmM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.233947+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-kT_0RLEx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.234582+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C25W-AlS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.235199+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/frame-support-DRODjoqM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.235886+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CEtN_74s.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.236493+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C8CVvxUC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.237125+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DuGDZUT6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.237706+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CiCNk0lj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.238357+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CaEzs5IX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.239001+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BbrUJAJp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.239758+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-U-WrDz5r.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.240797+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C0BirHPb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.241512+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-N6KNJ8ty.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.242087+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D3WM405G.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.242660+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DOa5t3Jh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.243327+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CKgwWPac.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.244191+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CjMGnyYx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.245118+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BnLaF6UH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.246062+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Bq5Ut6Eg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.247433+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/replay-B1V45-3r.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.248978+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/analytics-B6327ZNi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.251007+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CHdHD6_3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.253139+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-e3eAmbX0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.254387+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C_FwyL62.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.255490+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/ces-page-diagnostics-6EVt8Jp2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.256567+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Ci8km2dB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.257625+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DpNUvamX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.259593+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DPowOf5o.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.261049+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BJAEWgh8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.262553+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DxM56eDb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.264184+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-882eI1ct.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.265789+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DDDCwrWV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.267370+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Cpa-i1f7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.269074+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/authenticated-history-signals-GGr1SFW-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.270665+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-history-cache-boundary-Dx8dtndl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.271771+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CcBH2GNp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.273141+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-ZEA5hSoN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.274318+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C9QoSkGs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.275183+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BdFD8G17.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.276532+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Co-xT6F0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.278170+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BL27XBJC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.279318+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CtYz1gZK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.280377+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BFzhrZhE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.281444+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-xE--DOWR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.282555+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-PW69qGIv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.284173+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D0TT50tF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.285357+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-6cLJUVh7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.286473+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-sidebar-navigation-metrics-NJ5Io9po.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.287531+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CzTR8J7M.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.288587+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/client-polyfills-C99lwuMf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.290448+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-UBuTNoeb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.291872+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CzqgMrgi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.293331+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CvPrgmtw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.294639+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-image-attachment-actions-n_Qcc8AU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.295791+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C9LzGSaR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.296891+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/authenticated-browser-client-Db7L-ng8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.298108+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-4EPbdvKX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.299126+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CX0f2Xmn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.300557+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C2GKFCYo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.301927+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Cx5dN81V.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.303229+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CWXk-EpL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.304339+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/authenticated-file-policy-DAr3flw2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.305385+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D1nGNlgA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.306326+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D15aFp9E.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.307225+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-67IYvNQY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.308093+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DDjTt0uR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.308927+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Ds2JnqDS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.309790+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/backend-api-BjQVyeIa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.310898+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-ewVJzFEK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.311684+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-conversation-action-change-BsdvAHxC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.312497+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-prepare-client-n7JbSxxS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.313657+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DheGVT8T.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.316816+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-YxOZ3xR6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.317427+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BDPywr-L.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.318477+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BQ5bUYq7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.319910+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DFf5Ns0Y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.320444+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Dgq-b-np.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.321287+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DFbojFkD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.323176+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DUklOBPA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.324255+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DS6EUXou.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.325199+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B2COYNeo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.326018+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D-0ggRDX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.326658+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DfUrv8oO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.327026+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/media-opening-DUjqsWCg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.327599+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Bi2TfNkO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.328145+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B2eFCoZo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.328697+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BSxUhLnl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.329257+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DK7HhJMN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.329812+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-bOsoSqGH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.330535+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DvhqZkVw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.331065+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Cbk0ni66.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.331692+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D87NwnjR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.332659+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CKgSepEj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.333620+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BqJz82_y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.334586+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CMr46wgX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.335536+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-e1q-H1fm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.337264+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/application-presentation-tree-CZV2pxxN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.338026+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-bottom-sheet-BOEJ60Vj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.342363+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DuRAKem4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.342917+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CMC8VrzE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.344043+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Ba4U5rAK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.345054+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Bi_ZWTPI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.345890+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BbbQpFH0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.346907+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CfUdjzAF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.347966+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Dgu-xeo5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.348761+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Do9W-x_W.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.349529+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CNoZO9OT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.350315+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D6fLv5qU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.351092+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DM6e3LO3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.351892+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C2Cl3Ou6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.352525+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CYB5kgJJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.353279+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D7ahmADB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.353859+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-e-1Rr1QV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.354440+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-WWXuC1M9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.354995+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-iJR-2g6k.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.355603+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-UmPihtSK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.356251+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C3m_zfI4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.357026+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/application-hydration-capture-FXIFCX75.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.358017+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/events/page-view",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:20.365090+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-home-interaction-loaders-BhnYEGbi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.365803+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/analytics-ces-business-context-2pMetYdV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.366420+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-telemetry-C-cIJ-kS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.366731+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Cxrj7Pbx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.371860+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-AFfVf4n2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.372961+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DnBUi37r.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.374502+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-composer-accepted-turn-DOgar7Mu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.375834+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-shared-2RK_bEp6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.376474+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D2fQFlTY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.377157+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a--EIxCyak.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.377832+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a--tOLhrKL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.378523+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-retry-owner-recovery-CLoVQRcY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.379184+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DkdM4E0w.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.379855+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B38Gagqb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.380520+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CUuhDJfP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.381389+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DzblMKsW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.717706+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BFH5HeuZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.740077+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DhScj3yr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.740750+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CrFCnHR6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.741941+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CCAA42SU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.742942+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Dv1RaP9P.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.743851+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D3Tzjr4N.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.744835+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-9K5BsTgq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.745841+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CpgPu7tm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.746724+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Db45y7L9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.747638+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CI4K2K25.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.748701+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-initial-landing-presentation-BJ1gD2r3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.750419+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DFShE5ZT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.751408+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-retry-storage-BQgNv_20.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.752432+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/application-frame-runtime-modules-Ctk1Jk3D.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.794239+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/composer-presentation-create-Bt_gebAh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.794924+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BAkKHmDp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.795910+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-followup-dom-controller-CqSLutmi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.796937+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Dgt8AZqD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.797932+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BBXxmPy9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.799381+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-conversation-route-stylesheet-5KZ7a_c2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.801010+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BMUPSLsv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.802309+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D0Yqcivv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.803672+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-PGm_m9Xx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.804816+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BfmkIeh5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.805642+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DXUeHcMf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.806343+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-startup-measurement-reporter-Daih5VUL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.807492+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BY3bUpwo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.808153+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/sentinel-ClxOG35x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.808740+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-observer-Dr_uOSAu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.809375+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CIraXqr6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.810180+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DpSnMlQ_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.810879+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Dkvw3LfX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.811476+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DTenDWt1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.812049+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-afwB85Pt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.812638+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DPiBmg9u.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.813252+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-control-consumer-oY_eqpei.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.813877+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-VkKFy40F.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.814622+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-control-icXeAA8b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.815524+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DIf4RNPN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.816223+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B9hrgcof.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.816853+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B190fkcy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.817580+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-dkHv3GZZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.818318+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Byzg5HXi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.819232+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CnkixQ95.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.820076+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BlYX6z_f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.820923+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/app.startup-DdNhs3He.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.821844+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/page-load-performance-CGaMqqt5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.833406+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-COC68CDI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:20.885811+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/retired-service-worker-cleanup-BwjWh9Am.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.221053+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/sentinel/chat-requirements/prepare",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:21.240999+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/conversation/prepare",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:21.251512+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/nl-NL-BZlvww0t.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.252324+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/smart-app-banner-client-B0Lgki8r.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.743803+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/application-composer-4CIL1gSa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.744441+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/application-composer-CoSvwZtR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.745490+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/trending-searches-surface-tjJ3i69Y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.746861+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/recurring-login-banner-BdPOMmeb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.747970+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/document-application-layout-BcxbrvSj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.748880+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/desktop-product-popover-CdK2nU1I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.749721+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/api/auth/account-picker",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.752753+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/composer-height-resource-1-bafRWD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.754776+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-soft-login-rate-limit-BndXa4yM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.775671+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-desktop-one-tap-C9oKCdbC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.788193+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-composer-draft-bootstrap-C9I8jnLr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.803733+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/native-performance-bootstrap-DciCtVrf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.820730+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-D2dWXsTr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.917724+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-Cu_hqsQW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.928087+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-C-Bc5ctS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.928897+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-KePfmoU8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.930073+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DxxfPGW5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.931150+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/navigated-conversation-outcome-DI3mWhEy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.938480+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/performance-metrics-OWeH4HPH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.943087+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/conversation-handoff-preparation-l5JY_1nO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.991890+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-4SQCUZCL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:21.999977+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DNNaEHWG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.001130+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-DC2WiJU7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.003117+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BmIMs12R.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.004345+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-BJOYgB1a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.005413+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B8doc-Ub.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.045606+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-CEvJVXy1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.046579+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/a-B_PpgTiQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.087598+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/web-vitals.attribution-B4rGc8Ot.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.110216+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/backend-anon/beacons/home",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.111008+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/onINP-Ux77p0ip.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.153500+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/events/statsc/flush",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:22.191128+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/events/performance",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:37:22.193549+00:00"
+    },
+    {
+      "url": "https://chatgpt.com/unauth-mweb/assets/application-idle-signals-DAEhUAmv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:37:22.738062+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

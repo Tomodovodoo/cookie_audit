@@ -1,0 +1,2687 @@
+{
+  "frames": [
+    {
+      "url": "https://www.mijnwoordenboek.nl/",
+      "title": "Mijnwoordenboek | Vertalen",
+      "text": "PUZZELEN\nVERTALEN\nSYNONIEM\nVERVOEGEN\nMEER\nWOORDEN VERTALEN\nTyp een woord, kies de bron- en doeltaal en klik op Vertaal.\n \nvan NL\nvan EN\nvan DE\nvan FR\nvan ES\n  \nnaar NL\nnaar EN\nnaar DE\nnaar FR\nnaar ES\n Vertaal\nPuzzelen\nLos het op met het puzzelwoordenboek!\nPuzzelwoordenboek\nRijmwoordenboek\nLaat je gedicht eens rijmen\nDialectenwoordenboek\nDialecten\nPraat eens in dialect\nDialectenwoordenboek\nOnze websites\nOver ons\nMijnwoordenboek.nl is een onafhankelijk privé-initiatief, gestart in 2004. Behalve voor het vertalen van woorden, kun je bij ons ook terecht voor synoniemen, puzzelwoorden, rijmwoorden, werkwoordvervoegingen en dialecten.\nOok op deze website\nSitemap Anagrammen Antoniem Dialect Puzzelen Populair Rijmen Symbolen Synoniem Tekst vertalen Tellen Vertalen Vervoegen Woordspellen\nOnze websites\n Mijnwoordenboek.nl\n Woorden.org\n Encyclo.nl\n Encyclo.co.uk\n Enzyklo.de\n Encyclopedie.fr\n\nMijnwoordenboek.nl © 2026 | Privacy | Wijzig privacyinstellingen | Contact & info | Sitemap | Aanmelden / inloggen | TaalApp  \n\n ",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "PUZZELEN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 480.1111145019531,
+            "y": 0,
+            "width": 140,
+            "height": 140
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(248, 105, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(248, 105, 36)",
+            "padding": "92px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "VERTALEN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 640.1111450195312,
+            "y": 0,
+            "width": 140,
+            "height": 140
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 139, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 139, 195)",
+            "padding": "92px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "SYNONIEM",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 800.1111450195312,
+            "y": 0,
+            "width": 140,
+            "height": 140
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 188, 122)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 188, 122)",
+            "padding": "92px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "VERVOEGEN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 960.1111450195312,
+            "y": 0,
+            "width": 140,
+            "height": 140
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(240, 90, 73)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(240, 90, 73)",
+            "padding": "92px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "MEER",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1120.111083984375,
+            "y": 0,
+            "width": 140,
+            "height": 140
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 159, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 159, 0)",
+            "padding": "92px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Vertaal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 625.4166870117188,
+            "y": 261,
+            "width": 74.36805725097656,
+            "height": 35.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(30, 139, 195)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "puzzelwoordenboek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 239.3541717529297,
+            "y": 852.625,
+            "width": 122.85416412353516,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(27, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Puzzelwoordenboek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 385.5555725097656,
+            "y": 891.7361450195312,
+            "width": 44.55555725097656,
+            "height": 44.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(27, 139, 195)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "41px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "rijmen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 645.263916015625,
+            "y": 852.625,
+            "width": 39.1875,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 105, 36)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Dialectenwoordenboek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 785.5555419921875,
+            "y": 891.7361450195312,
+            "width": 44.55555725097656,
+            "height": 44.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(248, 105, 36)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "41px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "dialect",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1004.4791870117188,
+            "y": 852.625,
+            "width": 39.90277862548828,
+            "height": 17.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(53, 188, 122)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Dialectenwoordenboek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1185.5555419921875,
+            "y": 891.7361450195312,
+            "width": 44.55555725097656,
+            "height": 44.55555725097656
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(53, 188, 122)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 1.77778,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "41px 0px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Sitemap",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 390.1111145019531,
+            "y": 1353.888916015625,
+            "width": 69.5625,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Anagrammen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 468.0555725097656,
+            "y": 1353.888916015625,
+            "width": 102.36111450195312,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Antoniem",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 390.1111145019531,
+            "y": 1387.888916015625,
+            "width": 79.24305725097656,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Dialect",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 477.7361145019531,
+            "y": 1387.888916015625,
+            "width": 61.3819465637207,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Puzzelen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 547.5,
+            "y": 1387.888916015625,
+            "width": 73.84027862548828,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Populair",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 390.1111145019531,
+            "y": 1421.888916015625,
+            "width": 70.67361450195312,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Rijmen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 469.1666564941406,
+            "y": 1421.888916015625,
+            "width": 61.89583206176758,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Symbolen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 539.4444580078125,
+            "y": 1421.888916015625,
+            "width": 80.00694274902344,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Synoniem",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 390.1111145019531,
+            "y": 1455.888916015625,
+            "width": 80.02777862548828,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Tekst vertalen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 478.5208435058594,
+            "y": 1455.888916015625,
+            "width": 105.02083587646484,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Tellen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 591.9236450195312,
+            "y": 1455.888916015625,
+            "width": 56.29861068725586,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Vertalen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 390.1111145019531,
+            "y": 1489.888916015625,
+            "width": 70.77777862548828,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Vervoegen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 469.2708435058594,
+            "y": 1489.888916015625,
+            "width": 84.3125,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Woordspellen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 390.1111145019531,
+            "y": 1523.888916015625,
+            "width": 104.2013931274414,
+            "height": 26
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 139, 195)",
+            "effectiveBackground": "rgb(30, 139, 195)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Mijnwoordenboek.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 703.7083129882812,
+            "y": 1354.77783203125,
+            "width": 125.05555725097656,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 71, 77)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Woorden.org",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 706.4930419921875,
+            "y": 1374.77783203125,
+            "width": 79.79166412353516,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 71, 77)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Encyclo.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 706.4930419921875,
+            "y": 1394.77783203125,
+            "width": 59.9375,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 71, 77)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Encyclo.co.uk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 706.4930419921875,
+            "y": 1414.77783203125,
+            "width": 80.9513931274414,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 71, 77)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Enzyklo.de",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 706.4930419921875,
+            "y": 1434.77783203125,
+            "width": 64.40972137451172,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 71, 77)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Encyclopedie.fr",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 706.4930419921875,
+            "y": 1454.77783203125,
+            "width": 92.15972137451172,
+            "height": 17.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 71, 77)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 262.0416564941406,
+            "y": 1627.6666259765625,
+            "width": 39.57638931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 47, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Wijzig privacyinstellingen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 314.4444580078125,
+            "y": 1627.6666259765625,
+            "width": 139.3125,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 47, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Contact & info",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 466.5833435058594,
+            "y": 1627.6666259765625,
+            "width": 79.72916412353516,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 47, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Sitemap",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 559.138916015625,
+            "y": 1627.6666259765625,
+            "width": 45.75,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 47, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Aanmelden / inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 617.7152709960938,
+            "y": 1627.6666259765625,
+            "width": 122.33333587646484,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 47, 51)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.mijnwoordenboek.nl/"
+    },
+    {
+      "url": "https://cdn.vnujia.com/p/000014/index.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 150
+      },
+      "frame_url": "https://cdn.vnujia.com/p/000014/index.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1800,
+        "height": 250
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullsrcdoc",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullsrcdoc",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1800,
+        "height": 1000
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinRight.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 85,
+        "height": 900
+      },
+      "frame_url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinRight.html"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboard_970x250.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 970,
+        "height": 250
+      },
+      "frame_url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboard_970x250.html"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinLeft.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 85,
+        "height": 900
+      },
+      "frame_url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinLeft.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.mijnwoordenboek.nl/",
+  "captured_at": "2026-11-03T15:15:48.034603+00:00",
+  "cookies": [
+    {
+      "name": "__cmpcc",
+      "domain": "www.mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1827846922,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cmpconsentx106024",
+      "domain": ".mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1794928530,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcccx106024",
+      "domain": ".mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1794928530,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ndm_betting",
+      "domain": "www.mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1801494940,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ndm_betting_source",
+      "domain": "www.mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1801494940,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedID",
+      "domain": ".mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1796310930,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedID_cst",
+      "domain": ".mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1796310930,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_retry_request",
+      "domain": "www.mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1793722530,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_env_src_ats",
+      "domain": "www.mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1796310930,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "domain": ".mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1793805331,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "connectId",
+      "domain": ".mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1825254931.410908,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "domain": ".mijnwoordenboek.nl",
+      "path": "/",
+      "expires": 1809270931,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1825254932.746383,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_gc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1809270932.746448,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793805332.746482,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793720732.746517,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.mijnwoordenboek.nl",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://cdn.vnujia.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.mijnwoordenboek.nl",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "_GESPSK-crwdcntrl.net",
+        "__cmpcccx106024_.mijnwoordenboek.nl",
+        "__cmpcccx106024_expire_.mijnwoordenboek.nl",
+        "_GESPSK-esp.criteo.com",
+        "ndm_betting_decision",
+        "__cmpconsentx106024_.mijnwoordenboek.nl",
+        "ndm_age_gate_date_choose",
+        "connectId",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-openx",
+        "cmp_gpcConsentModeEligible.f5ae8b0b9154b",
+        "_GESPSK-rtbhouse",
+        "ndm_age_gate_wants",
+        "ndm_age_gate_is_old",
+        "rtbhouse-esp",
+        "__cmpconsentx106024_expire_.mijnwoordenboek.nl"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://media.adrcdn.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://media.adrcdn.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://media.adrcdn.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://zne2-ib.adnxs-simple.com/vevent",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:15:39.922405+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:39.923378+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.256767+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/bootstrap.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.270367+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/responsive.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.271192+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.272437+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.273469+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.274355+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/font-awesome/css/font-awesome-min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.275197+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/jquery-1.7.2.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.276116+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/jquery.mobilemenu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.278204+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/superfish.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.279693+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/custom.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.280599+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/inc/jquery.mobile.customized.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.281059+00:00"
+    },
+    {
+      "url": "https://nextday-cdn.relevant-digital.com/static/tags/5f73221f17fc0ff36b00b58f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.281768+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/logo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.282462+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/400100mijnwoordenboek.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.283111+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/400100woorden.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.367849+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/400100encyclonl.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.368673+00:00"
+    },
+    {
+      "url": "https://cdn.vnujia.com/p/000014/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.375206+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/400100encyclouk.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.376566+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/400100encyclopediefr.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.378065+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/400100enzyklo.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.378628+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/img/400100crosswordclues.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.379814+00:00"
+    },
+    {
+      "url": "https://botndm.nl/oneline/0202/init.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.380831+00:00"
+    },
+    {
+      "url": "https://cdn.brandmetrics.com/tag/3c66e391-1465-4183-8f6a-2df1297acf1c/generic_site.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.381739+00:00"
+    },
+    {
+      "url": "https://a.delivery.consentmanager.net/delivery/cmp.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.382708+00:00"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/js/cmp_final.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.383802+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.384855+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/font-awesome/font/fontawesome-webfont.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.385751+00:00"
+    },
+    {
+      "url": "https://tok.nextday.media/v1/i/self",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.602901+00:00"
+    },
+    {
+      "url": "https://cdn.vnujia.com/p/000014/unified_loader.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.617361+00:00"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/customdata/bV8xLndfMTA2MDI0LnJfR0RQUi5sX25sLmRfNDY4MDcueF8xMjAudi5wLnRfNDY4MDcueHRfODY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.694645+00:00"
+    },
+    {
+      "url": "https://js.1881888.icu/script.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.728322+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:40.762751+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:40.763521+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.764552+00:00"
+    },
+    {
+      "url": "https://a.delivery.consentmanager.net/delivery/info/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.765238+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.810578+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.811555+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/purl_config",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.942830+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sid/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:40.943841+00:00"
+    },
+    {
+      "url": "https://js.1881888.icu/api/send",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.004997+00:00"
+    },
+    {
+      "url": "https://ndm-pbs.relevant-digital.com/cookie_sync",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.038064+00:00"
+    },
+    {
+      "url": "https://ndm-pbs.relevant-digital.com/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.039024+00:00"
+    },
+    {
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.039436+00:00"
+    },
+    {
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.040098+00:00"
+    },
+    {
+      "url": "https://adx.adform.net/adx/openrtb",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.040731+00:00"
+    },
+    {
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.041357+00:00"
+    },
+    {
+      "url": "https://ads-nextdaymedia.adhese.com/json",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.042486+00:00"
+    },
+    {
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.043082+00:00"
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.044145+00:00"
+    },
+    {
+      "url": "https://grid-bidder.criteo.com/openrtb_2_5/pbjs/auction/request",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.044975+00:00"
+    },
+    {
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.046408+00:00"
+    },
+    {
+      "url": "https://ndm-pbs.relevant-digital.com/analytics",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.300125+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.320043+00:00"
+    },
+    {
+      "url": "https://524e3b88b425d37ffa3d14894796ca2f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.323358+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.530533+00:00"
+    },
+    {
+      "url": "https://www.mijnwoordenboek.nl/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.535580+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.562291+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.607155+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.630587+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.724929+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.916597+00:00"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid-universal-creative@latest/dist/creative.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.917084+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.917937+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:41.918797+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.966008+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.966705+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.967823+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.974347+00:00"
+    },
+    {
+      "url": "https://zne2-ib.adnxs-simple.com/ab",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:41.979269+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/15/webodisplay_launch_1.5.0_scrambled.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.024650+00:00"
+    },
+    {
+      "url": "https://zne2-ib.adnxs-simple.com/rd_log",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.031069+00:00"
+    },
+    {
+      "url": "https://zne2-ib.adnxs-simple.com/it",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.031499+00:00"
+    },
+    {
+      "url": "https://adsdkprod.azureedge.net/viewability/versions/v5.8.32/banner.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.032212+00:00"
+    },
+    {
+      "url": "https://tr.roivenue.com/i/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.032977+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.082254+00:00"
+    },
+    {
+      "url": "https://zne2-ib.adnxs-simple.com/vevent",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:15:42.095748+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/15/webodisplay_core_1.5.0_scrambled.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.205586+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.354868+00:00"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.375877+00:00"
+    },
+    {
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.376627+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinRight.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.437346+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboard_970x250.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.453017+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinLeft.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.454582+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/15/screenad_interface_scrambled.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.518607+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/15/screenad_interface_scrambled.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.522684+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/external/greensock/3.7.0/gsap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.524542+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.524972+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/ad-resources/apto/4.0.0/skinRight.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.525704+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinRight.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.526334+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.527012+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/pill.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.527716+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/15/screenad_interface_scrambled.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.529143+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/external/greensock/3.7.0/gsap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.544506+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.544949+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/ad-resources/apto/4.0.0/skinLeft.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.545696+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinLeft.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.546416+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.547239+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/footer.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.548026+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/ad-resources/billboard/4.0.0/billboard.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.549049+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/external/greensock/3.7.0/gsap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.549470+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/scripts/jquery.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.550145+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboard.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.550816+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboardCustom.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.551513+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinRightCustom.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.561951+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinLeftCustom.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.574690+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboard.mp4",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.598695+00:00"
+    },
+    {
+      "url": "https://ade.weborama.nl/api/v2/specs",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.619118+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.625669+00:00"
+    },
+    {
+      "url": "https://ade.weborama.nl/api/v2/specs",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:15:42.628482+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.010953+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboard.mp4",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.030233+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinRightExtraSmall.mp4",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.375067+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/skinLeftExtraSmall.mp4",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.378215+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.576807+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.579642+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.580077+00:00"
+    },
+    {
+      "url": "https://ndm-pbs.relevant-digital.com/analytics",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:15:43.947338+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.955649+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:15:43.957820+00:00"
+    },
+    {
+      "url": "https://media.adrcdn.com/creatives/4673375039676055552/4672/5083998002071568384/billboard.mp4",
+      "resource_type": "media",
+      "method": "GET",
+      "at": "2026-11-03T15:15:44.471133+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:45.906446+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:46.926948+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:46.930584+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:15:46.931329+00:00"
+    },
+    {
+      "url": "https://mrq.weborama.nl/q",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:15:47.193072+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://zne2-ib.adnxs-simple.com/vevent",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://nextday-cdn.relevant-digital.com/static/tags/5f73221f17fc0ff36b00b58f.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.brandmetrics.com/tag/3c66e391-1465-4183-8f6a-2df1297acf1c/generic_site.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611020101/pubads_impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/purl_config",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sid/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ndm-pbs.relevant-digital.com/cookie_sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ndm-pbs.relevant-digital.com/openrtb2/auction",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://adx.adform.net/adx/openrtb",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads-nextdaymedia.adhese.com/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs-simple.com/openrtb2/prebidjs",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://grid-bidder.criteo.com/openrtb_2_5/pbjs/auction/request",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ndm-pbs.relevant-digital.com/analytics",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://524e3b88b425d37ffa3d14894796ca2f.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://zne2-ib.adnxs-simple.com/ab",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://zne2-ib.adnxs-simple.com/rd_log",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://zne2-ib.adnxs-simple.com/it",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://zne2-ib.adnxs-simple.com/vevent",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://px.ads.linkedin.com/setuid",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ndm-pbs.relevant-digital.com/analytics",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

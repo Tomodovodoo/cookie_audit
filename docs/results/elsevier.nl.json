@@ -1,0 +1,47 @@
+{
+  "rank": null,
+  "global_rank": 27087,
+  "domain": "elsevier.nl",
+  "name": "elsevier.nl",
+  "company": null,
+  "cohort": "Supplemental .nl global ranking",
+  "tested_at": "2026-11-03T15:44:05.265604+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://elsevier.nl/"
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://elsevier.nl/"
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://elsevier.nl/"
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://elsevier.nl/"
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Capture did not complete. Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://elsevier.nl/"
+    }
+  },
+  "steps": [],
+  "outcome": "error",
+  "error": "Error: Page.goto: net::ERR_CONNECTION_REFUSED at https://elsevier.nl/"
+}

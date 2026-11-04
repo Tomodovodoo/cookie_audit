@@ -1,0 +1,126 @@
+{
+  "frames": [
+    {
+      "url": "https://camorraworld.com/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://camorraworld.com/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/9ko8g/0x4AAAAAAAAjq6WYeRDKmebM/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/9ko8g/0x4AAAAAAAAjq6WYeRDKmebM/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [
+    "Error"
+  ],
+  "url": "https://camorraworld.com/",
+  "captured_at": "2026-11-03T15:27:15.739051+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://camorraworld.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://camorraworld.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.428660+00:00"
+    },
+    {
+      "url": "https://camorraworld.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.643088+00:00"
+    },
+    {
+      "url": "https://camorraworld.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.904597+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:05.415364+00:00"
+    },
+    {
+      "url": "https://camorraworld.com/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c66a5bc5572cd/R154OhgRyIZ9ZmP8SUuXsQ53BTp5PX6F_mep_saR0OQ-1793719624-1.2.1.1-69GmpqUapsd6WLT7NjbSYQ5j25Gaqof39qI8UTGHiIz1LOLxRze50Ijk8O_Yd7dE",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:05.441526+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/9ko8g/0x4AAAAAAAAjq6WYeRDKmebM/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:06.198079+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c66afbfa9c129/Cpvx88K7FeWENkPXb1053GJjXbud2RcOceSr2bdiOGhG9izUMtwiah_HqQXcVTimcCSrrKD_BILJfgO0_RRNu99yzo974m2xh8GZ_b28gUBl1eBX5EkxIEb9X_ICuRDQZA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:07.042867+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c66afbfa9c129/Cpvx88K7FeWENkPXb1053GJjXbud2RcOceSr2bdiOGhG9izUMtwiah_HqQXcVTimcCSrrKD_BILJfgO0_RRNu99yzo974m2xh8GZ_b28gUBl1eBX5EkxIEb9X_ICuRDQZA",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:09.273757+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c66afbfa9c129/1793719627183/Clb6gwbGxo1Cr7MyCAeGKiAD5UrVhRX44KdjDqfeKythc09n-sRRHq8QND6vSeXrCmkEL4NEl350XOSixKgHhUvOE72RsUQMRcGWvRU7T3CiRjHCrJotJW6WVzoC78_SS5AyRJvDaP8PZ1f-Gy4tOJB_ZzWac1T6xBm6viQMYAgNzxgnBkDC8AtFuV1bIrtu7g_82JlSz_pi4HnO_TfA-2VJLooouT8IBqPDgKrP6188v9i292ISXF0rDEZWnfZqgcucfOT75jFMG5dI5kq4J_MDtyj927LeY1axKLiEdNIT82Ei6zPLMuKkfIhymckIO7F_HxLT2QZNwMrUVSDPcu3Dr-eq1R0KixAP9V_bwxLr8CLxo5S3-eyDFTqshzKW0ptrkVpDL4zBULDfyfYVUW2elRW_QQl1tIc1-ChtZIg7n7XbX5O8VR-Bu8ZbiDTc_v1ePGOvZdf0ZZrZ0yQE75PbgHXBjPhJa_HNvfPnJdCWMz_CypklEKfjIgQCTmGSx9xvB6pWkG86VUQ-OlA00kO11flNNk24Ps7IMhzs0b88fLko2KYYIPPUOOIoX1Zz0JaKXzkzCUpG62dAwpEdtDg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:09.338950+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c66afbfa9c129/1793719627183/67b0b3d24cac6c447d99bd672474650a19f7b846513fc109da6a7d3127072cf4/CjReK7p-fpv-mVENmV7tDll7F21RTjgEmsWaK3-cNAwfSkkzjn6qf5tKy9l0ehECNKrAwf15OjzurFuB9bVkFMP_7zSOjAsVZ0Gt5HzYaqPG_pVND8RR_jf-RitVYejhi0Fy1cwLU2aZwOdtF9gnHrdO9NTLR-DqmXee3JjRkqz-wrVfzfjhN9XSQzQ_-waZQmrrBom9dT6l7-kzg-bp0BvwcgtQIOZjzkAum978sH0ZD9NevDonOE-D6cpBusm9U0hqjS90M-updvuiFt3yIoTFOBG8M-jEdKRFMGa0CoR_r45Wl9HA_Jg1NIoVbzgvV6zqnk83HzxDYiZr2zgw8H98SGYJvX33t_2FaDdtFYwcGwFF_dNTd-d1EgUXhGo_iPz6KEoV4jbwT3GSpugEyGhsd5KGCRP1oyKSMWbnK7MCZ7I0Tnf3fiEQ-octhKyf9PmvKJuuo0GkodjFyUrmifyDy4GNkZbQ-TKX_nCIChORYW6PACuD-HmmgVFL1IUkjKvpLBBIZLfHuUx4fGpU-7omQe6JRiqmxcypzNvsMntOB-fOdkBiFV3sFHMGqdz-r3bDdC4jyAMBeKcKi58UmjrO0J1iOM1ZJkXthwdax7YLqPXYYAu8ao_pbg3UC5SoA0M-w7grcGJPLq4le_t4tG0",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:09.380448+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c66afbfa9c129/Cpvx88K7FeWENkPXb1053GJjXbud2RcOceSr2bdiOGhG9izUMtwiah_HqQXcVTimcCSrrKD_BILJfgO0_RRNu99yzo974m2xh8GZ_b28gUBl1eBX5EkxIEb9X_ICuRDQZA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:15.035311+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Some frames could not be inspected."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

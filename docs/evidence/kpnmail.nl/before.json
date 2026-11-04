@@ -1,0 +1,267 @@
+{
+  "frames": [
+    {
+      "url": "https://webmail.kpnmail.nl/mail/logon.asp",
+      "title": "KPN Webmail",
+      "text": "Inloggen Webmail\n Onthoud mijn gebruikersnaam \nWaarmee kunnen we je helpen?\n Wachtwoord vergeten\n Alles over KPN e-mail en Webmail\n E-mail instellen op je mobiele telefoon\n Problemen bij het ontvangen en versturen van e-mail\n Freeler e-mail instellingen beheren",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Login",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 421,
+            "y": 311,
+            "width": 413.22222900390625,
+            "height": 39.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 153, 255)",
+            "effectiveBackground": "rgb(0, 153, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px 30px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Wachtwoord vergeten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421,
+            "y": 443.75,
+            "width": 165.56944274902344,
+            "height": 15.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Alles over KPN e-mail en Webmail",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421,
+            "y": 470.1944580078125,
+            "width": 240.13888549804688,
+            "height": 15.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "E-mail instellen op je mobiele telefoon",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421,
+            "y": 496.6388854980469,
+            "width": 270.2708435058594,
+            "height": 15.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Problemen bij het ontvangen en versturen van e-mail",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421,
+            "y": 523.0833129882812,
+            "width": 363.375,
+            "height": 15.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Freeler e-mail instellingen beheren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 421,
+            "y": 549.5277709960938,
+            "width": 246.28472900390625,
+            "height": 15.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 51, 51)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://webmail.kpnmail.nl/mail/logon.asp"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://webmail.kpnmail.nl/mail/logon.asp",
+  "captured_at": "2026-11-03T15:25:14.528086+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://webmail.kpnmail.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://kpnmail.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.155642+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/mail/logon.asp",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.260798+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/css/kpnmail.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.411864+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/js/webmail.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.416051+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/js/kpnmail.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.416639+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/images/kpnmail/foto_bg_webmail.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.503389+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/images/kpnmail/kpn_logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.504199+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/fonts/kpnmail/KPN-Sans/KPN-Sans-Normal.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.505437+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/fonts/kpnmail/KPN-Accent/KPN-Accent-Light.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.506331+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/fonts/kpnmail/KPN-Accent/KPN-Accent-Normal.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.507111+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/fonts/kpnmail/KPN-Accent/KPN-Accent-Bold.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.507772+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/fonts/kpnmail/Icomoon/icomoon.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.508530+00:00"
+    },
+    {
+      "url": "https://webmail.kpnmail.nl/loginpages/images/kpnmail/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:25:07.727818+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

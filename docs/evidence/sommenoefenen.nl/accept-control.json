@@ -1,0 +1,5893 @@
+{
+  "frames": [
+    {
+      "url": "https://www.sommenoefenen.nl/",
+      "title": "Sommen oefenen, rekenspelletjes groep 3, 4, 5, 6, 7 en 8",
+      "text": "X\n    \n   \nhome   oefenen   spelletjes   klas   ouders   docenten\n\n\n\n\n\n\nWat wil je gaan doen?\n\n\n  \nRekenen oefenen\nWelkom op dé rekenwebsite voor kinderen van groep 1 tot en met groep 8. Kinderen kunnen hier oefenen met álle onderdelen van rekenen. Van tafels tot klokkijken, van meten tot geldrekenen en van hoofdrekenen tot grafieken. Kinderen oefenen op deze website altijd op eigen tempo én op eigen niveau! Zo blijft het leuk. Verder is er altijd direct feedback op het antwoord van de kinderen. Zo kunnen ze zichzelf steeds verbeteren! Als leerkracht of ouder is de website makkelijk in te zetten om kinderen te laten oefenen.\t\nOp eigen niveau\nWat deze website extra bijzonder maakt, is dat je als ouder of leerkracht kunt kiezen waar kinderen mee oefenen. Maar het is ook mogelijk om een weektaak per kind of voor een hele klas in te stellen, waarbij de kinderen rekenen oefenen op eigen niveau! Door een uniek systeem wordt het niveau van de kinderen dan gevolgd en steeds worden de juiste opgaven aangeboden. Uiteraard kunnen kinderen ook zelf een onderdeel kiezen die ze nog willen oefenen!\t\nRekenspelletjes\nHoe leuk is het om spelletjes te spelen en tegelijkertijd ook te leren, zonder dat je het als kind in de gaten hebt. Dit kan op deze rekenwebsite! Sommenoefenen.nl maakt het leren rekenen leuker en speelser. Kinderen kunnen zelf een spelletje kiezen, maar het werkt ook als beloningssysteem. Wanneer een taak is afgerond, komt er een spelletje die het kind mag spelen! Bij de spelletjes staat het spelen voorop, maar wordt er ondertussen zeker ook verder geoefend. Zo blijft het leuk en leerzaam!\nAutomatiseren\nAls je goed wilt leren rekenen is het belangrijk om de basissommen goed en snel te kunnen. Voor moeilijkere rekenopgaven heb je het vaak nodig om deze sommen snel en uit het hoofd uit te kunnen rekenen. Daarom hebben we 'automatiseren' ook als een apart rekenonderdeel op deze website. Hoewel kinderen worden uitgedaagd om steeds sneller te gaan rekenen, voorkomen we dat kinderen stress krijgen door pas vanaf een bepaald niveau feedback te geven op de snelheid.\t\nSimpel en gratis\nDe oefeningen op deze website zijn te gebruiken zonder in te loggen en je hoeft nergens voor te betalen. Je kunt direct beginnen met spelen zonder beperkingen! Wanneer je als leerkracht of ouder een klas aanmaakt, kunnen kinderen wel veel effectiever oefenen. Scholen kunnen ook de advertenties verwijderen door een betaald account te nemen via www.oefenwereld.nl\t\nContact\nWe proberen deze website steeds te verbeteren. Daarom krijgen we graag tips van gebruikers. Dus als je een goed idee hebt of als je een fout wilt melden, heel graag! Stuur ons een bericht!\nSpelletjes\n\n\n\n\nMars Colony\nEr moet een basis gebouwd worden om de planeet bewoonbaar te maken. Lukt het jou om uiteindelijk 1 googol zuurstof te produceren? \n\n\nSpace man\nBeleef nieuwe avonturen in de ruimte. Op deze planeet komen wel buitenaardse wezens voor waar je voor uit moet kijken! \n\n\nBouncer\nLukt het jou om de gekleurde bal door de juist kleuren te krijgen? Het is een flinke tocht omhoog en let op: de bal verandert ook van kleur!\n\n\nMoonblaster\nVerzamel de juiste antwoorden om kogels te krijgen en schiet de vijandige ruimteschepen! \n\n\nBlob Defense\nBouw torens om de steeds grotere blobs tegen te houden! Los sommen op en verdien extra geld. \n\n\nGravity Pod\nDeze UFO stuurt heel zwaar en de wind is onvoorspelbaar! Lukt het je alsnog om hem te landen op alle platforms? \n\n\nSpace Sniper\nBestuur het vizier en schiet de UFO's die op je af komen! Maar wat doemt daar op in de verte..? \n\n\nSpace Race\nRace door de openingen door en ontwijk alle obstakels. Lukt het je om de aarde te bereiken?\n© 2026 SommenOefenen.nl™ | Privacy | Tafels oefenen | Deelsommen | Keersommen | Klokkijken oefenen | Breuken oefenen | Procenten oefenen | Rekenen oefenen | Verhoudingstabellen oefenen | Rekenspelletjes | Blog | Contact\nGame development door Gamedesign.nl",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 194.09722900390625,
+            "y": 182,
+            "width": 112,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-1",
+          "text": "oefenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 316.90277099609375,
+            "y": 182,
+            "width": 171,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-2",
+          "text": "spelletjes",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 498.7083435058594,
+            "y": 182,
+            "width": 171,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-3",
+          "text": "klas",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 680.513916015625,
+            "y": 182,
+            "width": 112,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-4",
+          "text": "ouders",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 803.3194580078125,
+            "y": 182,
+            "width": 171,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-5",
+          "text": "docenten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 985.125,
+            "y": 182,
+            "width": 171,
+            "height": 38
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 20,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-6",
+          "text": "www.oefenwereld.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 530.1111450195312,
+            "y": 1505.4444580078125,
+            "width": 155.125,
+            "height": 22.66666603088379
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-7",
+          "text": "Stuur ons een bericht!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 875.1111450195312,
+            "y": 1361.4444580078125,
+            "width": 255.18055725097656,
+            "height": 46.66666793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-8",
+          "text": "Mars Colony Er moet een basis gebouwd worden om de planeet bewoonbaar te maken. Lukt het jou om uiteindelijk 1 googol zuurstof te produceren?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 185.11111450195312,
+            "y": 1713,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-9",
+          "text": "Space man Beleef nieuwe avonturen in de ruimte. Op deze planeet komen wel buitenaardse wezens voor waar je voor uit moet kijken!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 508.71527099609375,
+            "y": 1713,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-10",
+          "text": "Bouncer Lukt het jou om de gekleurde bal door de juist kleuren te krijgen? Het is een flinke tocht omhoog en let op: de bal verandert ook van kleur!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 832.3194580078125,
+            "y": 1713,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-11",
+          "text": "Moonblaster Verzamel de juiste antwoorden om kogels te krijgen en schiet de vijandige ruimteschepen!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 185.11111450195312,
+            "y": 2393,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-12",
+          "text": "Blob Defense Bouw torens om de steeds grotere blobs tegen te houden! Los sommen op en verdien extra geld.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 508.71527099609375,
+            "y": 2393,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-13",
+          "text": "Gravity Pod Deze UFO stuurt heel zwaar en de wind is onvoorspelbaar! Lukt het je alsnog om hem te landen op alle platforms?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 832.3194580078125,
+            "y": 2393,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-14",
+          "text": "Space Sniper Bestuur het vizier en schiet de UFO's die op je af komen! Maar wat doemt daar op in de verte..?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 185.11111450195312,
+            "y": 2793,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-15",
+          "text": "Space Race Race door de openingen door en ontwijk alle obstakels. Lukt het je om de aarde te bereiken?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 508.71527099609375,
+            "y": 2793,
+            "width": 310,
+            "height": 370
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-16",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 398.75,
+            "y": 3384.77783203125,
+            "width": 39.51388931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-17",
+          "text": "Tafels oefenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 446.59722900390625,
+            "y": 3384.77783203125,
+            "width": 78.3263931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-18",
+          "text": "Deelsommen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 533.2569580078125,
+            "y": 3384.77783203125,
+            "width": 71.8125,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-19",
+          "text": "Keersommen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 613.4027709960938,
+            "y": 3384.77783203125,
+            "width": 72.40277862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-20",
+          "text": "Klokkijken oefenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 694.138916015625,
+            "y": 3384.77783203125,
+            "width": 103.80555725097656,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-21",
+          "text": "Breuken oefenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 806.2777709960938,
+            "y": 3384.77783203125,
+            "width": 92.1875,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-22",
+          "text": "Procenten oefenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 906.7986450195312,
+            "y": 3384.77783203125,
+            "width": 102.65277862548828,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-23",
+          "text": "Rekenen oefenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1017.7847290039062,
+            "y": 3384.77783203125,
+            "width": 93.91666412353516,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-24",
+          "text": "Verhoudingstabellen oefenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 506.9375,
+            "y": 3404.77783203125,
+            "width": 159.2916717529297,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-25",
+          "text": "Rekenspelletjes",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 674.5625,
+            "y": 3404.77783203125,
+            "width": 85.03472137451172,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-26",
+          "text": "Blog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 767.9305419921875,
+            "y": 3404.77783203125,
+            "width": 24.5625,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-27",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 800.826416015625,
+            "y": 3404.77783203125,
+            "width": 42.45138931274414,
+            "height": 16.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        },
+        {
+          "id": "ca-28",
+          "text": "Game development door Gamedesign.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 552.9305419921875,
+            "y": 3433,
+            "width": 244.3541717529297,
+            "height": 21.50694465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(32, 8, 58)",
+            "fontSize": 13,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "bf8bedfd7dc84d428603055bc2ea2f86",
+      "frame_url": "https://www.sommenoefenen.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "d85d00d5406a4d98ac913b8efc332c44",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "d4c0f0b656bf4edcb809ed64b87f8864",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "8b12104bf2d44485a7b68c9889ef10ba",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "20cfc62ba0624a98866f6724d7e0ff30",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "af4069ae95124e909a6fb9f2849f4218",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "73df505170ba45fc8a7341935b7f6fbc",
+      "frame_url": "https://cm.g.doubleclick.net/partnerpixels"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "title": "",
+      "text": "\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "ffa7f03cb3224eb1b961df1baaaa39c5",
+      "frame_url": "https://gum.criteo.com/syncframe"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "b6e3cdc988d04338b68530be8362cb21",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://www.sommenoefenen.nl/",
+      "title": "",
+      "text": "Ads door \nAdvertentie-optiesFeedback sturenWaarom deze advertentie? \nNiet geïnteresseerd in deze advertentie\nDeze advertentie meerdere keren gezien\nAdvertentie was ongepast\nAdvertentie bedekte content\nBij voorbaat dank voor uw medewerking. Op basis van feedback kunnen we Google Ads verbeteren\nAdvertentie gesloten door \nAdvertenties personaliseren op deze site\nMeer informatie \n\t",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Advertentie-opties",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1226.625,
+            "y": -42.82638931274414,
+            "width": 129.63888549804688,
+            "height": 28
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(66, 133, 245)",
+            "effectiveBackground": "rgb(66, 133, 245)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 9,
+          "frame_id": "cdde099f1b334b5e93323abf4460ea3c"
+        },
+        {
+          "id": "ca-1",
+          "text": "Feedback sturen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1358.263916015625,
+            "y": -42.82638931274414,
+            "width": 121.0763931274414,
+            "height": 28
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(66, 133, 245)",
+            "effectiveBackground": "rgb(66, 133, 245)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 9,
+          "frame_id": "cdde099f1b334b5e93323abf4460ea3c"
+        },
+        {
+          "id": "ca-2",
+          "text": "Waarom deze advertentie?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1481.34033203125,
+            "y": -43.17361068725586,
+            "width": 202.25694274902344,
+            "height": 28.34722328186035
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(158, 158, 166)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(158, 158, 166)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 9,
+          "frame_id": "cdde099f1b334b5e93323abf4460ea3c"
+        },
+        {
+          "id": "ca-3",
+          "text": "Meer informatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1389.138916015625,
+            "y": -47,
+            "width": 131.9375,
+            "height": 30.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(250, 250, 250)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 9,
+          "frame_id": "cdde099f1b334b5e93323abf4460ea3c"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 970,
+        "height": 90
+      },
+      "frame_id": "cdde099f1b334b5e93323abf4460ea3c",
+      "frame_url": "https://www.sommenoefenen.nl/"
+    },
+    {
+      "url": "https://www.sommenoefenen.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 970,
+        "height": 250
+      },
+      "frame_id": "4611e4bbd23f4696a1d674d3f3e0a896",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/xbbe/pixel",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "b7ac6af51f1144e693d0be65afc48172",
+      "frame_url": "https://googleads.g.doubleclick.net/xbbe/pixel"
+    },
+    {
+      "url": "https://www.sommenoefenen.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "2f04f59c8bfb4f10b2cc42b838517a43",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullsrcdoc",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "eb80e343e9794aa09eb48fd9f2e9a93f",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullsrcdoc",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "0f248363d2864f98aa81f295fa23fdad",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=ugozyt;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3Db96fb01d-e08d-45cd-9583-634e9c340f37%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3DUDI35U68LVfWqfrHCb1flO11BZUG-f9GzFnwXpQjPFA.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.sommenoefenen.nl%26rcats%3D%26mste%3D%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.21554348%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTQUVFgAzmFlQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okSiyqClFFgCd4nOBBNQXVQpQBTwtRDBhp1MDIJL2jh0MIBtRouGAdNHUIwBZZazi1NKBFLAtRFN4oQPd-Lev7nYP4XWO9Mo4NbU1lraXFf_T4usVgL90tB8SPMpr8Uyphv-MMNz0qf6_XT6l8zYpE5SumfL7g3A3Gb-mp9TXNo8SgD0Nn0jwm3R1f_Yt628aGNpmS1iKV_Ly8HqHZ5Sz242lfwN1sJwvinjDmMsid4YIzeVvrwmin8qardULdHNPxYHHsfymv19qV9vb60or1ve8zGgxRy_Y93_V8wV3HHvCRdKiGHSbW5v7CO2DstSDF4oEOh-YkfSzRUcPmGYXhCvE8S1VwXUplIqIYRP2o__vSqA8rZp3t-jfUSYWskEXSkDsAugePN3HDNXMD6IUWaRQF8Drv9bmv5_utax1EdvxJFWPWIB_7Muioh8LtL9opPGSRQqhneeJFwYp_c6PJOOnd0wRB2jQqxz4AtDwUmOETOS9SOs0I-Eo_mNIuPwl4pRXGlZBJIkwmzrnoS7j6chPPfYw03Mpal4xX9DAVgkScPHGf6cr3BEo43-A_3vUVuSqNuLT_H6CCbZ_X4VQFArEXCbI1hZGJUdlizigiMsdj2A3PK-yPSTjt88QNqBFHO0CoaEFRc7VT7fMsnY2mkXSuXsYRZ8PVC95rmgEkujpoAUZQbYLePgYWOim2ZwA5q2FIBsVIcEaaAST6nOIqvP1bASgFKoisRih7sQIehLxlXM22J8_BpEOJ6W9TvdhrKQehmSqY11sSsM5bGGrbJA04dmwLcxkNZ4k8UheFCdCWbVLIS8WfJOk02eYTO-I3EUPIm5owpz3Uxka0M-KZi3AN9ENxJI3r0Brcrodv8eggO7sxoxMa%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM0-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3D39aa7917-2075-4b7a-9b7a-ba25ed451f5a%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.sommenoefenen.nl%2F$0;xdt=0;crlt=Y'M6JYK)Br;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=303;prcl=s",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "c6c99386218142d0bb40d8eba285246e",
+      "frame_url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=ugozyt;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3Db96fb01d-e08d-45cd-9583-634e9c340f37%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3DUDI35U68LVfWqfrHCb1flO11BZUG-f9GzFnwXpQjPFA.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.sommenoefenen.nl%26rcats%3D%26mste%3D%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.21554348%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTQUVFgAzmFlQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okSiyqClFFgCd4nOBBNQXVQpQBTwtRDBhp1MDIJL2jh0MIBtRouGAdNHUIwBZZazi1NKBFLAtRFN4oQPd-Lev7nYP4XWO9Mo4NbU1lraXFf_T4usVgL90tB8SPMpr8Uyphv-MMNz0qf6_XT6l8zYpE5SumfL7g3A3Gb-mp9TXNo8SgD0Nn0jwm3R1f_Yt628aGNpmS1iKV_Ly8HqHZ5Sz242lfwN1sJwvinjDmMsid4YIzeVvrwmin8qardULdHNPxYHHsfymv19qV9vb60or1ve8zGgxRy_Y93_V8wV3HHvCRdKiGHSbW5v7CO2DstSDF4oEOh-YkfSzRUcPmGYXhCvE8S1VwXUplIqIYRP2o__vSqA8rZp3t-jfUSYWskEXSkDsAugePN3HDNXMD6IUWaRQF8Drv9bmv5_utax1EdvxJFWPWIB_7Muioh8LtL9opPGSRQqhneeJFwYp_c6PJOOnd0wRB2jQqxz4AtDwUmOETOS9SOs0I-Eo_mNIuPwl4pRXGlZBJIkwmzrnoS7j6chPPfYw03Mpal4xX9DAVgkScPHGf6cr3BEo43-A_3vUVuSqNuLT_H6CCbZ_X4VQFArEXCbI1hZGJUdlizigiMsdj2A3PK-yPSTjt88QNqBFHO0CoaEFRc7VT7fMsnY2mkXSuXsYRZ8PVC95rmgEkujpoAUZQbYLePgYWOim2ZwA5q2FIBsVIcEaaAST6nOIqvP1bASgFKoisRih7sQIehLxlXM22J8_BpEOJ6W9TvdhrKQehmSqY11sSsM5bGGrbJA04dmwLcxkNZ4k8UheFCdCWbVLIS8WfJOk02eYTO-I3EUPIm5owpz3Uxka0M-KZi3AN9ENxJI3r0Brcrodv8eggO7sxoxMa%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM0-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3D39aa7917-2075-4b7a-9b7a-ba25ed451f5a%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.sommenoefenen.nl%2F$0;xdt=0;crlt=Y'M6JYK)Br;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=303;prcl=s"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "title": "",
+      "text": "/** Anti-fraud and anti-abuse applications only. See google.com/recaptcha */ try{var clients={'sodar':'https://pagead2.googlesyndication.com/pagead/sodar','sodar_atqg':'https://ep1.adtrafficquality.google/pagead/sodar'};window.addEventListener(\"message\",function(a){try{if(a.source===window.parent){var b=JSON.parse(a.data);var c=clients[b['id']];if(c){var d=document.createElement('img');d.src=c+b['params']+'&rc='+(localStorage.getItem(\"rc::a\")?sessionStorage.getItem(\"rc::b\"):\"\");window.document.body.appendChild(d);sessionStorage.setItem(\"rc::e\",parseInt(sessionStorage.getItem(\"rc::e\")||0)+1);localStorage.setItem(\"rc::h\",'1793720604622');}}}catch(b){}});window.parent.postMessage(\"_grecaptcha_ready\", \"*\");}catch(b){}",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "3d5517f5a2cd4abca89a13ccbbaecde8",
+      "frame_url": "https://www.google.com/recaptcha/api2/aframe"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "dc476837eac04186a3b81af3178a6688",
+      "frame_url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "091fdf2e2fe344c592dd8ad99ccabefd",
+      "frame_url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "title": "",
+      "text": "© 2025 WBEI PUBLISHING RIGHTS © J.K.R. TM WBEI\n\nBELEEF ELK\nMAGISCH MOMENT\n\nABONNEER JE NU\n\nVANAF € 5,99/MAAND\n\nAbonnement vereist. Voorwaarden gelden. 18+",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "583bf870bff7431e88bc868b4b8a825e",
+      "frame_url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html"
+    },
+    {
+      "url": "https://www.awin1.com/cshow.php",
+      "title": "cshow.php (1×1)",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "dea31a052c184a55b0b482570e5211fb",
+      "frame_url": "https://www.awin1.com/cshow.php"
+    },
+    {
+      "url": "https://hal900020.redintelligence.net/request_content.php",
+      "title": "",
+      "text": "Online veilig gamen\nOnline veilig internetbankieren\nKoop nu \nAll4Golf golfshop\nBegin het golfseizoen goed met uitrusting, kleding en accessoires van All4Golf.\nNaar de shop \nSchuurman Schoenen\nMeer dan 80 A-merken voor dames, heren en kids. Van trendy tot comfortabel.\nShop nu! \nJouw online apotheek\nOntdek duizenden producten bij Pazzox. Eenvoudig bestellen, scherpe prijzen en betrouwbaar.\nBestel nu \n\n\nTRG\nAD",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Online veilig gamen Online veilig internetbankieren Koop nu",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 20,
+            "y": 10,
+            "width": 187,
+            "height": 225.6666717529297
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 21,
+          "frame_id": "4f7114b2989348a1a9bb721172baf571"
+        },
+        {
+          "id": "ca-1",
+          "text": "All4Golf golfshop Begin het golfseizoen goed met uitrusting, kleding en accessoires van All4Golf. Naar de shop",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 267,
+            "y": 10,
+            "width": 187,
+            "height": 225.6666717529297
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 21,
+          "frame_id": "4f7114b2989348a1a9bb721172baf571"
+        },
+        {
+          "id": "ca-2",
+          "text": "Schuurman Schoenen Meer dan 80 A-merken voor dames, heren en kids. Van trendy tot comfortabel. Shop nu!",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 514,
+            "y": 10,
+            "width": 187,
+            "height": 225.6666717529297
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 21,
+          "frame_id": "4f7114b2989348a1a9bb721172baf571"
+        },
+        {
+          "id": "ca-3",
+          "text": "Jouw online apotheek Ontdek duizenden producten bij Pazzox. Eenvoudig bestellen, scherpe prijzen en betrouwbaar. Bestel nu",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 761,
+            "y": 10,
+            "width": 187,
+            "height": 225.6666717529297
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 21,
+          "frame_id": "4f7114b2989348a1a9bb721172baf571"
+        },
+        {
+          "id": "ca-4",
+          "text": "TRG",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 912.5,
+            "y": 221.55555725097656,
+            "width": 31.66666603088379,
+            "height": 18.44444465637207
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(231, 231, 231)",
+            "effectiveBackground": "rgb(231, 231, 231)",
+            "fontSize": 10,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "3px 7px"
+          },
+          "disabled": false,
+          "frame": 21,
+          "frame_id": "4f7114b2989348a1a9bb721172baf571"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 970,
+        "height": 250
+      },
+      "frame_id": "4f7114b2989348a1a9bb721172baf571",
+      "frame_url": "https://hal900020.redintelligence.net/request_content.php"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "4bd1cc0b82e049fea05297df6266e95a",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 19,
+        "height": 15
+      },
+      "frame_id": "4b53df4df7ad4f6981895cbaea6d49b9",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.sommenoefenen.nl/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "specialFeaturesGranted": [
+          "1",
+          "2"
+        ],
+        "vendorsConsented": 491,
+        "legitimateInterestPurposes": [
+          "2",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:43:32.889230+00:00",
+  "cookies": [
+    {
+      "name": "st_dt",
+      "domain": "s.seedtag.com",
+      "path": "/c",
+      "expires": 1794325402.407022,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcc",
+      "domain": "www.sommenoefenen.nl",
+      "path": "/",
+      "expires": 1827848592,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1828280601.23748,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cmpconsentx66181",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1825256601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcccx66181",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1825256601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_S2XVYGMR5J",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1828280601.236443,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "r89_sid",
+      "domain": "www.sommenoefenen.nl",
+      "path": "/",
+      "expires": 1793722401.243943,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session_id",
+      "domain": "www.sommenoefenen.nl",
+      "path": "/",
+      "expires": 1793721501,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pv",
+      "domain": "www.sommenoefenen.nl",
+      "path": "/",
+      "expires": 1793721501,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedID",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1796312601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedID_cst",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1796312601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hb_insticator_uid",
+      "domain": "www.sommenoefenen.nl",
+      "path": "/",
+      "expires": 1796312601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid",
+      "domain": "www.sommenoefenen.nl",
+      "path": "/",
+      "expires": 1798904601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid_cst",
+      "domain": "www.sommenoefenen.nl",
+      "path": "/",
+      "expires": 1798904601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pubcid",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1817048601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "khaos",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256602.340489,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256602.340554,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pbw",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1825256602.376463,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1825256602.376604,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1809272602.376663,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sasd",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1793807002.376743,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_ssp",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1796312602.406983,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1801440000.376633,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sasd2",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1793807002.376706,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uids",
+      "domain": ".4dex.io",
+      "path": "/",
+      "expires": 1798848000.380301,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_uid",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1825256602.406883,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1825278202.43622,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "connectId",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1825256602.446239,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "domain": ".crwdcntrl.net",
+      "path": "/",
+      "expires": 1817046420.48808,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cc_id",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1817048602,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1794325402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaId",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1794325402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "panoramaIdType",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1794325402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amuid2",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1825256604.894384,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sd_amuid2",
+      "domain": ".sync.a-mo.net",
+      "path": "/",
+      "expires": 1825256603.097131,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pamuid2",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1825256604.894511,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "psd_amuid2",
+      "domain": ".sync.a-mo.net",
+      "path": "/",
+      "expires": 1825256603.097177,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sv3_14",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1793807003.097201,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_sv3_14",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1793807003.097219,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_b",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720903.097243,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_b",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720903.097261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_s",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720903.097287,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_t",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720903.097311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_s",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720903.097328,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_t",
+      "domain": "sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720903.097361,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gads",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1827416602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1827416602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1809272602,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1827416603.167161,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id5",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1801496603.218761,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827416603.432589,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_amuts",
+      "domain": "id.a-mx.com",
+      "path": "/",
+      "expires": 1793807003.72716,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "amuid2",
+      "domain": ".a-mx.com",
+      "path": "/",
+      "expires": 1825256603.727219,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "amuid2_p",
+      "domain": ".a-mx.com",
+      "path": "/",
+      "expires": 1825256603.727249,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "amdt_t",
+      "domain": ".a-mx.com",
+      "path": "/",
+      "expires": 1825256603.727283,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "amdt_t_p",
+      "domain": ".a-mx.com",
+      "path": "/",
+      "expires": 1825256603.727308,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1825256605.867556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1825256605.206815,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1801496604.266855,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1801496605.206889,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496604.513758,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496604.513867,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "domain": ".adform.net",
+      "path": "/",
+      "expires": 1798904605.845879,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sd_amuid2",
+      "domain": ".euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1825256604.894452,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "psd_amuid2",
+      "domain": ".euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1825256604.894597,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_b",
+      "domain": "euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720904.494943,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_b",
+      "domain": "euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720904.494963,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_s",
+      "domain": "euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720904.494997,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_Amc_t",
+      "domain": "euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720904.49502,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_s",
+      "domain": "euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720904.495037,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_Amc_t",
+      "domain": "euw2-sync.a-mo.net",
+      "path": "/",
+      "expires": 1793720904.49508,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496604.513842,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DSID",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1793724204.693973,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827416604.700215,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "APC",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1809272604.710561,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".sommenoefenen.nl",
+      "path": "/",
+      "expires": 1827416604,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sv3_0",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1793807004.894654,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "p_sv3_0",
+      "domain": ".a-mo.net",
+      "path": "/",
+      "expires": 1793807004.894672,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "domain": ".connectad.io",
+      "path": "/",
+      "expires": 1796312605.361109,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "consent",
+      "domain": ".connectad.io",
+      "path": "/",
+      "expires": 1796312605.361165,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id",
+      "domain": ".connectad.io",
+      "path": "/",
+      "expires": 1796312605.361195,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "8lcfmzhxc8d6_uid",
+      "domain": ".redintelligence.net",
+      "path": "/",
+      "expires": 1801496606.154623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1825256605.867701,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KTPCACOOKIE",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1793807006.143178,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SCM",
+      "domain": ".smaato.net",
+      "path": "/",
+      "expires": 1795535006.177025,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SCMsas",
+      "domain": ".smaato.net",
+      "path": "/",
+      "expires": 1795535006.177123,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1825256606.334529,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_gc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1809272606.334599,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793807006.334623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1793722406.334646,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1809272606.539304,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SyncRTB4",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1801496606.431669,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KADUSERCOOKIE",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1825256607.140342,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256606.619884,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256606.482488,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256606.620062,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1809272606.539389,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1796312606.568456,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "awpv8472",
+      "domain": ".awin1.com",
+      "path": "/",
+      "expires": 1793893406.575996,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "awpv18785",
+      "domain": ".awin1.com",
+      "path": "/",
+      "expires": 1794152606.581539,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSESS",
+      "domain": ".awin1.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "custom_data",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1793720906.62017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".tradetracker.net",
+      "path": "/",
+      "expires": 1802360606.900915,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitor-id",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1804088606.674974,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "data-pbs",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1825256606.675013,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uids",
+      "domain": ".refinery89.com",
+      "path": "/",
+      "expires": 1801496606.883556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uf",
+      "domain": ".tradetracker.net",
+      "path": "/",
+      "expires": 1825256606.900853,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_80",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1801496606.933239,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1796312606.933322,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1793807007.140241,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "chkChromeAb67Sec",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1801496607.140437,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1801496607.30709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.sommenoefenen.nl",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://cm.g.doubleclick.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://gum.criteo.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.sommenoefenen.nl",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.sommenoefenen.nl",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://googleads.g.doubleclick.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.sommenoefenen.nl",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://ad.doubleclick.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.google.com",
+      "localKeys": [
+        "rc::h"
+      ],
+      "sessionKeys": [
+        "rc::e"
+      ]
+    },
+    {
+      "origin": "https://ep2.adtrafficquality.google",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://ep2.adtrafficquality.google",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://s0.2mdn.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.awin1.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://hal900020.redintelligence.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://s0.2mdn.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-crwdcntrl.net",
+        "cmp_gpcConsentModeEligible.129480d201787",
+        "id5id_exp",
+        "cto_bundle",
+        "_GESPSK-esp.criteo.com",
+        "__cmpconsentx66181_.sommenoefenen.nl",
+        "id5id",
+        "_cc_id",
+        "connectId",
+        "myg_otp",
+        "_GESPSK-yahoo.com",
+        "_GESPSK-mygaruID",
+        "id5id_v2_7509393913948937",
+        "_GESPSK-esp.pubmatic.com",
+        "panoramaId_expiry",
+        "panoramaIdType",
+        "panoramaId",
+        "__cmpcccx66181_expire_.sommenoefenen.nl",
+        "adagio",
+        "hb_insticator_uid",
+        "id5id_v2_signature",
+        "id5id_cached_consent_data",
+        "id5id_extensions",
+        "id5id_cst",
+        "id5id_privacy",
+        "id5id_last",
+        "_pubcid",
+        "__cmpcccx66181_.sommenoefenen.nl",
+        "__cmpconsentx66181_expire_.sommenoefenen.nl",
+        "id5id_privacy_exp",
+        "id5id_cached_consent_data_exp",
+        "_cc_id_update_ts",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://region1.analytics.google.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.312194+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/985/pbjs",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.338528+00:00"
+    },
+    {
+      "url": "https://b.delivery.consentmanager.net/delivery/consent.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.339603+00:00"
+    },
+    {
+      "url": "https://b.delivery.consentmanager.net/delivery/info/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.340405+00:00"
+    },
+    {
+      "url": "https://www.google.nl/ads/ga-audiences",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.340842+00:00"
+    },
+    {
+      "url": "https://pixel.yabidos.com/fltiu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.341604+00:00"
+    },
+    {
+      "url": "https://script.4dex.io/a/latest/adagio.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.342390+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/api/config/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.396034+00:00"
+    },
+    {
+      "url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.397175+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/rid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.397602+00:00"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.398264+00:00"
+    },
+    {
+      "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.399758+00:00"
+    },
+    {
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.400553+00:00"
+    },
+    {
+      "url": "https://cdn.mgaru.dev/static/myGaruStandalone.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.401853+00:00"
+    },
+    {
+      "url": "https://tags.crwdcntrl.net/lt/c/16589/sync.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.402604+00:00"
+    },
+    {
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.403262+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.413596+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/cookie_sync",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.742952+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.764853+00:00"
+    },
+    {
+      "url": "https://a.bids.ws/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.766149+00:00"
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.766672+00:00"
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.768447+00:00"
+    },
+    {
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.810279+00:00"
+    },
+    {
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.811269+00:00"
+    },
+    {
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.813308+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.813897+00:00"
+    },
+    {
+      "url": "https://prebid.smilewanted.com/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.814974+00:00"
+    },
+    {
+      "url": "https://prebid.smilewanted.com/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.815919+00:00"
+    },
+    {
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.816729+00:00"
+    },
+    {
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.817550+00:00"
+    },
+    {
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.818207+00:00"
+    },
+    {
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.818815+00:00"
+    },
+    {
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.820045+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.821126+00:00"
+    },
+    {
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.821993+00:00"
+    },
+    {
+      "url": "https://prebid.smilewanted.com/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.822797+00:00"
+    },
+    {
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.823704+00:00"
+    },
+    {
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.824479+00:00"
+    },
+    {
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.825224+00:00"
+    },
+    {
+      "url": "https://a.bids.ws/openrtb2/auction",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.825921+00:00"
+    },
+    {
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.826724+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.827524+00:00"
+    },
+    {
+      "url": "https://bid.missena.io/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.828240+00:00"
+    },
+    {
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.828865+00:00"
+    },
+    {
+      "url": "https://grid-bidder.criteo.com/openrtb_2_5/pbjs/auction/request",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.846959+00:00"
+    },
+    {
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.847807+00:00"
+    },
+    {
+      "url": "https://mp.4dex.io/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.848440+00:00"
+    },
+    {
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.849075+00:00"
+    },
+    {
+      "url": "https://grid-bidder.criteo.com/openrtb_2_5/pbjs/auction/request",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.849793+00:00"
+    },
+    {
+      "url": "https://mp.4dex.io/prebid",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.850519+00:00"
+    },
+    {
+      "url": "https://ups.analytics.yahoo.com/ups/58813/fed",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.869567+00:00"
+    },
+    {
+      "url": "https://pixel.yabidos.com/flimpobj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.876264+00:00"
+    },
+    {
+      "url": "https://bcp.crwdcntrl.net/6/map",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.879733+00:00"
+    },
+    {
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.907044+00:00"
+    },
+    {
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:21.922143+00:00"
+    },
+    {
+      "url": "https://ident.mygaru.com/v2/id",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:21.937840+00:00"
+    },
+    {
+      "url": "https://pre.glotgrx.com/nflrc.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.034623+00:00"
+    },
+    {
+      "url": "https://sync.a-mo.net/cchain/0",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.217356+00:00"
+    },
+    {
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.337741+00:00"
+    },
+    {
+      "url": "https://lbs.eu-1-id5-sync.com/lbs/v1",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.339003+00:00"
+    },
+    {
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.339908+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/bounce",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.342472+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.410216+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.426905+00:00"
+    },
+    {
+      "url": "https://5b0bded104d1678ce9537423898717a2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.432178+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:22.602481+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.730340+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:22.736209+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:22.813274+00:00"
+    },
+    {
+      "url": "https://cdn.ampproject.org/rtv/012607210106000/amp4ads-v0.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.051624+00:00"
+    },
+    {
+      "url": "https://cdn.ampproject.org/rtv/012607210106000/v0/amp-ad-exit-0.1.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.061736+00:00"
+    },
+    {
+      "url": "https://cdn.ampproject.org/rtv/012607210106000/v0/amp-analytics-0.1.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.062317+00:00"
+    },
+    {
+      "url": "https://cdn.ampproject.org/rtv/012607210106000/v0/amp-fit-text-0.1.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.063128+00:00"
+    },
+    {
+      "url": "https://cdn.ampproject.org/rtv/012607210106000/v0/amp-form-0.1.mjs",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.063910+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/daca_images/simgad/9325841395258954083",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.064551+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/images/adchoices/nl.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.065133+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/images/adchoices/adchoices_blue_wb.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.065762+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.066437+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/dv3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.070810+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/window_focus_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.071440+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/qs_click_protection_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.072423+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202610210101/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.073302+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.074194+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/xbbe/pixel",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.075687+00:00"
+    },
+    {
+      "url": "https://pre.glotgrx.com/vbl.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.077263+00:00"
+    },
+    {
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:23.078901+00:00"
+    },
+    {
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:23.082569+00:00"
+    },
+    {
+      "url": "https://id.a-mx.com/u",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.119336+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.122202+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.122661+00:00"
+    },
+    {
+      "url": "https://api.id5-sync.com/analytics/event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:23.131760+00:00"
+    },
+    {
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:23.136205+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/gm/v3",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:23.145164+00:00"
+    },
+    {
+      "url": "https://ie1-bid.adsrvr.org/bid/feedback/refinery",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:23.167256+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.073060+00:00"
+    },
+    {
+      "url": "https://www.googletagservices.com/dcm/dcmads.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.074124+00:00"
+    },
+    {
+      "url": "https://choices.truste.com/ca",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.074951+00:00"
+    },
+    {
+      "url": "https://s.update.adsrvr.org/2/357427/analytics.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.075315+00:00"
+    },
+    {
+      "url": "https://enduser.adsrvr.org/enduser/pie/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.075992+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.077368+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.080020+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.080415+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.081561+00:00"
+    },
+    {
+      "url": "https://c1.adform.net/cookie",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.094979+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.106448+00:00"
+    },
+    {
+      "url": "https://www.google.com/pagead/drt/ui",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.133909+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.139832+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.140381+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.141272+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.145068+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:24.145701+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/dbm/ad",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.146353+00:00"
+    },
+    {
+      "url": "https://euw2-sync.a-mo.net/cjoin/1",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.147553+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.148104+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/btr/view",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.148436+00:00"
+    },
+    {
+      "url": "https://www.googletagservices.com/dcm/impl_v107.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.175135+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.180163+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.183332+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sid/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.187751+00:00"
+    },
+    {
+      "url": "https://onetag-sys.com/usync/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.276934+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.379764+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.402068+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/bounce",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.406776+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/bounce",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.422161+00:00"
+    },
+    {
+      "url": "https://mug.criteo.com/sid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.431606+00:00"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/drt/si",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.475896+00:00"
+    },
+    {
+      "url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=ugozyt;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3Db96fb01d-e08d-45cd-9583-634e9c340f37%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3DUDI35U68LVfWqfrHCb1flO11BZUG-f9GzFnwXpQjPFA.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.sommenoefenen.nl%26rcats%3D%26mste%3D%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.21554348%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTQUVFgAzmFlQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okSiyqClFFgCd4nOBBNQXVQpQBTwtRDBhp1MDIJL2jh0MIBtRouGAdNHUIwBZZazi1NKBFLAtRFN4oQPd-Lev7nYP4XWO9Mo4NbU1lraXFf_T4usVgL90tB8SPMpr8Uyphv-MMNz0qf6_XT6l8zYpE5SumfL7g3A3Gb-mp9TXNo8SgD0Nn0jwm3R1f_Yt628aGNpmS1iKV_Ly8HqHZ5Sz242lfwN1sJwvinjDmMsid4YIzeVvrwmin8qardULdHNPxYHHsfymv19qV9vb60or1ve8zGgxRy_Y93_V8wV3HHvCRdKiGHSbW5v7CO2DstSDF4oEOh-YkfSzRUcPmGYXhCvE8S1VwXUplIqIYRP2o__vSqA8rZp3t-jfUSYWskEXSkDsAugePN3HDNXMD6IUWaRQF8Drv9bmv5_utax1EdvxJFWPWIB_7Muioh8LtL9opPGSRQqhneeJFwYp_c6PJOOnd0wRB2jQqxz4AtDwUmOETOS9SOs0I-Eo_mNIuPwl4pRXGlZBJIkwmzrnoS7j6chPPfYw03Mpal4xX9DAVgkScPHGf6cr3BEo43-A_3vUVuSqNuLT_H6CCbZ_X4VQFArEXCbI1hZGJUdlizigiMsdj2A3PK-yPSTjt88QNqBFHO0CoaEFRc7VT7fMsnY2mkXSuXsYRZ8PVC95rmgEkujpoAUZQbYLePgYWOim2ZwA5q2FIBsVIcEaaAST6nOIqvP1bASgFKoisRih7sQIehLxlXM22J8_BpEOJ6W9TvdhrKQehmSqY11sSsM5bGGrbJA04dmwLcxkNZ4k8UheFCdCWbVLIS8WfJOk02eYTO-I3EUPIm5owpz3Uxka0M-KZi3AN9ENxJI3r0Brcrodv8eggO7sxoxMa%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM0-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3D39aa7917-2075-4b7a-9b7a-ba25ed451f5a%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.sommenoefenen.nl%2F$0;xdt=0;crlt=Y'M6JYK)Br;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=303;prcl=s",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.476243+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.532026+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.532884+00:00"
+    },
+    {
+      "url": "https://euw2-sync.a-mo.net/cchain/1/34180",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.669718+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.670380+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.671222+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.672858+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_287.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.909976+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/elements/html/omrhp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.912749+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.922105+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.922556+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.930187+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:24.930969+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/zone/82s1z1rtt4yg",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.049597+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.069618+00:00"
+    },
+    {
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.070132+00:00"
+    },
+    {
+      "url": "https://sync.connectad.io/ImageSyncer",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.106363+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.168423+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.169201+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.295565+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.296033+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.371092+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.434696+00:00"
+    },
+    {
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.447742+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.457374+00:00"
+    },
+    {
+      "url": "https://hal900020.redintelligence.net/request.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.459988+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.494297+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.606368+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.648542+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.667807+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.685681+00:00"
+    },
+    {
+      "url": "https://ssp-sync.criteo.com/user-sync/redirect",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.690118+00:00"
+    },
+    {
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.699784+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/usersync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.701063+00:00"
+    },
+    {
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.701657+00:00"
+    },
+    {
+      "url": "https://s.ad.smaato.net/c/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.703542+00:00"
+    },
+    {
+      "url": "https://c1.adform.net/serving/cookie/match",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.705685+00:00"
+    },
+    {
+      "url": "https://px.ads.linkedin.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.708250+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.711847+00:00"
+    },
+    {
+      "url": "https://sync.richaudience.com/f7872c90c5d3791e2b51f7edce1a0a5d/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.721423+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/MaxSans-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.759002+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/MaxSans-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.769429+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/MaxSans-Demi.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.770910+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adlib.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.771698+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adStyle.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.773306+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/879366/Enabler_01_262.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.773921+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.774664+00:00"
+    },
+    {
+      "url": "https://d17ebhrlbr4s4.cloudfront.net/preview-utils.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.775348+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/hboMaxLogo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.777072+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/textFit.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.777746+00:00"
+    },
+    {
+      "url": "https://hal900020.redintelligence.net/request.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:25.941769+00:00"
+    },
+    {
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.040878+00:00"
+    },
+    {
+      "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=7fe7eb5b-8266-4435-9001-ffa3bfdb1a5f&gdpr=1&gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.041525+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/runtime.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.145022+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/dynamic.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.158410+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.178419+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.277776+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.282255+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.322624+00:00"
+    },
+    {
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.324266+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.328897+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.329388+00:00"
+    },
+    {
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.365928+00:00"
+    },
+    {
+      "url": "https://hbx.media.net/cksync.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.366497+00:00"
+    },
+    {
+      "url": "https://track.webgains.com/link.html",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.403353+00:00"
+    },
+    {
+      "url": "https://ti.tradetracker.net/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.403832+00:00"
+    },
+    {
+      "url": "https://www.awin1.com/cshow.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.406073+00:00"
+    },
+    {
+      "url": "https://www.awin1.com/cshow.php",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.413057+00:00"
+    },
+    {
+      "url": "https://hal900020.redintelligence.net/request_content.php",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.418221+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/invocation.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.421333+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.429130+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.430139+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.431017+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adlib.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.436843+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/animation.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.437614+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.446954+00:00"
+    },
+    {
+      "url": "https://dpm.demdex.net/demconf.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.463517+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.501120+00:00"
+    },
+    {
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.503037+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/ul_cb/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.544614+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.591385+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.617392+00:00"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/generic",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.618571+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/scale/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.626107+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/scale/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.626840+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/scale/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.627878+00:00"
+    },
+    {
+      "url": "https://hal9000.redintelligence.net/scale/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.628957+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.646036+00:00"
+    },
+    {
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.649320+00:00"
+    },
+    {
+      "url": "https://analytics.webgains.io/pvClk.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.652665+00:00"
+    },
+    {
+      "url": "https://track.webgains.com/307665/1776769612_KPPLL0blHMHpaJHiLdTePcbEeV710mhe.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.660410+00:00"
+    },
+    {
+      "url": "https://image2.pubmatic.com/AdServer/Pug",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.675789+00:00"
+    },
+    {
+      "url": "https://ssp-sync.criteo.com/user-sync/match",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.725506+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/app.smartly.io/warren/images/be9bf206-d1c6-4643-86aa-9684583f8567/blob-M5SSDI_HAPOGA_Ultrawide_withBleed_NLD.jpg_1753714965393_blob.jpeg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.726024+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/6bfb8844-efb9-4277-8f4d-4035ac855153/fullbleed.png_1751907083183_fullbleed.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.754036+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/6bfb8844-efb9-4277-8f4d-4035ac855153/blank.png_1751907083183_blank.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.755078+00:00"
+    },
+    {
+      "url": "https://ti.tradetracker.net/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.790064+00:00"
+    },
+    {
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.804498+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.915150+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v24/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.915568+00:00"
+    },
+    {
+      "url": "https://hal900020.redintelligence.net/viewability",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.931823+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.932702+00:00"
+    },
+    {
+      "url": "https://static.tradetracker.net/nl/material_image/e1/795da0ea59a4cc8f8e88a59b451bb2e0e26a79.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.950827+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:26.951076+00:00"
+    },
+    {
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.014106+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.242141+00:00"
+    },
+    {
+      "url": "https://choices.trustarc.com/get",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.382905+00:00"
+    },
+    {
+      "url": "https://ap.lijit.com/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.398578+00:00"
+    },
+    {
+      "url": "https://choices.trustarc.com/cap",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.399901+00:00"
+    },
+    {
+      "url": "https://d1hyarjnwqrenh.cloudfront.net/",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:27.473209+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:43:27.713300+00:00"
+    },
+    {
+      "url": "https://api.webgains.io/tracking-event",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:27.831538+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:43:28.214580+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "IDE",
+      "domain": ".doubleclick.net"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "uuid2",
+      "domain": ".adnxs.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "anj",
+      "domain": ".adnxs.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".criteo.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".sommenoefenen.nl"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".sommenoefenen.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_S2XVYGMR5J",
+      "domain": ".sommenoefenen.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.analytics.google.com/g/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/985/pbjs",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pixel.yabidos.com/fltiu.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://script.4dex.io/a/latest/adagio.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/api/config/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.id5-sync.com/api/1.0/id5PrebidModule.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/rid",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connectid.analytics.yahoo.com/connectId-gpt.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tags.crwdcntrl.net/lt/c/16589/sync.min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/cookie_sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebid.smilewanted.com/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebid.smilewanted.com/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/openrtb2/auction",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prg.smartadserver.com/prebid/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebid.smilewanted.com/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://g2.gumgum.com/hbid/imp",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssb-global.smartadserver.com/api/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.seedtag.com/c/hb/bid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/ut/v3/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://direct.adsrvr.org/bid/bidder/directugyj5dtc",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://grid-bidder.criteo.com/openrtb_2_5/pbjs/auction/request",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mp.4dex.io/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hbopenbid.pubmatic.com/translator",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://grid-bidder.criteo.com/openrtb_2_5/pbjs/auction/request",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mp.4dex.io/prebid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ups.analytics.yahoo.com/ups/58813/fed",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pixel.yabidos.com/flimpobj.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bcp.crwdcntrl.net/6/map",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ex.ingage.tech/v1/openrtb",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pre.glotgrx.com/nflrc.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.a-mo.net/cchain/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://lbs.eu-1-id5-sync.com/lbs/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/bounce",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://5b0bded104d1678ce9537423898717a2.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/event",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/event",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/syncframe",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/daca_images/simgad/9325841395258954083",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/images/adchoices/nl.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/images/adchoices/adchoices_blue_wb.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/dv3.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/window_focus_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/client/qs_click_protection_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202610210101/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/xbbe/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pre.glotgrx.com/vbl.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.a-mx.com/u",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.id5-sync.com/analytics/event",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pbjs-analytics.refinery89.com/webhook",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/gm/v3",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ie1-bid.adsrvr.org/bid/feedback/refinery",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.googletagservices.com/dcm/dcmads.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.update.adsrvr.org/2/357427/analytics.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://enduser.adsrvr.org/enduser/pie/",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c1.adform.net/cookie",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/dbm/ad",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://euw2-sync.a-mo.net/cjoin/1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/btr/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.googletagservices.com/dcm/impl_v107.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sid/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://onetag-sys.com/usync/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rrum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/bounce",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/bounce",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mug.criteo.com/sid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads.g.doubleclick.net/pagead/drt/si",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ad.doubleclick.net/ddm/adi/N1957659.284566THETRADEDESK/B33477681.424429405;dc_ver=107.319;sz=728x90;u_sd=1;gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA;gdpr=1;dc_adk=462583278;ord=ugozyt;click=https%3A%2F%2Finsight.adsrvr.org%2Ftrack%2Fclk%3Fimp%3Db96fb01d-e08d-45cd-9583-634e9c340f37%26ag%3Djiiyfm1%26sfe%3D1d21811a%26sig%3DUDI35U68LVfWqfrHCb1flO11BZUG-f9GzFnwXpQjPFA.%26crid%3Dkm7ezv5i%26cf%3D11417890%26fq%3D0%26t%3D1%26td_s%3Dwww.sommenoefenen.nl%26rcats%3D%26mste%3D%26mfld%3D4%26mssi%3D%26mfsi%3D%26sv%3Drefinery%26uhow%3D64%26agsa%3D%26wp%3D0.21554348%26rgz%3D3311%26dt%3DPC%26osf%3DWindows%26os%3DWindows10%26br%3DChrome%26svpid%3D00819%26rlangs%3Dnl%26mlang%3D%26did%3D%26rcxt%3DOther%26tmpc%3D9.730000000000018%26vrtd%3D%26osi%3D%26osv%3D%26daid%3D%26dnr%3D0%26vpb%3D%26crrelr%3D%26npt%3D%26cc%3D3~KLUv_WPYfRZoTQUVFgAzmFlQA-CJmiEAJAEUQQmQBkqALFACRIESIEiUACM8SEE1VdUJqiprg6okSiyqClFFgCd4nOBBNQXVQpQBTwtRDBhp1MDIJL2jh0MIBtRouGAdNHUIwBZZazi1NKBFLAtRFN4oQPd-Lev7nYP4XWO9Mo4NbU1lraXFf_T4usVgL90tB8SPMpr8Uyphv-MMNz0qf6_XT6l8zYpE5SumfL7g3A3Gb-mp9TXNo8SgD0Nn0jwm3R1f_Yt628aGNpmS1iKV_Ly8HqHZ5Sz242lfwN1sJwvinjDmMsid4YIzeVvrwmin8qardULdHNPxYHHsfymv19qV9vb60or1ve8zGgxRy_Y93_V8wV3HHvCRdKiGHSbW5v7CO2DstSDF4oEOh-YkfSzRUcPmGYXhCvE8S1VwXUplIqIYRP2o__vSqA8rZp3t-jfUSYWskEXSkDsAugePN3HDNXMD6IUWaRQF8Drv9bmv5_utax1EdvxJFWPWIB_7Muioh8LtL9opPGSRQqhneeJFwYp_c6PJOOnd0wRB2jQqxz4AtDwUmOETOS9SOs0I-Eo_mNIuPwl4pRXGlZBJIkwmzrnoS7j6chPPfYw03Mpal4xX9DAVgkScPHGf6cr3BEo43-A_3vUVuSqNuLT_H6CCbZ_X4VQFArEXCbI1hZGJUdlizigiMsdj2A3PK-yPSTjt88QNqBFHO0CoaEFRc7VT7fMsnY2mkXSuXsYRZ8PVC95rmgEkujpoAUZQbYLePgYWOim2ZwA5q2FIBsVIcEaaAST6nOIqvP1bASgFKoisRih7sQIehLxlXM22J8_BpEOJ6W9TvdhrKQehmSqY11sSsM5bGGrbJA04dmwLcxkNZ4k8UheFCdCWbVLIS8WfJOk02eYTO-I3EUPIm5owpz3Uxka0M-KZi3AN9ENxJI3r0Brcrodv8eggO7sxoxMa%26dur%3D2~KLUv_WMNLtZUYQCVAAAwgzW5PVgEAgwyEbZeuOSBAAI.%26durs%3DNP3jog%26bdc%3D82%26testid%3D-CRM0-%26adpt%3Dpbjs%26ict%3DCellularNetwork4G%26said%3D39aa7917-2075-4b7a-9b7a-ba25ed451f5a%26auct%3D1%26grdc%3DCAEYASABKAFAAUgB%26tail%3D1%26r%3D;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTU2LjAuODA3OC43OSIsbnVsbCwwLG51bGwsIjY0IixbWyJOb3Q6QS1CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTU2LjAuODA3OC43OSJdLFsiR29vZ2xlIENocm9tZSIsIjE1Ni4wLjgwNzguNzkiXV0sMF0.;dc_rfl=2,https%3A%2F%2Fwww.sommenoefenen.nl%2F$0;xdt=0;crlt=Y'M6JYK)Br;cmpl=44;gcsr=m;stc=1;chaa=1;sttr=303;prcl=s",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://euw2-sync.a-mo.net/cchain/1/34180",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/879366/html_inpage_rendering_lib_200_287.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/elements/html/omrhp.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/VFc2VJAc.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dsum-sec.casalemedia.com/rum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.connectad.io/ImageSyncer",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/Klz6NWr5.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/index.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssp-sync.criteo.com/user-sync/redirect",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/usersync",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.ad.smaato.net/c/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://c1.adform.net/serving/cookie/match",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://px.ads.linkedin.com/setuid",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.richaudience.com/f7872c90c5d3791e2b51f7edce1a0a5d/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/879366/Enabler_01_262.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/hboMaxLogo.svg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/textFit.min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=7fe7eb5b-8266-4435-9001-ffa3bfdb1a5f&gdpr=1&gdpr_consent=CQtGttgQtGttgAfC1BNLC3FsAP_gAEPgAAigLTtR_G_fbWlj-TL3abskeYxP99hr5sQxBgLIgk4BzDrW5JwGx2ESJEyShiAKmRIAqnBBIQFlGAjURUAAIIAFJSDMYESUgRNIJuBAgEMRAwNQCEhvmYthGQCRwkp3cgZwmRsM6Vru2NxAw4gDHUCxIqQlUJAdAYMoCQmsZBKS85IE9-x8v4vw9EboEm0eSVn9pAsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIK0gAmGhUQAlgQCBAICEECABQVhABQIAgAACAggIATBgQ5AwAVWESAEACAAAIAQAAggABAAABAAhEAEABAIAQIAAoAAQAAAAIACBAABABQgAQAAgOgYpAAQCBQAJEYQBggQgAIBAC2FAAQBAgDACkAKAAQIgYCAAAAAAoAAAA8LAQkkRKhIIAsILoAEAAABCMEQABIAYAAAAABAAgAAAgBAAABAAAAAAAAAAAAAAAAgAA.ILTtR_G_fbWln-TL3abskeYxf99hr5sQxBgLIgk4BzDrW5JwG12ESJEyShiAKmRIAqnBBIQFtGAjURUABIIAVJSDsYESUgRNIJuBAgFMRQwNQCEhvmYthGQCRwkp3cwZwmRsM6Vru2NxAw5gjHUC1IqQlUJgdCYMoCQmsZBKS87IU9-x-v4vw9MboEm0eSVn9tQsp4xcIABAAJAAgAAAgBAAABAAABICAAAAAAAABAgAAAAAAAAAIA&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/runtime.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/dynamic.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/getconfig/sodar",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/gen_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hbx.media.net/cksync.php",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ti.tradetracker.net/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/invocation.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/adview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/adlib.min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/sadbundle/11248637004176192749/728x90-HBO_Max_UF_Full_bleed-728x90/animation.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dpm.demdex.net/demconf.jpg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/ul_cb/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/sodar/sodar2.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://match.adsrvr.org/track/cmf/generic",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://googleads4.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://analytics.webgains.io/pvClk.min.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image2.pubmatic.com/AdServer/Pug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssp-sync.criteo.com/user-sync/match",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/app.smartly.io/warren/images/be9bf206-d1c6-4643-86aa-9684583f8567/blob-M5SSDI_HAPOGA_Ultrawide_withBleed_NLD.jpg_1753714965393_blob.jpeg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/6bfb8844-efb9-4277-8f4d-4035ac855153/fullbleed.png_1751907083183_fullbleed.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dynamic/2/11245404/dyle7zu5kwqf5.cloudfront.net/6bfb8844-efb9-4277-8f4d-4035ac855153/blank.png_1751907083183_blank.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ti.tradetracker.net/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://prebidserver.refinery89.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.tradetracker.net/nl/material_image/e1/795da0ea59a4cc8f8e88a59b451bb2e0e26a79.png",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image8.pubmatic.com/AdServer/ImgSync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ap.lijit.com/pixel",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/activeview",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

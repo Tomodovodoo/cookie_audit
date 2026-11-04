@@ -1,0 +1,228 @@
+{
+  "frames": [
+    {
+      "url": "https://www.timeedit.net/",
+      "title": "TimeEdit Authentication",
+      "text": "Select organisation to sign in\nSearch...\nContinue\ntimeedit.com\n🍪\nWe use technical cookies necessary to provide the core functionality of our service. By continuing to use our service, you consent to the use of these essential cookies.\nLearn more\nAccept",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Continue",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 824.576416015625,
+            "y": 479.1388854980469,
+            "width": 93.09027862548828,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgba(0, 0, 0, 0.035)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.035)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 15px"
+          },
+          "disabled": true,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "timeedit.com",
+          "tag": "A",
+          "context": "Select organisation to sign in\nSearch...\nContinue\ntimeedit.com\n🍪\nWe use technical cookies necessary to provide the core functionality of our service. By continuing to use our service, you consent to the use of these essential cookies.\nLearn more\nAccept",
+          "box": {
+            "x": 431.6666564941406,
+            "y": 599.5277709960938,
+            "width": 78.34722137451172,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 130, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(225, 255, 242)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 130, 76)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Learn more",
+          "tag": "BUTTON",
+          "context": "🍪\nWe use technical cookies necessary to provide the core functionality of our service. By continuing to use our service, you consent to the use of these essential cookies.\nLearn more\nAccept",
+          "box": {
+            "x": 1167.2847900390625,
+            "y": 851.1111450195312,
+            "width": 98.39583587646484,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.88)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Accept",
+          "tag": "BUTTON",
+          "context": "🍪\nWe use technical cookies necessary to provide the core functionality of our service. By continuing to use our service, you consent to the use of these essential cookies.\nLearn more\nAccept",
+          "box": {
+            "x": 1281.6805419921875,
+            "y": 851.1111450195312,
+            "width": 70.7638931274414,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 130, 76)",
+            "effectiveBackground": "rgb(0, 130, 76)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 15px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.timeedit.net/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.timeedit.net/",
+  "captured_at": "2026-11-03T15:16:51.823430+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://www.timeedit.net",
+      "localKeys": [
+        "ld:65a938f0183d141061d386f9:$diagnostics",
+        "ld:65a938f0183d141061d386f9:eyJraW5kIjoidW5pbml0aWFsaXplZCIsImtleSI6InVuaW5pdGlhbGl6ZWQifQ=="
+      ],
+      "sessionKeys": [
+        "sentryReplaySession"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://timeedit.net/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.253554+00:00"
+    },
+    {
+      "url": "https://www.timeedit.net/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.375943+00:00"
+    },
+    {
+      "url": "https://www.timeedit.net/static/index-BE4f0j94.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.481851+00:00"
+    },
+    {
+      "url": "https://www.timeedit.net/static/index-PwkuQ8WP.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.485201+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.569657+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.570736+00:00"
+    },
+    {
+      "url": "https://app.launchdarkly.com/sdk/goals/65a938f0183d141061d386f9",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.734457+00:00"
+    },
+    {
+      "url": "https://app.launchdarkly.com/sdk/evalx/65a938f0183d141061d386f9/contexts/eyJraW5kIjoidW5pbml0aWFsaXplZCIsImtleSI6InVuaW5pdGlhbGl6ZWQifQ",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.738883+00:00"
+    },
+    {
+      "url": "https://events.launchdarkly.com/events/diagnostic/65a938f0183d141061d386f9",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:16:44.739867+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourcesans3/v20/nwpStKy2OAdR1K-IwhWudF-R3w8aZQ.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.956898+00:00"
+    },
+    {
+      "url": "https://organizations.timeedit.net/v1/organizations/global",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.958215+00:00"
+    },
+    {
+      "url": "https://clientstream.launchdarkly.com/eval/65a938f0183d141061d386f9/eyJraW5kIjoidW5pbml0aWFsaXplZCIsImtleSI6InVuaW5pdGlhbGl6ZWQifQ",
+      "resource_type": "eventsource",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.958723+00:00"
+    },
+    {
+      "url": "https://www.timeedit.net/static/te-full-D4U4ZhRK.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:16:44.959697+00:00"
+    },
+    {
+      "url": "https://events.launchdarkly.com/events/bulk/65a938f0183d141061d386f9",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:16:46.753814+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

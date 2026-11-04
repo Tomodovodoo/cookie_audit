@@ -1,0 +1,379 @@
+{
+  "frames": [
+    {
+      "url": "https://parking.my.box/",
+      "title": "This .box name is parked | my.box",
+      "text": "Identity\nFind your .box name\nOnchain identity\nlives on .box\nThis name has recently been registered with my.box\nIf you're the owner, here's what you can do:\nManage your onchain profile\n\nUpdate your bio, social links, and wallet addresses. Your .box name is your universal identity across the ecosystem.\n\nEnable Web2 functionality\n\nSet up professional email or point this domain to a website. Enabling DNS requires providing WHOIS information to comply with standard registry regulations.\n\nGo to my.box\nWhy get a .box?\nUniversal Payments\n\nReplace long 0x addresses with a readable name. Receive crypto directly from any wallet anywhere.\n\nTrue Ownership\n\nYour name is an asset stored in your own wallet. No accounts, no middle-man, full control.\n\nENS & DNS Ready\n\nBuilt on audited ENS standards and anchored on Ethereum L1 for maximum security, decentralization, and ecosystem interoperability.\n\nFind your own .box name\nHow it Works\nWhy Choose .box?\nPricing\nFAQs\n\nCopyright 2026 © box\n\nPrivacy Policy\nTerms of Service",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Identity",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 64,
+            "y": 12,
+            "width": 198.0416717529297,
+            "height": 49.53472137451172
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(10, 10, 10)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(10, 10, 10)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-1",
+          "text": "Find your .box name",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1135.923583984375,
+            "y": 17.875,
+            "width": 165.40972900390625,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(10, 10, 10)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(10, 10, 10)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-2",
+          "text": "Go to my.box",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 64,
+            "y": 582.5347290039062,
+            "width": 124.90277862548828,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(10, 10, 10)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "8px 20px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-3",
+          "text": "Find your own .box name",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 859.4861450195312,
+            "y": 543.9236450195312,
+            "width": 195.0625,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(10, 10, 10)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-4",
+          "text": "my.box home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 64,
+            "y": 748,
+            "width": 72.625,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-5",
+          "text": "How it Works",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 947.1527709960938,
+            "y": 752,
+            "width": 84.81944274902344,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-6",
+          "text": "Why Choose .box?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1055.9722900390625,
+            "y": 752,
+            "width": 119.39583587646484,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-7",
+          "text": "Pricing",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1199.3680419921875,
+            "y": 752,
+            "width": 44.22916793823242,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-8",
+          "text": "FAQs",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1267.5972900390625,
+            "y": 752,
+            "width": 33.73611068725586,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-9",
+          "text": "Privacy Policy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1081.0972900390625,
+            "y": 816,
+            "width": 88.85416412353516,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        },
+        {
+          "id": "ca-10",
+          "text": "Terms of Service",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1193.951416015625,
+            "y": 816,
+            "width": 107.38194274902344,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(10, 10, 10)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4cff365a6b644f558844cf495f640503"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "4cff365a6b644f558844cf495f640503",
+      "frame_url": "https://parking.my.box/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://parking.my.box/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:42:49.392634+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://parking.my.box",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://sat.box/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:42:40.549637+00:00"
+    },
+    {
+      "url": "https://www.sat.box/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:42:41.318282+00:00"
+    },
+    {
+      "url": "https://parking.my.box/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:42:42.269880+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:42.369445+00:00"
+    },
+    {
+      "url": "https://parking.my.box/assets/index-CigLnV7m.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:42:42.371992+00:00"
+    },
+    {
+      "url": "https://parking.my.box/logo-black.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:42.372958+00:00"
+    },
+    {
+      "url": "https://parking.my.box/logo-white.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:42:42.373708+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:42:42.476559+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

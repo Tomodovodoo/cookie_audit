@@ -1,0 +1,563 @@
+{
+  "frames": [
+    {
+      "url": "https://mijndak.nl/",
+      "title": "Welkom bij WoningNet - Het nieuwe DAK-Platform voor woningzoekenden",
+      "text": " Welkom bij WoningNet\n\nOm te reageren op het woningaanbod moet je zijn ingeschreven in de regio waar je een woning zoekt. Via WoningNet vind je woningaanbod in de onderstaande regio's.\n\nAlmere\nDrechtsteden\nEemvallei\nGooi en Vechtstreek\nGroningen Huurt\nHuiswaarts\nMidden-Holland\nRegio Amsterdam\nRegio Utrecht\nWoongaard\nIJmond/Zuid-Kennemerland - MijnWoonservice\nDigitale verhuurdersverklaring\n\nIn de regio Amsterdam regel je een verhuurdersverklaring snel en makkelijk online.\n\nGeen printen of opsturen meer\nSnel geregeld bij een woningaanbod\nJe verhuurder vult de verklaring direct online in\nMeer weten? Bekijk de FAQ’s\nDownload onze DĀK app\n\nSnel op de hoogte van het nieuwste woningaanbod, altijd in je zak.\n\nDownload de DĀK app\nOp zoek naar een studentenwoning?\n\nVoor studenten hebben we aanbod in Amsterdam en Diemen.\n\nGa naar studentenwoningweb\nLees alles over WoningNet\n\nWij helpen jaarlijks 50.000 woningzoekenden aan een woning.\n\nOver WoningNet\nLet op: er zijn internet criminelen actief\n\nLees onze tips om jezelf te beschermen.\n\nBekijk onze anti-phishing tips\nAndroid app opnieuw installeren\n\nVeelgestelde vragen over het opnieuw installeren van de Android app.\n\nGa naar de vragen",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Almere",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 390.0833435058594,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Drechtsteden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 452.375,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Eemvallei",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 514.6666870117188,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Gooi en Vechtstreek",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 576.9583129882812,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Groningen Huurt",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 639.25,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Huiswaarts",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 701.5416870117188,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Midden-Holland",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 763.8333129882812,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Regio Amsterdam",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 826.125,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Regio Utrecht",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 888.4166870117188,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Woongaard",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 950.7083129882812,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "IJmond/Zuid-Kennemerland - MijnWoonservice",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 147,
+            "y": 1013,
+            "width": 656.2152709960938,
+            "height": 62.29166793823242
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(254, 254, 254)",
+            "fontSize": 18,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0) rgb(0, 0, 0) rgb(230, 230, 230)",
+            "padding": "10px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Meer weten? Bekijk de FAQ’s",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 922.9930419921875,
+            "y": 513.1319580078125,
+            "width": 304.21527099609375,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 187, 0)",
+            "effectiveBackground": "rgb(255, 187, 0)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 40px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Download de DĀK app",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 932.9930419921875,
+            "y": 1222.1180419921875,
+            "width": 284.21527099609375,
+            "height": 48
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 187, 0)",
+            "effectiveBackground": "rgb(255, 187, 0)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 40px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://mijndak.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://mijndak.nl/",
+  "captured_at": "2026-11-03T15:03:15.143252+00:00",
+  "cookies": [
+    {
+      "name": "CookieScriptConsent",
+      "domain": "mijndak.nl",
+      "path": "/",
+      "expires": 1825254180,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://mijndak.nl",
+      "localKeys": [],
+      "sessionKeys": [
+        "what-intent",
+        "what-input"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mijndak.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.360530+00:00"
+    },
+    {
+      "url": "https://cdn.cookie-script.com/s/ae75ddd1b6837fad84280a3e0417ebaf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.628782+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/css/foundation.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.629894+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/css/app.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.633900+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/DAK-logo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.634440+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/geenaanbod.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.635301+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.757742+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/checkmark.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.769271+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/js/vendor/jquery.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.769780+00:00"
+    },
+    {
+      "url": "https://a.mijndak.nl/static/array.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.884863+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/quicksand/v37/6xKtdSZaM9iE8KbpRA_hK1QN.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.886182+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/quicksand/v37/6xKtdSZaM9iE8KbpRA_hJVQNcOM.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.887042+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/js/vendor/what-input.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.887765+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/js/vendor/foundation.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.904884+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/js/app.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.905621+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/app.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.906308+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/appstore.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.907022+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/playstore.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.907944+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/desktop.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.908640+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/phishing.avif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.909869+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/woningnet.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.911117+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/student.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.912050+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/DAK-background.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.913538+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/icon-arrow-down.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:07.914187+00:00"
+    },
+    {
+      "url": "https://a.mijndak.nl/array/phc_tz2g8PmQXQZvvDQXBzCRv3rVN5Q42xrVyRQvQcCc7Hta/config.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:08.209611+00:00"
+    },
+    {
+      "url": "https://a.mijndak.nl/static/1.445.1/surveys.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:08.348679+00:00"
+    },
+    {
+      "url": "https://a.mijndak.nl/static/1.445.1/logs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:08.352163+00:00"
+    },
+    {
+      "url": "https://a.mijndak.nl/static/1.445.1/dead-clicks-autocapture.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:08.353685+00:00"
+    },
+    {
+      "url": "https://a.mijndak.nl/static/1.445.1/web-vitals-with-attribution.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:08.354822+00:00"
+    },
+    {
+      "url": "https://a.mijndak.nl/static/1.445.1/exception-autocapture.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:08.355691+00:00"
+    },
+    {
+      "url": "https://mijndak.nl/img/favicon.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:03:08.456827+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

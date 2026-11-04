@@ -1,0 +1,2842 @@
+{
+  "frames": [
+    {
+      "url": "https://wetransfer.com/",
+      "title": "WeTransfer | Verzend snel grote bestanden",
+      "text": "Versturen\nOpvragen\nAlbums\nShowcase\nOndertekenen\n3\nJe bent erbijna\n\nStem in met onze gebruiksvoorwaarden en ons privacybeleid om door te gaan.\n\nIk ga akkoord\nFeatures\nPricing\nUse cases\nResources\nLog in\nSign up\n\nWij vinden uw privacy belangrijk\nWij en onze 665 partners slaan persoonsgegevens, zoals browsegegevens of unieke identificatoren, op je apparaat op. Als je Akkoord selecteert, worden trackingtechnologieën ingeschakeld om de doeleinden te ondersteunen die worden weergegeven onder „Wij en onze partners verwerken gegevens voor de volgende doeleinden”. Als u Alles afwijzen selecteert of uw toestemming intrekt, worden deze uitgeschakeld. Als trackers zijn uitgeschakeld, zijn sommige content en advertenties die je ziet wellicht niet zo relevant voor jou. Je kunt dit menu opnieuw openen om je keuzes te wijzigen of je toestemming op elk moment intrekken door op de link Voorkeuren beheren onder aan de webpagina [of het zwevende pictogram linksonder op de webpagina, indien van toepassing] te klikken. Je selecties zullen overal binnen onze volgende kanalen worden doorgevoerd: Website. Raadpleeg ons privacybeleid voor meer informatie.\nWij en onze partners verwerken gegevens voor de volgende doeleinden:\n\nPrecieze geolocatiegegevens gebruiken. De apparaatkenmerken actief scannen ter identificatie. Informatie op een apparaat opslaan en/of openen. Gepersonaliseerde advertenties en content, advertentie- en contentmetingen, doelgroepenonderzoek en ontwikkeling van diensten.\nPartnerlijst (derden)\n\nAkkoord\nAlles afwijzen\nDoeleinden weergeven",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Versturen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 84,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(55, 103, 234)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(55, 103, 234)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Opvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 166,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Albums",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 248,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Showcase",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 330,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Ondertekenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 412,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "3",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 22.5,
+            "y": 736,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(103, 103, 103)",
+            "background": "rgb(249, 249, 249)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(103, 103, 103)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Open chat support",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 22.5,
+            "y": 788,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(103, 103, 103)",
+            "background": "rgb(249, 249, 249)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(103, 103, 103)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Zijbalk inklappen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 22.5,
+            "y": 840,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(103, 103, 103)",
+            "background": "rgb(249, 249, 249)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(103, 103, 103)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "gebruiksvoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 195,
+            "y": 495.77777099609375,
+            "width": 160.24305725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(70, 70, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(70, 70, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 225.65972900390625,
+            "y": 519.7777709960938,
+            "width": 98.5625,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(70, 70, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(70, 70, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Ik ga akkoord",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 185,
+            "y": 587,
+            "width": 240,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(245, 248, 255)",
+            "background": "rgb(55, 103, 234)",
+            "effectiveBackground": "rgb(55, 103, 234)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(245, 248, 255)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Features",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 764.701416015625,
+            "y": 16,
+            "width": 102.22916412353516,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Pricing",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 866.9305419921875,
+            "y": 16,
+            "width": 61.67361068725586,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Use cases",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 928.6041870117188,
+            "y": 16,
+            "width": 111.41666412353516,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Resources",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1040.0208740234375,
+            "y": 16,
+            "width": 137.0625,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Log in",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1193.0833740234375,
+            "y": 16,
+            "width": 51.43055725097656,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Sign up",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1268.513916015625,
+            "y": 24,
+            "width": 72.81944274902344,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(241, 241, 241)",
+            "background": "rgb(53, 53, 53)",
+            "effectiveBackground": "rgb(53, 53, 53)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(241, 241, 241)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Partnerlijst (derden)",
+          "tag": "BUTTON",
+          "context": "Wij vinden uw privacy belangrijk\nWij en onze 665 partners slaan persoonsgegevens, zoals browsegegevens of unieke identificatoren, op je apparaat op. Als je Akkoord selecteert, worden trackingtechnologieën ingeschakeld om de doeleinden te ondersteunen die worden weergegeven onder „Wij en onze partners verwerken gegevens voor de volgende doeleinden”. Als u Alles afwijzen selecteert of uw toestemming",
+          "box": {
+            "x": 564.8958129882812,
+            "y": 740,
+            "width": 119.30555725097656,
+            "height": 18
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(55, 103, 234)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(55, 103, 234)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Akkoord",
+          "tag": "BUTTON",
+          "context": "Wij vinden uw privacy belangrijk\nWij en onze 665 partners slaan persoonsgegevens, zoals browsegegevens of unieke identificatoren, op je apparaat op. Als je Akkoord selecteert, worden trackingtechnologieën ingeschakeld om de doeleinden te ondersteunen die worden weergegeven onder „Wij en onze partners verwerken gegevens voor de volgende doeleinden”. Als u Alles afwijzen selecteert of uw toestemming",
+          "box": {
+            "x": 1004.7291870117188,
+            "y": 648.7083129882812,
+            "width": 178.31944274902344,
+            "height": 39.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(55, 103, 234)",
+            "effectiveBackground": "rgb(55, 103, 234)",
+            "fontSize": 13.008,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Alles afwijzen",
+          "tag": "BUTTON",
+          "context": "Wij vinden uw privacy belangrijk\nWij en onze 665 partners slaan persoonsgegevens, zoals browsegegevens of unieke identificatoren, op je apparaat op. Als je Akkoord selecteert, worden trackingtechnologieën ingeschakeld om de doeleinden te ondersteunen die worden weergegeven onder „Wij en onze partners verwerken gegevens voor de volgende doeleinden”. Als u Alles afwijzen selecteert of uw toestemming",
+          "box": {
+            "x": 1004.7291870117188,
+            "y": 704.3125,
+            "width": 178.31944274902344,
+            "height": 39.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(55, 103, 234)",
+            "effectiveBackground": "rgb(55, 103, 234)",
+            "fontSize": 13.008,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "12px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Doeleinden weergeven",
+          "tag": "BUTTON",
+          "context": "Wij vinden uw privacy belangrijk\nWij en onze 665 partners slaan persoonsgegevens, zoals browsegegevens of unieke identificatoren, op je apparaat op. Als je Akkoord selecteert, worden trackingtechnologieën ingeschakeld om de doeleinden te ondersteunen die worden weergegeven onder „Wij en onze partners verwerken gegevens voor de volgende doeleinden”. Als u Alles afwijzen selecteert of uw toestemming",
+          "box": {
+            "x": 1004.7291870117188,
+            "y": 759.9166870117188,
+            "width": 178.31944274902344,
+            "height": 41.3819465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.008,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "12px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://wetransfer.com/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/_/service_worker/6al0/sw_iframe.html",
+      "title": "",
+      "text": "[Browser error/configuration or script text omitted.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://tagging.wetransfer.com/_/service_worker/6al0/sw_iframe.html"
+    },
+    {
+      "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 1
+      },
+      "frame_url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html"
+    },
+    {
+      "url": "https://m.stripe.network/inner.html",
+      "title": "StripeM-Inner",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 150
+      },
+      "frame_url": "https://m.stripe.network/inner.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "title": "SafeFrame Container",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "frame_url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/overlay.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/overlay.html"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/index.html",
+      "title": "desktop-web-renderer",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "frame_url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/index.html"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/index.html",
+      "title": "Wallpaper",
+      "text": "Take a look\nWorld Press Photo 2026\n\nPaula Hornickel captures encounters between humans and robots across Germany",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "frame_url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/index.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://wetransfer.com/",
+  "captured_at": "2026-11-03T15:02:45.966465+00:00",
+  "cookies": [
+    {
+      "name": "wt_lang",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wt_lsid",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254158.890272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_0M019DTWVR",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1828278159.132225,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1828278159.132768,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1828278159.184896,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1793790159.185003,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s_v2",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1825254160.398,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "g_state",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1809270160,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1828278161.191184,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1793719961,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "did",
+      "domain": "auth.wetransfer.com",
+      "path": "/",
+      "expires": 1801494161.196227,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1801494161.242791,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_ivt",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1793890961,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eoi",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1809270161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254162,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "domain": "nolan.wetransfer.net",
+      "path": "/",
+      "expires": 1793719065,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://wetransfer.com",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "https://tagging.wetransfer.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://js.stripe.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://m.stripe.network",
+      "localKeys": [],
+      "sessionKeys": [
+        "_ab",
+        "_mf",
+        "1",
+        "id"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://backgrounds.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://nolan.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://backgrounds.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://wetransfer.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.055358+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0xxqehazkkc7t.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.170861+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/22uc4p-ktsw3g.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.174389+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1cspdpjnzf7ss.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.175076+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2wgsaguehz073.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.182577+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0jg86_06xtbo9.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.183268+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0n29-c5fe13ff.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.183849+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1y9a62e9zg7ui.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.184410+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2cgrr8e0b0xzr.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.184965+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2npi7618mm8fg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.185557+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/11j39veb-w1ud.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.186272+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/02u68x_pe8dwg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.187146+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0udpwgdqm17bg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.188139+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3o0k6fb_xc_ll.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.189025+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/33hotb5zq7etb.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.189964+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0c7mdkv5a7mw8.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.190889+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2xbvp634i5-35.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.192195+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3ixh30qhc_4ak.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.232095+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0r2i6r3m2mt68.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.233201+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/360nb-mrrsqne.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.234952+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3nghc-95_n-j9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.235944+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1gxtopzp8e54h.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.236433+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0dn06ute-j893.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.238283+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0257sv5k9smbr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.238861+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0d5gn915hiat3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.254952+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0qgc-xxzzdw1o.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.255523+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/19sriilb4q1jj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.256268+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1al3v1crzik2x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.256995+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2z2w__ul1mn8n.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.257698+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1dkbdzpyz6zi1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.258384+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1rbwwgf_j2mwr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.258948+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0yue_thbrv_8c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.259654+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3pkaoowskrk5j.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.260469+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3xerv0lrh4xid.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.261272+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0j35ni2notzkg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.262077+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/136f221gvee68.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.262898+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3ochb5_842swx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.264092+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2_c7422ljywk0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.265101+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3iyaauo-pkdrs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.265899+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2da5s3hzwnhln.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.266663+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3l9c737qw90yv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.267439+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3wrniqvc5vvhn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.268215+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2vkium9il-n0x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.268990+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3szlu80mjpmds.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.269790+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/01epoit7tgqal.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.270538+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3r7sgi7row9ka.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.271308+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3736kgiclic4t.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.272073+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1_dt48i36-zyc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.272814+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0nu8z32pzv4in.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.273580+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3-f-grumkxkd7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.274606+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/28w50ctvacqxt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.275369+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1r03z1c67quht.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.276143+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0m41eb83f2bzp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.276883+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/04dkoe552chsv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.277474+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/16s5wbzzu1xwd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.278046+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2oaa1njz439pe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.278582+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2v0xyv-tg4w_y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.279213+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/02lbpkjoeifx3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.279832+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1tdahlr5eex2o.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.280801+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3fnw0g4kv2820.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.281197+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3xccpodh_psr6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.281754+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3_69caoaroom2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.282785+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1dfg4fik9yyp1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.283072+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0r8lrmgjruuov.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.283632+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0fieurxzyyp3x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.284254+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3zhpk3goyf3jq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.284888+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1zpa92264zwyv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.285488+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2l9rjx2_8k9bc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.286064+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1juime0v94ooj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.286652+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/22cj8enypd2su.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.287247+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0bdzz_lpcm9ju.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.287825+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/42iq-tda3em6n.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.290819+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/turbopack-0872uobdvcy3v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.291388+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1d0uskm4xdkul.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.291964+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/d36f7856e3736b3efc86450468e7ff7e9849bdc7/_buildManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.293073+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/d36f7856e3736b3efc86450468e7ff7e9849bdc7/_ssgManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.294152+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/d36f7856e3736b3efc86450468e7ff7e9849bdc7/_clientMiddlewareManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.295125+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.706636+00:00"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.707250+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/client",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.708259+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1czzy16gqfwyc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.709128+00:00"
+    },
+    {
+      "url": "https://js.stripe.com/v3",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.710140+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/sw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.862254+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/api/web-metrics",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:38.890290+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/adroit/api/v1/catalog/tiers",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.890800+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "resource_type": "xhr",
+      "method": "HEAD",
+      "at": "2026-11-03T15:02:38.891644+00:00"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.994999+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:38.996021+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "xhr",
+      "method": "HEAD",
+      "at": "2026-11-03T15:02:38.999303+00:00"
+    },
+    {
+      "url": "https://auth.wetransfer.com/oauth/token",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:39.071444+00:00"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.142119+00:00"
+    },
+    {
+      "url": "https://auth.wetransfer.com/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.157619+00:00"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/_/service_worker/6al0/sw_iframe.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.175759+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/p/action/187220883.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.181879+00:00"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/_/service_worker/6al0/sw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.270223+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/account/silent-callback",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.271621+00:00"
+    },
+    {
+      "url": "https://www.clarity.ms/tag/uet/187220883",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.272481+00:00"
+    },
+    {
+      "url": "https://bat.bing.net/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:02:39.272859+00:00"
+    },
+    {
+      "url": "https://bat.bing.net/action/0",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.273672+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0xxqehazkkc7t.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.321132+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/22uc4p-ktsw3g.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.321799+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1cspdpjnzf7ss.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.323086+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2wgsaguehz073.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.324007+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0jg86_06xtbo9.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.324820+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0n29-c5fe13ff.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.325583+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1y9a62e9zg7ui.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.329082+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2cgrr8e0b0xzr.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.329580+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2npi7618mm8fg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.330327+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/11j39veb-w1ud.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.330994+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/02u68x_pe8dwg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.332696+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0udpwgdqm17bg.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.333759+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3o0k6fb_xc_ll.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.334681+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/33hotb5zq7etb.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.335372+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0c7mdkv5a7mw8.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.336103+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2xbvp634i5-35.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.336687+00:00"
+    },
+    {
+      "url": "https://scripts.clarity.ms/0.8.75/clarity.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.408217+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3ixh30qhc_4ak.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.410809+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0r2i6r3m2mt68.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.422431+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/360nb-mrrsqne.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.423047+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3nghc-95_n-j9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.423991+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1gxtopzp8e54h.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.439404+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0dn06ute-j893.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.439993+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0257sv5k9smbr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.440278+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0d5gn915hiat3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.440808+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0qgc-xxzzdw1o.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.441347+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/19sriilb4q1jj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.441901+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1al3v1crzik2x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.442679+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2z2w__ul1mn8n.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.443535+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1dkbdzpyz6zi1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.444642+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1rbwwgf_j2mwr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.445404+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0yue_thbrv_8c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.446021+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3pkaoowskrk5j.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.446693+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3xerv0lrh4xid.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.447394+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0j35ni2notzkg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.448164+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/136f221gvee68.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.448746+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3ochb5_842swx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.449300+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2_c7422ljywk0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.449845+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3iyaauo-pkdrs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.450402+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2da5s3hzwnhln.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.450935+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3l9c737qw90yv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.451454+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3wrniqvc5vvhn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.452202+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2vkium9il-n0x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.452726+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3szlu80mjpmds.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.453267+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/01epoit7tgqal.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.453794+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3r7sgi7row9ka.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.454339+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3736kgiclic4t.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.454845+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1_dt48i36-zyc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.455370+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0nu8z32pzv4in.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.455881+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3-f-grumkxkd7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.456384+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/28w50ctvacqxt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.456909+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1r03z1c67quht.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.457409+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0m41eb83f2bzp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.458078+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/04dkoe552chsv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.458633+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/16s5wbzzu1xwd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.459339+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2oaa1njz439pe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.460105+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2v0xyv-tg4w_y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.460668+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/02lbpkjoeifx3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.461275+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1tdahlr5eex2o.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.461877+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3fnw0g4kv2820.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.462506+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3xccpodh_psr6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.463094+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3_69caoaroom2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.463623+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1dfg4fik9yyp1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.464173+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0r8lrmgjruuov.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.464721+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0fieurxzyyp3x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.470166+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/3zhpk3goyf3jq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.471162+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1zpa92264zwyv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.472011+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/2l9rjx2_8k9bc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.472840+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1juime0v94ooj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.473668+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/22cj8enypd2su.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.474527+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/0bdzz_lpcm9ju.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.475347+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/42iq-tda3em6n.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.476541+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/turbopack-0872uobdvcy3v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.477706+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/19w7ixvjvhxd0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.478618+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/d36f7856e3736b3efc86450468e7ff7e9849bdc7/_buildManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.479248+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/d36f7856e3736b3efc86450468e7ff7e9849bdc7/_ssgManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.941934+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/d36f7856e3736b3efc86450468e7ff7e9849bdc7/_clientMiddlewareManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.943297+00:00"
+    },
+    {
+      "url": "https://a.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:39.965897+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.968382+00:00"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.968756+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/client",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.969407+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/chunks/1czzy16gqfwyc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.970006+00:00"
+    },
+    {
+      "url": "https://js.stripe.com/v3",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:39.970583+00:00"
+    },
+    {
+      "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:40.222738+00:00"
+    },
+    {
+      "url": "https://auth.wetransfer.com/oauth/token",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:40.238383+00:00"
+    },
+    {
+      "url": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:40.320839+00:00"
+    },
+    {
+      "url": "https://m.stripe.network/inner.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:40.352742+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/api/v4/entitlements/anonymous",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:40.359175+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/style",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:40.360028+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/api/web-metrics",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:40.360966+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/api/web-metrics",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:40.361783+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/_next/data/d36f7856e3736b3efc86450468e7ff7e9849bdc7/index.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:40.363073+00:00"
+    },
+    {
+      "url": "https://m.stripe.network/out-4.5.45.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:40.411083+00:00"
+    },
+    {
+      "url": "https://bsp-proxy.wetransfer.net/orion/v3/identity/settings",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:40.412764+00:00"
+    },
+    {
+      "url": "https://bsp-proxy.wetransfer.net/pico/v4/web-events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:40.554284+00:00"
+    },
+    {
+      "url": "https://m.stripe.com/6",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:40.646346+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-wallpaper/asset-manifest.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.001254+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/media/ActiefGrotesque-Medium.3f2xjme4wqfb3.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.001719+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/media/ActiefGrotesque-Bold.1u73t1z0s38y-.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.002523+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/adroit/api/v1/catalog/tiers",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.003309+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/gsi/status",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.063317+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/media/ActiefGrotesque-Regular.1612fe8ppyrez.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.069452+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/_next/static/media/GTSuperWT-Bold.1xxgls34e4ojj.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.071046+00:00"
+    },
+    {
+      "url": "https://cdn.wetransfer.com/assets/images/transfer_window/core-shape.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.071426+00:00"
+    },
+    {
+      "url": "https://static.zdassets.com/ekr/snippet.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.104663+00:00"
+    },
+    {
+      "url": "https://a.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:41.107815+00:00"
+    },
+    {
+      "url": "https://auth.wetransfer.com/oauth/token",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:41.149359+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-wallpaper/0.14.0/main.589301afef50da1e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.191999+00:00"
+    },
+    {
+      "url": "https://ekr.zdassets.com/compose/4a19ab92-9166-452d-a00d-7f2b9d522415",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.200747+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/asset-manifest.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.384392+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/asset-manifest.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.384890+00:00"
+    },
+    {
+      "url": "https://static.zdassets.com/web_widget/messenger/latest/web-widget-main-94faa7a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.394887+00:00"
+    },
+    {
+      "url": "https://lebowski.wetransfer.com/v1/ivt",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:41.395984+00:00"
+    },
+    {
+      "url": "https://static.zdassets.com/web_widget/messenger/latest/web-widget-5433-94faa7a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.512919+00:00"
+    },
+    {
+      "url": "https://static.zdassets.com/web_widget/messenger/latest/web-widget-locales/messenger/nl-nl-json-94faa7a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.513568+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.519316+00:00"
+    },
+    {
+      "url": "https://wetransfer.zendesk.com/embeddable/config",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.564562+00:00"
+    },
+    {
+      "url": "https://wetransfer.zendesk.com/frontendevents/pv",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:41.566508+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610270101/pubads_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.594362+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.619632+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.718535+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.737301+00:00"
+    },
+    {
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.752841+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.817056+00:00"
+    },
+    {
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.863881+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.900752+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-45/js/ext.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.927747+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.931494+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.932178+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.957690+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:41.979887+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.025534+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/overlay.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.039062+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.039570+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.056134+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.058106+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.058728+00:00"
+    },
+    {
+      "url": "https://www.datadoghq-browser-agent.com/eu1/v5/datadog-rum-slim.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.073348+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/main.62e1cf249842cf23.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.074503+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.075451+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/019a7cff-b87a-796e-89ea-cd16a2434ba7/019a7cff-b87a-796e-89ea-cd16a2434ba7.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.090430+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.123647+00:00"
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.172021+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.195567+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/bundle.3c9ec6f27fdfb72f6701.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.216684+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.1.0/otBannerSdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.240103+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/460.e4682395795b6a9c988d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.248577+00:00"
+    },
+    {
+      "url": "https://wt-prod-euwest1-genie-assets.s3.eu-west-1.amazonaws.com/WePresent/Wepresent-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.273550+00:00"
+    },
+    {
+      "url": "https://wt-prod-euwest1-genie-assets.s3.eu-west-1.amazonaws.com/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/Screenshot%202026-03-18%20at%2018.41.11%20copy.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.274134+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/consent/019a7cff-b87a-796e-89ea-cd16a2434ba7/019aea4a-a775-7224-9ddf-ce37584659cb/nl.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.288625+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/ActiefGrotesque-Regular.63479c54248fa038db83.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.289647+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/wepresent-march-2026/paula-hornickel/wp2-square/1_wrFrPP/GT-Super-WT-Regular.7632213fbbe5628ae4a7.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.290068+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/vendorlist/iab2V2Data.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.291195+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.1.0/otTCF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.293595+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otFlat.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.449525+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/v2/otPcCenter.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.449968+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otCookieSettingsButton.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.450877+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/scripttemplates/202604.1.0/assets/otCommonStyles.css",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.451538+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.533796+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.577357+00:00"
+    },
+    {
+      "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.578215+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:42.665825+00:00"
+    },
+    {
+      "url": "https://bsp-proxy.wetransfer.net/pico/v4/web-events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:42.857172+00:00"
+    },
+    {
+      "url": "https://bsp-proxy.wetransfer.net/pico/v4/web-events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:45.129565+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_0M019DTWVR",
+      "domain": ".wetransfer.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".wetransfer.com"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/bat.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/p/action/187220883.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.clarity.ms/tag/uet/187220883",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://scripts.clarity.ms/0.8.75/clarity.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://a.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/bat.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://m.stripe.network/inner.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://m.stripe.network/out-4.5.45.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://a.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610270101/pubads_impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-45/js/ext.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

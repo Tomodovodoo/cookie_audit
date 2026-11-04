@@ -1,0 +1,420 @@
+{
+  "frames": [
+    {
+      "url": "https://www.mijnwefact.nl/inloggen",
+      "title": "WeFact - Inloggen",
+      "text": "Gepland onderhoud\n\nOp woensdag 4 november voeren we onderhoud uit vanaf 22:00 uur. Naar verwachting neemt dit onderhoud 2 uur in beslag tot 00:00 uur. Tijdens dit onderhoud kunt u geen gebruik maken van het systeem\n\n Nederlands \nE-mailadres \n\n\nNog geen gebruiker? Maak een account aan.\n \nWeFact\nBlog\nContact\nStatus\nFactuur maken\nPrivacy verklaring\n085 - 732 57 00\n \ninfo@wefact.nl",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Nederlands",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1141.0069580078125,
+            "y": 88.11111450195312,
+            "width": 107.99305725097656,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(43, 133, 204)",
+            "fontSize": 13.125,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Volgende",
+          "tag": "INPUT",
+          "context": "",
+          "box": {
+            "x": 855,
+            "y": 349.6388854980469,
+            "width": 338,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(43, 133, 204)",
+            "effectiveBackground": "rgb(43, 133, 204)",
+            "fontSize": 13.125,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Maak een account aan.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1018.1041870117188,
+            "y": 456.75,
+            "width": 145.6041717529297,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(43, 133, 204)",
+            "fontSize": 13.125,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "WeFact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 110,
+            "y": 867,
+            "width": 53.11805725097656,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Blog",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 163.11805725097656,
+            "y": 867,
+            "width": 35.59027862548828,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 198.7083282470703,
+            "y": 867,
+            "width": 55.23611068725586,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Status",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 253.94444274902344,
+            "y": 867,
+            "width": 46.47916793823242,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Factuur maken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 300.4236145019531,
+            "y": 867,
+            "width": 95.09722137451172,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Privacy verklaring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.5208435058594,
+            "y": 867,
+            "width": 113.40277862548828,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "085 - 732 57 00",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1083.2291259765625,
+            "y": 867,
+            "width": 142.0416717529297,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px 20px 5px 30px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "info@wefact.nl",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1228.96533203125,
+            "y": 867,
+            "width": 116.36805725097656,
+            "height": 25
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(30, 37, 48)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 242, 244)",
+            "fontSize": 12,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(30, 37, 48)",
+            "padding": "5px 0px 5px 30px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.mijnwefact.nl/inloggen"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.mijnwefact.nl/inloggen",
+  "captured_at": "2026-11-03T15:26:42.678941+00:00",
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "domain": "www.mijnwefact.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.mijnwefact.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mijnwefact.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:35.297112+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:35.348343+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/auth/visma/redirect",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:35.409895+00:00"
+    },
+    {
+      "url": "https://connect.visma.com/connect/authorize",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:35.518299+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/auth/visma/callback",
+      "resource_type": "document",
+      "method": "POST",
+      "at": "2026-11-03T15:26:35.657505+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:35.834573+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/inloggen",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:35.964468+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/assets/ga/js/jquery.54ae2765.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.184527+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/assets/ga/js/login.095fba31.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.186780+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/assets/ga/css/login-styles.83343437.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.187239+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/assets/ga/images/maintenance.70c10122.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.189182+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/tenant-asset/logo",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.189727+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/assets/ga/images/icons-main.67ab64ba..png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.329236+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/assets/ga/images/icons-sprite.42deaeaf..png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.329944+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/assets/ga/fonts/inter-normal-latin.dddea397.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.330719+00:00"
+    },
+    {
+      "url": "https://www.mijnwefact.nl/tenant-asset/favicon",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:26:36.609839+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

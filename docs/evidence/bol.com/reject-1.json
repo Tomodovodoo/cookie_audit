@@ -1,0 +1,99 @@
+{
+  "capture_method": "Browser-agent main-frame UI; no full network or HttpOnly cookie capture",
+  "captured_at": "2026-11-03T16:00:13.454Z",
+  "cookies": [],
+  "frame_count": 1,
+  "frame_errors": [],
+  "frames": [
+    {
+      "controls": [
+        {
+          "box": {
+            "height": 13.777777671813965,
+            "width": 40.5,
+            "x": 770.0694580078125,
+            "y": 5091.85400390625
+          },
+          "context": "Certificaat Thuiswinkel Waarborg\nGeldt voor aankopen bij\nThuiswinkel-leden\nAlgemene voorwaarden\nPrivacy\nCookies\n© 1999-2026 bol.com b.v.",
+          "disabled": false,
+          "id": "ca-270",
+          "inViewport": false,
+          "style": {
+            "background": "rgba(0, 0, 0, 0)",
+            "backgroundImage": "none",
+            "borderColor": "oklch(0.1867 0 0)",
+            "borderWidth": 0,
+            "color": "oklch(0.1867 0 0)",
+            "contrastReliable": false,
+            "effectiveBackground": "oklch(1 0 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "padding": "0px"
+          },
+          "tag": "A",
+          "text": "Privacy"
+        },
+        {
+          "box": {
+            "height": 13.777777671813965,
+            "width": 45.14583206176758,
+            "x": 845.6111450195312,
+            "y": 5091.85400390625
+          },
+          "context": "Cookies",
+          "disabled": false,
+          "id": "ca-271",
+          "inViewport": false,
+          "style": {
+            "background": "rgba(0, 0, 0, 0)",
+            "backgroundImage": "none",
+            "borderColor": "oklch(0.1867 0 0)",
+            "borderWidth": 0,
+            "color": "oklch(0.1867 0 0)",
+            "contrastReliable": false,
+            "effectiveBackground": "oklch(1 0 0)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "padding": "0px"
+          },
+          "tag": "A",
+          "text": "Cookies"
+        }
+      ],
+      "language": "en-US",
+      "text": "Ga naar zoeken\nGa naar hoofdinhoud\nlekker winkelen zonder zorgen\nGratis verzending vanaf 25,-\nBezorging dezelfde dag, 's avonds of in het weekend*\nGratis retourneren\nSelect\nOntdek nu de 4 voordelen\nShophulp\nInloggen\nCategorieën\nCadeaus & Inspiratie\nAanbiedingen\nZakelijk\nCadeaukaart\nBestelstatus\nKlantenservice\nNL\nBol, de winkel van ons allemaal\nOntdek de mooiste sintcadeaus\nvoor ieder verlanglijstje\nShop nu\n\nBouwsets\n\nDames parfum\n\nZelf lezen\n\nLegpuzzels\n\nTelefoonaccessoires\n\nAudio voor jou\n\nKinderspellen\n\nSpeelsets\n\nSla deze carousel over\n\nDe mooiste sintcadeaus\n\nDe leukste schoencadeaus tot 15,-\n\nHet populairste speelgoed uit Sints pakhuis\n\nTot 30% stapelkorting op speelgoed\n\nOntdek Het Grote Speelgoedboek\n\nSla deze carousel over\n\n2+1 op schoencadeautjes\no.a. Barbie & Hot Wheels\n\nKoptelefoons & oordopjes\nvan o.a. JBL\n\n3 voor 20,-\nop leuke prentenboeken\n\nLaat je fantasie bouwen\nmet LEGO® voor kids\n\nNieuw binnen\n\nSla deze carousel over\n\nLEGO Botanicals - Schommelende Plantjes Bloemen Bouwpakket voor Kinderen - 11506\n\n(38)\n\nDe prijs van dit product is 15 euro en 99 cent.\n15\n,\n99\n\nAdviesprijs 19,99\nDe adviesprijs is De adviesprijs is 19 euro en 99 cent..\n\nDe avonturen van Rutger, Thom",
+      "title": "De winkel van ons allemaal | bol",
+      "url": "https://www.bol.com/nl/nl/",
+      "viewport": {
+        "height": 900,
+        "width": 1365
+      },
+      "webdriver": false
+    }
+  ],
+  "limited_capture": true,
+  "requests": [],
+  "url": "https://www.bol.com/nl/nl/",
+  "visible_cookie_names": [
+    "sbsd_o",
+    "bm_lso",
+    "BUI",
+    "XSC",
+    "bltgSessionId",
+    "XSRF-TOKEN",
+    "sbsd_c",
+    "rl_anonymous_id",
+    "rl_page_init_referrer",
+    "rl_trait",
+    "rl_session",
+    "bolConsentChoices",
+    "bm_sv"
+  ],
+  "screenshot": "reject-1.png",
+  "tracking": {
+    "status": "unknown",
+    "reason": "Browser-agent UI observation has no complete network/HttpOnly-cookie capture."
+  },
+  "signals": [],
+  "uncertain_signals": []
+}

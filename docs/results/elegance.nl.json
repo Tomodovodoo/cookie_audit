@@ -1,0 +1,61 @@
+{
+  "rank": 740,
+  "domain": "elegance.nl",
+  "name": "elegance.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:25:10.374535+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:12:23.542623+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Refusal led to an unfinished purchase/subscription flow, not verified refusal."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "No completed refusal on the audited website was observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Reload of a purchase/subscription flow does not establish refusal persistence."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Weigeren & betalen"
+    }
+  ],
+  "evidence": "evidence/elegance.nl/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Elegance | De eerste glossy van Nederland | Sinds 1937 | Laat je inspireren door sterke vrouwen, kunst, cultuur, mode, reizen, beauty en gastronomie.",
+  "rules_version": "0.2.0"
+}

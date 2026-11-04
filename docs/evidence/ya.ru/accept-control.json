@@ -1,0 +1,766 @@
+{
+  "frames": [
+    {
+      "url": "https://ya.ru/",
+      "title": "Яндекс — быстрый поиск в интернете",
+      "text": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Да",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 852.3333129882812,
+            "y": 148,
+            "width": 107.73611450195312,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 229, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px 32px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Нет",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 972.0694580078125,
+            "y": 148,
+            "width": 115.25,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 229, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10px 32px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Драхтен",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 30,
+            "width": 70.00694274902344,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgb(242, 242, 242)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "+11°",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 106.00694274902344,
+            "y": 30,
+            "width": 76.2638931274414,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgb(242, 242, 242)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 12px 0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "USD 81,67",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 194.2708282470703,
+            "y": 30,
+            "width": 63.03472137451172,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Установите Яндекс Браузер",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 836.0416870117188,
+            "y": 28,
+            "width": 238.11111450195312,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Сервисы",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1086.15283203125,
+            "y": 30,
+            "width": 46,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Алиса",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1144.15283203125,
+            "y": 30,
+            "width": 46,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Войти",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1204.15283203125,
+            "y": 30,
+            "width": 79.18055725097656,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Профиль, вход не выполнен",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1295.3333740234375,
+            "y": 30,
+            "width": 46,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 35.1,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Голосовой поиск",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 960.3541870117188,
+            "y": 409.77777099609375,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.4)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://ya.ru/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://ya.ru/",
+  "captured_at": "2026-11-03T15:05:51.847976+00:00",
+  "cookies": [
+    {
+      "name": "yandex_csyr",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1825254337.315394,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is_gdpr",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278337.315457,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr_b",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278337.31548,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278337.315524,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278337.315549,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278337.315568,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1825254337.315588,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandex_gid",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1796310337.512252,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278337.512341,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278337.805683,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278337.805744,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278337.80577,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278337.805788,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1825254337.805811,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_yasc",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278337.819601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "domain": "mc.yandex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825254347,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "my",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278339.873778,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yp",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278340.07079,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "my",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278340.070849,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278340.07087,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr_b",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278340.070888,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278340.070904,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_yasc",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278342.873723,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gdpr",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1825254344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_uid",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1825254344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1825254344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sync_cookie_csrf",
+      "domain": ".mc.yandex.com",
+      "path": "/",
+      "expires": 1793718944,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sync_cookie_csrf",
+      "domain": ".mc.yandex.ru",
+      "path": "/",
+      "expires": 1793718944,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278344.983798,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278344.983886,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278344.983919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yp",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278344.983955,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825254344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sync_cookie_ok",
+      "domain": ".mc.yandex.com",
+      "path": "/",
+      "expires": 1793804744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://ya.ru",
+      "localKeys": [
+        "_ym_synced",
+        "_ym_retryReqs",
+        "_ym_wasSynced",
+        "beerka",
+        "_ym723233_lsid",
+        "_ym_uid",
+        "_ym3_lsid",
+        "_ym723233:0_reqNum",
+        "_ym3:0_reqNum",
+        "_ym723233_lastHit"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mc.yandex.com/sync_cookie_image_check",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:44.826594+00:00"
+    },
+    {
+      "url": "https://ya.ru/clck/click",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:44.879469+00:00"
+    },
+    {
+      "url": "https://mc.yandex.ru/sync_cookie_image_start",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:44.882772+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/sync_cookie_image_decide",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:44.934793+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/watch/723233",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:05:44.988241+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/watch/723233/1",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:45.047107+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/watch/723233/1",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:47.019120+00:00"
+    },
+    {
+      "url": "https://ya.ru/clck/click",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:47.807627+00:00"
+    },
+    {
+      "url": "https://ya.ru/clck/counter",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:47.809197+00:00"
+    },
+    {
+      "url": "https://ya.ru/clck/click/reqid=1793718337250464-5937440906813125740-ytlctfb5v6ojau52-BAL/slots=1713627,0,63;1733170,0,32/table=morda_baobab",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:47.888173+00:00"
+    },
+    {
+      "url": "https://mc.yandex.com/watch/723233",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:48.034747+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/sync_cookie_image_check",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.ru/sync_cookie_image_start",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/sync_cookie_image_decide",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/watch/723233",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/watch/723233/1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/watch/723233/1",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.com/watch/723233",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

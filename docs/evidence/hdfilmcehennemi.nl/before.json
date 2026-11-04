@@ -1,0 +1,113 @@
+{
+  "frames": [
+    {
+      "url": "https://hdfilmcehennemi.nl/",
+      "title": "451 - Yasal Nedenlerle Erisime Kapali",
+      "text": "451\n\nYasal Nedenlerle Erisime Kapatilmistir\n\nBu icerik, yasal duzenlemeler nedeniyle bulundugunuz bolgeden erisime kapatilmistir.\n\nHTTP 451 — Unavailable For Legal Reasons. This content is not available in your region due to legal restrictions.",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://hdfilmcehennemi.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://hdfilmcehennemi.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:33:32.538868+00:00",
+  "cookies": [
+    {
+      "name": "cf_clearance",
+      "domain": ".hdfilmcehennemi.nl",
+      "path": "/",
+      "expires": 1825256006.232167,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://hdfilmcehennemi.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://hdfilmcehennemi.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:33:24.798156+00:00"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.116515+00:00"
+    },
+    {
+      "url": "https://hdfilmcehennemi.nl/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.525952+00:00"
+    },
+    {
+      "url": "https://hdfilmcehennemi.nl/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:25.534394+00:00"
+    },
+    {
+      "url": "https://hdfilmcehennemi.nl/cdn-cgi/challenge-platform/h/g/scripts/jsd/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:33:25.800671+00:00"
+    },
+    {
+      "url": "https://hdfilmcehennemi.nl/cdn-cgi/challenge-platform/h/g/jsd/oneshot/5c2e6b612edd/0.7128253913581327:1793718628:uwvs8i0r1Vtnso40lKRRKxnRcrxaJ1R8G8m3EAtISzs/a54c6fee38834389",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:33:26.151231+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

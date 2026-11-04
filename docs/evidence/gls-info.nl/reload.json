@@ -1,0 +1,542 @@
+{
+  "frames": [
+    {
+      "url": "https://gls-info.nl/",
+      "title": "GLS-Info (NL)",
+      "text": "navigate_before\nNL\nmenu\nVind je pakket\nVind je GLS Point\nVind je\npakket\nZoek mijn pakket",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "navigate_before",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 15,
+            "y": 16,
+            "width": 90,
+            "height": 30
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "NL",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1221.8194580078125,
+            "y": 16,
+            "width": 57.02777862548828,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "menu",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1303.8333740234375,
+            "y": 11,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(68, 71, 78)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 24,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(68, 71, 78)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Zoek mijn pakket",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 72,
+            "y": 582.5555419921875,
+            "width": 280,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(6, 26, 177)",
+            "effectiveBackground": "rgb(6, 26, 177)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(6, 26, 177)",
+            "padding": "8px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Open het cookie-instellingen widget",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 10,
+            "y": 842,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://gls-info.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/gls-spotlight",
+      "title": "",
+      "text": "Geen pakket meer missen?\n\nKies hoe jij al je pakketten wilt ontvangen: shop, automaat of veilige plek.\n\nGa naar de site",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Ga naar de site",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 500,
+            "y": 540.201416015625,
+            "width": 191.29861450195312,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(25, 25, 25)",
+            "effectiveBackground": "rgb(25, 25, 25)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(25, 25, 25)",
+            "padding": "0px 32px"
+          },
+          "disabled": false,
+          "frame": 4
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://spotlight.glsnxt.com/gls-spotlight"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://gls-info.nl/",
+  "captured_at": "2026-11-03T15:27:40.919757+00:00",
+  "cookies": [
+    {
+      "name": "CookieConsent",
+      "domain": "gls-info.nl",
+      "path": "/",
+      "expires": 1825255645,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://gls-info.nl",
+      "localKeys": [
+        "cookiebotTcfConsentString",
+        "cookiebotGacmConsentString",
+        "Language",
+        "uuid"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "cookiebotTcfConsentString",
+        "cookiebotGacmConsentString",
+        "Language",
+        "uuid"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "cookiebotTcfConsentString",
+        "cookiebotGacmConsentString",
+        "Language",
+        "uuid"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://spotlight.glsnxt.com",
+      "localKeys": [],
+      "sessionKeys": [
+        "sveltekit:snapshot",
+        "sveltekit:scroll"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://gls-info.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.672842+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.com/uc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.739238+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/chunk-F5RIX7MP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.741381+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/polyfills-2UAMCWVQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.742080+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/main-PPCEOCCY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.743787+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/a33fce50-3d48-4480-b1bb-41d9827ece0e/settings.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.841506+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.com/Framework/IAB/consent-sdk-2.3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.841998+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/styles-EOXD27WK.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.843167+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/fonts/NewsonGLS-WEB-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.843901+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/chunk-F5RIX7MP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.865893+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:32.961356+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/script/gls-spotlight-widget-v2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.015743+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/i18n/nl.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.016097+00:00"
+    },
+    {
+      "url": "https://apm.gls.nl/api/v1/WebNotification",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:33.017251+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/chunk-QMMKBYHT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.018621+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/images/2021_gls-logo_blue-yellow.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.020466+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/images/parcel.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.020880+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/images/nl.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.021552+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/fonts/material-icons.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.022576+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/fonts/roboto-latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.022907+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/images/path.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.024093+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/images/gls-van.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.024755+00:00"
+    },
+    {
+      "url": "https://gls-info.nl/assets/fonts/NewsonGLS-WEB-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.095415+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/gls-spotlight",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.130706+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/a33fce50-3d48-4480-b1bb-41d9827ece0e/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.207185+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/assets/2.LDR-EKeI.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.218008+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/entry/start.OpW7oroA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.219568+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/chunks/DP2UPgi0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.231999+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/chunks/DIKJ6-dr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.232413+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/chunks/BJ1wrNSV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.233055+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/entry/app.DMQ8yHFJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.233838+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/chunks/xihTtKlq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.234746+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/nodes/0.D3QcujgH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.235670+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/nodes/2.BKn73oNI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.237045+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/images/trustpilot/trustpilot-van.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.237560+00:00"
+    },
+    {
+      "url": "https://media-cdn.gls-pakete.de/adserve/;ID=186103;size=1x1;type=p959fb862;setID=809448;plid=2703141;BID=522604837;place=0;rnd=2299886035;psrtype=json;metadata=%5B%5D;_abdk_json=%7B%22customer_hash_and_name%22%3A%22default%22%7D;request_uuid=826edf48-d605-4379-8f05-a1c3a41eaf82;currency=EUR;mt=1793719653090756;hc=dd9f78c4cfb25e8807d5ecad121a9e5b01a12b85;rnd=1693804",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.238439+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/assets/NewsonGLS-WEB-Semibold.CA6af38Z.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.248428+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/assets/NewsonGLS-WEB-Medium.cQ1vhJPI.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.248866+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/_app/immutable/nodes/1.BIa9fJNd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.372384+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/api/v1/events/user_interaction/Ad%20Viewed/0ubrMuUoOFDD%2BwNW%3AOr%2BTWvQduje2qY6h7o6u8Vq4FbDs6REiQhR7TFgbdHMt7U6Ibv%2BwmtBE5mOAQDL%2FbVWI8w3ka%2F5Z8nbMmxhmZfaay94NJDDx7XilbQ1qcK6ZYSyArDIh1Asfk6S%2FGBxXvAtY5BR2eGeK6uVM8J15rFhTJMuUNXZp4AwA9RLxacdvQ6ee6RKJ%2Fo50BpuYYCNfVCiGGsf0QWQs83rVQHC%2FmSHKUp5kDr7ealKSUOsOYOJfFsDYYj2mpWq9rx%2FaHyVZIF17xBaJmJCQUYqGuNftKLLVMA%2Bd0FJfTq4z37nGsNj9Ha7V6IbVrH1H4A02HWrQ5L5%2BFg64jRRdWNNSkxc6pSPUwHpJYAbkeF1K3Gv%2F5svkJgZa4048B4%2Bn5U45M7wQ2A1YO%2B0Q4zNWCYVBiS%2F703ABy5U4oAoQYaqSoZx4CtKpXFhF5oNexhTLAGIqQtbq1KCdaEOw2009icptcvL45al%2Btzovzpu25Ldc%2Fdj63FeSCntuVXar2SR%2FF7Ypd4alMH5pNs1nxYI3/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.375135+00:00"
+    },
+    {
+      "url": "https://spotlight.glsnxt.com/api/v1/events/user_interaction/Ad%20Viewed/0ubrMuUoOFDD%2BwNW%3AOr%2BTWvQduje2qY6h7o6u8Vq4FbDs6REiQhR7TFgbdHMt7U6Ibv%2BwmtBE5mOAQDL%2FbVWI8w3ka%2F5Z8nbMmxhmZfaay94NJDDx7XilbQ1qcK6ZYSyArDIh1Asfk6S%2FGBxXvAtY5BR2eGeK6uVM8J15rFhTJMuUNXZp4AwA9RLxacdvQ6ee6RKJ%2Fo50BpuYYCNfVCiGGsf0QWQs83rVQHC%2FmSHKUp5kDr7ealKSUOsOYOJfFsDYYj2mpWq9rx%2FaHyVZIF17xBaJmJCQUYqGuNftKLLVMA%2Bd0FJfTq4z37nGsNj9Ha7V6IbVrH1H4A02HWrQ5L5%2BFg64jRRdWNNSkxc6pSPUwHpJYAbkeF1K3Gv%2F5svkJgZa4048B4%2Bn5U45M7wQ2A1YO%2B0Q4zNWCYVBiS%2F703ABy5U4oAoQYaqSoZx4CtKpXFhF5oNexhTLAGIqQtbq1KCdaEOw2009icptcvL45al%2Btzovzpu25Ldc%2Fdj63FeSCntuVXar2SR%2FF7Ypd4alMH5pNs1nxYI3",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.426165+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.com/Scripts/widgetIcon.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:33.801301+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

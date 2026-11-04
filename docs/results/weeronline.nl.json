@@ -1,0 +1,49 @@
+{
+  "rank": 336,
+  "domain": "weeronline.nl",
+  "name": "weeronline.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:39:23.090892+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "fail",
+      "reason": "Accept is offered on the first layer; no direct refusal control was detected."
+    },
+    "prominence": {
+      "status": "fail",
+      "reason": "No refusal control detected alongside the first-layer accept control."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/weeronline.nl/before.json",
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Weer, 14 daagse weersverwachting, buien radar | Weeronline",
+  "rules_version": "0.2.0"
+}

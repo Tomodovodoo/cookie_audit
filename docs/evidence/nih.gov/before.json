@@ -1,0 +1,146 @@
+{
+  "frames": [
+    {
+      "url": "https://www.nih.gov/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.nih.gov/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/8g1rm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/8g1rm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.nih.gov/",
+  "captured_at": "2026-11-03T14:57:14.187144+00:00",
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "domain": ".nih.gov",
+      "path": "/",
+      "expires": 1793719627.751345,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.nih.gov",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://nih.gov/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:57:06.193458+00:00"
+    },
+    {
+      "url": "https://www.nih.gov/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:57:06.673670+00:00"
+    },
+    {
+      "url": "https://nih.gov/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:57:06.955557+00:00"
+    },
+    {
+      "url": "https://www.nih.gov/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:57:07.050161+00:00"
+    },
+    {
+      "url": "https://www.nih.gov/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:57:07.176822+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:57:07.578965+00:00"
+    },
+    {
+      "url": "https://www.nih.gov/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c3ac2cb1f4372/Wibb4WIBDTkY5zIK8QuRDfN4uvoLdG3F9mTv21PfNH8-1793717827-1.2.1.1-8vabB2602oz5qU8Ag1I5nc1cgfSi3sn3foqbnMThJjmwvpS2q4kqNQvlLMqYdM33",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:57:07.631615+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/8g1rm/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:57:07.855564+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c3ac7ae2d6564/CrPww58O3Jee9gC5ksNyFmhpG8FZgcrNdj50UbDawZZqdZE6LLokxU5FO-DbmLGfsbtSnirlV9srwb4fRoL4vGHgxP5vKfDmLl2DpvFISvJo74gX8PqbcSYevkm85Jtiyg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:57:08.153275+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c3ac7ae2d6564/CrPww58O3Jee9gC5ksNyFmhpG8FZgcrNdj50UbDawZZqdZE6LLokxU5FO-DbmLGfsbtSnirlV9srwb4fRoL4vGHgxP5vKfDmLl2DpvFISvJo74gX8PqbcSYevkm85Jtiyg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:57:08.901975+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c3ac7ae2d6564/1793717828467/a641e9eca37bfea87cb8fde2e516069ac9dcd94ffafd985e290f710107d6d5c3/Cq1XQUIxXdQZVnwyX2nLtTNRVqn7fH_bg6NQrFJZKefMMsor4rdaQnZsA5LVInYygXtNofG6p2BK1dWqKiJ4f9m_v_O8BVjnaAg20hM0zS6ZA1uD7K6tZdYsVa4eiX-RRyRZVd_z0LZmETlrmEc-AFwK8J3TodI-z8RuxogV1E2AZ5XB-xXw0bdwppu6gWsdmXVuHRwiGNwMyLHOlR7bI_vjg-JOyA8EJbfOXx9f3hmpULALny1kl1l7yW9p3yj4wXWdiikLr1WTAg1Wl4FiRxZjbjXatl11w1K24QZnSX6JnNWfMbycCwW2QzReY9Vkcqm1vIbYk5JVGZpVTxkG-kqmoeT2XU75FocxaohZp3mtRwWq4U72o_hl-56vUZdHCAWj-P_2RYDqhqfK7NvDu7tsShqp545or1NyviQttXiWut3S9H6koOY_qyb3okf3-w1qdjSUBftefYo4M3W9f1RBMWOu7yNwQQ5-KXWQNfwjasgIIMWtDsJ0-UuFvBrmtE_t-KEsOuChxoZnbifIGKQTo6cKdN10yYwYzMQSjd87uXDXqC6lqp3LLzYG-pu8ky5Zhdsag80DejidiHKrbTK_gQA1w_Y0qQYFLbWKtw2ulvAdcDuYnVClayMHzTfa9S3iqCXIIyiZnpuHRHOGTOEARAuh",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:57:08.915914+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c3ac7ae2d6564/1793717828471/ClkPUGx7yv3IkqRmy_XGhZuUc9HiFU9t7nsobXELnYsqbm2oMyFFXXUxhKwI0U4cZ5Tg9iXWnSNV1QB_QPWn6xFurJrp_D2AbryzqANbT2qMTwkDAc6oWvigUtoON0DwB9NRJXw83I_sDvDRBhwx-ddnoECxbHbdo9LnHA7X3DXEv5o-I5ln3EggNWxrmld9xLsnclHnduc19kUjOUiValW_UyOoGs_GPW0fGymgYee2XZwbYLUT6t7--03Y53C1Ln45JuvgSjN4izOOBT00kJ0aocsNkbSc-WvOth5dQ3ncncfYsNPTC7te7qojJvJqXww4ZyJMEvomvvF8BKOlTQbqQ7Gfcw-Ly9Llhdv_UNqZ-lFQ6K5ODvrUJoHxoUZbd7DWKWj9hWLXkBHkuIr1H2HcM1fwN7erapxBAWKzvvPNdvTQ0-KV2VAzxEKlFt1eRUuD875wKVtk35AgvUKG3xbuc_SP4-N_W_zprNFSlQJ1k7cwx2rH4El8MlDhQ0ST1DkYv_to1Qi9IeXIoUuMMEvtdshyyZ6qIUBGrxYFK06NTDoRaVKjjoRBusOFHOjyVhA_FE75fQhrPruwBZRsX1gP",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:57:09.465797+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c3ac7ae2d6564/CrPww58O3Jee9gC5ksNyFmhpG8FZgcrNdj50UbDawZZqdZE6LLokxU5FO-DbmLGfsbtSnirlV9srwb4fRoL4vGHgxP5vKfDmLl2DpvFISvJo74gX8PqbcSYevkm85Jtiyg",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:57:10.320263+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400,
+  "blocked": true
+}

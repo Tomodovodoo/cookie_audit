@@ -1,0 +1,3696 @@
+{
+  "frames": [
+    {
+      "url": "https://www.flightradar24.com/53.11,6.10/6",
+      "title": "Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24",
+      "text": "LOG IN\nKeyboard shortcuts\nMap Data ©2026 GeoBasis-DE/BKG (©2009), Google, Inst. Geogr. Nacional\n100 km \nTerms\nVIEW\nMap\nSettings\nWeather\nFilters\nWidgets\nPlayback\nMost tracked flights\n1.\nNATO02\nE3TF\n1,948\nGeilenkirchen\nGKE\n–\nN/A\n2.\nN/A\nK35R\n1,188\nAl Udeid\nXJD\n–\nN/A\n3.\nN/A\nK35R\n888\nTel Aviv\nTLV\n–\nN/A\n4.\nN/A\nK35R\n812\nTel Aviv\nTLV\n–\nN/A\n5.\nIRM1022\nW51022\nA343\n782\nKish Island\nKIH\n–\nTehran\nTHR\n6.\nN/A\nA400\n673\nN/A\n–\nN/A\n7.\nFAD608\nF3608\nA20N\n620\nCairo\nCAI\n–\nRiyadh\nRUH\n8.\nN/A\nK35R\n589\nTel Aviv\nTLV\n–\nN/A\n9.\nUAE158\nEK158\nB77W\n516\nStockholm\nARN\n–\nDubai\nDXB\n10.\nMMF18\nOAN18\nA332\n509\nCologne\nCGN\n–\nN/A\nAirport disruptions\nHalifax\nYHZ\n8°C\n40°\n8 kts\n0.4\n4.6\nFlorence\nFLR\n16°C\n70°\n10 kts\n0.0\n5.0\nMiami\nMIA\n27°C\n80°\n8 kts\n1.7\n3.0\nTromso\nTOS\n4°C\n190°\n16 kts\n0.4\n4.0\nMelbourne\nMEL\n9°C\n10°\n8 kts\n2.4\n1.8\nBrisbane\nBNE\n21°C\n200°\n8 kts\n1.6\n2.5\nFort Lauderdale\nFLL\n28°C\n110°\n16 kts\n1.7\n2.3\nMumbai\nBOM\n31°C\n330°\n6 kts\n0.8\n3.1\nMoscow\nVKO\n2°C\n290°\n8 kts\n1.8\n2.2\nLisbon\nLIS\n21°C\n60°\n8 kts\n0.4\n3.5\nDisruption map\nBookmarks\nAircraft\nFlights\nAirports\nLocations\n\nCreate a free Flightradar24 account to add one bookmark or upgrade to a Silver (10), Gold (25) or Business (60) subscription to add a higher number of items.\n\n7-day free trial | Learn more\nAdd bookmark\non\nUnlock 60+ premium features\nJoin over 1 million subscribers and enjoy longer flight history, 3D view, aviation weather and much more.\nTry free for 7 days | Learn more\nBuild your own ADS-B receiver\nImprove the coverage in your area. Easy-to-follow instructions.\nAds help keep Flightradar24 free\nUpgrade now to go ad free\nYour privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functionality and usability.\n\nBy accepting, you agree to the use of your data in the following ways:\nStore and/or access information on a device\nPersonalised advertising and content, advertising and content measurement, and audience research\nDevelop and improve services\nUse limited data to select content\nUse precise geolocation data\nIdentify devices based on information actively requested\nEnsure security, prevent and detect fraud, and fix errors\nDeliver and present advertising and content\nYou can object to this or withdraw your consent at any time by opening the main menu and selecting Your Privacy Choices.\nAgree and close\nLearn more",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "LOG IN",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 929.3333129882812,
+            "y": 14,
+            "width": 40,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Open this area in Google Maps (opens a new window)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 5,
+            "y": 874,
+            "width": 66,
+            "height": 26
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 227, 223)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Keyboard shortcuts",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 445.6736145019531,
+            "y": 886.763916015625,
+            "width": 86.7013931274414,
+            "height": 14
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 227, 223)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "100 km",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 881.6111450195312,
+            "y": 886,
+            "width": 111.63194274902344,
+            "height": 14
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 227, 223)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Terms",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 999.2430419921875,
+            "y": 887.6527709960938,
+            "width": 28.09027862548828,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 227, 223)",
+            "fontSize": 10,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "VIEW Map",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 887.2916870117188,
+            "y": 64,
+            "width": 130.0416717529297,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(209, 208, 208)",
+            "background": "rgba(57, 57, 57, 0.9)",
+            "effectiveBackground": "rgba(57, 57, 57, 0.9)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Settings",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 340.4166564941406,
+            "y": 832,
+            "width": 51.91666793823242,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(57, 57, 57)",
+            "fontSize": 14,
+            "fontWeight": "800",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Weather",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 416.3333435058594,
+            "y": 832,
+            "width": 55.72916793823242,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(57, 57, 57)",
+            "fontSize": 14,
+            "fontWeight": "800",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Filters",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 496.0625,
+            "y": 832,
+            "width": 39.54166793823242,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(57, 57, 57)",
+            "fontSize": 14,
+            "fontWeight": "800",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Widgets",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 559.6041870117188,
+            "y": 832,
+            "width": 52.15277862548828,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(57, 57, 57)",
+            "fontSize": 14,
+            "fontWeight": "800",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Playback",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 635.7569580078125,
+            "y": 832,
+            "width": 57.15972137451172,
+            "height": 44
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(57, 57, 57)",
+            "fontSize": 14,
+            "fontWeight": "800",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Halifax YHZ 8°C 40° 8 kts 0.4 4.6",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 318,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Florence FLR 16°C 70° 10 kts 0.0 5.0",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 382,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Miami MIA 27°C 80° 8 kts 1.7 3.0",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 446,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Tromso TOS 4°C 190° 16 kts 0.4 4.0",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 510,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Melbourne MEL 9°C 10° 8 kts 2.4 1.8",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 574,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Brisbane BNE 21°C 200° 8 kts 1.6 2.5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 638,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Fort Lauderdale FLL 28°C 110° 16 kts 1.7 2.3",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 702,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Mumbai BOM 31°C 330° 6 kts 0.8 3.1",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 766,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Moscow VKO 2°C 290° 8 kts 1.8 2.2",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 830,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Lisbon LIS 21°C 60° 8 kts 0.4 3.5",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 24,
+            "y": 894,
+            "width": 269.77777099609375,
+            "height": 56
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(65, 65, 65)",
+            "effectiveBackground": "rgb(65, 65, 65)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Disruption map",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 492,
+            "width": 296,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(48, 48, 48)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "12px 0px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "7-day free trial | Learn more",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 30.15972328186035,
+            "y": 766.3333129882812,
+            "width": 267.6805725097656,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 203, 120)",
+            "effectiveBackground": "rgb(108, 203, 120)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "8px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Add bookmark",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 828,
+            "width": 296,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(209, 208, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(48, 48, 48)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": true,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Try free for 7 days | Learn more",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1055.111083984375,
+            "y": 338.78472900390625,
+            "width": 288.4444580078125,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 203, 120)",
+            "effectiveBackground": "rgb(108, 203, 120)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "6px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Build your own ADS-B receiver Improve the coverage in your area. Easy-to-follow instructions.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1045.3333740234375,
+            "y": 392.5625,
+            "width": 308,
+            "height": 82
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 33, 33)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(244, 244, 244)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Upgrade now to go ad free",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1045.3333740234375,
+            "y": 852,
+            "width": 308,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(108, 203, 120)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(34, 33, 33)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 203, 120)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Store and/or access information on a device",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 443.7083435058594,
+            "width": 564,
+            "height": 37.97916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Personalised advertising and content, advertising and content measurement, and audience research",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 482.5763854980469,
+            "width": 564,
+            "height": 59.95833206176758
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Develop and improve services",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 543.4236450195312,
+            "width": 564,
+            "height": 37.97916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Use limited data to select content",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 582.2916870117188,
+            "width": 564,
+            "height": 37.97916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Use precise geolocation data",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 621.1597290039062,
+            "width": 564,
+            "height": 37.97916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Identify devices based on information actively requested",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 660.0277709960938,
+            "width": 564,
+            "height": 37.97916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Ensure security, prevent and detect fraud, and fix errors",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 698.8958129882812,
+            "width": 564,
+            "height": 37.97916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "Deliver and present advertising and content",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 737.763916015625,
+            "width": 564,
+            "height": 37.97916793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(60, 59, 59)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "Agree and close",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 689.6666870117188,
+            "y": 797.625,
+            "width": 281,
+            "height": 37.375
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(100, 190, 241)",
+            "effectiveBackground": "rgb(100, 190, 241)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Learn more",
+          "tag": "BUTTON",
+          "context": "Your privacy matters to us\n\nWe and our carefully selected 79 technology partners utilize personal data to enhance user experience and target content and advertising.\n\nWe store cookies and use other tracking technologies on your device, which process personal data such as your IP address and device identifiers, to monitor how you use our site. Please note that declining may affect the site's functi",
+          "box": {
+            "x": 394.6666564941406,
+            "y": 797.625,
+            "width": 281,
+            "height": 37.375
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(100, 190, 241)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(48, 48, 48)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(100, 190, 241)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.flightradar24.com/53.11,6.10/6"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1033,
+        "height": 900
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.flightradar24.com/53.11,6.10/6",
+  "captured_at": "2026-11-03T15:04:14.404875+00:00",
+  "cookies": [
+    {
+      "name": "cw-test-20261026_prebid-v11_25_75",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "domain": ".aditude.io",
+      "path": "/",
+      "expires": 1793720046.170838,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "1p-data-v3",
+      "domain": ".flightradar24.com",
+      "path": "/",
+      "expires": 1825254247.233509,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gravitoSync",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1793720046.247307,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20251028_kueezrtb-test_0_100",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20261022_gravito-bot-gate_5_95",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-00000000_stand-alone-floors-facade-hardFloor_0_92_0_8",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-00000000_stand-alone-floors-facade-multiplier_80_20_0_0",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20260813_flightradar-s2s-cohort_20_80",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20261028_sync-delay_10_90",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20261029_max-requests-per-origin_10_90",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20250116_prebid-timeout_25_75",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20260928_geo-block-ivt_10_90",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-202060813_gpp-config_80_20",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20260928_no-fill-delay-baseline_5_95",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-00000000_stand-alone-floors-comparison-multiplier_0_100",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1796310246,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".flightradar24.com",
+      "path": "/",
+      "expires": 1825254247.807271,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mp_942a098c72ecbdd6c0d9c00fe8308319_mixpanel",
+      "domain": ".flightradar24.com",
+      "path": "/",
+      "expires": 1825254248,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+      "domain": ".flightradar24.com",
+      "path": "/",
+      "expires": 1825254248,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1793725449.336587,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "domain": "www.flightradar24.com",
+      "path": "/",
+      "expires": 1793725449.336649,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.flightradar24.com",
+      "localKeys": [
+        "__mp_opt_in_out_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "grpc.device-id",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "gravito-microprofile-data",
+        "map.longitude",
+        "cwglt",
+        "map.zoom",
+        "ditu_identity_providers_sampled",
+        "ditu_session",
+        "rcik",
+        "widgetsStatus",
+        "ditu_user",
+        "map.fullscreen_view",
+        "map.latitude",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "raven-rps",
+        "mp_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "cw-srn",
+        "mp_gen_new_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_primary_window_exists",
+        "__probe-luma.gl__"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__mp_opt_in_out_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "grpc.device-id",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "gravito-microprofile-data",
+        "map.longitude",
+        "cwglt",
+        "map.zoom",
+        "ditu_identity_providers_sampled",
+        "ditu_session",
+        "rcik",
+        "widgetsStatus",
+        "ditu_user",
+        "map.fullscreen_view",
+        "map.latitude",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "raven-rps",
+        "mp_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "cw-srn",
+        "mp_gen_new_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_primary_window_exists",
+        "__probe-luma.gl__"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__mp_opt_in_out_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "grpc.device-id",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "gravito-microprofile-data",
+        "map.longitude",
+        "cwglt",
+        "map.zoom",
+        "ditu_identity_providers_sampled",
+        "ditu_session",
+        "rcik",
+        "widgetsStatus",
+        "ditu_user",
+        "map.fullscreen_view",
+        "map.latitude",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "raven-rps",
+        "mp_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "cw-srn",
+        "mp_gen_new_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_primary_window_exists",
+        "__probe-luma.gl__"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__mp_opt_in_out_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "grpc.device-id",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "gravito-microprofile-data",
+        "map.longitude",
+        "cwglt",
+        "map.zoom",
+        "ditu_identity_providers_sampled",
+        "ditu_session",
+        "rcik",
+        "widgetsStatus",
+        "ditu_user",
+        "map.fullscreen_view",
+        "map.latitude",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "raven-rps",
+        "mp_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "cw-srn",
+        "mp_gen_new_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_primary_window_exists",
+        "__probe-luma.gl__"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__mp_opt_in_out_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "grpc.device-id",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "gravito-microprofile-data",
+        "map.longitude",
+        "cwglt",
+        "map.zoom",
+        "ditu_identity_providers_sampled",
+        "ditu_session",
+        "rcik",
+        "widgetsStatus",
+        "ditu_user",
+        "map.fullscreen_view",
+        "map.latitude",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "raven-rps",
+        "mp_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "cw-srn",
+        "mp_gen_new_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_primary_window_exists",
+        "__probe-luma.gl__"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__mp_opt_in_out_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "grpc.device-id",
+        "cwgl",
+        "ditu_tude_meta_sampled",
+        "tude-raven-sampling-bucket",
+        "gravito-microprofile-data",
+        "map.longitude",
+        "cwglt",
+        "map.zoom",
+        "ditu_identity_providers_sampled",
+        "ditu_session",
+        "rcik",
+        "widgetsStatus",
+        "ditu_user",
+        "map.fullscreen_view",
+        "map.latitude",
+        "rciv"
+      ],
+      "sessionKeys": [
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_posthog",
+        "raven-rps",
+        "mp_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "cw-srn",
+        "mp_gen_new_tab_id_mixpanel_942a098c72ecbdd6c0d9c00fe8308319",
+        "ph_phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm_primary_window_exists",
+        "__probe-luma.gl__"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://flightradar24.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.784821+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.825451+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/app-B1SqN3hh.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.980057+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/__modulepreload__-D3Ulec3l.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.980618+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/app-BbwuDQG0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.981518+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/__modulepreload__-D_nkiNlB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.982403+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/init-Ckauvw1n.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.983306+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/dom-DKbGrdQA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.983949+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Open_Sans/OpenSans-Variable-latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.984570+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/open-sans.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.985348+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/roboto.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.986084+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/roboto-condensed.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.986717+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/shield-checkmark_regular-2Bues21f.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.987345+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/svg/apps/apple-app-store.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:05.987954+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/svg/apps/google-play-store.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.030714+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/svg/newsletter.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.032011+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/svg/blog.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.038696+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/flightradar-dUamLAHdCp/flightradar-default/prebid-load.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.039114+00:00"
+    },
+    {
+      "url": "https://fr24.detect.gravito.fi/sdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.039783+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/svg/podcast.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.040410+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/svg/watch-videos-icon.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.041245+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/logo-BMU4H_m7.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.042784+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/customhtmlscripts/fr24gppcmpwrapper.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.043660+00:00"
+    },
+    {
+      "url": "https://raven-edge.aditude.io/raven/flightradar-main-Pfot5/library.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.095704+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/flightradar-dUamLAHdCp/flightradar-default/prebid-wrapper.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.096134+00:00"
+    },
+    {
+      "url": "https://edge.aditude.io/prebid/9.19.0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.096873+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.098019+00:00"
+    },
+    {
+      "url": "https://geo.aditude.io/default",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.099174+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/sdk/v6/latest/sdk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.104890+00:00"
+    },
+    {
+      "url": "https://fr24.detect.gravito.fi/api/v1/config",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.115615+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/sdk/v6/latest/cmp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.120061+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/sdk/v6/latest/firstparty.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.120491+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.129459+00:00"
+    },
+    {
+      "url": "https://gto.flightradar24.com/api/v3/firstparty",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.136232+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/bundle2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.162171+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/index5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.162576+00:00"
+    },
+    {
+      "url": "https://raven-static.aditude.io/prod/1.25.2-sydwjj/raven.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.174526+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.199447+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/MapPage-D-EwLRNP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.570426+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/__modulepreload__-D3Ulec3l.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.576006+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AppLayout.vue_vue_type_script_setup_true_lang-DP3_Bvxf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.576891+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/primisManager-D71DzgDR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.580060+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-UhYGEdpX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.580865+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/TheHeader-CYK5zamk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.581599+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/events-DI2HBZsm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.582739+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AircraftShare.vue_vue_type_script_setup_true_lang-DCp3O17A.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.583518+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useClock-D9MS-CFJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.584117+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useVisibilityState-Bu6ny6dt.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.584743+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/logo-BvsaHm2c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.585505+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/_stringToArray-Brsi-NN2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.586172+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/Units-BrXPaTEq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.586902+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/airportHelper-CGTsdnHJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.587554+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/object-K_4vI-P2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.588170+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/aircraftUseAircraftBadge-De8I6ntg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.588821+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/staticPages-D0PnwDwH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.589411+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/countries-D9hvc9bA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.590069+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-sVdX7TD1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.590937+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/js.cookie-BMicvfvN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.591518+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/TheHeader-Dn7iwtpm.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.592087+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/postLoginDispatcherRefresh-Kd3BrK_R.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.592641+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/colors-CH96JjFL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.593300+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/gptManager-CaIG5dh4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.593970+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/types-DRQ9Vtr9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.594626+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/webGLSupport-CNuJL3D6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.595306+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/Analytics-DmslAK4r.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.595870+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/mixPanel-CAB6JBuM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.596425+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/postHog-D3Zi2CmC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.597012+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/googleAnalytics-Dx22yrYw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.597838+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-AprynhDb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.598519+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-CahJujzL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.599176+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-D5Cnm7vE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.599833+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-226I7qp6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.600474+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-CTQHdIVY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.601132+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/modulepreload-polyfill-ByGc0929.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.601774+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.602403+00:00"
+    },
+    {
+      "url": "https://geo.aditude.io/raven",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.661670+00:00"
+    },
+    {
+      "url": "https://dn0qt3r0xannq.cloudfront.net/components/activity-refresh-component.734e44f9d03de0da.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.780313+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/index.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.811990+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/index5.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.841991+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/consent2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.842503+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/index7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.843518+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.844457+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.858602+00:00"
+    },
+    {
+      "url": "https://fr24.detect.gravito.fi/api/v1/events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:06.936231+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/Announcements-IrgxjP1t.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.989387+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/announcementsList-BBMq0kDs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.990648+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/NotificationsList-DF09mFJP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.991261+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/NotificationsList.vue_vue_type_script_setup_true_lang-BYoBv3qZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.992209+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/Login-DQIf9Sey.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.993991+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/Login.vue_vue_type_script_setup_true_lang-CMsSu0dR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.995148+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AuthDivider.vue_vue_type_script_setup_true_lang-CFt5Iolm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.997384+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AuthLoginEmailForm.vue_vue_type_script_setup_true_lang-Boim-7_S.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.998535+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/isEmail-DmUYtE1R.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.998940+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/PasswordInput.vue_vue_type_script_setup_true_lang-scvy-yNE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:06.999646+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-DCXRCtTr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.000335+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useAuthPanel-CFiOdSF7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.001114+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AuthModalHost-B4RtpXTK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.001988+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AuthModalHost.vue_vue_type_script_setup_true_lang-CmlPhvsO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.002874+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/mobile/gettime",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.009458+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/MapView-C-vDvag2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.010292+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useViewsPanelSize-DhozWADm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.011564+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useViewsPanelSize-BHHMjGKL.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.012050+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useUserFeature-DK8ckRmx.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.012857+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-70RqGGXi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.013581+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/mapWrapper-n8OxaP1F.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.014252+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useMapWrapperListeners-D0H8VfA0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.014926+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-r6Eeagyy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.015591+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_settings-DuGXhdYZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.016697+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_settings-selected-fM0hQ9U0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.017439+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_weather-DFP0PJfa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.018433+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_weather-selected-CchfCQB7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.019418+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_filters-J0vS5j0f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.020539+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_filters-selected-DOd_9WFQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.021023+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_widgets-DC3jIgAF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.035364+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_widgets-selected-O5k_zZfm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.036311+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_playback-DGbj_jV-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.037031+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/menu_playback-selected-BHpNM6Jy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.037778+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-BhkhH9BI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.038791+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/fleets-Dkk958TL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.039187+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/suncalc-DuV48o_H.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.040191+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/mapConst-BZs6Kuss.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.040508+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/MapTooltip.vue_vue_type_script_setup_true_lang-CQME-cae.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.041071+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/piniaHelpers-BgFSIP9N.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.041642+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-CSlCyYXZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.042253+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/MapView-D1oNWLd5.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.042929+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/ThePromoModalWrapper-B8Vxcs5v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.735793+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/ThePromoModalWrapper.vue_vue_type_script_setup_true_lang-jlmqV4B6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.737493+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/PromoActionButtons.vue_vue_type_script_setup_true_lang-BPAWbs6K.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.738183+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/tudeManager-Cz3EIhyQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.738780+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useAdBlockerDetector-Gp6Q0HPf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.739367+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/UpgradePromo-B6beFByP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.739917+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/UpgradePromo.vue_vue_type_script_setup_true_lang-BnlrhQdG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.740478+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-Bn9DAIfC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.741026+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-B8mGbdI4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.741562+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-CjSJrYlW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.742119+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/TheSidebar-BHpvaVTj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.742890+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_caret-down-D3SEpkaz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.743475+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_lock-ibgAdEKg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.744043+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/subscription_upgrade_filled-Bu7S8m1j.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.744598+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_fb-DbXVfwaV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.745182+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_instagram-CWxTeKWe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.745780+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_x-Bc2gWGD8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.746424+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_linkedin-B5fTazpB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.746976+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_youtube-pm-gRaOg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.747514+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_bluesky-BDa4jVXe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.748167+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_tiktok-xutaqyz2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.748825+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/subscription_user_paid-Dd_5QYXG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.749650+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_close-CDjmLGZh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.750220+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/search_search-Dtf7Gha9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.750875+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/search-shortcut-DkFibT0J.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.751532+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_menu-DUgmCpTk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.752100+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/5c2e6b612edd/0.20060518612290823:1793715035:5JHET6w2jmmEqwhOiCIPZEiy1N_6bzL06xkg-VfUMYA/a54c44fc1d8adfa7",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:04:07.761995+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/acmconsents.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.766901+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/images/social/dark-bg-google.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.769984+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/images/social/dark-bg-facebook.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.770821+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/images/social/dark-bg-apple.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.771573+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_hide-BuvYmwzb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.772186+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/ForgotPassword-CTeCVgn3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.774074+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.network/tcf-v3/vendor-list.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.825117+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.network/tcf-v3/google-vendor-list.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.831870+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.840845+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/svg/logo-without-radar-and-slogan.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.841263+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/social_youtube_logo-DMiXPbtd.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.842007+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/subscription_upgrade-G8Nj_v9l.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.842667+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_light-bulb-DNjd_iku.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.843343+00:00"
+    },
+    {
+      "url": "https://live.primis.tech/live/liveView.php",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.844121+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto_Condensed/RobotoCondensed-Regular-latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.845236+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/add-coverage-BQEmOaQs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.847019+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AircraftLiveFlightNotFound-CYYU2LJB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.860447+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AirportHistoryErrors-6tvcakP7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.865892+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/usePermissionsPlansList-D9ffcbKP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.866607+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/googleMapsProvider-BZ1BL1cY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.867035+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/createMapWrapper-CqS4Yz4G.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.867773+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/webgl-BVNppcaJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.868679+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/assert-COrjjquG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.869731+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/google-maps-loaded-check-BjdeJOnM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.870763+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/deck-BugJpz9J.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.871902+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/image-loader-Uab2pHr3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.873402+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.983643+00:00"
+    },
+    {
+      "url": "https://raven-edge.aditude.io/api/v1/ravenconfig",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.985206+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/cmp/v6/gpp-test/declaration2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.989023+00:00"
+    },
+    {
+      "url": "https://gto.flightradar24.com/api/op/listen",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:07.999067+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/static/images/logo_fr24_flat_no_text.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.000069+00:00"
+    },
+    {
+      "url": "https://cdn.gravito.net/logos/Gravito_LOGO_light_grey.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.000514+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/static/images/consent-notice-bg.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.007301+00:00"
+    },
+    {
+      "url": "https://eu-assets.i.posthog.com/array/phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm/config.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.028190+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/api/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.047653+00:00"
+    },
+    {
+      "url": "https://raven-edge.aditude.io/api/v1/revenuesourcemaps/20GXy8TLXdX3",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.106219+00:00"
+    },
+    {
+      "url": "https://match.aditude.cloud/loader.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.107694+00:00"
+    },
+    {
+      "url": "https://raven-static.aditude.io/prod/1.25.2-sydwjj/prebid-analytics.4badbd4900255778d42c.module.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.115270+00:00"
+    },
+    {
+      "url": "https://eu-assets.i.posthog.com/static/surveys.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.221621+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:08.223852+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/places.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.638960+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/geometry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.639386+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/places_impl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.640210+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/util.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.640960+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/common.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.641661+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/controls.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.642293+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.644482+00:00"
+    },
+    {
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.852480+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/GoogleMapsLayers-Cuefoo_a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.884965+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/GoogleMapsLayers.vue_vue_type_script_setup_true_lang-CkJ8tjbk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.925810+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/google-maps-tooltip-Bwm8C1_O.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.927976+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/static/favicons/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:04:08.938132+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/map.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.140585+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/overlay.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.144865+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto/Roboto-Regular-latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.194553+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/log.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.210227+00:00"
+    },
+    {
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/mapConfigs:batchGet",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.213126+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/api/v1/geoip",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.250247+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/FeatureFlag-C9Z4wU4U.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.251296+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/MostTrackedFlights-CD1kh8Xy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.251737+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AircraftCallsign.vue_vue_type_script_setup_true_lang-CBhFeAhm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.252482+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AircraftTextBadges.vue_vue_type_script_setup_true_lang-CvWjoH9w.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.253260+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/WidgetsTextBadges.vue_vue_type_script_setup_true_lang-T6KjCANc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.254070+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/WidgetsScrollGradientBottom-B1VJPUQi.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.254746+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/WidgetsScrollGradientBottom-C2lJlx8P.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.256263+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-XYwVuHN2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.257054+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useMostTracked-BkUNhSB_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.257653+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AirportDisruptions-DCh84LBa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.258241+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/airportUseWeather-B4noTH7E.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.258806+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/airportsUseAirport-Cl7_2pud.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.259378+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/Bookmarks-BoIMBAWO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.259962+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/vuedraggable.umd-CbrldP7d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.260854+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/vue.runtime.esm-bundler-RQxsVIAO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.261836+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/FeedAnimatedAircraftServer-Db-dg64w.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.262749+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/FeedAnimatedAircraftServer.vue_vue_type_script_setup_true_lang-CcPS8rrL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.263682+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useFeedAnimationInterval-DV4MHrFf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.264897+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/map_zoom-in-DPz2AWsF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.266601+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/map_zoom-out-CJocOdIa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.267504+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/map_screen-controls-BiJpX_O4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.268206+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/map_user-location-CZSLqv6j.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.269070+00:00"
+    },
+    {
+      "url": "https://data-feed.flightradar24.com/fr24.feed.api.v1.Feed/LiveFeed",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:04:09.269768+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/webgl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.302491+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AirportsLayer-B5GbwiBo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.303681+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useMapZoomListener-LEfdgBz-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.304160+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/webglLabelsHelpers-DVSO5qSk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.304887+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/const-CpmxZukn.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.305483+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/text-layer-D0aBV-ZS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.306049+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/icon-layer-R-veVY_v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.306654+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/layer-BA_cWxmv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.307291+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/geometry-CoT-DaDC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.307906+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/composite-layer-3whlJfDg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.308497+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/fr24-icon-layer-B4k8vU7h.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.309138+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/layer-extension-pid-ddar.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.311025+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useWebGLRestored-BVpvXteG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.311887+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/countriesSpriteMapping-CwEZOdea.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.312813+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/airportsSpriteMapping-BRSNNID_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.313956+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/airportVideoHelpers-BRTflS3-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.315111+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/AircraftLayer-CSQHseNI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.316045+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/aircraftLayerHelpers-BMumoq6n.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.316946+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/path-layer-CmayvC6D.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.319227+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/tesselator-Ubvrn5Tr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.320653+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/scatterplot-layer-DYqqVPFg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.321819+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/path-style-extension-Cxyszkvy.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.322785+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/aircraftLayerDataHelpers-ip49kfHu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.323247+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/webgl-BG00MviD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.324143+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useAircraftDataSource-BxHsnEdc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.325426+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/BrightnessLayer-BG4V8WKk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.325908+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/DayNightLineLayer-DcBARWeq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.326790+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/DayNightLineLayer.vue_vue_type_script_setup_true_lang-llWNuOQA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.327710+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/polygon-layer-ChTFw-eV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.328646+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/utils-4ZKTt4Mk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.329524+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/mapHelpers-D74S_aEN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.330315+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/NavDataLayer-5nLdi9qU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.331109+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/OceanicTracksLayer-DQFB25ZX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.332484+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-Bt4RDCo4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.333306+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/geojson-layer-Ethi1KRT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.334037+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/WeatherLayer-t_2wYqJ_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.334684+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useWeatherAuthorization-DUaT887x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.335378+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/index-DrUgl3HV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.336393+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/useMapTooltips-BvLJti_J.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.336712+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/globe-viewport-B63fZ7RL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.337292+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/static/favicons/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.339248+00:00"
+    },
+    {
+      "url": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:04:09.345217+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/api/v1/airports/disruptions",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.346738+00:00"
+    },
+    {
+      "url": "https://firebaseinstallations.googleapis.com/v1/projects/fr24.com:api-project-429644685937/installations",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:09.348857+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_help-DR4o35ro.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.352019+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/global_add-BG6qPnWM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.371115+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/bookmarks_limits_non_logged-DA1006dg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.375019+00:00"
+    },
+    {
+      "url": "https://data-feed.flightradar24.com/fr24.feed.api.v1.Feed/TopFlights",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:04:09.396667+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/onion.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.548295+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/followers-BPKshyZq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.920344+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/maps/res/CompactLegendSdk-Terrain-EnhancedNavStyleHoldbackForGeoD-FetchableStyleSetSdk-b7c5817f3a154e40c111c4696d749e1d",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.922351+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i19!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.922868+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i19!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.923820+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i19!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.924646+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto/Roboto-Medium-latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.930626+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto/Roboto-Bold-latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.931199+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i19!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.934505+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i19!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.935419+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i20!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.935722+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i20!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.936956+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i20!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.946904+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i20!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.947405+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i20!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.948163+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i21!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.948829+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i21!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.949463+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i21!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.950079+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i21!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.950700+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i21!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.951947+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i22!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.952336+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i22!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.953250+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i22!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.953648+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i22!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.954251+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i22!2m2!1e5!2sshading!2m2!1e6!2scontours!2m3!1e0!2sm!3i802567967!3m7!5e18!12m1!1e67!12m1!1e63!12m1!1e3!4e0!5m2!5f1.0000000074505806!6b1!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.954859+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/vectortown-worker.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:04:09.959313+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/images/map/aircrafts-sprite.png",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.555630+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/assets/images/map/airports-sprite.png",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.556017+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/shared-label-worker.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.561487+00:00"
+    },
+    {
+      "url": "https://match.aditude.cloud/sync.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.562574+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i19!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.563783+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i19!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.564560+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i19!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.565308+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i19!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.565922+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i19!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.566494+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i20!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.567068+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i20!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.567631+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i20!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.568176+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i20!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.568729+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i20!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.569411+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i21!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.570105+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i21!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.570733+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i21!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.571435+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i21!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.572613+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i21!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.573281+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i31!3i22!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.573910+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i32!3i22!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.574538+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i33!3i22!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.575165+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i34!3i22!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.575973+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/pb=!1m4!1m3!1i6!2i35!3i22!2m3!1e0!2sm!3i802567967!3m13!2sen!5e18!12m5!1e68!2m2!1sset!2sTerrain!4e2!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmY!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!26m1!4b1!39b1!44e1!50e0!23i47083502!23i56565656!23i47054750!23i46991212!26m2!1e2!1e3!28i802",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.576628+00:00"
+    },
+    {
+      "url": "https://data-feed.flightradar24.com/fr24.feed.api.v1.Feed/LiveFeed",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:04:10.577460+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/static/favicons/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.581127+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/labeler_wrapper.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.586845+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps-api-v3/api/js/65/14a/labeler_wrapper.wasm",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.603287+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/mobile/airports/format/4",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.884832+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/mobile/airlines",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:10.917109+00:00"
+    },
+    {
+      "url": "https://firebaseremoteconfig.googleapis.com/v1/projects/fr24.com:api-project-429644685937/namespaces/firebase:fetch",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:10.945944+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-2-medium.png&scale=4",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.316333+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-3-large.png&scale=4",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.321393+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-0-tiny.png&scale=4",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.321789+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-capital-3-large.png&scale=4",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.322408+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.509872+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.510591+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.511973+00:00"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.512727+00:00"
+    },
+    {
+      "url": "https://fr24.detect.gravito.fi/api/v1/activity",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:11.543620+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto/Roboto-Medium-latin_ext.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.547139+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto/Roboto-Regular-latin_ext.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.548798+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto/Roboto-Italic-latin.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.550376+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/fonts/Roboto/Roboto-Regular-cyrillic.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.551461+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/weather_overcast-BbcFh3f5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.742348+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/weather_wind-direction-BzXnzH8V.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.749068+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/airport_arrivals-xNia1EGC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.749471+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/airport_departures-CDzZpSd7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.750368+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/weather_clear-day-Byjl9jkA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.751167+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/weather_rain-BRMM5RPB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.751993+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/weather_cloudy-night-DrP9rPUo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.752783+00:00"
+    },
+    {
+      "url": "https://www.flightradar24.com/build/assets/weather_clear-night-Cn2i-x7S.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.753548+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-2-medium.png&scale=4",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.853716+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-3-large.png&scale=4",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.858984+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-capital-3-large.png&scale=4",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.859410+00:00"
+    },
+    {
+      "url": "https://maps.google.com/maps/vt/icon/name=assets/icons/political/city-0-tiny.png&scale=4",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.860457+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.865919+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.867566+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.867935+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.869246+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:04:11.871815+00:00"
+    },
+    {
+      "url": "https://event-ingestor.judy.pnap.aditude.cloud/v1/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:12.177594+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:13.308926+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610290101/pubads_impl.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202610290101/gpt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://live.primis.tech/live/liveView.php",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eu-assets.i.posthog.com/array/phc_y8KrQyEXxBvASRipVovLbipu5YJH6obcLeD5G2jHrRkm/config.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eu-assets.i.posthog.com/static/surveys.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

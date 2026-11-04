@@ -1,0 +1,1152 @@
+{
+  "frames": [
+    {
+      "url": "https://www.keukenhof.nl/",
+      "title": "Keukenhof | waar lente begint | Keukenhof",
+      "text": "Bezoek\nBezoek\nOntdek\nOntdek\nOver\nOver\nNL\nNL\nnl\nen\nde\nfr\nTickets\nTickets\nStap het park binnen, waar lente begint\n\nKeukenhof opent op 18 maart 2027",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Link to the homepage",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 64,
+            "y": 24,
+            "width": 188,
+            "height": 60
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Bezoek Bezoek",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 270,
+            "y": 34,
+            "width": 95.86805725097656,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Ontdek Ontdek",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 369.8680725097656,
+            "y": 34,
+            "width": 94.67361450195312,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Over Over",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 468.5416564941406,
+            "y": 34,
+            "width": 76.27083587646484,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Tickets Tickets",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1155.6041259765625,
+            "y": 34,
+            "width": 120.61805725097656,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.keukenhof.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.keukenhof.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:35:05.098902+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://www.keukenhof.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://keukenhof.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.642387+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.714841+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/entry.CrWCIp-I.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.773052+00:00"
+    },
+    {
+      "url": "https://sst.keukenhof.nl/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.777253+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/AnchorNav.BDlBQXO7.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.777754+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/NewsletterForm.Dfnd0IvM.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.778547+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BaYgA8Yq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.779265+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/fcpuKiNH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.780048+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/B4b-2GOK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.780785+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/C_cSr8y_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.782243+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CWd4iU2R.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.783265+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CpVwzX98.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.783989+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/ByV8wBi2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.784586+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BGmARPz2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.785191+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BujKp7DX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.785793+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CmIgA9rj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.786351+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/kAnWqaTN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.786910+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/K9saXvZo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.787458+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CX-WdQr-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.788019+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/C7TjhbgW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.788552+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BlUAMpiR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.789159+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/B_0kXPPC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.790119+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/i9Q8_ef0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.790742+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/UAxs8PjX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.791300+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BeIhr2PZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.791862+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/wna8WEyY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.792455+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DRsIITSg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.793016+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DNk3HC4v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.793539+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/mGGPJUn7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.794071+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/XF48oLq0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.794596+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/g9rsM2Nq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.795221+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BjdzLKjA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.795781+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BW_03ASU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.796482+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/D8e8rIMC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.797045+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DjslBK4m.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.797634+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/FKWDHpNY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.798149+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/NHwSj9-k.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.798825+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/H9TQkqC3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.799470+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CNd67PAm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.800032+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/TplNtug3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.800604+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DVPJY6T2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.801135+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DZiFPjXQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.801812+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DZTmBE9n2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.802796+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CD0GVOaW2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.804118+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BHkyl6UA2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.805099+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/03XDk7oo2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.805927+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BDNMzG2s2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.806778+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CW4Y3QT32.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.807622+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CjSCIPI72.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.808399+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Cvm6bBYe2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.809196+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DXdY8anU2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.809954+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/4QHHUrry2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.810512+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DIwRQ0WK2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.811073+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/ClMVrtSZ2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.811645+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/B27MCF4x2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.812176+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/ZTWiSf0G2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.812858+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CbJjNAYf2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.813394+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DcZFjOn52.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.813902+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BDfuj7h62.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.814421+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BydaHYjk2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.814933+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Bde2-8GZ2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.815474+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Cm9_TKIx2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.815981+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Cfz6Bcmw2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.816505+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BI7z9S-P2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.817015+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BD4CEGeh2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.817529+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CGbalhAc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.818031+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CzuRU1Fo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.818831+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BqwRjFe52.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.819832+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/C2pK6cx7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.820651+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/qs-pgtgR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.821250+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DRV1607a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.821793+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BHxdNmZH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.822330+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CcNqB7SB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.822864+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/40fzplih.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.823401+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BcQHCpse2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.823982+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/kH6h7xLi2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.824631+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BagGf5eM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.825260+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/B6iS8s_x.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.826080+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/O0jeeZHu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.826651+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BiEIQ5m0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.827311+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/t80zRLZY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.828011+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BSGyduRO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.828680+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DVN-ygJT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.829227+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/MPduQH2K.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.829742+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BS03TYLU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.830286+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Dn3JgIyS2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.830802+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/s4eGoDr2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.831325+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DjwtnMxk.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.831875+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DHAHjUP3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.832551+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/s531WSyF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.833145+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DAElB2df.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.833725+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BHP-3J5B.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.834265+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BllsCPs0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.834894+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/I8Vrr6FY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.836565+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/B7ldTf6Y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.837644+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CG4urylz2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.838494+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DDB_uNEr2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.839141+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/C_z3be0G2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.839692+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DcvXenDc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.840263+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CepvAFU0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.840853+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BbHPsJIC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.841697+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Bx0OFmI3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.842236+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/B0wyw3BA2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.842750+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/C_k_mp792.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.843283+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/iynk18xV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.843790+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CTd4OCYu.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.844304+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CwcbZyxR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.844813+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BxZDtBGL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.845337+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DSvbsHmj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.845908+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BNMEQb7w2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.846563+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DicQ8UgY.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.847904+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CFc-i6Zs.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.848433+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BdBe458b.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.849049+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/swiper.BwpG7flr.css",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.849609+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/navigation.BCGLABvG.css",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.850478+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/C0kJYRKQ.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.850803+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/MQqdx3vX.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.851408+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CGTrrEH-.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.852084+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/PwDWMq5T.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.852675+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CMIwtv6n.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.853210+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/f6LL6iCv2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.853729+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BhEqWbzE2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.854250+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DhwEqe2k2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.854761+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/HEfRwVHS2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.863415+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/LcjtZu_z.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.864046+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DvJGqmLZ2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.864654+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CQJST1b92.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.865223+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DateField.u29656vu.css",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.865835+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BpuqQhYV2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.866448+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BYdtx6WF2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.867062+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/DObLw68G2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.867660+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CJ6jnndP2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.868308+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/YSEDGtU12.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.869057+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/_OhSwgHL.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.870072+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/6f9MAens.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.871052+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CIFjL60Z.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.871888+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Q9QAoDVs.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.872589+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CHplYHJQ.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.873213+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Cd7EAmmi2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.873801+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BSTyj5mO.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.874342+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Bct4j7Dy2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.874855+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BEG49iUe.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.875406+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Cd09gAx4.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.876011+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/D-1ra8Fp.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.876707+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BXPEfYkh2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.877544+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/CMWfkRd_.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.878170+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BxtDndMg2.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.878739+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/wuiMIVPs.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.879286+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/Cy97q5i8.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.880026+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:34:57.882214+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/inter-v20-latin-regular.C38fXH4l.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.043208+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/BrasilWeb-Regular.BzfbQ56W.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.043608+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/inter-v20-latin-500.Cerq10X2.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.044326+00:00"
+    },
+    {
+      "url": "https://apikeukenhof.b-cdn.net/assets/planten-2026.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.046036+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_i18n/e3b0c442/nl/messages.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.126672+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/favicon/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.131000+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/api/_nuxt_icon/mdi.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.192489+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/api/_nuxt_icon/ri.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.192925+00:00"
+    },
+    {
+      "url": "https://vz-4c6ec7e3-d64.b-cdn.net/9844907f-8765-4c88-aaa6-a871e8783a6d/playlist.m3u8",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.237274+00:00"
+    },
+    {
+      "url": "https://vz-4c6ec7e3-d64.b-cdn.net/d52f31ac-fa72-4f48-876c-917418a866fa/playlist.m3u8",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.237727+00:00"
+    },
+    {
+      "url": "https://vz-4c6ec7e3-d64.b-cdn.net/eb6ba81e-db7e-43c4-a712-b984ad97ea31/playlist.m3u8",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.238582+00:00"
+    },
+    {
+      "url": "https://apikeukenhof.b-cdn.net/assets/kh-gradient.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.240050+00:00"
+    },
+    {
+      "url": "https://apikeukenhof.b-cdn.net/assets/keukenhof26.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:34:58.240962+00:00"
+    },
+    {
+      "url": "https://www.keukenhof.nl/_nuxt/builds/meta/d21502dd-78c0-4a5d-b793-e0a4f0ca1d05.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:34:59.270539+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

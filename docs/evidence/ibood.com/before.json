@@ -1,0 +1,248 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ibood.com/shops/nl/select-shop",
+      "title": "Internet's Best Online Offer Daily - iBOOD.com",
+      "text": "Before shopping our great deals, select your country:\nNetherlands\nBelgium\nGermany\nAustria\nPoland\nFrance",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.ibood.com/shops/nl/select-shop"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ibood.com/shops/nl/select-shop",
+  "captured_at": "2026-11-03T15:17:03.425924+00:00",
+  "cookies": [
+    {
+      "name": "ak_bmsc",
+      "domain": ".ibood.com",
+      "path": "/",
+      "expires": 1793726215.839668,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ibood.com",
+      "localKeys": [
+        "tenant"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://ibood.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.611192+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.659918+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/css/9b3de86a67bc80fa.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.910122+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/chunks/webpack-d805f3882f5e8848.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.915827+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/chunks/framework-b9fd9bcc3ecde907.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.916320+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/chunks/main-26a7627da93c695c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.917095+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/chunks/pages/_app-2991f576d84553ee.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.918510+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/chunks/pages/index-59f3d54facc0eea5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.924767+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/AGWRbRkvIvCVdtPd51pcx/_buildManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.925846+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/_next/static/AGWRbRkvIvCVdtPd51pcx/_ssgManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:55.926723+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/static/webfonts/StabilGrotesk-Variable.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.191318+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/nl/select-shop",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.200302+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/static/icons/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.218534+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/css/92d610436295774e.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.316820+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/css/bac50557b1d46d10.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.323492+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/chunks/webpack-b9afdc9d4979b705.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.324033+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/chunks/framework-1ce91eb6f9ecda85.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.324845+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/chunks/main-5de65d6871ad3fd0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.325495+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/chunks/pages/_app-edcfea6d966650de.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.326138+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/chunks/pages/select-shop-fdfdc0a65f87cc2b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.327357+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/T3SKaR82NYVl3S-Wb1vK4/_buildManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.327944+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/shops/_next/static/T3SKaR82NYVl3S-Wb1vK4/_ssgManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.328577+00:00"
+    },
+    {
+      "url": "https://api.ibood.io/content/translations/shops/nl",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.733575+00:00"
+    },
+    {
+      "url": "https://api.ibood.io/content/translations/ibex/nl",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.746175+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/static/webfonts/StabilGrotesk-Variable.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.754014+00:00"
+    },
+    {
+      "url": "https://api.ibood.io/shop/shops",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.779021+00:00"
+    },
+    {
+      "url": "https://www.ibood.com/static/icons/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.854972+00:00"
+    },
+    {
+      "url": "https://flagcdn.com/16x12/nl.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.940308+00:00"
+    },
+    {
+      "url": "https://flagcdn.com/16x12/be.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.952417+00:00"
+    },
+    {
+      "url": "https://flagcdn.com/16x12/de.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.952959+00:00"
+    },
+    {
+      "url": "https://flagcdn.com/16x12/at.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.953878+00:00"
+    },
+    {
+      "url": "https://flagcdn.com/16x12/pl.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.954829+00:00"
+    },
+    {
+      "url": "https://flagcdn.com/16x12/fr.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:16:56.955783+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

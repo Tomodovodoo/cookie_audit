@@ -1,0 +1,2316 @@
+{
+  "frames": [
+    {
+      "url": "https://vk.ru/",
+      "title": "VK | Welkom",
+      "text": "Zoeken op VK\nОчистить\nPagina voor business maken\nInloggen op VK\nRicht de camera op de QR-code\nMeer informatie\nInloggen via een andere methode\nAccount maken\nHulp\nVK © 2006–2026\nInformatie over inhoud\nRegels\nMeer leren over VK ID\nVK Reclame\nVoor ontwikkelaars\nNederlands",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Очистить",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 265,
+            "y": 8,
+            "width": 36,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(134, 141, 151)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 243, 245)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(134, 141, 151)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Pagina voor business maken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1118.6597900390625,
+            "y": 10,
+            "width": 198.67361450195312,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Meer informatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 634.8819580078125,
+            "y": 492,
+            "width": 95.55555725097656,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(38, 136, 235)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(38, 136, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Inloggen via een andere methode",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 547.8194580078125,
+            "y": 540,
+            "width": 269.6875,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Account maken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 547.8194580078125,
+            "y": 588,
+            "width": 269.6875,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Hulp",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 668.4791870117188,
+            "y": 676,
+            "width": 28.375,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "VK © 2006–2026",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 48,
+            "y": 858.6666870117188,
+            "width": 96.88194274902344,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Informatie over inhoud",
+          "tag": "SPAN",
+          "context": "",
+          "box": {
+            "x": 164.88194274902344,
+            "y": 860,
+            "width": 155.9652862548828,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Regels",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 340.84722900390625,
+            "y": 858.6666870117188,
+            "width": 37.3125,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Meer leren over VK ID",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 398.15972900390625,
+            "y": 858.6666870117188,
+            "width": 126.0138931274414,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "VK Reclame",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 789.9791870117188,
+            "y": 858.6666870117188,
+            "width": 67.1388931274414,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Voor ontwikkelaars",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 877.1180419921875,
+            "y": 858.6666870117188,
+            "width": 108.625,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Nederlands",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1251.5416259765625,
+            "y": 858.6666870117188,
+            "width": 65.79166412353516,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(237, 238, 240)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://vk.ru/"
+    },
+    {
+      "url": "https://id.vk.ru/qr_auth",
+      "title": "VK ID",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 188,
+        "height": 188
+      },
+      "frame_url": "https://id.vk.ru/qr_auth"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://vk.ru/",
+  "captured_at": "2026-11-03T14:58:36.781273+00:00",
+  "cookies": [
+    {
+      "name": "remixlang",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825483148.759158,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixua",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825244555.759201,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixlgck",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1824726141.759222,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_width",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_height",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_dpr",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_depth",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_orient",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1794322709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixscreen_winzoom",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixgp",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1794322709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixdark_color_scheme",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixcolor_scheme_mode",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixdt",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixsf",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1795013909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guid",
+      "domain": ".tns-counter.ru",
+      "path": "/",
+      "expires": 1825253909.630639,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tmr_lvid",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1822489109,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tmr_lvidTS",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1822489109,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "remixuacck",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825218284.676589,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixlns",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1793717939.676787,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstid",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909.825388,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstlid",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253909.825458,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixuas",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1825253910.291473,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixcav",
+      "domain": ".api.vk.ru",
+      "path": "/",
+      "expires": 1793804310.291584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "domain_sid",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1794322710.917171,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PVID",
+      "domain": "top-fwz1.mail.ru",
+      "path": "/",
+      "expires": 1825340311.040887,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VID",
+      "domain": ".mail.ru",
+      "path": "/",
+      "expires": 1825340311.041031,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstlid",
+      "domain": ".vk-portal.net",
+      "path": "/",
+      "expires": 1825253911.094102,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstid",
+      "domain": ".vk-portal.net",
+      "path": "/",
+      "expires": 1825269497.094145,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tmr_detect",
+      "domain": "vk.ru",
+      "path": "/",
+      "expires": 1793804311,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://vk.ru",
+      "localKeys": [
+        "@METRICS_GUEST_WASM_STATS",
+        "rb_sync_id",
+        "NAVIGATION_TAB_ID",
+        "tmr_trgfpid",
+        "tmr_lvid",
+        "@METRICS_GUEST_ADBLOCK_STATS",
+        "6287487:get_anonym_token:login:auth",
+        "PERF_METRICS_TIMESTAMPS_WEB",
+        "lock_stats_cookie_locked_stats_api",
+        "supportedFeatures",
+        "XHR_STATS_TRANSPORT_DATA_web2",
+        "tmr_lvidTS",
+        "audio_unique_unauth_id",
+        "7913379:get_accounts:login:auth",
+        "@METRICS_GUEST_CERT_STATS",
+        "tmr_reqNum",
+        "tracer-device-id",
+        "@METRICS_GUEST_USER_INFO_STATS"
+      ],
+      "sessionKeys": [
+        "rb_sync_id",
+        "AUDIO_PLAYER_INIT_ID",
+        "vkSansCached",
+        "XHR_STATS_TRANSPORT_DATA_LOCK_web2",
+        "XHR_STATS_TRANSPORT_META_web2"
+      ]
+    },
+    {
+      "origin": "https://id.vk.ru",
+      "localKeys": [
+        "deviceId",
+        "tracer-device-id"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://vk.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.055005+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/fonts/VKSansDisplayDemiBoldFaux.v100.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.776754+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/common.20843346.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.777330+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/base.04474267.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.778154+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/vkui.314946c0.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.778810+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/fonts_utf.0dce0054.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.779485+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/fonts_cnt_async.ea273965.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.780127+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/loader_nav213115335153_61.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.831519+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/lang61_2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.832098+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/core_spa/error_monitoring.isolated.482c3c96.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.833061+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/core_spa/core_spa_vk.287c2c87.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.833856+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/core_spa/core_spa_vk.83889cba.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.834594+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/vkcom-kit.9b4d1fdf.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.835321+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/vkcom-kit.12dfd2ac.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.836252+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/react.45353bb9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.836805+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/architecture-mobx.6ad8b6cb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.837700+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/vkui.68f55782.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.838401+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/state-management.c485211a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.838965+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audioplayer-lib.6e3d1a24.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.839524+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audioplayer-lib.9b831fb0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.840087+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/common.150bc6d6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.840632+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/common.evergreen.fae1277b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.841293+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/common_web.c299278e.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.842103+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/common_web.c1f4ed90.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.842903+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/lib/px.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.843535+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/lib/px.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.844442+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/index.aa6c52a2.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.845107+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/5f243773.b91f32b4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.845663+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/12033f17.5e7e552c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.846214+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/c97991f5.54f57aa1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.846797+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/2a750b89.e8b35202.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.847336+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/a6bc9e60.8c551235.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.847855+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/a6bc9e60.1704af03.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.848421+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/index.cabcb231.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.848933+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/login.361912ff.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.849457+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/webl/language.0c1ceb1b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.849981+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/5038d021.daaf2e11.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.850841+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/join.7b9a8446.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.851398+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/join.f9977684.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.851968+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/js/lib/ui_controls.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.852508+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/ui_controls.41144a68.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.853197+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/search_top_anonymous.3788add5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.853744+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/search_top_anonymous.c1f05fcd.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.854446+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/search.7671f837.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.855077+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/1d443167.541ca698.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.855639+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/site_layout.9e9328c7.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.856258+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/site_layout.89d189d5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.856863+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/webl/performance_observers.d1525212.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.857421+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/webl/css_types.7b586a7d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.858413+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/vk_sans_display_faux.a22ab8ec.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.859179+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/vk_sans_display.52fe1328.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.859787+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/webl/vk_sans_observer.66cb5c8a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.860429+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/unauthorized.9340adc9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.861125+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/webl/page_layout.fdb5d9e5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.861817+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/030613d4.981532e6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.862688+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/6d47a2e0.227762bc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.863439+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/4201fa02.b21e6b8a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.864209+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/3956c922.d392cd6c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.864963+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/7dfdab8d.401b550b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.866026+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/ui_common.be7a4588.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.876336+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/a0ed3de9.07410661.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.877502+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/1318839e.235cfd7c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.878478+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/likes.5e44d9b6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.879386+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/webl/grip.01401a72.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.880275+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/ui_common.a7304961.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:27.881139+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/public/lib/px.d8e2d40de34f54b587630b4bb4f716cf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:28.148244+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/public/lib/px.d8e2d40de34f54b587630b4bb4f716cf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:28.148905+00:00"
+    },
+    {
+      "url": "https://sdk-api.apptracer.ru/api/crash/trackSession",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:28.572163+00:00"
+    },
+    {
+      "url": "https://vk.ru/al_index.php",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.146169+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/entry/webl/ads_light.5708478af2526352.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.147130+00:00"
+    },
+    {
+      "url": "https://vk.ru/al_loader_part_configs.php",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.147552+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/web/chunks/b5a4917c.async.20120768.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.236132+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/web/chunks/fe62b805.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.236699+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/web/chunks/rlottie.24fb4dd7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.238308+00:00"
+    },
+    {
+      "url": "https://vk.ru/usefull.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.239139+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/web/chunks/initIdleTabStats.f94cf23f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.239886+00:00"
+    },
+    {
+      "url": "https://tns-counter.ru/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.240556+00:00"
+    },
+    {
+      "url": "https://top-fwz1.mail.ru/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.241412+00:00"
+    },
+    {
+      "url": "https://ads.vk.com/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.242206+00:00"
+    },
+    {
+      "url": "https://r0.mradx.net/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.242779+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/3fb6e399.async.9d323954.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.243346+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/84abbc8b.async.076d1fa4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.243926+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/426c1f09.async.8a84b5b3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.244485+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/3bf0b4e3.async.fd87a6f1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.245052+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/232fc04e.async.01bb5783.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.245606+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/40dbadac.async.38ec2328.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.253142+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/edc0cd98.async.a05bbd9c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.254167+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/8a412c38.async.a438c1ce.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.254969+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/cb3ed3ca.async.e8ed7800.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.255759+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/3277228c.async.d363aebb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.256533+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/25cc2fb9.async.22082dc2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.257278+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/fa795f49.async.b57666ea.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.258082+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/8ed04472.async.79da484f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.258794+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/8184713b.async.a7de8b11.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.259388+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/d45c7231.async.aa9095f3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.259947+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/2cde6a45.async.28bc116c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.260509+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/f321f4e3.async.383334a3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.261059+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/74245153.async.4a70f0b8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.261964+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/ee5f4e0a.async.5e9ad9f5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.262580+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/4fd9e9d3.async.824da8c5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.263246+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/6cddc88a.async.08073ea8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.263892+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/2fb84832.async.18d35a4b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.264503+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/cac49af7.async.e1ba5001.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.265085+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/31c1735b.async.a7ac0ad8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.265662+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/c2695557.async.e31fc959.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.266234+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/6538bf61.async.8f9f5008.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.266863+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/1070b23a.async.0dc60ba4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.267441+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audioplayer-async-chunk.a649c8d2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.268050+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/web/audioplayer-async-chunk.6f076f593c9ffba9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.268673+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/bc37c476.async.c6e557ec.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.269485+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/ae6aa01e.async.e364aa2b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.270103+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/195d528d.async.c92e87f9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.270709+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/5fb681b8.async.dc21cf70.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.271337+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/16f3309d.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.271942+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/stickers-popup-tq-handlers.c264c7fd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.272552+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/web/stickers-popup-tq-handlers.797ae8774f3e2305.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.273147+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/346bc7a2.async.c8dcd032.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.273747+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/c38db496.async.95e96c5d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.274367+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/b78a3c42.async.d1166613.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.275254+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/a5d1ec44.async.ccf504f5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.275929+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/e7af4604.async.fe97412e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.276892+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/WebDI.9db51f52.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.277538+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/web/WebDI.0265162e5f8d8134.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.278149+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/AudioEventNotifier.2580cb3e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.278719+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/web/AudioEventNotifier.9f1fdc5d417a18dd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.279354+00:00"
+    },
+    {
+      "url": "https://vk.ru/VKSansDisplayBoldLatin.v320.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.309612+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/VKSansDisplayBoldLatin.v320.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.310849+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/VKSansDisplayBoldCyrillic.v320.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.311220+00:00"
+    },
+    {
+      "url": "https://vk.ru/VKSansDisplayBoldCyrillic.v320.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.311965+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/fonts/roboto400.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.399910+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/webSwClient.955878f4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.404108+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/webPushNotifier.a2131b0f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.405005+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/web/webPushNotifier.02ae0ade011c9bc3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.405333+00:00"
+    },
+    {
+      "url": "https://web.api.vk.ru/method/utils.getStaticVersions",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.413852+00:00"
+    },
+    {
+      "url": "https://top-fwz1.mail.ru/js/code.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.416350+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/VKSansDisplayBoldCyrillic.v320.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.417211+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/web_legacy/chunks/web-vitals-soft-navs.8d9cfc79.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.420541+00:00"
+    },
+    {
+      "url": "https://vk.ru/VKSansDisplayBoldLatin.v320.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.425798+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/css/al/VKSansDisplayBoldLatin.v320.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.426791+00:00"
+    },
+    {
+      "url": "https://vk.ru/VKSansDisplayBoldCyrillic.v320.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.427161+00:00"
+    },
+    {
+      "url": "https://login.vk.ru/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.463208+00:00"
+    },
+    {
+      "url": "https://www.tns-counter.ru/V13a**clid:13**vk_com/ru/UTF-8/tmsec=vksite_total/569039745",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.464599+00:00"
+    },
+    {
+      "url": "https://www.tns-counter.ru/V13a****vk_ad/ru/UTF-8/tmsec=vkad_cid1015708-posid1184674/520069990",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.465033+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/cafdb004.async.21e0769e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.524683+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/b40457bd.async.54c8ff65.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.525575+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/180b5235.async.3732e1a4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.526735+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/785186e5.async.d0ae45f6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.527945+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/333dc37f.async.411679f0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.529065+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/9b26b90a.async.1cb92b6b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.530345+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/e1ee0033.async.3c1a209f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.532477+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/b9f5227b.async.11809608.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.533924+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/320cbdb5.async.70686c2a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.535048+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/7384c9b1.async.33121cb3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.535807+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/345eab54.async.ae820c5f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.536408+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/142c79e8.async.ef01a04d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.536992+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/e6fb2a3c.async.8bfcaee7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.537606+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/2ae9d8ad.async.db7f60cb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.538246+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/cd03ee7f.async.81176758.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.538847+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/88e43c8a.async.7f0a27d4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.539439+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/ecfd0715.async.f6f74160.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.540028+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/bb2c71d3.async.0c4adbaa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.540635+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/9e45ff42.async.c0f8e173.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.541266+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/f493f823.async.452d95d5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.542351+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/96458d16.async.ffcb74e4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.542938+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/366c0e80.async.e76725c0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.543532+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/f59b629a.async.58e22f5d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.544094+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/0d067aee.async.78c64bde.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.544658+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/84b3710c.async.da043f4a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.545204+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/24dfed1f.async.551bca05.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.545750+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/db6ed829.async.49039aee.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.546297+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/1b7023a3.async.dcb125f8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.546851+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/5ce1e5ec.async.d1913837.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.547408+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/1ddc3b32.async.9edd98de.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.547955+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/4abbcc9e.async.e8565668.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.548682+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/98284555.async.8d155349.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.549224+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/dad17c0e.async.d3816d38.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.549811+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/b304649a.async.3764736a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.550465+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/9939a874.async.b9d46f94.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.551081+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/da9e2e99.async.a391e0df.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.551635+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/005f3368.async.177193bc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.552178+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/ba8d455b.async.3f82a016.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.552773+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/82399029.async.09e52ea1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.553426+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/8bf8b71e.async.844975f8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.554026+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/ffa68b46.async.86835c18.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.554655+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/39ca1f99.async.71939bd1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.555296+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/0008346f.async.258064bc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.556143+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/c1af5a9c.async.aab943b5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.556780+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/265b4f33.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.557381+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audio_config_legacy.4d370ee1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.559137+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/web/audio_config_legacy.c44d701a01315939.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.560361+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/c0f9f694.async.b03e7921.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.561290+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/d6fe3881.async.48e6bca3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.562022+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/70a7f4ab.async.2beac46f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.562718+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/adc9f3c7.async.45bce53a.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.563350+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audio_config_overrides.f5b3dbeb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.563972+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/langs/web/audio_config_overrides.cce29850946e4875.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.564647+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audio_config_audioAdvertisingBannerViewModelProvider.ca997925.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.565593+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/38e27adb.async.7edd5d79.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.566231+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audio_onMediaAttachmentPlayer.4a3d3844.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.566848+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audio_postingPlayer.63bafc16.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.567458+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/web/chunks/audio_EVA_AudioPlayer.436b74f0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.568774+00:00"
+    },
+    {
+      "url": "https://st1-17.vk.ru/dist/webl/ads_light.36281a58.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.572411+00:00"
+    },
+    {
+      "url": "https://tns-counter.ru/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.579296+00:00"
+    },
+    {
+      "url": "https://top-fwz1.mail.ru/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.580397+00:00"
+    },
+    {
+      "url": "https://ads.vk.com/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.580779+00:00"
+    },
+    {
+      "url": "https://r0.mradx.net/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.581409+00:00"
+    },
+    {
+      "url": "https://vk.ru/js/sw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.587522+00:00"
+    },
+    {
+      "url": "https://mincifry-cert.vk.ru/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.589061+00:00"
+    },
+    {
+      "url": "https://r3-test.vk.ru/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.590007+00:00"
+    },
+    {
+      "url": "https://www.tns-counter.ru/V13b****vk_ad/ru/UTF-8/tmsec=vkad_cid1015708-posid1184674/520069990",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.632890+00:00"
+    },
+    {
+      "url": "https://www.tns-counter.ru/V13b**clid:13**vk_com/ru/UTF-8/tmsec=vksite_total/569039745",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.633206+00:00"
+    },
+    {
+      "url": "https://privacy-cs.mail.ru/static/sync-loader.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.664685+00:00"
+    },
+    {
+      "url": "https://top-fwz1.mail.ru/js/dyn-goal-config.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.666237+00:00"
+    },
+    {
+      "url": "https://top-fwz1.mail.ru/counter",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.667532+00:00"
+    },
+    {
+      "url": "https://id.vk.ru/qr_auth",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.702308+00:00"
+    },
+    {
+      "url": "https://login.vk.ru/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.750226+00:00"
+    },
+    {
+      "url": "https://ads.vk.ru/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.764398+00:00"
+    },
+    {
+      "url": "https://ads.vk.ru/",
+      "resource_type": "fetch",
+      "method": "HEAD",
+      "at": "2026-11-03T14:58:29.764686+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/sw/sw.5545e68b.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.771934+00:00"
+    },
+    {
+      "url": "https://web.api.vk.ru/method/account.getInfo",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.815335+00:00"
+    },
+    {
+      "url": "https://st.vk.ru/vkid/vkid-bff/dist/projects/qrAuth-web/entrypoints/entry.77fe3754.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.835040+00:00"
+    },
+    {
+      "url": "https://st.vk.ru/vkid/vkid-bff/dist/projects/qrAuth-web/entrypoints/entry.b9595b4b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:29.835725+00:00"
+    },
+    {
+      "url": "https://id.vk.com/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.837384+00:00"
+    },
+    {
+      "url": "https://id.vk.com/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.838288+00:00"
+    },
+    {
+      "url": "https://id.vk.com/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:29.968330+00:00"
+    },
+    {
+      "url": "https://id.vk.com/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.187885+00:00"
+    },
+    {
+      "url": "https://api.vk.ru/method/auth.getAnonymToken",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.189198+00:00"
+    },
+    {
+      "url": "https://api.vk.ru/method/auth.getQrAuthData",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.189578+00:00"
+    },
+    {
+      "url": "https://id.vk.com/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.292908+00:00"
+    },
+    {
+      "url": "https://sdk-api.apptracer.ru/api/crash/trackSession",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.297089+00:00"
+    },
+    {
+      "url": "https://api.vk.ru/method/statEvents.addVKIDAnonymously",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.301317+00:00"
+    },
+    {
+      "url": "https://api.vk.ru/method/auth.getAuthCode",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.350775+00:00"
+    },
+    {
+      "url": "https://vk.ru/dist/core_spa/chunks/grip-lib.b41fd36c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T14:58:30.588609+00:00"
+    },
+    {
+      "url": "https://stats.vk-portal.net/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:30.701628+00:00"
+    },
+    {
+      "url": "https://stats.vk-portal.net/web-stats/p",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.902011+00:00"
+    },
+    {
+      "url": "https://top-fwz1.mail.ru/tracker",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T14:58:30.916202+00:00"
+    },
+    {
+      "url": "https://vk.ru/images/icons/favicons/fav_logo.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T14:58:30.920897+00:00"
+    },
+    {
+      "url": "https://privacy-cs.mail.ru/fp/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:30.921887+00:00"
+    },
+    {
+      "url": "https://id.vk.com/csp",
+      "resource_type": "other",
+      "method": "POST",
+      "at": "2026-11-03T14:58:31.292600+00:00"
+    },
+    {
+      "url": "https://sdk-api.apptracer.ru/api/perf/upload",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T14:58:31.297027+00:00"
+    },
+    {
+      "url": "https://api.vk.ru/method/statEvents.addVKIDAnonymously",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:31.786208+00:00"
+    },
+    {
+      "url": "https://stats.vk-portal.net/",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T14:58:31.923556+00:00"
+    },
+    {
+      "url": "https://akashi.vk-portal.net/api/v1/web",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T14:58:32.002705+00:00"
+    },
+    {
+      "url": "https://privacy-cs.mail.ru/fp/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:32.009805+00:00"
+    },
+    {
+      "url": "https://api.vk.ru/method/auth.checkAuthCode",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:33.523758+00:00"
+    },
+    {
+      "url": "https://stats.vk-portal.net/web-stats/p",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T14:58:36.691026+00:00"
+    },
+    {
+      "url": "https://api.vk.ru/method/auth.checkAuthCode",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T14:58:36.696715+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tns-counter.ru/",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://top-fwz1.mail.ru/",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.vk.com/",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://top-fwz1.mail.ru/js/code.js",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.tns-counter.ru/V13a**clid:13**vk_com/ru/UTF-8/tmsec=vksite_total/569039745",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.tns-counter.ru/V13a****vk_ad/ru/UTF-8/tmsec=vkad_cid1015708-posid1184674/520069990",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tns-counter.ru/",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://top-fwz1.mail.ru/",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.vk.com/",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.tns-counter.ru/V13b****vk_ad/ru/UTF-8/tmsec=vkad_cid1015708-posid1184674/520069990",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.tns-counter.ru/V13b**clid:13**vk_com/ru/UTF-8/tmsec=vksite_total/569039745",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://privacy-cs.mail.ru/static/sync-loader.js",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://top-fwz1.mail.ru/js/dyn-goal-config.js",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://top-fwz1.mail.ru/counter",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.vk.com/csp",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.vk.com/csp",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.vk.com/csp",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.vk.com/csp",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.vk.com/csp",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://top-fwz1.mail.ru/tracker",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://privacy-cs.mail.ru/fp/",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.vk.com/csp",
+      "categories": [
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://privacy-cs.mail.ru/fp/",
+      "categories": [
+        "Social"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

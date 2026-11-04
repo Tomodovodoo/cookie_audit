@@ -1,0 +1,210 @@
+{
+  "frames": [
+    {
+      "url": "https://rnw.nl/",
+      "title": "rnw.nl | 522: Connection timed out",
+      "text": "Connection timed out Error code 522\nVisit cloudflare.com for more information.\n2026-11-03 15:36:00 UTC\nYou\nBrowser\nWorking\nAmsterdam\nCloudflare\nWorking\nrnw.nl\nHost\nError\nWhat happened?\n\nThe initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.\n\nWhat can I do?\nIf you're a visitor of this website:\n\nPlease try again in a few minutes.\n\nIf you're the owner of this website:\n\nContact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources. Additional troubleshooting information here.\n\nCloudflare Ray ID: a54c73431f07f5d9 • Your IP: Click to reveal • Performance & security by Cloudflare",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "cloudflare.com",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 229.3958282470703,
+            "y": 123.22222137451172,
+            "width": 104.09027862548828,
+            "height": 21.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(47, 123, 191)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(47, 123, 191)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Cloudflare",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 623.8402709960938,
+            "y": 422.77777099609375,
+            "width": 102.54166412353516,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(47, 123, 191)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 24,
+            "fontWeight": "300",
+            "borderWidth": 0,
+            "borderColor": "rgb(47, 123, 191)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Additional troubleshooting information here.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 814.2361450195312,
+            "y": 853.5833129882812,
+            "width": 316.7083435058594,
+            "height": 21.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(47, 123, 191)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(47, 123, 191)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Click to reveal",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 657.701416015625,
+            "y": 950.25,
+            "width": 80.06944274902344,
+            "height": 17.33333396911621
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 81, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 81, 195)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Cloudflare",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 905.0972290039062,
+            "y": 950.25,
+            "width": 58.97916793823242,
+            "height": 17.33333396911621
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(47, 123, 191)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(47, 123, 191)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://rnw.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://rnw.nl/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:36:07.932211+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://rnw.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://rnw.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:35:41.264088+00:00"
+    },
+    {
+      "url": "https://rnw.nl/cdn-cgi/styles/main.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:36:00.837045+00:00"
+    },
+    {
+      "url": "https://rnw.nl/cdn-cgi/images/cf-icon-browser.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:36:00.903495+00:00"
+    },
+    {
+      "url": "https://rnw.nl/cdn-cgi/images/cf-icon-ok.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:36:00.905175+00:00"
+    },
+    {
+      "url": "https://rnw.nl/cdn-cgi/images/cf-icon-cloud.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:36:00.905962+00:00"
+    },
+    {
+      "url": "https://rnw.nl/cdn-cgi/images/cf-icon-server.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:36:00.906641+00:00"
+    },
+    {
+      "url": "https://rnw.nl/cdn-cgi/images/cf-icon-error.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:36:00.907312+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": false,
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

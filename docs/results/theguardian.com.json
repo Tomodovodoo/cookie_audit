@@ -1,0 +1,61 @@
+{
+  "rank": 32,
+  "domain": "theguardian.com",
+  "name": "theguardian.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T14:57:51.314504+00:00",
+  "run": {
+    "started_at": "2026-11-03T14:56:34.257305+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 8,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Refusal led to an unfinished purchase/subscription flow, not verified refusal."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "pass",
+      "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "No completed refusal on the audited website was observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Reload of a purchase/subscription flow does not establish refusal persistence."
+    }
+  },
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Reject all and subscribe"
+    }
+  ],
+  "evidence": "evidence/theguardian.com/before.json",
+  "accept_control": {
+    "completed": true,
+    "tracking": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    }
+  },
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Latest news, sport and opinion from the Guardian",
+  "rules_version": "0.2.0"
+}

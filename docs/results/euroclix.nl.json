@@ -1,0 +1,49 @@
+{
+  "rank": 684,
+  "domain": "euroclix.nl",
+  "name": "euroclix.nl",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:41:57.009153+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:37:14.555246+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.2.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "A refusal control exists, but completion could not be verified."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "fail",
+      "reason": "Known advertising identifier cookies were present without consent."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/euroclix.nl/before.json",
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Meld je gratis aan bij EuroClix en begin vandaag nog met geld verdienen",
+  "rules_version": "0.2.0"
+}

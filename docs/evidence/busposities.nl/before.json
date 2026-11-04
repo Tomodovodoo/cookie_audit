@@ -1,0 +1,2837 @@
+{
+  "frames": [
+    {
+      "url": "https://busposities.nl/",
+      "title": "Busposities",
+      "text": "Busposities\nVoertuigen \nLive kaart\nFoto's\nInloggen\nRegistreren\nExtra \nOver \nZoeken\nBussen, trams en metro's in Nederland en daarbuiten\n\nWelkom, hier kun je terecht voor overzichten van bussen, trams en metro's die in Nederland en daarbuiten worden ingezet. Van voertuigen in het Nederlands OV is veel actuele informatie beschikbaar, zoals waar ze ze zich op dit moment bevinden, welke rit ze rijden, en welke ritten ze in de afgelopen dagen gereden hebben. Deze site bevat ook overzichten per vervoerder, per merk, en per fabrikant. Natuurlijk mét foto's, en om de site zo compleet mogelijk te krijgen ben je van harte uitgenodigd om jouw mooiste foto's te uploaden!\n\nKaart\nVoertuigen live per vervoerder\n1048\nTransdev / Connexxion\n793\nQbuzz\n312\nRET\n266\nGVB\n262\nKeolis / Syntus\n228\nHTM\n187\nHermes\n1\nEBS\nFoto's\nWillekeurige foto\nVlaams Tram en Autobusmuseum 840\n 6 Mooi?\n© LLBRK | bekijk foto\nUploaden\nNieuwste foto\nVeolia Transport 5291\n Mooi?\n© Benedenderivieren | bekijk foto\nVervoerders\nVoertuigen in database\n9048\nDe Lijn\n8927\nTransdev / Connexxion\n8075\nStagecoach\n6077\nRégie Autonome des Transports Parisiens\n4869\nArriva\n4513\nFirst Bus\n4480\nTEC\n4322\nBerliner Verkehrsbetriebe\n3167\nGo-Ahead Group\n2880\nQbuzz\n2517\nGVB\n2507\nArriva UK\nFabrikanten\nFabrikanten in database\n30987\nMercedes-Benz\n17408\nVDL Berkhof\n17403\nDen Oudsten\n13574\nAlexander-Dennis\n13215\nMAN\n11606\nDAF\n8375\nSolaris\n7997\nIveco\n7731\nVan Hool\n5443\nVolvo Group\n4043\nBova\n3754\nHainje\nTypes\nTypes in database\n99386\nStandaardbus\n29093\nGelede bus\n21328\nTouringcar\n17905\nTram\n16814\nDubbeldekkerbus\n8165\nMidibus\n5205\nMetro\n4984\nMinibus\n3605\nSemi-touringcar\n504\nDubbelgelede bus\n81\nVeerpont\n39\nOverig railvoertuig\nBrandstoffen\nTypes per brandstof\n139421\nDiesel\n21534\nElektrisch (bovenleiding)\n18895\nElektrisch (accu)\n10435\nAardgas\n10164\nDiesel hybride\n4632\nElektrisch (derde rail)\n793\nGas hybride\n688\nWaterstof\nLijst\nOnderaannemers\n460\nTCR / BusiNext / Van Fraassen\n286\nTransports Penning\n181\nKruger Autobus\n143\nPouw Vervoer\n136\nWaaslandia\n127\nGeenens\n118\nConnexxion Taxi Services\n117\nDe Polder\n100\nSADAR\n99\nModern Toerisme - Van Riet\n99\nBronckaers\n97\nDe Voeght\nLijst\nOV-Merken\n1652\nR-net\n1098\nBravo\n1067\nRRReis\n834\nRuter\n829\nMovia\n740\nU-bus\n636\nBreng\n542\nVästtrafik\n435\nRRReis tijdelijk\n414\nQliner\n404\nLimburg\n386\nBravoDirect",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Busposities",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 8,
+            "width": 118.91666412353516,
+            "height": 37.99305725097656
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "5.6px 0px 2.4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Voertuigen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 150.9166717529297,
+            "y": 8.19444465637207,
+            "width": 101.27083587646484,
+            "height": 37.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Live kaart",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 252.1875,
+            "y": 8.19444465637207,
+            "width": 76.31944274902344,
+            "height": 37.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Foto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 328.5069580078125,
+            "y": 8.19444465637207,
+            "width": 54.20138931274414,
+            "height": 37.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 382.7083435058594,
+            "y": 8.19444465637207,
+            "width": 72.53472137451172,
+            "height": 37.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Registreren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 455.2430725097656,
+            "y": 8.19444465637207,
+            "width": 87.88194274902344,
+            "height": 37.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Extra",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 543.125,
+            "y": 8.19444465637207,
+            "width": 62.70833206176758,
+            "height": 37.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Over",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 605.8333129882812,
+            "y": 8.19444465637207,
+            "width": 61.89583206176758,
+            "height": 37.60416793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Zoeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1256.201416015625,
+            "y": 8.111111640930176,
+            "width": 78.02083587646484,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 167, 69)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(52, 58, 64)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(40, 167, 69)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Kaart",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 399.46527099609375,
+            "y": 247.30555725097656,
+            "width": 49.7569465637207,
+            "height": 30.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Transdev / Connexxion",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 311.8611145019531,
+            "width": 143.7291717529297,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Qbuzz",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 333.46527099609375,
+            "width": 40.48611068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "RET",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 355.0694580078125,
+            "width": 23.4375,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "GVB",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 376.6736145019531,
+            "width": 26.79166603088379,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Keolis / Syntus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 398.27777099609375,
+            "width": 92.17361450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "HTM",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 419.8819580078125,
+            "width": 30.69444465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Hermes",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 441.4861145019531,
+            "width": 48.79166793823242,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "EBS",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 463.09027099609375,
+            "width": 23.1875,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Foto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 774.2916870117188,
+            "y": 247.30555725097656,
+            "width": 54.93055725097656,
+            "height": 30.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Vlaams Tram en Autobusmuseum 840",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 309.6388854980469,
+            "width": 303.5416564941406,
+            "height": 50.66666793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Mooi?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 779.7986450195312,
+            "y": 570.0069580078125,
+            "width": 44.42361068725586,
+            "height": 22.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "0px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "LLBRK",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 538.8055419921875,
+            "y": 574.638916015625,
+            "width": 29.625,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(238, 238, 238)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "bekijk foto",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 577.0902709960938,
+            "y": 574.638916015625,
+            "width": 51.5625,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(238, 238, 238)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Uploaden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1131.388916015625,
+            "y": 247.30555725097656,
+            "width": 77.83333587646484,
+            "height": 30.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Veolia Transport 5291",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 309.6388854980469,
+            "width": 194.1666717529297,
+            "height": 26.66666603088379
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 20,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Mooi?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1159.798583984375,
+            "y": 546.0069580078125,
+            "width": 44.42361068725586,
+            "height": 22.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "0px 2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Benedenderivieren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 918.8055419921875,
+            "y": 550.638916015625,
+            "width": 90.7013931274414,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(238, 238, 238)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "bekijk foto",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1018.1666870117188,
+            "y": 550.638916015625,
+            "width": 51.5625,
+            "height": 14.666666984558105
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(238, 238, 238)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Vervoerders",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 357.97222900390625,
+            "y": 627.3055419921875,
+            "width": 91.25,
+            "height": 30.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "De Lijn",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 691.8611450195312,
+            "width": 43.46527862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Transdev / Connexxion",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 713.4652709960938,
+            "width": 143.7291717529297,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Stagecoach",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 735.0694580078125,
+            "width": 72.59722137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Régie Autonome des Transports Parisiens",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 756.6736450195312,
+            "width": 260.8819580078125,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Arriva",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 778.2777709960938,
+            "width": 37.0069465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "First Bus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 799.8819580078125,
+            "width": 52.95833206176758,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "TEC",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 821.4861450195312,
+            "width": 23.74305534362793,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "Berliner Verkehrsbetriebe",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 843.0902709960938,
+            "width": 159.76388549804688,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-37",
+          "text": "Go-Ahead Group",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 864.6944580078125,
+            "width": 108.7013931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-38",
+          "text": "Qbuzz",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 886.2986450195312,
+            "width": 40.48611068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-39",
+          "text": "GVB",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 907.9027709960938,
+            "width": 26.79166603088379,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-40",
+          "text": "Arriva UK",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 929.5069580078125,
+            "width": 59.1875,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-41",
+          "text": "Fabrikanten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 739.4791870117188,
+            "y": 627.3055419921875,
+            "width": 89.74305725097656,
+            "height": 30.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-42",
+          "text": "Mercedes-Benz",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 691.8611450195312,
+            "width": 97.94444274902344,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-43",
+          "text": "VDL Berkhof",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 713.4652709960938,
+            "width": 78.78472137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-44",
+          "text": "Den Oudsten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 735.0694580078125,
+            "width": 83.85416412353516,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-45",
+          "text": "Alexander-Dennis",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 756.6736450195312,
+            "width": 112.65972137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-46",
+          "text": "MAN",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 778.2777709960938,
+            "width": 32.98611068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-47",
+          "text": "DAF",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 799.8819580078125,
+            "width": 26.0625,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-48",
+          "text": "Solaris",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 821.4861450195312,
+            "width": 41.49305725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-49",
+          "text": "Iveco",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 843.0902709960938,
+            "width": 33.34027862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-50",
+          "text": "Van Hool",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 864.6944580078125,
+            "width": 57.8819465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-51",
+          "text": "Volvo Group",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 886.2986450195312,
+            "width": 79.15277862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-52",
+          "text": "Bova",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 907.9027709960938,
+            "width": 30.90972328186035,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-53",
+          "text": "Hainje",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 929.5069580078125,
+            "width": 40.1944465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-54",
+          "text": "Types",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1156.611083984375,
+            "y": 627.3055419921875,
+            "width": 52.61111068725586,
+            "height": 30.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-55",
+          "text": "Standaardbus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 691.8611450195312,
+            "width": 86.86111450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-56",
+          "text": "Gelede bus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 713.4652709960938,
+            "width": 71.09027862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-57",
+          "text": "Touringcar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 735.0694580078125,
+            "width": 66.8125,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-58",
+          "text": "Tram",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 756.6736450195312,
+            "width": 31.02083396911621,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-59",
+          "text": "Dubbeldekkerbus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 778.2777709960938,
+            "width": 111.75,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-60",
+          "text": "Midibus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 799.8819580078125,
+            "width": 51.09722137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-61",
+          "text": "Metro",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 821.4861450195312,
+            "width": 38.77777862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-62",
+          "text": "Minibus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 843.0902709960938,
+            "width": 50.77083206176758,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-63",
+          "text": "Semi-touringcar",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 864.6944580078125,
+            "width": 102.375,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-64",
+          "text": "Dubbelgelede bus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 886.2986450195312,
+            "width": 115.86805725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-65",
+          "text": "Veerpont",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 907.9027709960938,
+            "width": 58.01388931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-66",
+          "text": "Overig railvoertuig",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 929.5069580078125,
+            "width": 118.34722137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-67",
+          "text": "Brandstoffen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 352.3611145019531,
+            "y": 1007.3055419921875,
+            "width": 96.86111450195312,
+            "height": 30.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-68",
+          "text": "Diesel",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1071.861083984375,
+            "width": 38.23611068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-69",
+          "text": "Elektrisch (bovenleiding)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1093.46533203125,
+            "width": 154.9166717529297,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-70",
+          "text": "Elektrisch (accu)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1115.0694580078125,
+            "width": 101.13194274902344,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-71",
+          "text": "Aardgas",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1136.673583984375,
+            "width": 52.0069465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-72",
+          "text": "Diesel hybride",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1158.27783203125,
+            "width": 90.25,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-73",
+          "text": "Elektrisch (derde rail)",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1179.8819580078125,
+            "width": 132.61805725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-74",
+          "text": "Gas hybride",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1201.486083984375,
+            "width": 75.3263931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-75",
+          "text": "Waterstof",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 141,
+            "y": 1223.09033203125,
+            "width": 61.54861068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-76",
+          "text": "Lijst",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 787.3819580078125,
+            "y": 1007.3055419921875,
+            "width": 41.84027862548828,
+            "height": 30.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-77",
+          "text": "TCR / BusiNext / Van Fraassen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1071.861083984375,
+            "width": 189.0416717529297,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-78",
+          "text": "Transports Penning",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1093.46533203125,
+            "width": 121.17361450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-79",
+          "text": "Kruger Autobus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1115.0694580078125,
+            "width": 99.92361450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-80",
+          "text": "Pouw Vervoer",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1136.673583984375,
+            "width": 86.88194274902344,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-81",
+          "text": "Waaslandia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1158.27783203125,
+            "width": 71.8888931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-82",
+          "text": "Geenens",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1179.8819580078125,
+            "width": 54.86805725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-83",
+          "text": "Connexxion Taxi Services",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1201.486083984375,
+            "width": 156.53472900390625,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-84",
+          "text": "De Polder",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1223.09033203125,
+            "width": 62.02777862548828,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-85",
+          "text": "SADAR",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1244.6944580078125,
+            "width": 44.57638931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-86",
+          "text": "Modern Toerisme - Van Riet",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1266.298583984375,
+            "width": 176.5416717529297,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-87",
+          "text": "Bronckaers",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1287.90283203125,
+            "width": 69.61111450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-88",
+          "text": "De Voeght",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 521,
+            "y": 1309.5069580078125,
+            "width": 67.0625,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-89",
+          "text": "Lijst",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1167.3819580078125,
+            "y": 1007.3055419921875,
+            "width": 41.84027862548828,
+            "height": 30.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(108, 117, 125)",
+            "effectiveBackground": "rgb(108, 117, 125)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(108, 117, 125)",
+            "padding": "4px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-90",
+          "text": "R-net",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1071.861083984375,
+            "width": 34.92361068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-91",
+          "text": "Bravo",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1093.46533203125,
+            "width": 35.91666793823242,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-92",
+          "text": "RRReis",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1115.0694580078125,
+            "width": 42.53472137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-93",
+          "text": "Ruter",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1136.673583984375,
+            "width": 34.17361068725586,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-94",
+          "text": "Movia",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1158.27783203125,
+            "width": 39.0694465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-95",
+          "text": "U-bus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1179.8819580078125,
+            "width": 38.36805725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-96",
+          "text": "Breng",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1201.486083984375,
+            "width": 37.40972137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-97",
+          "text": "Västtrafik",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1223.09033203125,
+            "width": 58.55555725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-98",
+          "text": "RRReis tijdelijk",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1244.6944580078125,
+            "width": 91.9513931274414,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-99",
+          "text": "Qliner",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1266.298583984375,
+            "width": 38.5069465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-100",
+          "text": "Limburg",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1287.90283203125,
+            "width": 52.7569465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-101",
+          "text": "BravoDirect",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901,
+            "y": 1309.5069580078125,
+            "width": 73.55555725097656,
+            "height": 19.11111068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 123, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 123, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://busposities.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://busposities.nl/",
+  "captured_at": "2026-11-03T15:27:15.871894+00:00",
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "domain": "busposities.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.2.47e8",
+      "domain": "busposities.nl",
+      "path": "/",
+      "expires": 1827674825,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.2.47e8",
+      "domain": "busposities.nl",
+      "path": "/",
+      "expires": 1793721425,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".busposities.nl",
+      "path": "/",
+      "expires": 1825255625.842996,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://busposities.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://busposities.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:27:03.092598+00:00"
+    },
+    {
+      "url": "https://code.jquery.com/jquery-3.5.1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.309696+00:00"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.310140+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.311001+00:00"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.312304+00:00"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.312771+00:00"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.346050+00:00"
+    },
+    {
+      "url": "https://busposities.nl/js/jquery.jscroll.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.346858+00:00"
+    },
+    {
+      "url": "https://busposities.nl/tp_28012020.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.347930+00:00"
+    },
+    {
+      "url": "https://busposities.nl/jquery-ui.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.348837+00:00"
+    },
+    {
+      "url": "https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.350351+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.0.1/css/tempusdominus-bootstrap-4.min.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.351693+00:00"
+    },
+    {
+      "url": "https://busposities.nl/leaflet/leaflet.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.352974+00:00"
+    },
+    {
+      "url": "https://busposities.nl/android-chrome-384x384.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.354043+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.603957+00:00"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.667528+00:00"
+    },
+    {
+      "url": "https://busposities.nl/js/jquery-ui.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.708213+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/barlow/v13/7cHpv4kjgoGqM7E_DMs5.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.743406+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.760213+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.0.1/js/tempusdominus-bootstrap-4.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.761024+00:00"
+    },
+    {
+      "url": "https://track.hemkes.net/matomo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.761805+00:00"
+    },
+    {
+      "url": "https://busposities.nl/tn/dc/cf/65/2319946_401488_2_dccf65d903c8f2ecb4ba17795f5bb4abe1c1128fb97eb2359b921535917038f9.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.762914+00:00"
+    },
+    {
+      "url": "https://busposities.nl/tn/27/69/f5/2322771_402053_2_2769f5d86836bd6215ba415d7b114b92dffffcd6f645258e3a8811ba62833bac.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:04.763638+00:00"
+    },
+    {
+      "url": "https://busposities.nl/js/mdtoolbar.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:05.090210+00:00"
+    },
+    {
+      "url": "https://busposities.nl/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:05.106704+00:00"
+    },
+    {
+      "url": "https://busposities.nl/cdn-cgi/rum",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:05.211282+00:00"
+    },
+    {
+      "url": "https://track.hemkes.net/matomo.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:27:05.212852+00:00"
+    },
+    {
+      "url": "https://busposities.nl/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:27:05.213619+00:00"
+    },
+    {
+      "url": "https://busposities.nl/cdn-cgi/challenge-platform/h/g/scripts/jsd/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:05.223115+00:00"
+    },
+    {
+      "url": "https://busposities.nl/cdn-cgi/challenge-platform/h/g/jsd/oneshot/5c2e6b612edd/0.20060518612290823:1793715035:5JHET6w2jmmEqwhOiCIPZEiy1N_6bzL06xkg-VfUMYA/a54c669c1a96e64c",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:05.475468+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_pk_id.2.47e8",
+      "domain": "busposities.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

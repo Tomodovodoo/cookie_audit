@@ -1,0 +1,151 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ziggogo.tv/nl/home",
+      "title": "Ziggo GO",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "d82d2b180420416a8e238fa3d90b5e6f",
+      "frame_url": "https://www.ziggogo.tv/nl/home"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "964825088c844feab34d5af103415672",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ziggogo.tv/nl/home",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:43:07.099082+00:00",
+  "cookies": [
+    {
+      "name": "akaalb_hybrid_perseus_www_prod_nl",
+      "domain": "www.ziggogo.tv",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1809272571.933275,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_94B35888557A99487F000101_AdobeOrg_identity",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1827848571,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_94B35888557A99487F000101_AdobeOrg_cluster",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1793722372,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_94B35888557A99487F000101%40AdobeOrg",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1827416571,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1825256579,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".ziggogo.tv",
+      "path": "/",
+      "expires": 1825256579,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ziggogo.tv",
+      "localKeys": [
+        "flutter.isSessionRestorationInProgress",
+        "flutter.generatedDeviceIdKey",
+        "flutter.HorizonVisitorSegmentProvider:visitorSegment",
+        "flutter.lastSessionRestorationResult",
+        "flutter.isSessionMigrationPerformedKey"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "flutter.isSessionRestorationInProgress",
+        "flutter.generatedDeviceIdKey",
+        "flutter.HorizonVisitorSegmentProvider:visitorSegment",
+        "flutter.lastSessionRestorationResult",
+        "flutter.isSessionMigrationPerformedKey"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://privacyportal-de.onetrust.com/request/v1/consentreceipts",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:00.076355+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "AMCV_94B35888557A99487F000101%40AdobeOrg",
+      "domain": ".ziggogo.tv"
+    }
+  ],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

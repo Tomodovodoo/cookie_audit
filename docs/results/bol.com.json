@@ -1,0 +1,48 @@
+{
+  "rank": 55,
+  "domain": "bol.com",
+  "name": "bol.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:58:34.700Z",
+  "outcome": "observed",
+  "evidence": "evidence/bol.com/before.json",
+  "steps": [
+    {
+      "action": "reject",
+      "label": "Weigeren"
+    }
+  ],
+  "run": {
+    "browser_mode": "browser agent, incognito; UI-only",
+    "locale": "en-US",
+    "viewport": "1280x800 initial DOM; stage viewports in captures",
+    "egress_country": "NL",
+    "wait_seconds": 7,
+    "accept_control_enabled": false,
+    "version": "ui-import-1"
+  },
+  "checks": {
+    "reject": {
+      "status": "pass",
+      "reason": "Recorded one-click refusal completed."
+    },
+    "prominence": {
+      "status": "pass",
+      "reason": "Both choices are visible; no configured prominence disparity was found. Different colours alone are not a failure."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Browser-agent UI observation has no complete network/HttpOnly-cookie capture."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Browser-agent UI observation has no complete network/HttpOnly-cookie capture."
+    },
+    "persists": {
+      "status": "pass",
+      "reason": "Recorded refusal survived reload."
+    }
+  },
+  "rules_version": "0.2.0"
+}

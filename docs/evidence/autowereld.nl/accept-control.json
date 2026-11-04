@@ -1,0 +1,417 @@
+{
+  "frames": [
+    {
+      "url": "null/",
+      "title": "myprivacy.dpgmedia.nl",
+      "text": "This page isn’t working\n\nmyprivacy.dpgmedia.nl redirected you too many times.\n\nTry deleting your cookies.\nERR_TOO_MANY_REDIRECTS\nReload",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Try deleting your cookies",
+          "tag": "A",
+          "context": "Try deleting your cookies",
+          "box": {
+            "x": 382.6666564941406,
+            "y": 331,
+            "width": 165.1041717529297,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(26, 115, 232)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(26, 115, 232)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Reload",
+          "tag": "BUTTON",
+          "context": "This page isn’t working\n\nmyprivacy.dpgmedia.nl redirected you too many times.\n\nTry deleting your cookies.\nERR_TOO_MANY_REDIRECTS\nReload",
+          "box": {
+            "x": 382.6666564941406,
+            "y": 442.77777099609375,
+            "width": 73.59722137451172,
+            "height": 31.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(26, 115, 232)",
+            "effectiveBackground": "rgb(26, 115, 232)",
+            "fontSize": 13.125,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "chrome-error:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "chrome-error:",
+  "captured_at": "2026-11-03T15:21:31.889536+00:00",
+  "cookies": [
+    {
+      "name": "bm_so",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1793805675.669851,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xAuthId",
+      "domain": "myprivacy.dpgmedia.nl",
+      "path": "/",
+      "expires": 1827415291.51205,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "authId",
+      "domain": "myprivacy.dpgmedia.nl",
+      "path": "/",
+      "expires": 1827415291.512119,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ak_bmsc",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793726475.904879,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.e23f",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793721084,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp",
+      "domain": ".dpgmedia.net",
+      "path": "/",
+      "expires": 1825255284.979212,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_id.e23f",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1828279284.819292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_sv",
+      "domain": ".dpgmedia.nl",
+      "path": "/",
+      "expires": 1793726477.01459,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".autowereld.nl",
+      "path": "/",
+      "expires": 1796397691.483559,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [],
+  "requests": [
+    {
+      "url": "https://pg.dpgmedia.nl/api/consent",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:21:24.868351+00:00"
+    },
+    {
+      "url": "https://c.dpgmedia.net/a/b",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:21:24.880684+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:25.149428+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:25.784817+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:26.041090+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:26.210118+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:26.445330+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:26.614456+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:26.704378+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:26.821342+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:26.963259+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:27.162109+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:27.444028+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:27.707730+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:27.813026+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:27.953344+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:28.132585+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:28.212450+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:28.336876+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:28.596837+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:28.758567+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:28.835817+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.029656+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.142118+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.177232+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.246241+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.330065+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.390564+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.449361+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.520006+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.549693+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.673244+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.778486+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.803882+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:30.897645+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:31.052009+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:31.079670+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:31.192429+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:31.286916+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/privacygate-confirm",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:31.314948+00:00"
+    },
+    {
+      "url": "https://autowereld.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:31.410168+00:00"
+    },
+    {
+      "url": "https://myprivacy.dpgmedia.nl/consent",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:31.487557+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

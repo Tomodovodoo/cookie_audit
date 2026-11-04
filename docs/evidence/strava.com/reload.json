@@ -1,0 +1,1586 @@
+{
+  "frames": [
+    {
+      "url": "https://www.strava.com/",
+      "title": "Strava | Hardloop-, fiets- en hike-app: train, track en deel",
+      "text": "Activiteiten\nFuncties\nKaarten\nChallenges\nLidmaatschap\nAanmelden\nMotivatie van de community\n\nHoud je vorderingen bij en moedig elkaar aan. Voeg je gratis bij de 100 miljoen actieve mensen op Strava.\n\nBen je al lid? Inloggen\n\nRegistreren met Google\nRegistreren met Apple\nRegistreren met e-mailadres\n\nOm door te gaan, ga je akkoord met onze Servicevoorwaarden en ons Privacybeleid.\n\nFuncties\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Strava",
+          "tag": "BUTTON",
+          "context": "Activiteiten\nFuncties\nKaarten\nChallenges\nLidmaatschap\nAanmelden\nMotivatie van de community\n\nHoud je vorderingen bij en moedig elkaar aan. Voeg je gratis bij de 100 miljoen actieve mensen op Strava.\n\nBen je al lid? Inloggen\n\nRegistreren met Google\nRegistreren met Apple\nRegistreren met e-mailadres\n\nOm door te gaan, ga je akkoord met onze Servicevoorwaarden en ons Privacybeleid.\n\nFuncties\nWat is er n",
+          "box": {
+            "x": 32,
+            "y": 20.39583396911621,
+            "width": 135,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Activiteiten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 187,
+            "y": 0,
+            "width": 144.7083282470703,
+            "height": 72.79861450195312
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "26px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Functies",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 331.7083435058594,
+            "y": 0,
+            "width": 100.40277862548828,
+            "height": 72.79861450195312
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "26px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Kaarten",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 432.1111145019531,
+            "y": 0,
+            "width": 96.4375,
+            "height": 72.79861450195312
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "26px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Challenges",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 528.5486450195312,
+            "y": 0,
+            "width": 118.3263931274414,
+            "height": 72.79861450195312
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "26px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Lidmaatschap",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 646.875,
+            "y": 0,
+            "width": 139.1041717529297,
+            "height": 72.79861450195312
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "26px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Aanmelden",
+          "tag": "BUTTON",
+          "context": "Activiteiten\nFuncties\nKaarten\nChallenges\nLidmaatschap\nAanmelden\nMotivatie van de community\n\nHoud je vorderingen bij en moedig elkaar aan. Voeg je gratis bij de 100 miljoen actieve mensen op Strava.\n\nBen je al lid? Inloggen\n\nRegistreren met Google\nRegistreren met Apple\nRegistreren met e-mailadres\n\nOm door te gaan, ga je akkoord met onze Servicevoorwaarden en ons Privacybeleid.\n\nFuncties\nWat is er n",
+          "box": {
+            "x": 1197.798583984375,
+            "y": 16.39583396911621,
+            "width": 120.42361450195312,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(33, 33, 31)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(224, 224, 222)",
+            "padding": "6px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "Activiteiten\nFuncties\nKaarten\nChallenges\nLidmaatschap\nAanmelden\nMotivatie van de community\n\nHoud je vorderingen bij en moedig elkaar aan. Voeg je gratis bij de 100 miljoen actieve mensen op Strava.\n\nBen je al lid? Inloggen\n\nRegistreren met Google\nRegistreren met Apple\nRegistreren met e-mailadres\n\nOm door te gaan, ga je akkoord met onze Servicevoorwaarden en ons Privacybeleid.\n\nFuncties\nWat is er n",
+          "box": {
+            "x": 689.638916015625,
+            "y": 261.97222900390625,
+            "width": 61.75,
+            "height": 21.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(252, 82, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(252, 82, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Registreren met Google",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 473.1111145019531,
+            "y": 296.6388854980469,
+            "width": 404,
+            "height": 43.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(33, 33, 31)",
+            "background": "rgb(250, 250, 250)",
+            "effectiveBackground": "rgb(250, 250, 250)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(100, 99, 94)",
+            "padding": "10px 50px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Registreren met Apple",
+          "tag": "BUTTON",
+          "context": "Activiteiten\nFuncties\nKaarten\nChallenges\nLidmaatschap\nAanmelden\nMotivatie van de community\n\nHoud je vorderingen bij en moedig elkaar aan. Voeg je gratis bij de 100 miljoen actieve mensen op Strava.\n\nBen je al lid? Inloggen\n\nRegistreren met Google\nRegistreren met Apple\nRegistreren met e-mailadres\n\nOm door te gaan, ga je akkoord met onze Servicevoorwaarden en ons Privacybeleid.\n\nFuncties\nWat is er n",
+          "box": {
+            "x": 473.1111145019531,
+            "y": 347.75,
+            "width": 404,
+            "height": 43.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(33, 33, 31)",
+            "background": "rgb(250, 250, 250)",
+            "effectiveBackground": "rgb(250, 250, 250)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(100, 99, 94)",
+            "padding": "10px 50px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Registreren met e-mailadres",
+          "tag": "BUTTON",
+          "context": "Activiteiten\nFuncties\nKaarten\nChallenges\nLidmaatschap\nAanmelden\nMotivatie van de community\n\nHoud je vorderingen bij en moedig elkaar aan. Voeg je gratis bij de 100 miljoen actieve mensen op Strava.\n\nBen je al lid? Inloggen\n\nRegistreren met Google\nRegistreren met Apple\nRegistreren met e-mailadres\n\nOm door te gaan, ga je akkoord met onze Servicevoorwaarden en ons Privacybeleid.\n\nFuncties\nWat is er n",
+          "box": {
+            "x": 473.1111145019531,
+            "y": 398.8611145019531,
+            "width": 404,
+            "height": 43.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(252, 82, 0)",
+            "effectiveBackground": "rgb(252, 82, 0)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(252, 82, 0)",
+            "padding": "10px 50px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Servicevoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 710.4027709960938,
+            "y": 454.8611145019531,
+            "width": 108.53472137451172,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 96, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 96, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 638.4027709960938,
+            "y": 472.8611145019531,
+            "width": 70.3263931274414,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 96, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 96, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Functies",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 443.8541564941406,
+            "y": 651.6875,
+            "width": 56.625,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Wat is er nieuw?",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 443.8541564941406,
+            "y": 683.6875,
+            "width": 107.41666412353516,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Verhalen",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 443.8541564941406,
+            "y": 715.6875,
+            "width": 57.84027862548828,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Routes",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 443.8541564941406,
+            "y": 747.6875,
+            "width": 46.71527862548828,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Over",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 443.8541564941406,
+            "y": 779.6875,
+            "width": 31.45833396911621,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Lidmaatschap",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 605.3194580078125,
+            "y": 651.6875,
+            "width": 92.91666412353516,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Familielidmaatschap",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 605.3194580078125,
+            "y": 683.6875,
+            "width": 134.59722900390625,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Lidmaatschappen in bulk",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 605.3194580078125,
+            "y": 715.6875,
+            "width": 132.63194274902344,
+            "height": 39.55555725097656
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Studentenkorting",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 605.3194580078125,
+            "y": 767.6875,
+            "width": 115.83333587646484,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Korting voor docenten, militairen en medische hulpverleners (alleen VS)",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 605.3194580078125,
+            "y": 799.6875,
+            "width": 150.8402862548828,
+            "height": 79.55555725097656
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Een cadeau versturen",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 605.3194580078125,
+            "y": 891.6875,
+            "width": 142.125,
+            "height": 19.55555534362793
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Ondersteuning",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 813.3680419921875,
+            "y": 651.6875,
+            "width": 97.9375,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Bedrijven",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 813.3680419921875,
+            "y": 683.6875,
+            "width": 61.875,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Partnercentrum",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 813.3680419921875,
+            "y": 715.6875,
+            "width": 104.09027862548828,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Banen",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 813.3680419921875,
+            "y": 747.6875,
+            "width": 42.46527862548828,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Pers",
+          "tag": "A",
+          "context": "Functies\nWat is er nieuw?\nVerhalen\nRoutes\nOver\nLidmaatschap\nFamilielidmaatschap\nLidmaatschappen in bulk\nStudentenkorting\nKorting voor docenten, militairen en medische hulpverleners (alleen VS)\nEen cadeau versturen\nOndersteuning\nBedrijven\nPartnercentrum\nBanen\nPers\nPrivacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 813.3680419921875,
+            "y": 779.6875,
+            "width": 29.50694465637207,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "Privacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 971.5069580078125,
+            "y": 651.6875,
+            "width": 48.375,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Cookiebeleid",
+          "tag": "A",
+          "context": "Cookiebeleid",
+          "box": {
+            "x": 971.5069580078125,
+            "y": 683.6875,
+            "width": 85.39583587646484,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Deel mijn persoonlijke gegevens niet",
+          "tag": "BUTTON",
+          "context": "Privacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 971.5069580078125,
+            "y": 715.6875,
+            "width": 154,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "Privacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 971.5069580078125,
+            "y": 767.6875,
+            "width": 87.9513931274414,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(67, 66, 63)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(67, 66, 63)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Inloggen",
+          "tag": "A",
+          "context": "Privacy\nCookiebeleid\nDeel mijn persoonlijke gegevens niet\nVoorwaarden\nInloggen",
+          "box": {
+            "x": 971.5069580078125,
+            "y": 799.6875,
+            "width": 56.80555725097656,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(252, 82, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 248, 245)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(252, 82, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.strava.com/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/anchor",
+      "title": "reCAPTCHA",
+      "text": "beveiligd met reCAPTCHA",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 256,
+        "height": 60
+      },
+      "frame_url": "https://www.google.com/recaptcha/enterprise/anchor"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.strava.com/",
+  "captured_at": "2026-11-03T15:02:58.905218+00:00",
+  "cookies": [
+    {
+      "name": "_strava4_session",
+      "domain": ".strava.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_currentH",
+      "domain": "www.strava.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.strava.com",
+      "path": "/",
+      "expires": 1825254161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.strava.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.google.com",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.strava.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:50.337385+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.com/uc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:50.919606+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/css/6eb34ed1ed7bd0f8.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.045729+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/css/1ee368855486ec5c.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.046351+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/css/05496e7e9ab8f708.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.047387+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/css/c9a7eb26f70486a5.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.057412+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/css/c0e9d50adf06b293.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.058596+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/topbar.450b710e.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.059530+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/frame.842c929b.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.060582+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/static-layer.018008a8.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.061446+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/frame.720a1fc4.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.062199+00:00"
+    },
+    {
+      "url": "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.062933+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/webpack-0f4fb045b652c9b5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.063743+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/framework-f57877ef83d1b7cf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.064527+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/main-48ced687b39d1a0d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.065348+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/pages/_app-4ab2546ae520a53f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.066101+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/5209-441e55144e14a256.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.066844+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/5022-3e40364300671716.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.068214+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/5803-7ad9df8b958dddae.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.069008+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/5423-6449835f09162c33.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.069747+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/2553-4ce7f4683bfea66b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.070453+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/9282-6ba333e6c38a7b8e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.071212+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/chunks/pages/index-8719fa9b5dca971b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.071936+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/b67836af70dcad3f22bdd031a686d13a56c280d3/_buildManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.072684+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/b67836af70dcad3f22bdd031a686d13a56c280d3/_ssgManifest.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.073464+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/static-layer.f02c6ca4.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.074191+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/frame.877d303f.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.074913+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/static-layer.3fde1b58.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.075610+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/track-analyze.5fba41a9.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.103724+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/share-connect.64497bdd.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.105012+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/explore-compete.dbf91fa1.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.105831+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/frame.20c32256.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.106589+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/static-layer.04ccbbe8.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.107279+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/static-layer-front.fc119ec1.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.108043+00:00"
+    },
+    {
+      "url": "https://d21y75miwcfqoq.cloudfront.net/eb106224",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.108805+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/polyline-lg.c0a15bcd.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.617240+00:00"
+    },
+    {
+      "url": "https://strava-web-assets.s3.amazonaws.com/assets/fonts/Boathouse/Static/Boathouse-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.617720+00:00"
+    },
+    {
+      "url": "https://strava-web-assets.s3.amazonaws.com/assets/fonts/Boathouse/Static/Boathouse-Medium.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.618396+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/ALP-subnav-featured-item-running@1x.c53d648b.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.620799+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/ALP-subnav-featured-item-cycling@1x.1fee9e0b.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.621148+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/DesktopWide-Col-1-en-US@1x.3c006b09.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.621859+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/DesktopWide-Col-3-en-US@1x.27ace228.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.622540+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/Device-nl-NL@1x.e01c6262.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.623214+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/app-store-nl-NL@1x.f473125e.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.623820+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/play-store-nl-NL@1x.a27b883e.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.624492+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/social_tw.e4a64366.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.625281+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/social_yt.e308b8d1.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.625975+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/social_ig.de9992df.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.626855+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/social_li.ffec4f76.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.627655+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/social_fb.8f25c6b6.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.628889+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/e47bebbc-d5c7-470a-a8f6-6d858aa50ff4/settings.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.715096+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/sdk/bc-v5.min.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.747745+00:00"
+    },
+    {
+      "url": "https://o352714.ingest.sentry.io/api/5372607/envelope/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:51.776346+00:00"
+    },
+    {
+      "url": "https://www.strava.com/frontend/assets/landing-pages/locales/nl-NL/views.yml",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.777044+00:00"
+    },
+    {
+      "url": "https://www.strava.com/frontend/assets/landing-pages/locales/en-US/views.yml",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.778198+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.779308+00:00"
+    },
+    {
+      "url": "https://www.strava.com/cmp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.780389+00:00"
+    },
+    {
+      "url": "https://www.strava.com/api/next/session/getKey",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.781595+00:00"
+    },
+    {
+      "url": "https://web-assets.strava.com/assets/landing-pages/_next/static/media/static-layer-slide-in.cf8e54eb.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.782473+00:00"
+    },
+    {
+      "url": "https://o352714.ingest.sentry.io/api/5372607/envelope/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:51.791067+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.792224+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:51.974951+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/destination",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.110585+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.112733+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.113472+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:52.114114+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.com/consentconfig/e47bebbc-d5c7-470a-a8f6-6d858aa50ff4/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.115484+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/anchor",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.381679+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=15023759;type=actio0;cat=strav0;rcb=7;ord=2764908488623;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6b20h2v9200055391z871715255za20gzb71715255zd71715255xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.strava.com",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.456825+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:52.474224+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/styles__ltr.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.551772+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.556281+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/measurement/conversion",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:52.564978+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:52.565626+00:00"
+    },
+    {
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=15023759;dc_pre=CJbR-POI7JcDFShAwQMd3M8ZSQ;type=actio0;cat=strav0;rcb=7;ord=2764908488623;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6b20h2v9200055391z871715255za20gzb71715255zd71715255xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.strava.com",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.568706+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:52.573969+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/enterprise/webworker.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.797906+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.799411+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.800564+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cFy7pM4Z3Hu9boH/recaptcha__nl.js",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.891512+00:00"
+    },
+    {
+      "url": "https://d3nn82uaxijpm6.cloudfront.net/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.895749+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:57.596866+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://o352714.ingest.sentry.io/api/5372607/envelope/",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://o352714.ingest.sentry.io/api/5372607/envelope/",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=15023759;type=actio0;cat=strav0;rcb=7;ord=2764908488623;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6b20h2v9200055391z871715255za20gzb71715255zd71715255xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.strava.com",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/measurement/conversion",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ade.googlesyndication.com/ddm/activity/src=15023759;dc_pre=CJbR-POI7JcDFShAwQMd3M8ZSQ;type=actio0;cat=strav0;rcb=7;ord=2764908488623;npa=1;gdid=dMWZhNz;uaa=x86;uab=64;uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.79%7CGoogle%2520Chrome%3B156.0.8078.79;uamb=0;uam=;uap=Windows;uapv=10.0.0;uaw=0;pscdl=denied;frm=0;_tu=KFA;gtm=45fe6b20h2v9200055391z871715255za20gzb71715255zd71715255xeaxf1;gcs=G100;gcd=13q3q3q2q5l1;dma_cps=-;dma=1;dc_fmt=8;tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123691370;epver=2;~oref=https%3A%2F%2Fwww.strava.com",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/ccm/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

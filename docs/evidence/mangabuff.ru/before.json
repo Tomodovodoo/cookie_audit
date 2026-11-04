@@ -1,0 +1,134 @@
+{
+  "frames": [
+    {
+      "url": "https://mangabuff.ru/",
+      "title": "DDoS-Guard",
+      "text": "mangabuff.ru is not available\n\nIt looks like the website owner has restricted access from your current network\n\nWhy did this happen and what can I do about it?\nRequest ID:\nexu6ioWMmYmW4PlM\n|\nTime:\n2026-11-03 15:26:29 UTC\n|\nIP:",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Why did this happen and what can I do about it?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 333.5555725097656,
+            "y": 448.71527099609375,
+            "width": 698.2222290039062,
+            "height": 60
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(14, 14, 14)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(14, 14, 14)",
+            "padding": "20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Show IP address",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 868.1041870117188,
+            "y": 851.6527709960938,
+            "width": 108,
+            "height": 21
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(51, 65, 85)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(51, 65, 85)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://mangabuff.ru/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://mangabuff.ru/",
+  "captured_at": "2026-11-03T15:26:37.253254+00:00",
+  "cookies": [
+    {
+      "name": "__ddg8_",
+      "domain": ".mangabuff.ru",
+      "path": "/",
+      "expires": 1793720789.73586,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ddg10_",
+      "domain": ".mangabuff.ru",
+      "path": "/",
+      "expires": 1793720789.735955,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ddg9_",
+      "domain": ".mangabuff.ru",
+      "path": "/",
+      "expires": 1793720789.735986,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://mangabuff.ru",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://mangabuff.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:20.501981+00:00"
+    },
+    {
+      "url": "https://mangabuff.ru/.well-known/ddos-guard/geoblocked.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:26:29.889377+00:00"
+    },
+    {
+      "url": "https://mangabuff.ru/.well-known/ddos-guard/geoblocked.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:29.924986+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400
+}

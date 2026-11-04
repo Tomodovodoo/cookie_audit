@@ -1,0 +1,1466 @@
+{
+  "frames": [
+    {
+      "url": "https://www.zorgdomein.nl/auth/login",
+      "title": "ZorgDomein",
+      "text": "Inloggen voor zorgprofessionals\ninfo\nBent u patiënt?\nU heeft een e-mail met een persoonlijke link ontvangen. Gebruik deze link om in te loggen. \nMeer informatie\nopen_in_new\n.\nE-mailadres\nmail\n\nE-mailadres vergeten?\n\nWachtwoord\nlock\n\nWachtwoord vergeten?\n\nInloggen\nkeyboard_arrow_right\nDe informatie die u binnen ZorgDomein ziet is vertrouwelijk.\nNog geen zorgprofessional-account?\nhelp\nSupport",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Meer informatie open_in_new",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 497.4513854980469,
+            "y": 323.8680725097656,
+            "width": 112.8125,
+            "height": 16.88888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(1, 115, 207)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(185, 221, 250)",
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(1, 115, 207)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "E-mailadres vergeten?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 472.1805725097656,
+            "width": 156.2291717529297,
+            "height": 21.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(1, 115, 207)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(1, 115, 207)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Wachtwoord vergeten?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 599.9583129882812,
+            "width": 163.40972900390625,
+            "height": 21.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(1, 115, 207)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(1, 115, 207)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Inloggen keyboard_arrow_right",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 655.513916015625,
+            "width": 574.2222290039062,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 182, 138)",
+            "padding": "0px 16px"
+          },
+          "disabled": true,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Nog geen zorgprofessional-account?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 395.5555725097656,
+            "y": 749.826416015625,
+            "width": 261.3541564941406,
+            "height": 21.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(1, 115, 207)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(1, 115, 207)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "help Support",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1251.951416015625,
+            "y": 16,
+            "width": 89.38194274902344,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(1, 115, 207)",
+            "effectiveBackground": "rgb(1, 115, 207)",
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.zorgdomein.nl/auth/login"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.zorgdomein.nl/auth/login",
+  "captured_at": "2026-11-03T15:26:23.656005+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://www.zorgdomein.nl",
+      "localKeys": [
+        "ZD-lastActivity"
+      ],
+      "sessionKeys": [
+        "com.grafana.faro.session",
+        "com.grafana.faro.lastNavigationId"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://zorgdomein.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.581877+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/auth/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.760520+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-O35W5C6J.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.881430+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-X3DFFTF6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.885245+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-V2W3D4JO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.886079+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-4GPTXUS3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.887205+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-CCBSXPKW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.888516+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-6IA6HIZ4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.889190+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-NVCHFCEO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.889981+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-FOFLMGV7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.890894+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-CPQMR5JQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.892157+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2MPBIURH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.893332+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/polyfills-QWJLBG44.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.894206+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/main-R5VXVWDH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.895041+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/styles-YQDRE6EQ.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.895827+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KZUCCTSL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.989798+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-JWKH5PLN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.990474+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-VJ46KSVI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.991601+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EKKGJOW3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.992477+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LHVNYLZP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.993229+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-7JOXAS67.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.994077+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-JYG5J63A.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.994963+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-GCZN67ZE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.996311+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-M3EY2LAH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.997857+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-35YD54TE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:15.998841+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DG4SV26S.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.000307+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-UUZ6T4RI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.001217+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-QCJYAXCR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.002160+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-A6UZSV74.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.003057+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TI3QPWWO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.004524+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-NZFX7XXQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.005572+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-3KOK6U2B.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.006437+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TF5KUUQ7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.007193+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-IMK2VNXL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.007933+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DDONWYNA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.008692+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-MBVNCY6Y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.009866+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-3SKK3LRU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.010619+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EY32EG5N.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.011369+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-ZPMHFBB4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.012054+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-S7ZGJLP3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.012728+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-RH3NOHIQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.013843+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KLOZOWGT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.014251+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LON2N6GS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.014912+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DDVAOR4C.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.015582+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DQVFPSY3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.016368+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LG7EPRM4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.017722+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-FHDEOUOR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.018165+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KP66UYBI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.018961+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SFJ4CUO6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.020999+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KYRPV6Q6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.022043+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-6GNO2VDV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.022839+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-YYNGLI6D.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.023749+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-J7SKML5I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.025395+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-FT7KB7IL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.026176+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EXBCB4Z6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.026863+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-E6OI4SZI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.027636+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-JTPC765U.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.028809+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-OOLJQK4I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.029189+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-MJFYG5UI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.029826+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-PRUGAMNX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.030619+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2TLQKNRQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.031565+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-VBXELFOH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.032204+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-T7KFUKMP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.033236+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EJZ3ARXA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.034291+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-C5HY3AF3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.035160+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-22GS2RQV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.035954+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2FYY3BIJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.036734+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-4QCMMQXI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.037411+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-MDZYUEKR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.038205+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-HKDHAHET.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.038973+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-UPRZ43WF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.039695+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SEXIOTBU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.040396+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SY4M6IRB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.041716+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KJMPGGRJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.042544+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-GHDV5Q3D.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.043466+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KATWFYCY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.044479+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TVK5YUIB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.045284+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SWSKNBUN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.046070+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-GA3E55MX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.046743+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-ZSUDLKGN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.047414+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-B55463LN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.048087+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-K52J4WMO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.048864+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2OKYJSD4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.050621+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-ODD27RBD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.052533+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-5WYE4DYF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.053968+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-A4YIW7WP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.054762+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-G5XVDRP2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.055916+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/web/config",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.254277+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/shared/assets/favicons/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.276239+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/v2/workcontext/organization",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.343052+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/v1/workcontext/person",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.343523+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-Y723V57B.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.344269+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TFXEWIQS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.355419+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-6DYS62QZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.355929+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2OP5SJ2I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.356691+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-A5YJAHDJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.357317+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-IDJI4SPZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.357927+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-T3EDIPH2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.358528+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LJYQ2QQK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.359600+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LI7OBAP2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.376201+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/branding/21.1.0/fonts/MaterialSymbolsOutlineFillOnly.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.436473+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/v2/announcements",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.436965+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/environment-content-update/status",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.440670+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/v2/person/status",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.441106+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/shared/assets/img/logo-small.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.442230+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/shared/assets/favicons/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.442915+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/auth/login",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.445402+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-O35W5C6J.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.626539+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-X3DFFTF6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.627786+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-V2W3D4JO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.628093+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-4GPTXUS3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.628706+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-CCBSXPKW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.629276+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-6IA6HIZ4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.629871+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-NVCHFCEO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.630471+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-FOFLMGV7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.631016+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-CPQMR5JQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.631572+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2MPBIURH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.632135+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/polyfills-QWJLBG44.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.632704+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/main-R5VXVWDH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.633285+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/styles-YQDRE6EQ.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:26:16.642963+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KZUCCTSL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.015367+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-JWKH5PLN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.045644+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-VJ46KSVI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.046104+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EKKGJOW3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.046834+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LHVNYLZP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.047512+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-7JOXAS67.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.048165+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-JYG5J63A.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.048903+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-GCZN67ZE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.049821+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-M3EY2LAH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.050784+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-35YD54TE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.051996+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DG4SV26S.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.052763+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-UUZ6T4RI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.053512+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-QCJYAXCR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.054147+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-A6UZSV74.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.055201+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TI3QPWWO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.055815+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-NZFX7XXQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.056421+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-3KOK6U2B.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.057014+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TF5KUUQ7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.057576+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-IMK2VNXL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.058147+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DDONWYNA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.058717+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-MBVNCY6Y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.059279+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-3SKK3LRU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.059831+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EY32EG5N.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.060382+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-ZPMHFBB4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.060915+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-S7ZGJLP3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.061632+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-RH3NOHIQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.062188+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KLOZOWGT.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.062719+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LON2N6GS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.063292+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DDVAOR4C.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.063810+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-DQVFPSY3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.064329+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LG7EPRM4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.064837+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-FHDEOUOR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.065476+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KP66UYBI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.066288+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SFJ4CUO6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.067238+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KYRPV6Q6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.068022+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-6GNO2VDV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.068904+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-YYNGLI6D.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.069931+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-J7SKML5I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.070497+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-FT7KB7IL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.071038+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EXBCB4Z6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.071694+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-E6OI4SZI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.072291+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-JTPC765U.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.072851+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-OOLJQK4I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.073434+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-MJFYG5UI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.073988+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-PRUGAMNX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.074571+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2TLQKNRQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.075115+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-VBXELFOH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.075672+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-T7KFUKMP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.076412+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-EJZ3ARXA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.076987+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-C5HY3AF3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.077558+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-22GS2RQV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.078098+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2FYY3BIJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.078663+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-4QCMMQXI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.079220+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-MDZYUEKR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.079767+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-HKDHAHET.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.080314+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-UPRZ43WF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.080843+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SEXIOTBU.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.081407+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SY4M6IRB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.082016+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KJMPGGRJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.082812+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-GHDV5Q3D.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.083811+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-KATWFYCY.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.084445+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TVK5YUIB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.085055+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-SWSKNBUN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.086380+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-GA3E55MX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.087341+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-ZSUDLKGN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.088415+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-B55463LN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.089663+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-K52J4WMO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.090554+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2OKYJSD4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.091368+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-ODD27RBD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.092226+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-5WYE4DYF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.093038+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-A4YIW7WP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.093879+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-G5XVDRP2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.095323+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/web/config",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.466679+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/shared/assets/favicons/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.497452+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/v2/workcontext/organization",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.694338+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-Y723V57B.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.712751+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/v1/workcontext/person",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.713265+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-TFXEWIQS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.872675+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-6DYS62QZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.875943+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-2OP5SJ2I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.876542+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-A5YJAHDJ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.877292+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-IDJI4SPZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.877982+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-T3EDIPH2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.878674+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-LJYQ2QQK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:17.879376+00:00"
+    },
+    {
+      "url": "https://alloy.public.prd.aws.zorgdomein.nl/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:26:18.067141+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-MZ6ZJYWB.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:18.133530+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/application/zd-web-application/1.0.20261103-master.303340/chunk-74JYVMNC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:18.295529+00:00"
+    },
+    {
+      "url": "https://assets.zorgdomein.nl/branding/21.1.0/fonts/MaterialSymbolsOutlineFillOnly.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:26:18.795524+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/api/v2/announcements",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:26:18.796997+00:00"
+    },
+    {
+      "url": "https://www.zorgdomein.nl/shared/assets/img/logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:26:18.896647+00:00"
+    },
+    {
+      "url": "https://alloy.public.prd.aws.zorgdomein.nl/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:26:19.187604+00:00"
+    },
+    {
+      "url": "https://alloy.public.prd.aws.zorgdomein.nl/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:26:19.778049+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,362 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dyflexis.com/login",
+      "title": "Login | Dyflexis",
+      "text": "Hello again!\n\nEnter your system name to continue\n\nSystem name\nContinue to login\nWhere can I find my system name?\nPLAN SMARTER.\nPERFORM STRONGER.\n\nAlways the right people, with the right skills, at the right time. Dyflexis gives you full control over capacity, costs, and quality.\n\nPrevent understaffing during peaks\nSkills-based planning\nLabor law compliancy\nCapacity Management\nSkills\nPerformance\nCapacity",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Where can I find my system name?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 565.7777709960938,
+            "y": 422,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Continue to login",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 290.6666564941406,
+            "y": 494,
+            "width": 320,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(247, 244, 243)",
+            "background": "rgb(1, 143, 220)",
+            "effectiveBackground": "rgb(1, 143, 220)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(247, 244, 243)",
+            "padding": "1px 6px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Where can I find my system name?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 333.84722900390625,
+            "y": 566,
+            "width": 233.63888549804688,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(27, 173, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(8, 19, 40)",
+            "fontSize": 14,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(27, 173, 255)",
+            "padding": "2px 4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Capacity Management",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 933.3333129882812,
+            "y": 348,
+            "width": 257.3819580078125,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "8px 12px 8px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Skills",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 933.3333129882812,
+            "y": 812,
+            "width": 63.17361068725586,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Performance",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1004.5069580078125,
+            "y": 812,
+            "width": 123.25,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Capacity",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1135.7569580078125,
+            "y": 812,
+            "width": 94.35416412353516,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Pause",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1281.3333740234375,
+            "y": 814,
+            "width": 28,
+            "height": 28
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(8, 19, 40)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(8, 19, 40)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.dyflexis.com/login"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html"
+    },
+    {
+      "url": "https://framer.com/edit",
+      "title": "",
+      "text": "\n\n\n\n\n\n\n\t\n\t\t// Keep these keys in sync with DarkModeProvider.tsx\n\t\tvar userDarkMode = localStorage.getItem(\"dark-mode\") === \"true\"\n\t\tvar overrideSystem = localStorage.getItem(\"dark-mode-override-system\") === \"true\"\n\t\tvar systemDarkMode = matchMedia(\"(prefers-color-scheme: dark)\").matches\n\t\tvar isDarkMode = overrideSystem ? userDarkMode : systemDarkMode\n\t\tif (isDarkMode) {\n\t\t\tdocument.body.classList.add(\"framer-theme-dark\")\n\t\t}\n\n\t\t// Set release channel as class on body.\n\t\tvar framerReleaseChannel = window.framerRelease && window.framerRelease.channel\n\t\tif (framerReleaseChannel) {\n\t\t\tdocument.body.classList.add(\"framer-release-\" + framerReleaseChannel)\n\t\t}\n\n\t\n\n\n\n\n\n\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://framer.com/edit"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.dyflexis.com/login",
+  "captured_at": "2026-11-03T15:27:56.838644+00:00",
+  "cookies": [
+    {
+      "name": "CookieConsent",
+      "domain": "www.dyflexis.com",
+      "path": "/",
+      "expires": 1825255669,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.dyflexis.com",
+      "localKeys": [
+        "_li_ses.5182",
+        "snowplowOutQueue_leadinfo_cl1_post2",
+        "_li_id.5182.expires",
+        "_li_ses.5182.expires",
+        "snowplowOutQueue_leadinfo_cl1_post2.expires",
+        "_li_id.5182"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_li_ses.5182",
+        "snowplowOutQueue_leadinfo_cl1_post2",
+        "_li_id.5182.expires",
+        "_li_ses.5182.expires",
+        "snowplowOutQueue_leadinfo_cl1_post2.expires",
+        "_li_id.5182"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.eu",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://framer.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:49.786618+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/logconsent.ashx",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:49.804624+00:00"
+    },
+    {
+      "url": "https://framerusercontent.com/images/7nc1XNOVztt6aR1cW36Lk8ogzw.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:49.810880+00:00"
+    },
+    {
+      "url": "https://api.taggrs.io/api/v1/requests/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:27:49.892987+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/6d4a7bcf-c4a0-4c4d-bf94-00ba46244e32/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:27:49.893439+00:00"
+    },
+    {
+      "url": "https://collector.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:27:53.980484+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://collector.leadinfo.net/com.snowplowanalytics.snowplow/tp2",
+      "categories": [
+        "Advertising",
+        "FingerprintingInvasive"
+      ]
+    }
+  ],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

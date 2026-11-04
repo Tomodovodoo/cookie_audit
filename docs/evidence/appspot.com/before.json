@@ -1,0 +1,416 @@
+{
+  "frames": [
+    {
+      "url": "https://accounts.google.com/v3/signin/identifier",
+      "title": "Google Cloud Platform",
+      "text": "Wordt geladen\nInloggen\nDoorgaan naar Google Cloud Platform\nE-mailadres of telefoonnummer\nE-mailadres vergeten?\nNiet jouw computer? Gebruik de gastmodus om privé in te loggen. Meer informatie over het gebruik van de gastmodus\nVolgende\nAccount maken\nNederlands\nHelp\nPrivacy\nVoorwaarden",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "E-mailadres vergeten?",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 706.6666870117188,
+            "y": 399.3333435058594,
+            "width": 152.5902862548828,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(11, 87, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(11, 87, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Meer informatie over het gebruik van de gastmodus",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 706.6666870117188,
+            "y": 483.3333435058594,
+            "width": 351.47222900390625,
+            "height": 17.33333396911621
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(11, 87, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(11, 87, 208)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Volgende",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1019.8541870117188,
+            "y": 543,
+            "width": 109.47916412353516,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(11, 87, 208)",
+            "effectiveBackground": "rgb(11, 87, 208)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Account maken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 862.263916015625,
+            "y": 543,
+            "width": 133.5902862548828,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(11, 87, 208)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(11, 87, 208)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Help",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 934.875,
+            "y": 627,
+            "width": 49.35416793823242,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(31, 31, 31)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 244, 249)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(31, 31, 31)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 992.2291870117188,
+            "y": 627,
+            "width": 64.02777862548828,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(31, 31, 31)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 244, 249)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(31, 31, 31)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Voorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1064.2569580078125,
+            "y": 627,
+            "width": 97.0763931274414,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(31, 31, 31)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 244, 249)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(31, 31, 31)",
+            "padding": "8px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://accounts.google.com/v3/signin/identifier"
+    },
+    {
+      "url": "https://accounts.youtube.com/accounts/CheckConnection",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://accounts.youtube.com/accounts/CheckConnection"
+    },
+    {
+      "url": "https://accounts.google.com/_/bscframe",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://accounts.google.com/_/bscframe"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://accounts.google.com/v3/signin/identifier",
+  "captured_at": "2026-11-03T15:31:39.195457+00:00",
+  "cookies": [
+    {
+      "name": "__Host-GAPS",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1828279891.422144,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1809531091.422198,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OTZ",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1796311892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://accounts.google.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://accounts.youtube.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://accounts.google.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://appspot.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:31.148165+00:00"
+    },
+    {
+      "url": "https://console.cloud.google.com/appengine",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:31.229233+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/ServiceLogin",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:31.350956+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/v3/signin/identifier",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:31.427609+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlEhQFS1s7ZDwX2ygpG6VxRM81C8xg/dti=1/m=_b,_tp",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:31.561981+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/images/branding/googleg_gradient/svg/googleg_gradient_standard_48px.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:31.563489+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/googlesans/v62/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCI.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:31:31.573096+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=_b,_tp/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=byfTOb,lsjVmc,LEikZe",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.100113+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=LEikZe,_b,_tp,byfTOb,lsjVmc/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=n73qwf,SCuOPb,IZT63,YYmHzb,pw70Gc,UUJqVe,ws9Tlc,KUM7Z,siKnQd,gJzDyc,cciGGe,m9oV,vjKJJ,y5vRwf,L1AAkb,DqMihc,K1ZKnb,ZSzced,lkFgGf,SD8Jgb,mvkUhe,CMcBD,Fndnac,t2srLd,EN3i8d,z0u0L,xiZRqc,L9OGUe,PrPYRd,MpJwZc,cYShmd,QIhFr,inNHtf,oLggrd,eWuMIe,WpP9Yc,xQtZb,lwddkf,tUnxGc,jNpgbe,EFQ78c,hc6Ubd,kqeOEd,SpsfSb,zbML3c,zr1jrb,vHEMJe,YTxL4,YHI3We,OVRNMb,shdUjf,Uas9Hd,zy0vNb,OgOVNe,K0PMbc,MY7mZe,qmdT9,GwYlN,NLiXbe,LDQI",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.116626+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=CMcBD,DqMihc,EFQ78c,EN3i8d,Fndnac,GwYlN,IZT63,K0PMbc,K1ZKnb,KUM7Z,L1AAkb,L9OGUe,LDQI,LEikZe,MY7mZe,MpJwZc,NLiXbe,OVRNMb,OgOVNe,PrPYRd,QIhFr,SCuOPb,SD8Jgb,SpsfSb,UUJqVe,Uas9Hd,WpP9Yc,YHI3We,YTxL4,YYmHzb,ZSzced,_b,_tp,byfTOb,cYShmd,cciGGe,eWuMIe,gJzDyc,hc6Ubd,inNHtf,jNpgbe,kqeOEd,lkFgGf,lsjVmc,lwddkf,m9oV,mvkUhe,n73qwf,oLggrd,pw70Gc,qmdT9,shdUjf,siKnQd,t2srLd,tUnxGc,vHEMJe,vjKJJ,ws9Tlc,xQtZb,xiZRqc,y5vRwf,z0u0L,zbML3c,zr1jrb,zy0vNb/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=UMu52b,rmumx,E87wgc,qPYxq,Tbb4sb,pxq3x,f8Gu1e,soHxf,YgOFye,oqkvIf,aXwZ4c,yRXbo,bTi8wc,ywOR5c,PHUIyb",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.117100+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=CMcBD,DqMihc,E87wgc,EFQ78c,EN3i8d,Fndnac,GwYlN,IZT63,K0PMbc,K1ZKnb,KUM7Z,L1AAkb,L9OGUe,LDQI,LEikZe,MY7mZe,MpJwZc,NLiXbe,OVRNMb,OgOVNe,PHUIyb,PrPYRd,QIhFr,SCuOPb,SD8Jgb,SpsfSb,Tbb4sb,UMu52b,UUJqVe,Uas9Hd,WpP9Yc,YHI3We,YTxL4,YYmHzb,YgOFye,ZSzced,_b,_tp,aXwZ4c,bTi8wc,byfTOb,cYShmd,cciGGe,eWuMIe,f8Gu1e,gJzDyc,hc6Ubd,inNHtf,jNpgbe,kqeOEd,lkFgGf,lsjVmc,lwddkf,m9oV,mvkUhe,n73qwf,oLggrd,oqkvIf,pw70Gc,pxq3x,qPYxq,qmdT9,rmumx,shdUjf,siKnQd,soHxf,t2srLd,tUnxGc,vHEMJe,vjKJJ,ws9Tlc,xQtZb,xiZRqc,y5vRwf,yRXbo,ywOR5c,z0u0L,zbML3c,zr1jrb,zy0vNb/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=p3hmRc,LvGhrf,RqjULd",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.396893+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.397334+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=CMcBD,DqMihc,E87wgc,EFQ78c,EN3i8d,Fndnac,GwYlN,IZT63,K0PMbc,K1ZKnb,KUM7Z,L1AAkb,L9OGUe,LDQI,LEikZe,LvGhrf,MY7mZe,MpJwZc,NLiXbe,OVRNMb,OgOVNe,PHUIyb,PrPYRd,QIhFr,RqjULd,SCuOPb,SD8Jgb,SpsfSb,Tbb4sb,UMu52b,UUJqVe,Uas9Hd,WpP9Yc,YHI3We,YTxL4,YYmHzb,YgOFye,ZSzced,_b,_tp,aXwZ4c,bTi8wc,byfTOb,cYShmd,cciGGe,eWuMIe,f8Gu1e,gJzDyc,hc6Ubd,inNHtf,jNpgbe,kqeOEd,lkFgGf,lsjVmc,lwddkf,m9oV,mvkUhe,n73qwf,oLggrd,oqkvIf,p3hmRc,pw70Gc,pxq3x,qPYxq,qmdT9,rmumx,shdUjf,siKnQd,soHxf,t2srLd,tUnxGc,vHEMJe,vjKJJ,ws9Tlc,xQtZb,xiZRqc,y5vRwf,yRXbo,ywOR5c,z0u0L,zbML3c,zr1jrb,zy0vNb/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=ZwDk9d,RMhBfe",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.398440+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=CMcBD,DqMihc,E87wgc,EFQ78c,EN3i8d,Fndnac,GwYlN,IZT63,K0PMbc,K1ZKnb,KUM7Z,L1AAkb,L9OGUe,LDQI,LEikZe,LvGhrf,MY7mZe,MpJwZc,NLiXbe,OVRNMb,OgOVNe,PHUIyb,PrPYRd,QIhFr,RMhBfe,RqjULd,SCuOPb,SD8Jgb,SpsfSb,Tbb4sb,UMu52b,UUJqVe,Uas9Hd,WpP9Yc,YHI3We,YTxL4,YYmHzb,YgOFye,ZSzced,ZwDk9d,_b,_tp,aXwZ4c,bTi8wc,byfTOb,cYShmd,cciGGe,eWuMIe,f8Gu1e,gJzDyc,hc6Ubd,inNHtf,jNpgbe,kqeOEd,lkFgGf,lsjVmc,lwddkf,m9oV,mvkUhe,n73qwf,oLggrd,oqkvIf,p3hmRc,pw70Gc,pxq3x,qPYxq,qmdT9,rmumx,shdUjf,siKnQd,soHxf,t2srLd,tUnxGc,vHEMJe,vjKJJ,ws9Tlc,xQtZb,xiZRqc,y5vRwf,yRXbo,ywOR5c,z0u0L,zbML3c,zr1jrb,zy0vNb/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=ZDZcre,w9hDv,A7fCU",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.420119+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=A7fCU,CMcBD,DqMihc,E87wgc,EFQ78c,EN3i8d,Fndnac,GwYlN,IZT63,K0PMbc,K1ZKnb,KUM7Z,L1AAkb,L9OGUe,LDQI,LEikZe,LvGhrf,MY7mZe,MpJwZc,NLiXbe,OVRNMb,OgOVNe,PHUIyb,PrPYRd,QIhFr,RMhBfe,RqjULd,SCuOPb,SD8Jgb,SpsfSb,Tbb4sb,UMu52b,UUJqVe,Uas9Hd,WpP9Yc,YHI3We,YTxL4,YYmHzb,YgOFye,ZDZcre,ZSzced,ZwDk9d,_b,_tp,aXwZ4c,bTi8wc,byfTOb,cYShmd,cciGGe,eWuMIe,f8Gu1e,gJzDyc,hc6Ubd,inNHtf,jNpgbe,kqeOEd,lkFgGf,lsjVmc,lwddkf,m9oV,mvkUhe,n73qwf,oLggrd,oqkvIf,p3hmRc,pw70Gc,pxq3x,qPYxq,qmdT9,rmumx,shdUjf,siKnQd,soHxf,t2srLd,tUnxGc,vHEMJe,vjKJJ,w9hDv,ws9Tlc,xQtZb,xiZRqc,y5vRwf,yRXbo,ywOR5c,z0u0L,zbML3c,zr1jrb,zy0vNb/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=uKyK2e,iAskyc,ziXSP,tHIJ4c",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.441025+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=A7fCU,CMcBD,DqMihc,E87wgc,EFQ78c,EN3i8d,Fndnac,GwYlN,IZT63,K0PMbc,K1ZKnb,KUM7Z,L1AAkb,L9OGUe,LDQI,LEikZe,LvGhrf,MY7mZe,MpJwZc,NLiXbe,OVRNMb,OgOVNe,PHUIyb,PrPYRd,QIhFr,RMhBfe,RqjULd,SCuOPb,SD8Jgb,SpsfSb,Tbb4sb,UMu52b,UUJqVe,Uas9Hd,WpP9Yc,YHI3We,YTxL4,YYmHzb,YgOFye,ZDZcre,ZSzced,ZwDk9d,_b,_tp,aXwZ4c,bTi8wc,byfTOb,cYShmd,cciGGe,eWuMIe,f8Gu1e,gJzDyc,hc6Ubd,iAskyc,inNHtf,jNpgbe,kqeOEd,lkFgGf,lsjVmc,lwddkf,m9oV,mvkUhe,n73qwf,oLggrd,oqkvIf,p3hmRc,pw70Gc,pxq3x,qPYxq,qmdT9,rmumx,shdUjf,siKnQd,soHxf,t2srLd,tHIJ4c,tUnxGc,uKyK2e,vHEMJe,vjKJJ,w9hDv,ws9Tlc,xQtZb,xiZRqc,y5vRwf,yRXbo,ywOR5c,z0u0L,zbML3c,ziXSP,zr1jrb,zy0vNb/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=P6sQOc",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.456621+00:00"
+    },
+    {
+      "url": "https://accounts.youtube.com/accounts/CheckConnection",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.504143+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/_/bscframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.519913+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/generate_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.617749+00:00"
+    },
+    {
+      "url": "https://play.google.com/log",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:31:32.685545+00:00"
+    },
+    {
+      "url": "https://play.google.com/log",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:31:32.687316+00:00"
+    },
+    {
+      "url": "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.nl.BWjKxQYJ70Q.es5.O/ck=boq-identity.AccountsSignInUi.P2x-5leb3Zg.L.B1.O/am=nw9CAAAAABzhJQAASADQvwEABAjWAe-1AEyAkAEAABAAAAAAAC4DANAigA/d=1/exm=A7fCU,CMcBD,DqMihc,E87wgc,EFQ78c,EN3i8d,Fndnac,GwYlN,IZT63,K0PMbc,K1ZKnb,KUM7Z,L1AAkb,L9OGUe,LDQI,LEikZe,LvGhrf,MY7mZe,MpJwZc,NLiXbe,OVRNMb,OgOVNe,P6sQOc,PHUIyb,PrPYRd,QIhFr,RMhBfe,RqjULd,SCuOPb,SD8Jgb,SpsfSb,Tbb4sb,UMu52b,UUJqVe,Uas9Hd,WpP9Yc,YHI3We,YTxL4,YYmHzb,YgOFye,ZDZcre,ZSzced,ZwDk9d,_b,_tp,aXwZ4c,bTi8wc,byfTOb,cYShmd,cciGGe,eWuMIe,f8Gu1e,gJzDyc,hc6Ubd,iAskyc,inNHtf,jNpgbe,kqeOEd,lkFgGf,lsjVmc,lwddkf,m9oV,mvkUhe,n73qwf,oLggrd,oqkvIf,p3hmRc,pw70Gc,pxq3x,qPYxq,qmdT9,rmumx,shdUjf,siKnQd,soHxf,t2srLd,tHIJ4c,tUnxGc,uKyK2e,vHEMJe,vjKJJ,w9hDv,ws9Tlc,xQtZb,xiZRqc,y5vRwf,yRXbo,ywOR5c,z0u0L,zbML3c,ziXSP,zr1jrb,zy0vNb/excm=_b,_tp,identifierview/ed=1/wt=2/ujg=1/rs=AOaEmlG8wggCzsrh2wcTYlDt0WLwbu0qPQ/ee=ASJRFf:DAnQ7e;Al0B8:kibjWe;BcQPH:lOY4De;DaIJ8c:iAskyc;EVNhjf:pw70Gc;EkYFhd:GwYlN;EmZ2Bf:zr1jrb;JsbNhc:Xd8iUd;K5nYTd:ZDZcre;LBgRLc:XVMNvd;Me32dd:MEeYgc;NJ1rfe:qTnoBf;NPKaK:PVlQOd;NSEoX:lazG7b;Pjplud:EEDORb;QGR0gd:Mlhmy;Qi0VDf:Z8tw0d;QmdKjc:F43khe;RXZJ9:NlLKQc;SMDL4c:K0PMbc;SNUn3:ZwDk9d;ScI3Yc:e7Hzgb;UpnZUd:nnwwYc;Uvc8o:VDovNc;UyjXyd:qXkWrc;VlRiDf:j7ZRif;XdiAjb:NLiXbe;YIZmRd:A1yn5d;a56pNe:JEfCwb;cEt90b:ws9Tlc;dIoSBb:SpsfSb;dowIGb:ebZ3mb;eBAeSb:zbML3c;iFQyKf:QIhFr;j9c1Cc:xywqXb;lGvXed:Gtn19d;lOO0Vd:OTA3Ae;nTuGK:JKNPM;oGtAuc:sOXFj;oSUNyd:K0PMbc;oXZmbc:tUnxGc;pXdRYb:L9OGUe;qQEoOc:KUM7Z;qafBPd:yDVVkb;qddgKe:xQtZb;sHdTOe:nSePib;tNTPZc:bCwP4c;twueg:ouk7y;vNjB7d:YTxL4;wPl4gf:eRWIQd;wR5FRb:siKnQd;wc73nd:kqeOEd;yxTchf:KUM7Z/dti=1/m=Wt6vjf,hhhU8,FCpbqb,WhJNk",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:31:32.690668+00:00"
+    },
+    {
+      "url": "https://accounts.google.com/v3/signin/_/AccountsSignInUi/browserinfo",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:31:35.358854+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

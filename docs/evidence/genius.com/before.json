@@ -1,0 +1,167 @@
+{
+  "frames": [
+    {
+      "url": "https://genius.com/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://genius.com/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/60otf/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/60otf/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://genius.com/",
+  "captured_at": "2026-11-03T15:03:26.090177+00:00",
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": 1793719998.32849,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://genius.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://genius.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:03:17.714931+00:00"
+    },
+    {
+      "url": "https://genius.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:03:17.775196+00:00"
+    },
+    {
+      "url": "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:17.862101+00:00"
+    },
+    {
+      "url": "https://genius.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:17.882893+00:00"
+    },
+    {
+      "url": "https://platform.twitter.com/widgets.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:17.883435+00:00"
+    },
+    {
+      "url": "https://librato-collector.genius.com/v1/metrics",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:03:17.898529+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:03:18.223909+00:00"
+    },
+    {
+      "url": "https://genius.com/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c43cf889566a0/mad15QsTuxKe2zqhIA7DaT5JLJ_R3dDfckvYT34GzTA-1793718197-1.2.1.1-KkwplWMQSlGb2RRiN4tO_NaD5izE47NWcwCjOnHk2SIl2EGR4g3WMIK8zQcx8xa6",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:03:18.237454+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/60otf/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:03:18.428182+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c43d3cb5b9ff9/CoRzGZf0XnM4Lf8IKmSha-oZZal9VJO_kqoCFNcMrpAx5IraqO4-LyyeqFpu5_Gmij7T1w13zzJbqvmWLFEs6EoLw499UPCtqh-QTLVVk6mMUQzt2orUd88v8rYYd8yJJA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:03:18.769955+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c43d3cb5b9ff9/1793718198703/d74e6e9f784417386b9483fddda163382afc7935a1c4f44f9ac2368ecedcc546/CkMsnwJRgfECH_KxeilQONUPgAczFBmBwNNURZ9WCdvUx4FtQSPvGZ9tVdcSKIIwp52FeuhWpy6rgqmFLqf3Jie2GsMEP8wPAlYTlWaJQhZabOgn9Pc9CmUPl1BUPI5l3_XpArKthPUHORDMbabDtjuOJGbo6wVrot4WQhj5oHxh-0ht5TyQt3RHWUMhHqYsmUOh0UhffJGZ5ox-SLNfTUGzuSo7J2KHBOe_SfqUKPJ1vrHryl34OuQkqTqj_y3p4AXrdJUD2PtFmYLdDQvbUPakG88kc7gp5R-jKJ38mWbMXEwGt8tUAcMy7T-KNPLdndH0u5S1JFm6VsLitlIkTtKmOuGkgJhp9c3pIDKDSEc9Wp9HubqMgpFmaAXLw8HjBvJoyXafdiJIuQJR4SNW7hB5m9bLxP8UdOwq_Nd9lxk04Zkelvp32TXKE-KzNJpYSOWeGl6vN_zRYYX6khCKh2wkgDoZ5VB134H-LttrWY5OECQp5Q-GdtkicWlVA2d34t8uhuVvEtZmQyc0iXdz3GTeB4zr9pmuvTAJGzSifcBGKbOFKVdS28AW8KaM9oWMm4ue2WQsL8f2VDimv5tWTUdoRlBXZAvKxHDEmIkpCn0bqrdhKGTZXV1DWOvI6qd60TWPP7cf8Vshz0vKvxsi1j8Cisk",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:03:19.146686+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c43d3cb5b9ff9/CoRzGZf0XnM4Lf8IKmSha-oZZal9VJO_kqoCFNcMrpAx5IraqO4-LyyeqFpu5_Gmij7T1w13zzJbqvmWLFEs6EoLw499UPCtqh-QTLVVk6mMUQzt2orUd88v8rYYd8yJJA",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:03:19.152736+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c43d3cb5b9ff9/1793718198705/Cj4c8-zv9i4vq-CNy0Hbq7KoKrXoZMY9E2H0MmNDyL07upcVokpnid0DhFsYDhrPQ34cDfuypCFFXEhHM2Z_97tCKVSRszEO_IDJA5Quja6RxVaBdyDWqhutXaMmEvliYfzDvAJZaDjvBQyotw1-w-QqhPWgeMagLiYN0Xw6rjQGTjshbyxZXU2BC7hYjevObXbC7o_TGJuZneWOAZe55Qa3JHNPbgMtq7V0PPID4q8OCjMoZVSyt3S-Qyec8WuHanzwBoD3OX8VqJXNr1IDvuLfK4qP8i7mv4_pyhQzcPfvI4gCW1JuUBPoeq6fitEwTkrMtOn4hVS-CwDbvbjQtdLeYCPb1G0zbEZsHtROfdhVFcLeO-cZKh-SujLj2hzg9O1Xh3zM-GFcoa0R6H8NWRkyCikmwPT_oQ1E_FLJX7UJ-IKRdvr-3cdqkZOei6HROvttKQnNemkcbwpda31S6Ds-3e_vRcUMXKgMMPg5ufFdfmLSQtVY61UaiudQyc4iPmHHYiV6I-XJ3hMprnRcw97ZCcD2jcVPLxLZwm6M_IhESEIi3VzFJ-Z8LmQTgjj_AC-TulE18BVprPEq29OIYx0yZg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:03:19.502393+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c43d3cb5b9ff9/CoRzGZf0XnM4Lf8IKmSha-oZZal9VJO_kqoCFNcMrpAx5IraqO4-LyyeqFpu5_Gmij7T1w13zzJbqvmWLFEs6EoLw499UPCtqh-QTLVVk6mMUQzt2orUd88v8rYYd8yJJA",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:03:20.305316+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://platform.twitter.com/widgets.js",
+      "categories": [
+        "Social"
+      ]
+    }
+  ],
+  "context_excerpt_limit": 400,
+  "blocked": true
+}

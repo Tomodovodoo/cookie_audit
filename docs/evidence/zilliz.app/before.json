@@ -1,0 +1,368 @@
+{
+  "frames": [
+    {
+      "url": "https://zilliz.app/zilliz/",
+      "title": "ZilliZ - Inloggen",
+      "text": "Gebruikersnaam\nWachtwoord\nIk ben mijn wachtwoord vergeten\n\nDeze applicatie is alleen toegankelijk voor geautoriseerde gebruikers.\n\n© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Inloggen",
+          "tag": "INPUT",
+          "context": "Gebruikersnaam\nWachtwoord\nIk ben mijn wachtwoord vergeten\n\nDeze applicatie is alleen toegankelijk voor geautoriseerde gebruikers.\n\n© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+          "box": {
+            "x": 513.6666870117188,
+            "y": 473.6111145019531,
+            "width": 338,
+            "height": 37.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(119, 184, 41)",
+            "effectiveBackground": "rgb(119, 184, 41)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(119, 184, 41)",
+            "padding": "6px 40px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Ik ben mijn wachtwoord vergeten",
+          "tag": "A",
+          "context": "Gebruikersnaam\nWachtwoord\nIk ben mijn wachtwoord vergeten\n\nDeze applicatie is alleen toegankelijk voor geautoriseerde gebruikers.\n\n© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+          "box": {
+            "x": 571.4444580078125,
+            "y": 537.1666870117188,
+            "width": 222.4375,
+            "height": 20
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(133, 156, 180)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(133, 156, 180)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "ZilliZ",
+          "tag": "A",
+          "context": "© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+          "box": {
+            "x": 385.1388854980469,
+            "y": 855,
+            "width": 61.125,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(26, 192, 240)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "info@zilliz.nl",
+          "tag": "A",
+          "context": "© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+          "box": {
+            "x": 446.2638854980469,
+            "y": 855,
+            "width": 107.1388931274414,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(26, 192, 240)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "0317415665",
+          "tag": "A",
+          "context": "© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+          "box": {
+            "x": 553.4027709960938,
+            "y": 855,
+            "width": 101.58333587646484,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(26, 192, 240)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Privacyverklaring",
+          "tag": "A",
+          "context": "© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+          "box": {
+            "x": 654.9861450195312,
+            "y": 855,
+            "width": 133.4027862548828,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(26, 192, 240)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Cookiebeleid",
+          "tag": "A",
+          "context": "Cookiebeleid",
+          "box": {
+            "x": 788.388916015625,
+            "y": 855,
+            "width": 108.90277862548828,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(26, 192, 240)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Cookies",
+          "tag": "A",
+          "context": "Cookies",
+          "box": {
+            "x": 897.2916870117188,
+            "y": 855,
+            "width": 78.35416412353516,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(26, 192, 240)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Trust Centre",
+          "tag": "A",
+          "context": "© 2024 Visma\nZilliZ\ninfo@zilliz.nl\n0317415665\nPrivacyverklaring\nCookiebeleid\nCookies\nTrust Centre",
+          "box": {
+            "x": 975.6458129882812,
+            "y": 855,
+            "width": 103.44444274902344,
+            "height": 37
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(255, 255, 255, 0.5)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(26, 192, 240)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(255, 255, 255, 0.5)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://zilliz.app/zilliz/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://zilliz.app/zilliz/",
+  "captured_at": "2026-11-03T15:27:06.203467+00:00",
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "domain": "zilliz.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALB",
+      "domain": "zilliz.app",
+      "path": "/",
+      "expires": 1794324418.334796,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "domain": "zilliz.app",
+      "path": "/",
+      "expires": 1794324418.334897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://zilliz.app",
+      "localKeys": [],
+      "sessionKeys": [
+        "sentryReplaySession"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://zilliz.app/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.265591+00:00"
+    },
+    {
+      "url": "https://zilliz.app/zilliz/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.311486+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/css/zilliz.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.356322+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/js/zilliz.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.360254+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/img/zilliz_logo_tekst.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.360611+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/js/paginaspecifiek/login/index.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.361466+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/css/fonts/source-sans-pro-v11-latin-600.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.782729+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/css/fonts/source-sans-pro-v11-latin-regular.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.783489+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/css/fonts/source-sans-pro-v11-latin-700.woff",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.784628+00:00"
+    },
+    {
+      "url": "https://o4508336999563264.ingest.de.sentry.io/api/4508358500024400/envelope/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:26:58.795882+00:00"
+    },
+    {
+      "url": "https://static.zilliz.app/applicatie/assets/img/icons/z/icon-32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:26:58.838292+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://o4508336999563264.ingest.de.sentry.io/api/4508358500024400/envelope/",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

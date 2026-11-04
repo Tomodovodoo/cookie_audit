@@ -1,0 +1,4045 @@
+{
+  "frames": [
+    {
+      "url": "https://www.autotrack.nl/",
+      "title": "Auto nodig? Check. AutoTrack!",
+      "text": "Auto zoeken\n\nAutogids\n\nHulp bij kopen\n\nMijn AutoTrack\n\nVind makkelijk een passende auto\nCheck.\n\n25 jaar ervaring\n\nTips van experts\n\nGratis autorapport\n\nMerk\n\nModel\n\nPrijs tot\n\nBouwjaar vanaf\n\nBekijk 226.121 resultaten\n\nDownload onze app\n\nVind nog makkelijker je ideale auto\n\nHier zoeken anderen naar\nBenzine\nHybride\nElektrisch\nStationwagen\nSUV\n\nBenzine auto kopen?\n\nDan komt deze informatie goed van pas.\n\nJody\n\nBenzine auto's voor jou\n\nKies uit 115.000+ benzine auto's.\n\nVolkswagen Up!\n\nBetaalbaar en zuinig.\n\nToyota Yaris\n\nBetrouwbare benzine-auto.\n\nFord Fiesta\n\nEen feest om in te rijden.\n\nRenault Clio\n\nOok als stationwagen verkrijgbaar.\n\nMINI Cooper\n\nVoor sportieve rijders.\n\nSEAT Ibiza\n\nVeel ruimte voor je geld.\n\nHulp bij je autozoektocht\nPopulaire carrosserievarianten\n\nAuto’s zijn er in verschillende vormen, ook wel carrosserieën genoemd. Welke carrosserie is voor jou het beste? Lees er alles over en ontdek de voor- en nadelen per vorm.\n\nLees over carrosserievormen\n\nSUV\n\n70.000+ auto’s\n\nStationwagen\n\n20.000+ auto's\n\nSedan\n\n8.000+ auto’s\n\nHatchback\n\n65.000+ auto’s\n\nCoupé\n\n2.500+ auto’s\n\nPopulaire merken\n\nOp AutoTrack zijn meer dan 120 automerken vertegenwoordigd. Heb je nog geen idee welk merk het beste bij jou past? Laat je inspireren door ons blog over automerken.\n\nLees over automerken\n\nBMW\n\n10.000+ auto's\n\nAudi\n\n10.000+ auto's\n\nMercedes-Benz\n\n15.000+ auto's\n\nVolkswagen\n\n20.000+ auto's\n\nToyota\n\n10.000+ auto's\n\nProfiteer van onze expertise\n\nMaak kennis met Niels, Jody, Edwin en de andere experts van Team AutoTrack, en ontdek hun tips, adviezen en aanraders. Team AutoTrack staat voor jou klaar.\n\nTips en advies\n\nAlle tips en adviezen die je nodig hebt in je autozoektocht, vind je in blogs van Team AutoTrack.\n\nOccasions in de buurt\n\nBenieuwd welke autobedrijven in de buurt zitten en welke occasions ze aanbieden? Vul je postcode in en ontdek het.\n\nAankooptips\n\nMet deze tips zet je jouw autozoektocht in een hogere versnelling.\n\nWat kost een auto per maand?\n\nEen van onze experts vertelt je met welke kosten je te maken krijgt en hoe je zelf berekent wat een auto per maand kost.\n\n25 jaar ervaring\n\nElke dag meer dan 5.000 nieuwe auto’s\n\nGratis het meest complete autorapport\n\nHeb je hulp nodig?\n\nDe experts van AutoTrack helpen je graag.\n\nBel ons\n\nMa t/m do: 9:00u tot 17:00u\n\nVr: 9:00u tot 16:00u\n\nMail ons",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 75.11111450195312,
+            "y": 17,
+            "width": 160,
+            "height": 22
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 235, 51)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-1",
+          "text": "Auto zoeken",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 295.1111145019531,
+            "y": 10,
+            "width": 136,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 235, 51)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "10px 8px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-2",
+          "text": "Autogids",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 459.1111145019531,
+            "y": 10,
+            "width": 109.18055725097656,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 235, 51)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "10px 8px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-3",
+          "text": "Hulp bij kopen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 596.2916870117188,
+            "y": 10,
+            "width": 149.22222900390625,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 235, 51)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "10px 8px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-4",
+          "text": "Mijn AutoTrack",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1120.173583984375,
+            "y": 10,
+            "width": 154.9375,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 235, 51)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "10px 8px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-5",
+          "text": "Bekijk 226.121 resultaten",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 958.2222290039062,
+            "y": 568,
+            "width": 288,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(10, 38, 108)",
+            "background": "rgb(255, 235, 51)",
+            "effectiveBackground": "rgb(255, 235, 51)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-6",
+          "text": "Benzine",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 40,
+            "y": 1278,
+            "width": 67.11805725097656,
+            "height": 59.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255) rgb(255, 255, 255) rgb(0, 40, 216)",
+            "padding": "20px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-7",
+          "text": "Hybride",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 139.11805725097656,
+            "y": 1278,
+            "width": 66.22222137451172,
+            "height": 59.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "20px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-8",
+          "text": "Elektrisch",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 237.3402862548828,
+            "y": 1278,
+            "width": 81.5625,
+            "height": 59.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "20px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-9",
+          "text": "Stationwagen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 350.90277099609375,
+            "y": 1278,
+            "width": 114.42361450195312,
+            "height": 59.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "20px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-10",
+          "text": "SUV",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 497.3263854980469,
+            "y": 1278,
+            "width": 36.9444465637207,
+            "height": 59.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "20px 0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-11",
+          "text": "Benzine auto kopen? Dan komt deze informatie goed van pas. Jody",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 40,
+            "y": 1370.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 251, 229)",
+            "effectiveBackground": "rgb(255, 251, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-12",
+          "text": "Benzine auto's voor jou Kies uit 115.000+ benzine auto's.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 376,
+            "y": 1370.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(233, 240, 247)",
+            "effectiveBackground": "rgb(233, 240, 247)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(233, 240, 247)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-13",
+          "text": "Volkswagen Up! Betaalbaar en zuinig.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 712,
+            "y": 1370.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-14",
+          "text": "Toyota Yaris Betrouwbare benzine-auto.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 40,
+            "y": 1621.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-15",
+          "text": "Ford Fiesta Een feest om in te rijden.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 376,
+            "y": 1621.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-16",
+          "text": "Renault Clio Ook als stationwagen verkrijgbaar.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 712,
+            "y": 1621.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-17",
+          "text": "MINI Cooper Voor sportieve rijders.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 40,
+            "y": 1872.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-18",
+          "text": "SEAT Ibiza Veel ruimte voor je geld.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 376,
+            "y": 1872.6666259765625,
+            "width": 320,
+            "height": 235
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-19",
+          "text": "Lees over carrosserievormen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 476.7361145019531,
+            "y": 2407.666748046875,
+            "width": 368.7430725097656,
+            "height": 16
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(233, 240, 247)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-20",
+          "text": "SUV 70.000+ auto’s",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 476.7361145019531,
+            "y": 2455.666748046875,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-21",
+          "text": "Stationwagen 20.000+ auto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 476.7361145019531,
+            "y": 2541.444580078125,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-22",
+          "text": "Sedan 8.000+ auto’s",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 476.7361145019531,
+            "y": 2627.22216796875,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-23",
+          "text": "Hatchback 65.000+ auto’s",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 476.7361145019531,
+            "y": 2713,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-24",
+          "text": "Coupé 2.500+ auto’s",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 476.7361145019531,
+            "y": 2798.77783203125,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-25",
+          "text": "Lees over automerken",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901.4791870117188,
+            "y": 2407.666748046875,
+            "width": 368.7430725097656,
+            "height": 16
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(233, 240, 247)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-26",
+          "text": "BMW 10.000+ auto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901.4791870117188,
+            "y": 2455.666748046875,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-27",
+          "text": "Audi 10.000+ auto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901.4791870117188,
+            "y": 2541.444580078125,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-28",
+          "text": "Mercedes-Benz 15.000+ auto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901.4791870117188,
+            "y": 2627.22216796875,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-29",
+          "text": "Volkswagen 20.000+ auto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901.4791870117188,
+            "y": 2713,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-30",
+          "text": "Toyota 10.000+ auto's",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 901.4791870117188,
+            "y": 2798.77783203125,
+            "width": 368.7430725097656,
+            "height": 69.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "12px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-31",
+          "text": "Tips en advies Alle tips en adviezen die je nodig hebt in je autozoektocht, vind je in blogs van Team AutoTrack.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 40,
+            "y": 3120.5556640625,
+            "width": 275.5555725097656,
+            "height": 444
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 251, 229)",
+            "effectiveBackground": "rgb(255, 251, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-32",
+          "text": "Occasions in de buurt Benieuwd welke autobedrijven in de buurt zitten en welke occasions ze aanbieden? Vul je postcode in en ontdek het.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 371.5555725097656,
+            "y": 3120.5556640625,
+            "width": 275.5555725097656,
+            "height": 444
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 251, 229)",
+            "effectiveBackground": "rgb(255, 251, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-33",
+          "text": "Aankooptips Met deze tips zet je jouw autozoektocht in een hogere versnelling.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 703.1111450195312,
+            "y": 3120.5556640625,
+            "width": 275.5555725097656,
+            "height": 444
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 251, 229)",
+            "effectiveBackground": "rgb(255, 251, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-34",
+          "text": "Wat kost een auto per maand? Een van onze experts vertelt je met welke kosten je te maken krijgt en hoe je zelf berekent wat een auto per maand kost.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1034.6666259765625,
+            "y": 3120.5556640625,
+            "width": 275.5555725097656,
+            "height": 444
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 251, 229)",
+            "effectiveBackground": "rgb(255, 251, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "24px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-35",
+          "text": "Bel ons",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 355.1111145019531,
+            "y": 3988.5556640625,
+            "width": 300,
+            "height": 56
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(10, 38, 108)",
+            "background": "rgb(255, 235, 51)",
+            "effectiveBackground": "rgb(255, 235, 51)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "16px 6px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-36",
+          "text": "Mail ons",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 695.1111450195312,
+            "y": 3988.5556640625,
+            "width": 300,
+            "height": 56
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(0, 40, 216)",
+            "background": "rgb(233, 240, 247)",
+            "effectiveBackground": "rgb(233, 240, 247)",
+            "fontSize": 16,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(192, 212, 236)",
+            "padding": "16px 6px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        },
+        {
+          "id": "ca-37",
+          "text": "Feedback",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 1305.2222900390625,
+            "y": 565,
+            "width": 45,
+            "height": 130
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 229, 229)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "d1aee681a29845ae8caa4d5efbb3e5e8",
+      "frame_url": "https://www.autotrack.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "c794c84501ab4eabbbce156e3487a0cb",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "ac5e4d90fc2a4b188954c13ffec77a9e",
+      "frame_url": "https://cm.g.doubleclick.net/partnerpixels"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "title": "",
+      "text": "\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "eed8f4fa620b4399a8713efd67d36031",
+      "frame_url": "https://gum.criteo.com/syncframe"
+    },
+    {
+      "url": "https://www.autotrack.nl/",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "1d988790361745fe8f42b0045f811999",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "86ba2853562943d590e3d9bad4b66631",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://482d9f77d92dfaa01ab32101d87118ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "title": "SafeFrame Container",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "85ffe99d0f6541f5a5ab2df5f4bacbc4",
+      "frame_url": "https://482d9f77d92dfaa01ab32101d87118ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "title": "",
+      "text": "/** Anti-fraud and anti-abuse applications only. See google.com/recaptcha */ try{var clients={'sodar':'https://pagead2.googlesyndication.com/pagead/sodar','sodar_atqg':'https://ep1.adtrafficquality.google/pagead/sodar'};window.addEventListener(\"message\",function(a){try{if(a.source===window.parent){var b=JSON.parse(a.data);var c=clients[b['id']];if(c){var d=document.createElement('img');d.src=c+b['params']+'&rc='+(localStorage.getItem(\"rc::a\")?sessionStorage.getItem(\"rc::b\"):\"\");window.document.body.appendChild(d);sessionStorage.setItem(\"rc::e\",parseInt(sessionStorage.getItem(\"rc::e\")||0)+1);localStorage.setItem(\"rc::h\",'1793720468563');}}}catch(b){}});window.parent.postMessage(\"_grecaptcha_ready\", \"*\");}catch(b){}",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "571b0133197947ba872aca8bb4926d5f",
+      "frame_url": "https://www.google.com/recaptcha/api2/aframe"
+    },
+    {
+      "url": "https://google-bidout-d.openx.net/w/1.0/pd",
+      "title": "Pixels",
+      "text": "\n\n\n\n\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "fe47978dbee44094ac161ebead92ff81",
+      "frame_url": "https://google-bidout-d.openx.net/w/1.0/pd"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "6740a1e9c78e4766b134c4ba6787ac5c",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://t2.autotrack.nl/_/service_worker/6al0/sw_iframe.html",
+      "title": "",
+      "text": "[Browser error/configuration or script text omitted.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "ab1601481ee148aa90c69ef58bcc44a1",
+      "frame_url": "https://t2.autotrack.nl/_/service_worker/6al0/sw_iframe.html"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "title": "",
+      "text": "\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "4a1259fab4c64f508baedc1a9777724e",
+      "frame_url": "https://gum.criteo.com/syncframe"
+    },
+    {
+      "url": "https://www.autotrack.nl/",
+      "title": "Usabilla Feedback Button",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 45,
+        "height": 130
+      },
+      "frame_id": "6f90ae20713f4935a68e99859bc2d978",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/index.html",
+      "title": "index",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 728,
+        "height": 90
+      },
+      "frame_id": "fb757cabeecb4d9cb2782a83bed45b47",
+      "frame_url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/index.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "ab44173fe2a94cf4a8aac9b29d5e2723",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.autotrack.nl/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "26"
+        ],
+        "specialFeaturesGranted": [
+          "1",
+          "2"
+        ],
+        "vendorsConsented": 235,
+        "legitimateInterestPurposes": [
+          "2",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "25"
+        ]
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:41:14.412127+00:00",
+  "cookies": [
+    {
+      "name": "as24Visitor",
+      "domain": "www.autotrack.nl",
+      "path": "/",
+      "expires": 1825256467.215447,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "om",
+      "domain": "www.autotrack.nl",
+      "path": "/",
+      "expires": 1796312456.053684,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "domain": "www.autotrack.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "domain": "www.autotrack.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1825256467.215539,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cconsent-v2",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1825256467.215582,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "addtl_consent",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1825256467.215618,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "as24-cmp-signature",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1825256467.215642,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__rtbh.ssgtm.aid",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1828280467.951378,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uid",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827416467.382311,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gads",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1827416467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1827416467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1809272467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_7V1FP9LXV9",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1828280468.671753,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1828280468.673892,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__rtbh.aid",
+      "domain": "www.autotrack.nl",
+      "path": "/",
+      "expires": 1825256468,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__rtbh.lid",
+      "domain": "www.autotrack.nl",
+      "path": "/",
+      "expires": 1825256468,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_ses.c3cf",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1793722268,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.c3cf",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1828280468.784993,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "usbls",
+      "domain": "www.autotrack.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1828280469.111579,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1793792469.111698,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPGSID",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1793722269.111766,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "g",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1825256469.134476,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1825256469.134549,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1825256469.1346,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1827416469,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sp",
+      "domain": ".dpgmedia.net",
+      "path": "/",
+      "expires": 1825256469.15852,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "qtracker",
+      "domain": ".www.autotrack.nl",
+      "path": "/",
+      "expires": 1793893269,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1827416469.216702,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gtmeec",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1801496469.258069,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "MUID",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1827416469.907405,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496469.84245,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496469.84261,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "domain": ".autotrack.nl",
+      "path": "/",
+      "expires": 1801496469,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tluid",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1801496469.881988,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1825256469.909237,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1801496469.771034,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1801496469.909316,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_viewer",
+      "domain": ".teads.tv",
+      "path": "/",
+      "expires": 1825170069.795735,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KADUSERCOOKIE",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1825256469.795917,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SPugT",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1796312469.795962,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256469.898811,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256469.796927,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1825256469.898908,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id5",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1801496469.800287,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1801496469.842563,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1801496469.987337,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1801496469.987464,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "domain": ".1rx.io",
+      "path": "/",
+      "expires": 1825252869.875483,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1794325269.907532,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "criteo",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1794930069.909676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "am_tokens",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1794930069.909722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "am_tokens_eu-v1",
+      "domain": "exchange.mediavine.com",
+      "path": "/",
+      "expires": 1794930069.909753,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1809272470.020257,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitor",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1825256469.95777,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "status",
+      "domain": ".postrelease.com",
+      "path": "/",
+      "expires": 1825256469.957819,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tvid",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1825277369.977302,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tv_UICR",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1796312469.977383,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1801496469.981768,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1827934869.981802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1796312469.981823,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256469.991371,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256469.991497,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256469.991529,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1825256469.991562,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1801496469.991609,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1809272470.02033,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_gid",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1825256470.042286,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1825256470.042342,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "domain": ".targeting.unrulymedia.com",
+      "path": "/",
+      "expires": 1825252870.105905,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitor-id",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1804088470.111483,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "data-c",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1796312470.11154,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "data-c-ts",
+      "domain": ".media.net",
+      "path": "/",
+      "expires": 1796312470.111586,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1827416469.136296,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SEUNCY",
+      "domain": ".semasio.net",
+      "path": "/",
+      "expires": 1825256470.242829,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_uid",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1824824470.492021,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ljt_reader",
+      "domain": ".lijit.com",
+      "path": "/",
+      "expires": 1825256470.7299,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "3pi",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1801496471.608664,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sw_marker",
+      "domain": ".smilewanted.com",
+      "path": "/",
+      "expires": 1825277423.725013,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.autotrack.nl",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "__rtbh.lid",
+        "usbl.35ece27cb34d.c.a6d9eac413c9",
+        "cto_bundle",
+        "qtracker_exp",
+        "snowplowOutQueue_snowplow_dpg_post2.expires",
+        "_GESPSK-id5-sync.com",
+        "usbl.35ece27cb34d.c.2fa1e35b9286",
+        "_GESPSK-esp.criteo.com",
+        "gtmBrowserId",
+        "usbl.35ece27cb34d.c.a8fdbb0d6478",
+        "nextauth.message",
+        "usbl.35ece27cb34d.c.8fadddb91e1f",
+        "lastExternalReferrerTime",
+        "usbl.35ece27cb34d.c.145b4dcb8acc",
+        "usbl.35ece27cb34d.v",
+        "qtracker",
+        "snowplowOutQueue_snowplow_dpg_post2",
+        "NRBA_SESSION::6c11bb1f",
+        "_GESPSK-openx",
+        "lastExternalReferrer",
+        "usbl.35ece27cb34d.c.f44de1a8c6a3",
+        "__rtbh.aid",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": [
+        "__rtbh.lid",
+        "__rtbh.aid",
+        "cmpPopupShownEventSent"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "__rtbh.lid",
+        "usbl.35ece27cb34d.c.a6d9eac413c9",
+        "cto_bundle",
+        "qtracker_exp",
+        "snowplowOutQueue_snowplow_dpg_post2.expires",
+        "_GESPSK-id5-sync.com",
+        "usbl.35ece27cb34d.c.2fa1e35b9286",
+        "_GESPSK-esp.criteo.com",
+        "gtmBrowserId",
+        "usbl.35ece27cb34d.c.a8fdbb0d6478",
+        "nextauth.message",
+        "usbl.35ece27cb34d.c.8fadddb91e1f",
+        "lastExternalReferrerTime",
+        "usbl.35ece27cb34d.c.145b4dcb8acc",
+        "usbl.35ece27cb34d.v",
+        "qtracker",
+        "snowplowOutQueue_snowplow_dpg_post2",
+        "NRBA_SESSION::6c11bb1f",
+        "_GESPSK-openx",
+        "lastExternalReferrer",
+        "usbl.35ece27cb34d.c.f44de1a8c6a3",
+        "__rtbh.aid",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": [
+        "__rtbh.lid",
+        "__rtbh.aid",
+        "cmpPopupShownEventSent"
+      ]
+    },
+    {
+      "origin": "https://cm.g.doubleclick.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://gum.criteo.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.autotrack.nl",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "__rtbh.lid",
+        "usbl.35ece27cb34d.c.a6d9eac413c9",
+        "cto_bundle",
+        "qtracker_exp",
+        "snowplowOutQueue_snowplow_dpg_post2.expires",
+        "_GESPSK-id5-sync.com",
+        "usbl.35ece27cb34d.c.2fa1e35b9286",
+        "_GESPSK-esp.criteo.com",
+        "gtmBrowserId",
+        "usbl.35ece27cb34d.c.a8fdbb0d6478",
+        "nextauth.message",
+        "usbl.35ece27cb34d.c.8fadddb91e1f",
+        "lastExternalReferrerTime",
+        "usbl.35ece27cb34d.c.145b4dcb8acc",
+        "usbl.35ece27cb34d.v",
+        "qtracker",
+        "snowplowOutQueue_snowplow_dpg_post2",
+        "NRBA_SESSION::6c11bb1f",
+        "_GESPSK-openx",
+        "lastExternalReferrer",
+        "usbl.35ece27cb34d.c.f44de1a8c6a3",
+        "__rtbh.aid",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": [
+        "__rtbh.lid",
+        "__rtbh.aid",
+        "cmpPopupShownEventSent"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "__rtbh.lid",
+        "usbl.35ece27cb34d.c.a6d9eac413c9",
+        "cto_bundle",
+        "qtracker_exp",
+        "snowplowOutQueue_snowplow_dpg_post2.expires",
+        "_GESPSK-id5-sync.com",
+        "usbl.35ece27cb34d.c.2fa1e35b9286",
+        "_GESPSK-esp.criteo.com",
+        "gtmBrowserId",
+        "usbl.35ece27cb34d.c.a8fdbb0d6478",
+        "nextauth.message",
+        "usbl.35ece27cb34d.c.8fadddb91e1f",
+        "lastExternalReferrerTime",
+        "usbl.35ece27cb34d.c.145b4dcb8acc",
+        "usbl.35ece27cb34d.v",
+        "qtracker",
+        "snowplowOutQueue_snowplow_dpg_post2",
+        "NRBA_SESSION::6c11bb1f",
+        "_GESPSK-openx",
+        "lastExternalReferrer",
+        "usbl.35ece27cb34d.c.f44de1a8c6a3",
+        "__rtbh.aid",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": [
+        "__rtbh.lid",
+        "__rtbh.aid",
+        "cmpPopupShownEventSent"
+      ]
+    },
+    {
+      "origin": "https://482d9f77d92dfaa01ab32101d87118ff.safeframe.googlesyndication.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.google.com",
+      "localKeys": [
+        "rc::h"
+      ],
+      "sessionKeys": [
+        "rc::e"
+      ]
+    },
+    {
+      "origin": "https://google-bidout-d.openx.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "__rtbh.lid",
+        "usbl.35ece27cb34d.c.a6d9eac413c9",
+        "cto_bundle",
+        "qtracker_exp",
+        "snowplowOutQueue_snowplow_dpg_post2.expires",
+        "_GESPSK-id5-sync.com",
+        "usbl.35ece27cb34d.c.2fa1e35b9286",
+        "_GESPSK-esp.criteo.com",
+        "gtmBrowserId",
+        "usbl.35ece27cb34d.c.a8fdbb0d6478",
+        "nextauth.message",
+        "usbl.35ece27cb34d.c.8fadddb91e1f",
+        "lastExternalReferrerTime",
+        "usbl.35ece27cb34d.c.145b4dcb8acc",
+        "usbl.35ece27cb34d.v",
+        "qtracker",
+        "snowplowOutQueue_snowplow_dpg_post2",
+        "NRBA_SESSION::6c11bb1f",
+        "_GESPSK-openx",
+        "lastExternalReferrer",
+        "usbl.35ece27cb34d.c.f44de1a8c6a3",
+        "__rtbh.aid",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": [
+        "__rtbh.lid",
+        "__rtbh.aid",
+        "cmpPopupShownEventSent"
+      ]
+    },
+    {
+      "origin": "https://t2.autotrack.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://gum.criteo.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://www.autotrack.nl",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "__rtbh.lid",
+        "usbl.35ece27cb34d.c.a6d9eac413c9",
+        "cto_bundle",
+        "qtracker_exp",
+        "snowplowOutQueue_snowplow_dpg_post2.expires",
+        "_GESPSK-id5-sync.com",
+        "usbl.35ece27cb34d.c.2fa1e35b9286",
+        "_GESPSK-esp.criteo.com",
+        "gtmBrowserId",
+        "usbl.35ece27cb34d.c.a8fdbb0d6478",
+        "nextauth.message",
+        "usbl.35ece27cb34d.c.8fadddb91e1f",
+        "lastExternalReferrerTime",
+        "usbl.35ece27cb34d.c.145b4dcb8acc",
+        "usbl.35ece27cb34d.v",
+        "qtracker",
+        "snowplowOutQueue_snowplow_dpg_post2",
+        "NRBA_SESSION::6c11bb1f",
+        "_GESPSK-openx",
+        "lastExternalReferrer",
+        "usbl.35ece27cb34d.c.f44de1a8c6a3",
+        "__rtbh.aid",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": [
+        "__rtbh.lid",
+        "__rtbh.aid",
+        "cmpPopupShownEventSent"
+      ]
+    },
+    {
+      "origin": "https://s0.2mdn.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "_GESPSK-esp.pubmatic.com",
+        "__rtbh.lid",
+        "usbl.35ece27cb34d.c.a6d9eac413c9",
+        "cto_bundle",
+        "qtracker_exp",
+        "snowplowOutQueue_snowplow_dpg_post2.expires",
+        "_GESPSK-id5-sync.com",
+        "usbl.35ece27cb34d.c.2fa1e35b9286",
+        "_GESPSK-esp.criteo.com",
+        "gtmBrowserId",
+        "usbl.35ece27cb34d.c.a8fdbb0d6478",
+        "nextauth.message",
+        "usbl.35ece27cb34d.c.8fadddb91e1f",
+        "lastExternalReferrerTime",
+        "usbl.35ece27cb34d.c.145b4dcb8acc",
+        "usbl.35ece27cb34d.v",
+        "qtracker",
+        "snowplowOutQueue_snowplow_dpg_post2",
+        "NRBA_SESSION::6c11bb1f",
+        "_GESPSK-openx",
+        "lastExternalReferrer",
+        "usbl.35ece27cb34d.c.f44de1a8c6a3",
+        "__rtbh.aid",
+        "_GESPSK-rtbhouse"
+      ],
+      "sessionKeys": [
+        "__rtbh.lid",
+        "__rtbh.aid",
+        "cmpPopupShownEventSent"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.autotrack.nl/consent-management/accept-all",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:41:06.938277+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.354383+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.424970+00:00"
+    },
+    {
+      "url": "https://oa.openxcdn.net/esp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.426128+00:00"
+    },
+    {
+      "url": "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.426655+00:00"
+    },
+    {
+      "url": "https://cdn.id5-sync.com/api/1.0/esp.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.427335+00:00"
+    },
+    {
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.428219+00:00"
+    },
+    {
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.429134+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.429797+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.430647+00:00"
+    },
+    {
+      "url": "https://482d9f77d92dfaa01ab32101d87118ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.457592+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.816317+00:00"
+    },
+    {
+      "url": "https://rtb.openx.net/esp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.889566+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:07.980443+00:00"
+    },
+    {
+      "url": "https://scripts.webcontentassessor.com/scripts/89b212fe900afdc5c5053b0a1a8f6bb05c5c93366a0f53595e309a0ef0d3416b",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.004275+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/api/esp/increment",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.028751+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.029395+00:00"
+    },
+    {
+      "url": "https://sp.dpgmedia.net/68GC0udRiTWOX0eR3pky_v3.9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.030173+00:00"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.030842+00:00"
+    },
+    {
+      "url": "https://tags.creativecdn.com/P3NUiR9TazGBjHf90Sdh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.031795+00:00"
+    },
+    {
+      "url": "https://dynamic.criteo.com/js/ld/ld.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.061066+00:00"
+    },
+    {
+      "url": "https://dev.visualwebsiteoptimizer.com/j.php",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.061535+00:00"
+    },
+    {
+      "url": "https://api.qooqie.com/v2/bundle",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.062196+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.252307+00:00"
+    },
+    {
+      "url": "https://w.usabilla.com/35ece27cb34d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.253010+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.382767+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.383345+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.384617+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.385281+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.385892+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.386797+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.388014+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.388780+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.389403+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.389995+00:00"
+    },
+    {
+      "url": "https://482d9f77d92dfaa01ab32101d87118ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.510108+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.514983+00:00"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/aframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.518819+00:00"
+    },
+    {
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.551065+00:00"
+    },
+    {
+      "url": "https://google-bidout-d.openx.net/w/1.0/pd",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.551788+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sid/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.565118+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.809758+00:00"
+    },
+    {
+      "url": "https://mug.criteo.com/sid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.918607+00:00"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/1417470476265557",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.919907+00:00"
+    },
+    {
+      "url": "https://t2.autotrack.nl/g/collect",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.920448+00:00"
+    },
+    {
+      "url": "https://t2.autotrack.nl/_/service_worker/6al0/sw_iframe.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.923085+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/879366/dfa7banner_html_inpage_rendering_lib_200_268.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.953971+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite_fy2021.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.954755+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/syncframe",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.956859+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.958431+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.958812+00:00"
+    },
+    {
+      "url": "https://d6tizftlrpuof.cloudfront.net/themes/production/automotive-mediaventions-button-b7ec963bb4c0918381623c816b4e3817.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.959858+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-45/js/ext.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.981714+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:08.982318+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/p/action/5438485.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.001408+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.015251+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.016592+00:00"
+    },
+    {
+      "url": "https://ams.creativecdn.com/tags/v2",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.028176+00:00"
+    },
+    {
+      "url": "https://api.qooqie.com/v2/createCookie",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.044811+00:00"
+    },
+    {
+      "url": "https://c.dpgmedia.net/a/b",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.045290+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sid/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.116261+00:00"
+    },
+    {
+      "url": "https://t2.autotrack.nl/_/service_worker/6al0/sw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.123806+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.152183+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.152780+00:00"
+    },
+    {
+      "url": "https://mug.criteo.com/sid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.159564+00:00"
+    },
+    {
+      "url": "https://c0-6fa785b9720f4f63a070b585fe6b7723.ecs.us-east-2.on.aws/events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.159743+00:00"
+    },
+    {
+      "url": "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.160831+00:00"
+    },
+    {
+      "url": "https://www.facebook.com/tr/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.166553+00:00"
+    },
+    {
+      "url": "https://ams.creativecdn.com/tags/v2",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.183891+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.186737+00:00"
+    },
+    {
+      "url": "https://bat.bing.net/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.188962+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/p/insights/t/5438485",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.190292+00:00"
+    },
+    {
+      "url": "https://bat.bing.net/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.194176+00:00"
+    },
+    {
+      "url": "https://bat.bing.net/action/0",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.194839+00:00"
+    },
+    {
+      "url": "https://region1.analytics.google.com/g/s/collect",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.197395+00:00"
+    },
+    {
+      "url": "https://www.google.nl/ads/ga-audiences",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.199772+00:00"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.200273+00:00"
+    },
+    {
+      "url": "https://t2.autotrack.nl/_/set_cookie",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.201345+00:00"
+    },
+    {
+      "url": "https://t2.autotrack.nl/_/set_cookie",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.202708+00:00"
+    },
+    {
+      "url": "https://sslwidget.criteo.com/event",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.217055+00:00"
+    },
+    {
+      "url": "https://code.createjs.com/1.0.0/createjs.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.222158+00:00"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.0/gsap.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.242158+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/index.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.242666+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.244329+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.245307+00:00"
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.246109+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.257711+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.275333+00:00"
+    },
+    {
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.284353+00:00"
+    },
+    {
+      "url": "https://ams46.creativecdn.com/info",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.295263+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/p/insights/s/0.8.75",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.428937+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.433325+00:00"
+    },
+    {
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.433999+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.434606+00:00"
+    },
+    {
+      "url": "https://simage4.pubmatic.com/AdServer/SPug",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.435200+00:00"
+    },
+    {
+      "url": "https://criteo-sync.teads.tv/um",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.448103+00:00"
+    },
+    {
+      "url": "https://criteo-partners.tremorhub.com/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.448943+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/xuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.449642+00:00"
+    },
+    {
+      "url": "https://r.casalemedia.com/rum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.450250+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.450869+00:00"
+    },
+    {
+      "url": "https://ad.yieldlab.net/m",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.451588+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/s/966/9.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.452440+00:00"
+    },
+    {
+      "url": "https://ad.360yield.com/match",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.453403+00:00"
+    },
+    {
+      "url": "https://exchange.mediavine.com/usersync/push",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.455454+00:00"
+    },
+    {
+      "url": "https://sync.1rx.io/usersync/criteodsp/k-LQpYwLD66N-vd9VaR4RV20MexO94qreKGlNMcg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.456654+00:00"
+    },
+    {
+      "url": "https://c.bing.com/c.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.457521+00:00"
+    },
+    {
+      "url": "https://jadserve.postrelease.com/suid/1017",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.458185+00:00"
+    },
+    {
+      "url": "https://sync.outbrain.com/cookie-sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.458936+00:00"
+    },
+    {
+      "url": "https://cs.media.net/cksync.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.460422+00:00"
+    },
+    {
+      "url": "https://simage2.pubmatic.com/AdServer/Pug",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.461259+00:00"
+    },
+    {
+      "url": "https://pixel.rubiconproject.com/tap.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.462025+00:00"
+    },
+    {
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.462701+00:00"
+    },
+    {
+      "url": "https://sync-t1.taboola.com/sg/criteortb-network/1/rtb-h/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.463314+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/bounce",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.472861+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/cars.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.473206+00:00"
+    },
+    {
+      "url": "https://bam.nr-data.net/browser/blobs",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.605033+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w1.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.666499+00:00"
+    },
+    {
+      "url": "https://dis.criteo.com/dis/rtb/appnexus/cookiematch.aspx",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.674612+00:00"
+    },
+    {
+      "url": "https://as24-tracking-monitor.as24-business-telemetry.eu-west-1.infinity.as24.tech/tag-monitor/client",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.716507+00:00"
+    },
+    {
+      "url": "https://dis.criteo.com/dis/rtb/google/cookiematch.aspx",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.736403+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/c/966/966/9/1.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.736878+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w2.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.748219+00:00"
+    },
+    {
+      "url": "https://ib.adnxs.com/setuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.749496+00:00"
+    },
+    {
+      "url": "https://dpm.demdex.net/ibs:dpid=28645&dpuuid=gnXbwV9BTWdlZmNzZDc3VFpzRXc5MHZDRGJuclVXT2RvTVE5ZTB3WmVpdGl3TUE5TG9CVDBXUEY2ZllHOXAlMkJOdkJmSXA",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.799603+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/xuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.800181+00:00"
+    },
+    {
+      "url": "https://r.casalemedia.com/rum",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.828984+00:00"
+    },
+    {
+      "url": "https://bat.bing.com/p/insights/c/r",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:41:09.830685+00:00"
+    },
+    {
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.840128+00:00"
+    },
+    {
+      "url": "https://x.bidswitch.net/ul_cb/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.841385+00:00"
+    },
+    {
+      "url": "https://eb2.3lift.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.841704+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w3.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.909626+00:00"
+    },
+    {
+      "url": "https://ad.360yield.com/ul_cb/match",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.940468+00:00"
+    },
+    {
+      "url": "https://sync.1rx.io/usersync/criteodsp/k-LQpYwLD66N-vd9VaR4RV20MexO94qreKGlNMcg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.949074+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/c/966/170/8/2.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.952311+00:00"
+    },
+    {
+      "url": "https://dpm.demdex.net/demconf.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.973785+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w4.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:09.989652+00:00"
+    },
+    {
+      "url": "https://sync.targeting.unrulymedia.com/csync/RX-7c168505-339f-46fa-935c-f46a1cee1a9e-003",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.007840+00:00"
+    },
+    {
+      "url": "https://uipglob.semasio.net/id5/1/get",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.039998+00:00"
+    },
+    {
+      "url": "https://gum.criteo.com/sync",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.073937+00:00"
+    },
+    {
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w5.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.077818+00:00"
+    },
+    {
+      "url": "https://aa.agkn.com/adscores/g.pixel",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.168800+00:00"
+    },
+    {
+      "url": "https://uipglob.semasio.net/id5/1/get2",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.197502+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/c/966/112/7/3.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.260419+00:00"
+    },
+    {
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.335808+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/c/966/429/6/4.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.377357+00:00"
+    },
+    {
+      "url": "https://s.seedtag.com/cs/cookiesync/id5",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.411094+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/c/966/1095/5/5.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.526060+00:00"
+    },
+    {
+      "url": "https://ce.lijit.com/merge",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.584830+00:00"
+    },
+    {
+      "url": "https://ce.lijit.com/merge",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:10.696123+00:00"
+    },
+    {
+      "url": "https://id5-sync.com/c/966/1405/4/6.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:11.592021+00:00"
+    },
+    {
+      "url": "https://csync.smilewanted.com/getuid",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:41:11.627343+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "fail",
+    "reason": "Known advertising identifier cookies were present without consent."
+  },
+  "signals": [
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".autotrack.nl"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "IDE",
+      "domain": ".doubleclick.net"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "uuid2",
+      "domain": ".adnxs.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "_fbp",
+      "domain": ".autotrack.nl"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "anj",
+      "domain": ".adnxs.com"
+    },
+    {
+      "kind": "marketing_cookie",
+      "name": "cto_bundle",
+      "domain": ".criteo.com"
+    }
+  ],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_7V1FP9LXV9",
+      "domain": ".autotrack.nl"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".autotrack.nl"
+    },
+    {
+      "kind": "multipurpose_identifier",
+      "name": "MUID",
+      "domain": ".bing.com"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/getconfig/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/partnerpixels",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://oa.openxcdn.net/esp.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ads.pubmatic.com/AdServer/js/google-esp.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cdn.id5-sync.com/api/1.0/esp.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.criteo.net/js/ld/publishertag.ids.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://invstatic101.creativecdn.com/encrypted-signals/encrypted-tag-g.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://482d9f77d92dfaa01ab32101d87118ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb.openx.net/esp",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/syncframe",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://scripts.webcontentassessor.com/scripts/89b212fe900afdc5c5053b0a1a8f6bb05c5c93366a0f53595e309a0ef0d3416b",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/api/esp/increment",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tags.creativecdn.com/P3NUiR9TazGBjHf90Sdh.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dynamic.criteo.com/js/ld/ld.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dev.visualwebsiteoptimizer.com/j.php",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/bat.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://w.usabilla.com/35ece27cb34d.js",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://482d9f77d92dfaa01ab32101d87118ff.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/sodar/sodar2/257/runner.html",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://google-bidout-d.openx.net/w/1.0/pd",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sid/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mug.criteo.com/sid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://connect.facebook.net/signals/config/1417470476265557",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/879366/dfa7banner_html_inpage_rendering_lib_200_268.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/pagead/js/r20261102/r20110914/abg_lite_fy2021.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/syncframe",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-45/js/ext.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/p/action/5438485.js",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/bg/USqDBxxaEB81OiiQK_4M73OMxxzDlOjcXMsYnMsZeLg.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/sodar",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ams.creativecdn.com/tags/v2",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sid/json",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/index.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mug.criteo.com/sid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.facebook.com/tr/",
+      "categories": [
+        "FingerprintingGeneral",
+        "Social"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ams.creativecdn.com/tags/v2",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/actionp/0",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/p/insights/t/5438485",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.analytics.google.com/g/s/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://stats.g.doubleclick.net/g/collect",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sslwidget.criteo.com/event",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/index.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://securepubads.g.doubleclick.net/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep2.adtrafficquality.google/generate_204",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ams46.creativecdn.com/info",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/p/insights/s/0.8.75",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cm.g.doubleclick.net/pixel",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://simage4.pubmatic.com/AdServer/SPug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://criteo-sync.teads.tv/um",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://criteo-partners.tremorhub.com/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/xuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://r.casalemedia.com/rum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ad.yieldlab.net/m",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/s/966/9.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ad.360yield.com/match",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://exchange.mediavine.com/usersync/push",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.1rx.io/usersync/criteodsp/k-LQpYwLD66N-vd9VaR4RV20MexO94qreKGlNMcg",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://jadserve.postrelease.com/suid/1017",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.outbrain.com/cookie-sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://cs.media.net/cksync.php",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://simage2.pubmatic.com/AdServer/Pug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pixel.rubiconproject.com/tap.php",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://rtb-csync.smartadserver.com/redir/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync-t1.taboola.com/sg/criteortb-network/1/rtb-h/",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/bounce",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/cars.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bam.nr-data.net/browser/blobs",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w1.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dis.criteo.com/dis/rtb/appnexus/cookiematch.aspx",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dis.criteo.com/dis/rtb/google/cookiematch.aspx",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/c/966/966/9/1.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w2.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ib.adnxs.com/setuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dpm.demdex.net/ibs:dpid=28645&dpuuid=gnXbwV9BTWdlZmNzZDc3VFpzRXc5MHZDRGJuclVXT2RvTVE5ZTB3WmVpdGl3TUE5TG9CVDBXUEY2ZllHOXAlMkJOdkJmSXA",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/xuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://r.casalemedia.com/rum",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://bat.bing.com/p/insights/c/r",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ep1.adtrafficquality.google/pagead/sodar",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://x.bidswitch.net/ul_cb/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://eb2.3lift.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w3.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ad.360yield.com/ul_cb/match",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.1rx.io/usersync/criteodsp/k-LQpYwLD66N-vd9VaR4RV20MexO94qreKGlNMcg",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/c/966/170/8/2.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dpm.demdex.net/demconf.jpg",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w4.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://sync.targeting.unrulymedia.com/csync/RX-7c168505-339f-46fa-935c-f46a1cee1a9e-003",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://uipglob.semasio.net/id5/1/get",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://gum.criteo.com/sync",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s0.2mdn.net/dfp/1921856/4840953245/1787309882375/images/w5.png",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://aa.agkn.com/adscores/g.pixel",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://uipglob.semasio.net/id5/1/get2",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/c/966/112/7/3.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://image6.pubmatic.com/AdServer/UCookieSetPug",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/c/966/429/6/4.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://s.seedtag.com/cs/cookiesync/id5",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/c/966/1095/5/5.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ce.lijit.com/merge",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ce.lijit.com/merge",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id5-sync.com/c/966/1405/4/6.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://csync.smilewanted.com/getuid",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

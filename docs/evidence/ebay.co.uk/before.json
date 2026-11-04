@@ -1,0 +1,105 @@
+{
+  "frames": [
+    {
+      "url": "https://www.ebay.co.uk/",
+      "title": "Error Page | eBay",
+      "text": "SORRY\n\nSomething went wrong on our end\n\n0.4b661702.1793718149.8938a5a\n\nPlease go back and try again.\n\nCopyright © 1995-2026 eBay Inc. All Rights Reserved.",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.ebay.co.uk/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.ebay.co.uk/",
+  "captured_at": "2026-11-03T15:02:37.772547+00:00",
+  "cookies": [
+    {
+      "name": "bm_so",
+      "domain": ".ebay.co.uk",
+      "path": "/",
+      "expires": 1793804549.907985,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_lso",
+      "domain": ".www.ebay.co.uk",
+      "path": "/",
+      "expires": 1796310150,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bm_s",
+      "domain": ".ebay.co.uk",
+      "path": "/",
+      "expires": 1796396551.185384,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.ebay.co.uk",
+      "localKeys": [],
+      "sessionKeys": [
+        "ak_bm_tab_id"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://ebay.co.uk/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:29.530599+00:00"
+    },
+    {
+      "url": "https://www.ebay.co.uk/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:29.783759+00:00"
+    },
+    {
+      "url": "https://www.ebay.co.uk/-K-7Nl/O7yw4R/gH/SBZ0/KVPd9D/4hYO6N5NE73c/FgEhUUFz/C1R/ge2hXQHsZ",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:29.938378+00:00"
+    },
+    {
+      "url": "https://secureir.ebaystatic.com/cr/v/c1/4xx-bkgd.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:29.948654+00:00"
+    },
+    {
+      "url": "https://www.ebay.co.uk/-K-7Nl/O7yw4R/gH/SBZ0/KVPd9D/4hYO6N5NE73c/FgEhUUFz/C1R/ge2hXQHsZ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:31.018771+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://secureir.ebaystatic.com/cr/v/c1/4xx-bkgd.png",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,46 @@
+{
+  "rank": 902,
+  "domain": "reuters.com",
+  "name": "reuters.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T15:28:39.890732+00:00",
+  "run": {
+    "started_at": "2026-11-03T15:12:23.542623+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 16,
+    "egress_country": "NL",
+    "accept_control_enabled": true,
+    "version": "0.1.1",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 401)."
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 401)."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 401)."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 401)."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "Page could not be assessed reliably (HTTP 401)."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/reuters.com/before.json",
+  "outcome": "blocked"
+}

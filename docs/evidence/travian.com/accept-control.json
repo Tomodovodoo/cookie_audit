@@ -1,0 +1,750 @@
+{
+  "frames": [
+    {
+      "url": "https://www.travian.com/international",
+      "title": "Travian: Legends – International | The Online Multiplayer Strategy Game",
+      "text": "English\nLogin\nROMANS\nDisciplined legions, advanced engineering, and strategic brilliance define Rome. Lead your legionaries to expand your empire through military might and cultural dominance.\nTEUTONS\nFierce raiders, ruthless warriors, and unrelenting aggression characterize the Teutons. Lead your savage forces to pillage enemies and strike fear into their hearts with lightning-fast attacks.\nGAULS\nSwift defenders, cunning traps, and hidden crannies protect Gaul resources. Lead your tribe to outlast foes with resilience and guile.\nWinter Time – The Effects on Your Game\nWinter time is coming! Find out how the time change affects server time, troop movements, daily quests, and other in-game events.\n22/10/2026 | 16:19\nShow all news\nPLAY NOW\nNext upcoming game world\n03/11\nINTERNATIONAL 21\n×2\nShow game world calendar\nTerms & Conditions\nRight of Withdrawal\nPrivacy Policy\nGame Rules\nSupport\nImprint\n© 2004 - 2026 Travian Games GmbH. All rights reserved.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "English",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 120,
+            "y": 21.66666603088379,
+            "width": 136.4652862548828,
+            "height": 34
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-1",
+          "text": "Login",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1150.2222900390625,
+            "y": 21.66666603088379,
+            "width": 170,
+            "height": 34
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-2",
+          "text": "Show all news",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 140,
+            "y": 858,
+            "width": 200,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(230, 219, 201)",
+            "background": "rgba(30, 32, 34, 0.45)",
+            "effectiveBackground": "rgba(30, 32, 34, 0.45)",
+            "fontSize": 14.3,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-3",
+          "text": "PLAY NOW",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 470,
+            "y": 728,
+            "width": 420,
+            "height": 130
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(230, 219, 201)",
+            "background": "rgb(152, 249, 138)",
+            "effectiveBackground": "rgb(152, 249, 138)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(230, 219, 201)",
+            "padding": "9px 9px 9px 7px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-4",
+          "text": "Show game world calendar",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1013.0208129882812,
+            "y": 858,
+            "width": 213.9583282470703,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(230, 219, 201)",
+            "background": "rgba(30, 32, 34, 0.45)",
+            "effectiveBackground": "rgba(30, 32, 34, 0.45)",
+            "fontSize": 14.3,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "1px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-5",
+          "text": "Terms & Conditions",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 436.46527099609375,
+            "y": 1015,
+            "width": 154.5,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-6",
+          "text": "Right of Withdrawal",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 610.9652709960938,
+            "y": 1015,
+            "width": 159.43055725097656,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-7",
+          "text": "Privacy Policy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 790.3958129882812,
+            "y": 1015,
+            "width": 109.02777862548828,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-8",
+          "text": "Game Rules",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 919.4236450195312,
+            "y": 1015,
+            "width": 93.72916412353516,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-9",
+          "text": "Support",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 436.46527099609375,
+            "y": 1040.798583984375,
+            "width": 63.54166793823242,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        },
+        {
+          "id": "ca-10",
+          "text": "Imprint",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 520.0069580078125,
+            "y": 1040.798583984375,
+            "width": 61.22222137451172,
+            "height": 20.79861068725586
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(203, 164, 103)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(44, 41, 44)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(203, 164, 103)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "2e730a8ed82948d5b316578f0691be91"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "2e730a8ed82948d5b316578f0691be91",
+      "frame_url": "https://www.travian.com/international"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "2ce27f187a92483e8968bbb1f07cb279",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "d67f3810ca3e4a96ac13d19dac571c60",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "5f6d96050c094cc59e11507d6fc0ed80",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "62731f3939b2493c88012a4d00bdc344",
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://recaptcha.net/recaptcha/api2/anchor",
+      "title": "reCAPTCHA",
+      "text": "beveiligd met reCAPTCHA",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 256,
+        "height": 60
+      },
+      "frame_id": "167eceb20ba540aaad970ba63f918ea4",
+      "frame_url": "https://recaptcha.net/recaptcha/api2/anchor"
+    },
+    {
+      "url": "https://cdn.consentmanager.net/delivery/crossdomain.html",
+      "title": "Cookie Banner",
+      "text": "Cookie Banner powered by consentmanager.net\n\n",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "97af54b415794ecdbb9d0f5c6106bf61",
+      "frame_url": "https://cdn.consentmanager.net/delivery/crossdomain.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "e3388008294b416bb1d6ff6c4df0f7e6",
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "2791fe51d17140e7b5d031d52ff0f536",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.travian.com/international",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "specialFeaturesGranted": [
+          "1",
+          "2"
+        ],
+        "vendorsConsented": 1036,
+        "legitimateInterestPurposes": []
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:38:47.856942+00:00",
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "domain": "recaptcha.net",
+      "path": "/recaptcha",
+      "expires": 1809272314.15076,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "localeName",
+      "domain": "www.travian.com",
+      "path": "/",
+      "expires": 1825256312.539718,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cmpconsentx17155",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1825256320,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcccx17155",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1825256320,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpconsentx17155",
+      "domain": ".consentmanager.net",
+      "path": "/",
+      "expires": 1825256320.96605,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cmpcccx17155",
+      "domain": ".consentmanager.net",
+      "path": "/",
+      "expires": 1825256320.966116,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1828280321.136247,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1793806721,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1793720381,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_45619DR32F",
+      "domain": ".travian.com",
+      "path": "/",
+      "expires": 1828280321.293084,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.travian.com",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://recaptcha.net",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    },
+    {
+      "origin": "https://cdn.consentmanager.net",
+      "localKeys": [
+        "__cmpcccx17155_expire",
+        "__cmpconsentx17155_expire",
+        "__cmpconsentx17155",
+        "__cmpcccx17155"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "__cmpconsentx17155_expire_.travian.com",
+        "__cmpcccx17155_.travian.com",
+        "__cmpcccx17155_expire_.travian.com",
+        "cmp_gpcConsentModeEligible.40dcf06677fd",
+        "__cmpconsentx17155_.travian.com"
+      ],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "rc::a"
+      ],
+      "sessionKeys": [
+        "rc::c"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.googletagmanager.com/gtm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:40.939833+00:00"
+    },
+    {
+      "url": "https://d.delivery.consentmanager.net/delivery/consent.php",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:40.940841+00:00"
+    },
+    {
+      "url": "https://d.delivery.consentmanager.net/delivery/info/",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:40.941186+00:00"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:41.069156+00:00"
+    },
+    {
+      "url": "https://ssl.google-analytics.com/ga.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:41.069798+00:00"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:38:41.141001+00:00"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:41.181472+00:00"
+    },
+    {
+      "url": "https://region1.google-analytics.com/g/collect",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:38:41.296555+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".travian.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gid",
+      "domain": ".travian.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_gat",
+      "domain": ".travian.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_45619DR32F",
+      "domain": ".travian.com"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://ssl.google-analytics.com/ga.js",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://www.google-analytics.com/j/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://region1.google-analytics.com/g/collect",
+      "categories": [
+        "Analytics",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

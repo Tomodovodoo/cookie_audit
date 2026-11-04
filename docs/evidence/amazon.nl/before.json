@@ -1,0 +1,184 @@
+{
+  "frames": [
+    {
+      "url": "https://www.amazon.nl/",
+      "title": "Amazon.nl",
+      "text": "Klik op de knop hieronder om verder te winkelen\nDoorgaan met winkelen\nAmazon.nl Gebruiks- en verkoopvoorwaarden     Amazon.nl Privacyverklaring\n© 1996-2025, Amazon.com, Inc. en dochterondernemingen",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Doorgaan met winkelen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 535.4444580078125,
+            "y": 201.22222900390625,
+            "width": 294.4444580078125,
+            "height": 29
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(17, 17, 17)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(240, 193, 75)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(17, 17, 17)",
+            "padding": "0px 10px 0px 11px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Amazon.nl Gebruiks- en verkoopvoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 485.5763854980469,
+            "y": 350,
+            "width": 223.78472900390625,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 102, 192)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 102, 192)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Amazon.nl Privacyverklaring",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 740.9791870117188,
+            "y": 350,
+            "width": 138.7777862548828,
+            "height": 12
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 102, 192)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 11,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 102, 192)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.amazon.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.amazon.nl/",
+  "captured_at": "2026-11-03T15:04:29.253947+00:00",
+  "cookies": [
+    {
+      "name": "aws-waf-token",
+      "domain": ".www.amazon.nl",
+      "path": "/",
+      "expires": 1794063862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.amazon.nl",
+      "localKeys": [
+        "aws_waf_referrer",
+        "awswaf_token_refresh_timestamp",
+        "aws_waf_token_challenge_attempts"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://amazon.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:04:21.967843+00:00"
+    },
+    {
+      "url": "https://www.amazon.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:04:22.046291+00:00"
+    },
+    {
+      "url": "https://1c5c1ecf7303.535706ac.eu-west-1.token.awswaf.com/1c5c1ecf7303/2113115dc6a9/72bd82ae9e8a/challenge.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:04:22.101098+00:00"
+    },
+    {
+      "url": "https://1c5c1ecf7303.535706ac.eu-west-1.token.awswaf.com/1c5c1ecf7303/2113115dc6a9/72bd82ae9e8a/inputs",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:04:22.238291+00:00"
+    },
+    {
+      "url": "https://1c5c1ecf7303.535706ac.eu-west-1.token.awswaf.com/1c5c1ecf7303/2113115dc6a9/72bd82ae9e8a/mp_verify",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:04:22.521550+00:00"
+    },
+    {
+      "url": "https://www.amazon.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:04:22.747187+00:00"
+    },
+    {
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonUI-3c913031596ca78a3768f4e934b1cc02ce238101.secure.min._V1_.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:04:22.834930+00:00"
+    },
+    {
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/amazonui/sprites/aui_sprite_0007-1x._V383827579_.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:04:22.901776+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://images-na.ssl-images-amazon.com/images/G/01/amazonui/sprites/aui_sprite_0007-1x._V383827579_.png",
+      "categories": [
+        "Analytics"
+      ]
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

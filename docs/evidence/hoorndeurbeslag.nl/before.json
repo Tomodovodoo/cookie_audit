@@ -1,0 +1,77 @@
+{
+  "frames": [
+    {
+      "url": "https://homedecorant.com/",
+      "title": "Attention Required! | Cloudflare",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://homedecorant.com/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://homedecorant.com/",
+  "consent_state": {
+    "providers": []
+  },
+  "captured_at": "2026-11-03T15:36:10.165908+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://homedecorant.com",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://hoorndeurbeslag.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:36:02.603543+00:00"
+    },
+    {
+      "url": "https://gg88mll.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:36:02.707023+00:00"
+    },
+    {
+      "url": "https://homedecorant.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:36:02.872829+00:00"
+    },
+    {
+      "url": "https://homedecorant.com/cdn-cgi/styles/cf.errors.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:36:03.063559+00:00"
+    },
+    {
+      "url": "https://homedecorant.com/cdn-cgi/images/browser-bar.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:36:03.150073+00:00"
+    },
+    {
+      "url": "https://homedecorant.com/cdn-cgi/images/cf-no-screenshot-error.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:36:03.150506+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "A block or incomplete page cannot establish absence of tracking."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}

@@ -1,0 +1,48 @@
+{
+  "rank": 4,
+  "domain": "apple.com",
+  "name": "apple.com",
+  "company": null,
+  "cohort": "NetAPI Netherlands top 1000",
+  "tested_at": "2026-11-03T14:55:56.115024+00:00",
+  "run": {
+    "started_at": "2026-11-03T14:55:55.617200+00:00",
+    "browser_mode": "stock Chrome offscreen",
+    "locale": "nl-NL",
+    "timezone": "Europe/Amsterdam",
+    "viewport": "1365x900",
+    "wait_seconds": 7.0,
+    "workers": 8,
+    "egress_country": "NL",
+    "version": "0.1.0",
+    "chrome_version": "156.0.8078.79"
+  },
+  "checks": {
+    "reject": {
+      "status": "unknown",
+      "reason": "No unambiguous accept/refuse pair found in a consent interface."
+    },
+    "prominence": {
+      "status": "unknown",
+      "reason": "No unambiguous accept/refuse pair found in a consent interface."
+    },
+    "before": {
+      "status": "unknown",
+      "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+    },
+    "after": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    },
+    "persists": {
+      "status": "unknown",
+      "reason": "A completed refusal journey was not observed."
+    }
+  },
+  "steps": [],
+  "evidence": "evidence/apple.com/before.json",
+  "outcome": "observed",
+  "http_status": 200,
+  "title": "Apple",
+  "rules_version": "0.2.0"
+}

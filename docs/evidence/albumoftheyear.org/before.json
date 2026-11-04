@@ -1,0 +1,142 @@
+{
+  "frames": [
+    {
+      "url": "https://www.albumoftheyear.org/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.albumoftheyear.org/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/h5389/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/h5389/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.albumoftheyear.org/",
+  "captured_at": "2026-11-03T15:13:18.026416+00:00",
+  "cookies": [],
+  "storage_keys": [
+    {
+      "origin": "https://www.albumoftheyear.org",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://albumoftheyear.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:10.727339+00:00"
+    },
+    {
+      "url": "https://www.albumoftheyear.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:10.768682+00:00"
+    },
+    {
+      "url": "https://albumoftheyear.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:10.937537+00:00"
+    },
+    {
+      "url": "https://www.albumoftheyear.org/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:10.950983+00:00"
+    },
+    {
+      "url": "https://www.albumoftheyear.org/cdn-cgi/speculation",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:13:10.999072+00:00"
+    },
+    {
+      "url": "https://www.albumoftheyear.org/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:11.003431+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:11.291636+00:00"
+    },
+    {
+      "url": "https://www.albumoftheyear.org/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c524aedfac276/BR2ufp2T61LBqDYRiU0rtRudVrHiHobX2JkJ.tGknzw-1793718790-1.2.1.1-fq592Ajm0hAv7eceMY2vIoxk7zCWoEqQvg7WLbrHBC9zVBbJaS9LM4L7SqzEvzpR",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:11.340683+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/h5389/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:11.529005+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c524e9f3c34f3/CpZEbJcncw6Evgu3uJtC0cs-WXU_V6ngKz-G1UAivpao68hUVFJsHzO8qr64grGYiEuHMZSLq1DYi6mLjE9PSOXcZJ4IUnq4BQJefVRttgjUG63YjXkVs8AUurKrVTzGpQ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:11.884161+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c524e9f3c34f3/CpZEbJcncw6Evgu3uJtC0cs-WXU_V6ngKz-G1UAivpao68hUVFJsHzO8qr64grGYiEuHMZSLq1DYi6mLjE9PSOXcZJ4IUnq4BQJefVRttgjUG63YjXkVs8AUurKrVTzGpQ",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:13.036328+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c524e9f3c34f3/1793718791832/356898a80435490f2c488a095725e507221de3f2d059b0a72c73f5536cb912d3/ClBgwC5_nwOV-14bEBQQ4p9YWar4C8oFalLZlLICErVWa5M09ULO99BPjJRoOpZ-248gyoGH5QYVJ8xXXEYAk8a_7ZaNXAzO8SDPEMoUV88yYfdahSE_ONytYO2R5nBTDeJ0ksW4IKQJP8iceln8Aauf3UdMvjC9C0IDVdaHScFOZabLuFujflkIFGHUUMZyRGuZyPk_t2WQkiqfzCrqnOVcGXUfZJ0ebXOS6DnPLuRujlNVwbHHzrBqDWb9S2zB4RoqNiDOUwkF4jAkRm5RCdzZmQ5B3YMUtbkD0sNFY5atePTu8rVmgJLhT9PZ0UnQ2ME_coTEWOuNnf4BMtTJJ5cxF8LxpoSGp0x6aSVRlB9PBJ_X2_VLyM0_bWqxsNCLjADGBiyJimOaV1zNkQZMR29ZreK82WLp9oDmNTK-226kB-ovm13KjvJeT4YNq13cMEFPKHc51i2kWJIWpvHh4IpAL-VeSwD5LTd8xOJbe9QgoPx-1CWZC3pARY33GRHLf_D46pGf-AxrHo5S2qMKODfjAu-vQC_BcMGaZPCzwnLmtwH-A_rC5T3GLCiHbGhvmRMpfoPLKGzzbZfvaMjF8nl-CZI_3Y_8XKS5xVELqHgV-m96iflyGf9KUK6Sm_mSW0olxjJDXQNAGjVuf5iVZ0aGnMUFdjo",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:13.046130+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c524e9f3c34f3/1793718791837/CiSRzFa98oaT9UhS7qHFnODZ14ufTOk1z7ISDP05eUeTtIxib32qRGclFGG3MrP6GANBnTGxMKWSpPJQ3lrjEq7PCn6pCwqatFRKht6UKAQswHcQmXl3Qd-QtdGBGyPiuJ30Viq-vKFi1piAmsTYS2QJeICrkkonoNLQml_pN4_4yKJ4YwGjpoQbOLoHBWxajfVibdKZqY58eq-ZWrtFEyB3O35tzJxnwQ2wmgtTidre3nTliH6UTjOniDZybe2Z_hePxo5KGpGCucgb75pm1m-qLbBX2o7SwsjXs67MO4-YltkYh-gnO_tcxnEZ8qibD4NMaORTszTWuP_9yMOESkyjX4f6lyLroPAV5aGUwbzLCxAVr8A8Pc19uxEoo_xbjIEOP2X2Mbr67jrDGzKWgO4a55ygnjDpQcODtXHfhLipJcgiHBhejyO54iXgbx2lskZC_pLTEBnGHbHrTYlKgIO2GydLSoYIIQetbzpLKCYClGR4BFgcEgS2R4PlGYW1h90X5DkRWqzVqEt0AFZP2rMtX8egNo_DNKjdANH-GeFIW-q15PR_CN9q_H8emBSJphkFpOjwSohu0fUWfGf0lShCAKb0oA",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:14.452009+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c524e9f3c34f3/CpZEbJcncw6Evgu3uJtC0cs-WXU_V6ngKz-G1UAivpao68hUVFJsHzO8qr64grGYiEuHMZSLq1DYi6mLjE9PSOXcZJ4IUnq4BQJefVRttgjUG63YjXkVs8AUurKrVTzGpQ",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:15.043188+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "context_excerpt_limit": 400,
+  "blocked": true
+}

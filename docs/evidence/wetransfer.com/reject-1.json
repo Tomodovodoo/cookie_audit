@@ -1,0 +1,1436 @@
+{
+  "frames": [
+    {
+      "url": "https://wetransfer.com/",
+      "title": "WeTransfer | Verzend snel grote bestanden",
+      "text": "Versturen\nOpvragen\nAlbums\nShowcase\nOndertekenen\n3\nJe bent erbijna\n\nStem in met onze gebruiksvoorwaarden en ons privacybeleid om door te gaan.\n\nIk ga akkoord\nFeatures\nPricing\nUse cases\nResources\nLog in\nSign up",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Versturen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 84,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(55, 103, 234)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(55, 103, 234)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Opvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 166,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Albums",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 248,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Showcase",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 330,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Ondertekenen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 16,
+            "y": 412,
+            "width": 53,
+            "height": 70
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "8px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "3",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 22.5,
+            "y": 736,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(103, 103, 103)",
+            "background": "rgb(249, 249, 249)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(103, 103, 103)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Open chat support",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 22.5,
+            "y": 788,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(103, 103, 103)",
+            "background": "rgb(249, 249, 249)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(103, 103, 103)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Zijbalk inklappen",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 22.5,
+            "y": 840,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(103, 103, 103)",
+            "background": "rgb(249, 249, 249)",
+            "effectiveBackground": "rgb(249, 249, 249)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(103, 103, 103)",
+            "padding": "8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "gebruiksvoorwaarden",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 195,
+            "y": 495.77777099609375,
+            "width": 160.24305725097656,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(70, 70, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(70, 70, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "privacybeleid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 225.65972900390625,
+            "y": 519.7777709960938,
+            "width": 98.5625,
+            "height": 20.44444465637207
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(70, 70, 70)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(70, 70, 70)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Ik ga akkoord",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 185,
+            "y": 587,
+            "width": 240,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(245, 248, 255)",
+            "background": "rgb(55, 103, 234)",
+            "effectiveBackground": "rgb(55, 103, 234)",
+            "fontSize": 16,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(245, 248, 255)",
+            "padding": "16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Features",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 764.701416015625,
+            "y": 16,
+            "width": 102.22916412353516,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Pricing",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 866.9305419921875,
+            "y": 16,
+            "width": 61.67361068725586,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Use cases",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 928.6041870117188,
+            "y": 16,
+            "width": 111.41666412353516,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Resources",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1040.0208740234375,
+            "y": 16,
+            "width": 137.0625,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 24px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Log in",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1193.0833740234375,
+            "y": 16,
+            "width": 51.43055725097656,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(53, 53, 53)",
+            "padding": "14px 0px 14px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Sign up",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1268.513916015625,
+            "y": 24,
+            "width": 72.81944274902344,
+            "height": 32
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(241, 241, 241)",
+            "background": "rgb(53, 53, 53)",
+            "effectiveBackground": "rgb(53, 53, 53)",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgb(241, 241, 241)",
+            "padding": "6px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://wetransfer.com/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://tagging.wetransfer.com/_/service_worker/6al0/sw_iframe.html",
+      "title": "",
+      "text": "[Browser error/configuration or script text omitted.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://tagging.wetransfer.com/_/service_worker/6al0/sw_iframe.html"
+    },
+    {
+      "url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 1
+      },
+      "frame_url": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html"
+    },
+    {
+      "url": "https://m.stripe.network/inner.html",
+      "title": "StripeM-Inner",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 150
+      },
+      "frame_url": "https://m.stripe.network/inner.html"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "title": "SafeFrame Container",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "frame_url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/overlay.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/overlay.html"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/index.html",
+      "title": "desktop-web-renderer",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "frame_url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/index.html"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/index.html",
+      "title": "Wallpaper",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1280,
+        "height": 900
+      },
+      "frame_url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/index.html"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/index.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": ":"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/index.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://wetransfer.com/",
+  "captured_at": "2026-11-03T15:02:54.189445+00:00",
+  "cookies": [
+    {
+      "name": "wt_lang",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wt_lsid",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254158.890272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_0M019DTWVR",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1828278159.132225,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1828278159.132768,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1828278159.184896,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1793790159.185003,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1809270160,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "m",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1828278161.191184,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1793719961,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "did",
+      "domain": "auth.wetransfer.com",
+      "path": "/",
+      "expires": 1801494161.196227,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1801494161.242791,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_ivt",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1793890961,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__eoi",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1809270161,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254166,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "eupubconsent-v2",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254166,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wt_privacy",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254166,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s_v2",
+      "domain": "wetransfer.com",
+      "path": "/",
+      "expires": 1825254166.206,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "OptanonConsent",
+      "domain": ".wetransfer.com",
+      "path": "/",
+      "expires": 1825254166,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "domain": "nolan.wetransfer.net",
+      "path": "/",
+      "expires": 1793719073,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://wetransfer.com",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138624488690:1:1",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138624488690:1:1",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "https://tagging.wetransfer.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://js.stripe.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://m.stripe.network",
+      "localKeys": [],
+      "sessionKeys": [
+        "_ab",
+        "_mf",
+        "1",
+        "id"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138624488690:1:1",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138624488690:1:1",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138624488690:1:1",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "ZD-suid",
+        "65d61de3b3366634a5b12e59.clientId",
+        "randomURLFlag",
+        "ZD-buid",
+        "LOCAL_STORAGE_ID_wetransfer_web",
+        "_gcl_ls"
+      ],
+      "sessionKeys": [
+        "_dd_tab_id",
+        "onetrust_banner_id",
+        "auth_silent_transaction",
+        "wt:ad-wallpaper:seen-impression:138624488690:1:1",
+        "wt:ad-wallpaper:seen-impression:138554527188:1:1",
+        "SESSION_STORAGE_ID_wetransfer_web"
+      ]
+    },
+    {
+      "origin": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://backgrounds.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://nolan.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://backgrounds.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://backgrounds.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://backgrounds.wetransfer.net",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://privacyportal-de.onetrust.com/request/v1/consentreceipts/anonymous",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:46.172650+00:00"
+    },
+    {
+      "url": "https://bat.bing.net/actionp/0",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:02:46.202846+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/gampad/ads",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.228092+00:00"
+    },
+    {
+      "url": "https://wetransfer.com/api/web-metrics",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:46.240308+00:00"
+    },
+    {
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.304016+00:00"
+    },
+    {
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-45/js/ext.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.335146+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.337317+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.359537+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/overlay.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.400162+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.400722+00:00"
+    },
+    {
+      "url": "https://www.datadoghq-browser-agent.com/eu1/v5/datadog-rum-slim.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.421553+00:00"
+    },
+    {
+      "url": "https://nolan.wetransfer.net/apps/desktop-web-renderer/0.15.0/main.62e1cf249842cf23.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.423015+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.434378+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.434893+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.435754+00:00"
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.453436+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/index.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.476281+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/bundle.5b8d2a06454c99f10851.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.494703+00:00"
+    },
+    {
+      "url": "https://backgrounds.wetransfer.net/genie/idfa/2610/static-idfa26/1_92hGWz/460.d64aed74ff67a45592d4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.518979+00:00"
+    },
+    {
+      "url": "https://pixel.adsafeprotected.com/jload",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.535544+00:00"
+    },
+    {
+      "url": "https://genie-assets.wetransfer.net/idfa/2610/static-idfa26/1_92hGWz/Background.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.541409+00:00"
+    },
+    {
+      "url": "https://genie-assets.wetransfer.net/idfa/2610/static-idfa26/1_92hGWz/Copy1.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.541856+00:00"
+    },
+    {
+      "url": "https://genie-assets.wetransfer.net/idfa/2610/static-idfa26/1_92hGWz/disclaimer.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.542763+00:00"
+    },
+    {
+      "url": "https://genie-assets.wetransfer.net/idfa/2610/static-idfa26/1_92hGWz/copy2.webp",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.543741+00:00"
+    },
+    {
+      "url": "https://jsconfig.adsafeprotected.com/jsconfig/jload/931764",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.692803+00:00"
+    },
+    {
+      "url": "https://static.adsafeprotected.com/sca.17.6.4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.753720+00:00"
+    },
+    {
+      "url": "https://jsconfig.adsafeprotected.com/mon",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.754350+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.755261+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.756665+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.758898+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:46.761306+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:47.024773+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:47.102521+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:47.228206+00:00"
+    },
+    {
+      "url": "https://bsp-proxy.wetransfer.net/pico/v4/web-events",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:02:47.455523+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:48.032530+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:48.033024+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:48.034049+00:00"
+    },
+    {
+      "url": "https://a.clarity.ms/collect",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:02:48.147772+00:00"
+    },
+    {
+      "url": "https://dt.adsafeprotected.com/dt",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:02:52.117425+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga_0M019DTWVR",
+      "domain": ".wetransfer.com"
+    },
+    {
+      "kind": "analytics_cookie",
+      "name": "_ga",
+      "domain": ".wetransfer.com"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/gampad/ads",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://058e544ee23382e397a075419ab2b435.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://tpc.googlesyndication.com/safeframe/1-0-45/js/ext.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pagead/gen_204",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pagead2.googlesyndication.com/pcs/view",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://pixel.adsafeprotected.com/jload",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://jsconfig.adsafeprotected.com/jsconfig/jload/931764",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://static.adsafeprotected.com/sca.17.6.4.js",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://jsconfig.adsafeprotected.com/mon",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://a.clarity.ms/collect",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://dt.adsafeprotected.com/dt",
+      "categories": [
+        "Advertising",
+        "FingerprintingGeneral"
+      ]
+    }
+  ],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

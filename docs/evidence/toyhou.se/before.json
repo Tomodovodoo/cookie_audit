@@ -1,0 +1,307 @@
+{
+  "frames": [
+    {
+      "url": "https://toyhou.se/",
+      "title": "Toyhouse",
+      "text": "TOYHOUSE\n... is in invite beta? Check back later!\nHave a look around\nHave an account? Login.\nHave an invite code? Register here.\nPlease read our statement on invite code trading if you are considering trading for an invite code.\n\n\n\nCharacter Repository\nStore characters, set up profiles and upload image galleries.\nOrganise characters into folders, tags or worlds.\nProtect content by only allowing access to images, characters or folders to authorized users.\nAuto-generate watermarked versions of images with custom watermarks.\nAdoptable Trading\nTransfer characters on-site.\nView a gallery of all characters you've created and who their current and past owners are.\nSet rules on how you want your designs to be traded.\nVerify designs that you've made in order to minimise stolen or duplicated adoptables.\nRoleplay Community\nInvite users and characters to your worlds for easy grouping.\nSet up your world forums for chatting and RP.\nMake posts or comment on profiles using your characters.\nLink related characters together.",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Have a look around",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 393.0208435058594,
+            "y": 406.8888854980469,
+            "width": 124.17361450195312,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Login.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 721.4236450195312,
+            "y": 406.8888854980469,
+            "width": 38.4444465637207,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Register here.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 991.4652709960938,
+            "y": 406.8888854980469,
+            "width": 86.47222137451172,
+            "height": 19.11111068725586
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(51, 51, 51)",
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "our statement on invite code trading",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 445.6458435058594,
+            "y": 468.4930725097656,
+            "width": 237.25,
+            "height": 19.55555534362793
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 140, 186)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 14.6667,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 140, 186)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://toyhou.se/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/ofgyd/0x4AAAAAAAzRr9fOb-sErlWC/auto/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/ofgyd/0x4AAAAAAAzRr9fOb-sErlWC/auto/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://toyhou.se/",
+  "captured_at": "2026-11-03T15:13:16.035252+00:00",
+  "cookies": [
+    {
+      "name": "XSRF-TOKEN",
+      "domain": ".toyhou.se",
+      "path": "/",
+      "expires": 1794928388.223282,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "laravel_session",
+      "domain": ".toyhou.se",
+      "path": "/",
+      "expires": 1794928388.223325,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "domain": ".toyhou.se",
+      "path": "/",
+      "expires": 1825254789.00481,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://toyhou.se",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "null",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://toyhou.se/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:07.962844+00:00"
+    },
+    {
+      "url": "https://toyhou.se/css/main.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.271685+00:00"
+    },
+    {
+      "url": "https://toyhou.se/css/site_bootstrap.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.291508+00:00"
+    },
+    {
+      "url": "https://toyhou.se/css/cover.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.291922+00:00"
+    },
+    {
+      "url": "https://toyhou.se/js/site.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.292548+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.304832+00:00"
+    },
+    {
+      "url": "https://toyhou.se/img/cover-400.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.451422+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.518998+00:00"
+    },
+    {
+      "url": "https://toyhou.se/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.640173+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/ofgyd/0x4AAAAAAAzRr9fOb-sErlWC/auto/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.643313+00:00"
+    },
+    {
+      "url": "https://toyhou.se/cdn-cgi/challenge-platform/h/g/scripts/jsd/5c2e6b612edd/main.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:13:08.892514+00:00"
+    },
+    {
+      "url": "https://toyhou.se/cdn-cgi/challenge-platform/h/g/jsd/oneshot/5c2e6b612edd/0.20060518612290823:1793715035:5JHET6w2jmmEqwhOiCIPZEiy1N_6bzL06xkg-VfUMYA/a54c52388eee65f5",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:08.986859+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c523dab7866c9/ChF8BsBKsZHO8t8g2Pa3S6oDfMwfgW8E5ySL55aaOXjZiX505bEDp8t0pOe0E-2prHMcwvLNzMvkIWLe7cAmKxqf-kFmuSaCnabQ_v8LJGDb1b4hmMW4S9-IsA6moDHx3A",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:09.133118+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c523dab7866c9/ChF8BsBKsZHO8t8g2Pa3S6oDfMwfgW8E5ySL55aaOXjZiX505bEDp8t0pOe0E-2prHMcwvLNzMvkIWLe7cAmKxqf-kFmuSaCnabQ_v8LJGDb1b4hmMW4S9-IsA6moDHx3A",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:09.599182+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c523dab7866c9/1793718789072/e7899c6920f0db6806765f77da3f492bed2c3b4979e5c3f91ff2598b5774ae82/CkcEgrxG7ogucek3SCPrDettuTHawqiGDEOZSF5fSad7M7HjsJs_kfbWPHc6tQCKdtNIQ-O7OGHyioBN3M8qi6Vx7aCN5_FQg3Mr9eKXSRer-vEAi8EmGkIxVfcl0b9D3dEH67-LRlKGITQi7iUk1omzJbbzoE93yDWxC9MvkOqeeH3Ym08RTlY6F6Iy_N7ln-CmO4U0unyjvRj9bipNcUnfJmNZj9q5je3vSnW9Pste2gI-L4yiqoioyN4-ZTpwlm_5srK8A4aXAB5BeLb2xUO8WJV_WbpWgFPUAOq_0L9-p6u6EoN7wfeGlYj3scgcY4qljFeoe5CWOPa9ZNtM2ZSuo7h_GY_PjOfq77b2xVmrBSbMNQ_R8rhm182Bplk6V_lSZiNRmpjOijJ5-bkAwggDkAmPGMBEmMYiatyAdYwg8zeeBe7xhjwDSnsxKH6vVjOwHDtKCBKg_H3omyvb56A50XuXSXFendl8Flo50uBt1xub9ne7nIz5FFTZtSFzkoLuWJ3PjE8wgQslJfbB5fh5ZQbLynN0R0XQPLNEaFrnGDPxmPbweoGB_II2UUYRxvAIFqtwJLGUtDy71GWaJR4GIpF-mTSdx-mVYECkF-UytYFDQOKkDJMbXguolZUcPkZUi8WlPmwWXQYbugc2ENjC",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:13:09.608533+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c523dab7866c9/1793718789074/Cp3RKXB9Pa8zZD2ts6NxQDrt2g0R1paHVaxBYYpx8HAfQzOPo5AVhXLDZDpr4S_CLSHT3gFkpGDhU3bUo4JyDdMvS1owLlPhY3vK3xugcqIj4cvLTjueWz3WYEqlPohm5QNRvNrJTT7sDrxa8Lv0vOYCSrEl41hDvLP7tfjfaKuzKaKjl3cTMUk4nUG1f5o0Vm8HSoBSzdh1C_6kR098DpELW-rf5Ye48pAREezEWlUg9mWzQSSRyaaL6D3wNYWQSU25QviHXMePkc70ecpDo3qRXQAmo9hWQMqqDHYBZdikCYk2HVLSSlO8Rxmr2zmRHvEaF4vxo1OZCCUBMGNwH02h7ZO6FuCtw8U5xdQVODClM-DV8wxV4vBpT_IiiLthQN1zokT1gNN9QyP6FnGRC2ibfU8anI7J5yjeUeoW2-nth3KFC9KWQKoo4kZ-cOGr6lk3X5rfMw2J9a7Vh1gHqc7t4Hh7sLisNohwO1MWkGmhyPziHO49IbndKObSrO7KyWdA7HMOhMIygCxIXchBucOPoBU05uVwF1dY-b7Wo1R3vGNxhD9bXWSIhjTdfxkr8Joxj4wVYTrgwh8WcQAS",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:13:10.150902+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c523dab7866c9/ChF8BsBKsZHO8t8g2Pa3S6oDfMwfgW8E5ySL55aaOXjZiX505bEDp8t0pOe0E-2prHMcwvLNzMvkIWLe7cAmKxqf-kFmuSaCnabQ_v8LJGDb1b4hmMW4S9-IsA6moDHx3A",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:13:11.088845+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

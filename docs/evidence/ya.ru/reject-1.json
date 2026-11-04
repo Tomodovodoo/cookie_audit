@@ -1,0 +1,802 @@
+{
+  "frames": [
+    {
+      "url": "https://ya.ru/",
+      "title": "Яндекс — быстрый поиск в интернете",
+      "text": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about cookies, please read our Cookie Policy\nTechnical, always active\nAnalytics/marketing\nOther cookies\nAllow selected cookies\nAllow essential cookies",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Да",
+          "tag": "A",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 852.3333129882812,
+            "y": 148,
+            "width": 107.73611450195312,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 229, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px 32px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "Нет",
+          "tag": "BUTTON",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 972.0694580078125,
+            "y": 148,
+            "width": 115.25,
+            "height": 42
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(229, 229, 229)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "10px 32px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "Драхтен",
+          "tag": "A",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 24,
+            "y": 30,
+            "width": 70.00694274902344,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgb(242, 242, 242)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 12px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "+11°",
+          "tag": "A",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 106.00694274902344,
+            "y": 30,
+            "width": 76.2638931274414,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgb(242, 242, 242)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 15,
+            "fontWeight": "500",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 12px 0px 8px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "USD 81,67",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 194.2708282470703,
+            "y": 30,
+            "width": 63.03472137451172,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(242, 242, 242)",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Установите Яндекс Браузер",
+          "tag": "A",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 836.0416870117188,
+            "y": 28,
+            "width": 238.11111450195312,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Сервисы",
+          "tag": "A",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 1086.15283203125,
+            "y": 30,
+            "width": 46,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Алиса",
+          "tag": "A",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 1144.15283203125,
+            "y": 30,
+            "width": 46,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.45)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0.45)",
+            "padding": "0px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Войти",
+          "tag": "A",
+          "context": "Сделать Яндекс поиском по умолчанию? \nДа\nНет\nДрахтен\n+11°\nКурсы ЦБ РФ\nUSD\n81,67\nУстановите Яндекс Браузер\nВойти\nCookie settings\nYandex uses technical cookies to ensure the site/app functions properly. However, we would also like to use optional marketing, analytics, and other types of cookies. These cookies help Yandex improve services, your experience, and ad relevancy. For more information about",
+          "box": {
+            "x": 1204.15283203125,
+            "y": 30,
+            "width": 79.18055725097656,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px 20px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Профиль, вход не выполнен",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1295.3333740234375,
+            "y": 30,
+            "width": 46,
+            "height": 36
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 238)",
+            "background": "rgba(0, 0, 0, 0.05)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 35.1,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 238)",
+            "padding": "0px 7px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Голосовой поиск",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 960.3541870117188,
+            "y": 409.77777099609375,
+            "width": 40,
+            "height": 40
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgba(0, 0, 0, 0.4)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0.05)",
+            "fontSize": 13,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "2px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Cookie Policy",
+          "tag": "A",
+          "context": "Cookie Policy",
+          "box": {
+            "x": 921.3680419921875,
+            "y": 626.2222290039062,
+            "width": 84.81944274902344,
+            "height": 16
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 210, 31)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(37, 42, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 210, 31)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Show cookie descriptions",
+          "tag": "DIV",
+          "context": "Technical, always active\nAnalytics/marketing\nOther cookies",
+          "box": {
+            "x": 865.3333129882812,
+            "y": 666.8333129882812,
+            "width": 21,
+            "height": 21
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(190, 191, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(37, 42, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(190, 191, 195)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Show cookie descriptions",
+          "tag": "DIV",
+          "context": "Technical, always active\nAnalytics/marketing\nOther cookies",
+          "box": {
+            "x": 865.3333129882812,
+            "y": 715.7222290039062,
+            "width": 21,
+            "height": 21
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(190, 191, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(37, 42, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(190, 191, 195)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Show cookie descriptions",
+          "tag": "DIV",
+          "context": "Other cookies",
+          "box": {
+            "x": 865.3333129882812,
+            "y": 764.6111450195312,
+            "width": 21,
+            "height": 21
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(190, 191, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(37, 42, 56)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(190, 191, 195)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Back to home page",
+          "tag": "DIV",
+          "context": "Allow selected cookies\nAllow essential cookies",
+          "box": {
+            "x": 865.3333129882812,
+            "y": 816,
+            "width": 38,
+            "height": 34
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(176, 189, 214, 0.2)",
+            "effectiveBackground": "rgba(176, 189, 214, 0.2)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "8px 10px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "Allow selected cookies",
+          "tag": "DIV",
+          "context": "Allow selected cookies",
+          "box": {
+            "x": 911.3333129882812,
+            "y": 816,
+            "width": 172.8541717529297,
+            "height": 34
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(47, 55, 71)",
+            "background": "rgb(255, 221, 87)",
+            "effectiveBackground": "rgb(255, 221, 87)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(47, 55, 71)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Allow essential cookies",
+          "tag": "DIV",
+          "context": "Allow essential cookies",
+          "box": {
+            "x": 1092.1875,
+            "y": 816,
+            "width": 175.9583282470703,
+            "height": 34
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(176, 189, 214, 0.2)",
+            "effectiveBackground": "rgba(176, 189, 214, 0.2)",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "8px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://ya.ru/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://ya.ru/",
+  "captured_at": "2026-11-03T15:05:36.865633+00:00",
+  "cookies": [
+    {
+      "name": "yandex_csyr",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1825254321.522979,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is_gdpr",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278321.523072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr_b",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278321.523114,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278321.52316,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278321.523187,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278321.523207,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1825254321.523229,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandex_gid",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1796310321.72337,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yp",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278321.723436,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278321.723466,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278321.99055,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278321.99062,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278321.990647,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278321.990665,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1825254321.990684,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "domain": "mc.yandex.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278322.568771,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278322.568799,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825254322,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825254322,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1825254322,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".yandex.com",
+      "path": "/",
+      "expires": 1828278322.575988,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gdpr_popup",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "my",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278324.190334,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yp",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278324.43468,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "my",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278324.434734,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278324.434764,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "is_gdpr_b",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278324.434791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278324.434807,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_yasc",
+      "domain": ".ya.ru",
+      "path": "/",
+      "expires": 1828278327.224321,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_yasc",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1828278327.281958,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://ya.ru",
+      "localKeys": [
+        "_ym_synced",
+        "_ym_retryReqs",
+        "_ym_wasSynced",
+        "beerka",
+        "_ym_uid",
+        "_ym3_lsid",
+        "_ym3:0_reqNum",
+        "_ym723233_lastHit"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://ya.ru/clck/click",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:29.129593+00:00"
+    },
+    {
+      "url": "https://ya.ru/clck/click",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:32.039303+00:00"
+    },
+    {
+      "url": "https://ya.ru/clck/counter",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:32.044269+00:00"
+    },
+    {
+      "url": "https://ya.ru/clck/click/reqid=1793718321458276-219270860111266361-gtet5ruaftmw4xvv-BAL/slots=1713628,0,22;1733170,0,82/table=morda_baobab",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:05:32.088003+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reject-1.jpg",
+  "context_excerpt_limit": 400
+}

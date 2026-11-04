@@ -1,0 +1,444 @@
+{
+  "frames": [
+    {
+      "url": "https://hyves.nl/",
+      "title": "Hyves",
+      "text": "",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Registreren",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 163,
+            "y": 602,
+            "width": 280,
+            "height": 62
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4da8b3b1677440f8860230967fd3e35b"
+        },
+        {
+          "id": "ca-1",
+          "text": "Inloggen",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 459,
+            "y": 602,
+            "width": 280,
+            "height": 62
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4da8b3b1677440f8860230967fd3e35b"
+        },
+        {
+          "id": "ca-2",
+          "text": "© Mediahuis",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 548,
+            "y": 857,
+            "width": 100,
+            "height": 35
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4da8b3b1677440f8860230967fd3e35b"
+        },
+        {
+          "id": "ca-3",
+          "text": "Voorwaarden",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 648,
+            "y": 857,
+            "width": 105,
+            "height": 35
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4da8b3b1677440f8860230967fd3e35b"
+        },
+        {
+          "id": "ca-4",
+          "text": "Privacy",
+          "tag": "DIV",
+          "context": "",
+          "box": {
+            "x": 753,
+            "y": 857,
+            "width": 64,
+            "height": 35
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0,
+          "frame_id": "4da8b3b1677440f8860230967fd3e35b"
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "4da8b3b1677440f8860230967fd3e35b",
+      "frame_url": "https://hyves.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_id": "28aec54fe01d469597be40e885a1c0f4",
+      "frame_url": "about:"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://hyves.nl/",
+  "consent_state": {
+    "providers": [
+      {
+        "provider": "IAB TCF",
+        "gdprApplies": true,
+        "eventStatus": "useractioncomplete",
+        "cmpStatus": "loaded",
+        "purposesGranted": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "specialFeaturesGranted": [],
+        "vendorsConsented": 2,
+        "legitimateInterestPurposes": [
+          "2",
+          "7",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:38:45.227772+00:00",
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "domain": ".kaching.eu.com",
+      "path": "/",
+      "expires": 1793722110.867935,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pctx",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1827848312,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_dcs",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1825342718,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "euconsent-v2",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1825342718,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_id.1.5acc",
+      "domain": "hyves.nl",
+      "path": "/",
+      "expires": 1827675518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.1.5acc",
+      "domain": "hyves.nl",
+      "path": "/",
+      "expires": 1793722118,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mtm_consent",
+      "domain": "hyves.nl",
+      "path": "/",
+      "expires": 1828280318.217666,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pcid",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1827848318,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cX_P",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1827848318,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cX_G",
+      "domain": ".hyves.nl",
+      "path": "/",
+      "expires": 1827848318,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gckp",
+      "domain": ".cxense.com",
+      "path": "/",
+      "expires": 1825256318.303273,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://hyves.nl",
+      "localKeys": [
+        "kachingPiano",
+        "didomi_dcs",
+        "_cX_segmentInfo",
+        "datastore_LOCAL_hyves.preferences_pb_version",
+        "_ls_ttl",
+        "adv_identity",
+        "_cX_cons",
+        "hyves.preferences_pb",
+        "euconsent-v2",
+        "adv_userid",
+        "ksafe.__legacymigrated__."
+      ],
+      "sessionKeys": [
+        "adv_cache",
+        "_cX_S",
+        "_cX_GAttempt"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "kachingPiano",
+        "didomi_dcs",
+        "_cX_segmentInfo",
+        "datastore_LOCAL_hyves.preferences_pb_version",
+        "_ls_ttl",
+        "adv_identity",
+        "_cX_cons",
+        "hyves.preferences_pb",
+        "euconsent-v2",
+        "adv_userid",
+        "ksafe.__legacymigrated__."
+      ],
+      "sessionKeys": [
+        "adv_cache",
+        "_cX_S",
+        "_cX_GAttempt"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.privacy-center.org/v1/events",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:38:38.211791+00:00"
+    },
+    {
+      "url": "https://hyves.matomo.cloud/matomo.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:38.218853+00:00"
+    },
+    {
+      "url": "https://id.cxense.com/public/user/id",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:38.222867+00:00"
+    },
+    {
+      "url": "https://comcluster.cxense.com/Repo/rep.gif",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:38:38.223696+00:00"
+    },
+    {
+      "url": "https://api.cxense.com/profile/user/segment",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:38:38.231769+00:00"
+    },
+    {
+      "url": "https://hyves.matomo.cloud/matomo.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:39.038541+00:00"
+    },
+    {
+      "url": "https://hyves.matomo.cloud/matomo.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:38:39.702823+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_pk_id.1.5acc",
+      "domain": "hyves.nl"
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hyves.matomo.cloud/matomo.php",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://id.cxense.com/public/user/id",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://comcluster.cxense.com/Repo/rep.gif",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://api.cxense.com/profile/user/segment",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hyves.matomo.cloud/matomo.php",
+      "categories": [
+        "Advertising"
+      ]
+    },
+    {
+      "kind": "listed_endpoint",
+      "url": "https://hyves.matomo.cloud/matomo.php",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "blocked": false,
+  "screenshot": "accept-control.jpg",
+  "context_excerpt_limit": 400
+}

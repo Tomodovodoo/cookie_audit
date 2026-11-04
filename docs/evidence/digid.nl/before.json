@@ -1,0 +1,1361 @@
+{
+  "frames": [
+    {
+      "url": "https://www.digid.nl/",
+      "title": "Home Nederlands | DigiD",
+      "text": "Ga direct naar inhoud\nGa direct naar navigatie\nGa direct naar zoeken\nWebsite taal veranderen\nNL\n|EN\n|PAP\nHome\nAanvragen & activeren\nManieren van inloggen\nVeiligheid\nHulp & Contact\nMijn DigiD\nZoek\nInlogproblemen met de DigiD app?\n\nSommige mensen kunnen op dit moment niet inloggen met de DigiD app op hun Android-telefoon. Bekijk de oplossing bij Meer informatie.\n\nSluit\nMeer informatie\nover Inlogproblemen met de DigiD app?\nLaat zien wie je bent\nAanvragen\nActiveren\nMachtigen\n\nIemand uw zaken laten regelen voor bijv. de Belastingdienst? Gebruik machtigen.\n\nMeer informatie\nCode ontvangen\n\nVul uw activeringscode, herstelcode, e-mailcode of machtigingscode in.\n\nCode invullen\nManieren van inloggen\n\nVoeg meer manieren toe en regel meer met uw DigiD.\n\nDigiD app\n\nDe makkelijkste manier om veilig in te loggen\n\nSms-controle\n\nInloggen met een sms-code\n\nGebruikersnaam en wachtwoord\n\nInloggen met gebruikersnaam en wachtwoord\n\nIdentiteitsbewijs\n\nVoor toegang tot extra privacygevoelige gegevens.\n\nVeel gezocht\nWat betekent het nieuws over Solvinity voor DigiD?\nIk krijg een foutmelding in de DigiD app\nHoe voeg ik ID-check toe aan de DigiD app?\nHoe herken ik een valse e-mail of sms?\nWaarom lukt het activeren van mijn rijbewijs/ID-kaart niet?\nHoe vraag ik een DigiD aan?\nHoe activeer ik de DigiD app?\nDownload de DigiD app\n\nDe makkelijkste manier om veilig in te loggen!\n\nAlgemeen\nOver DigiD\nPrivacy\nToegankelijkheid\nContact\nIk heb een klacht\nMeld kwetsbaarheid\nLanguage\nWebsite taal veranderen\nNL\n|EN\n|PAP",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "NL",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1174.4305419921875,
+            "y": 25.5,
+            "width": 24,
+            "height": 25.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(225, 112, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "EN",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1210.7708740234375,
+            "y": 25.5,
+            "width": 24,
+            "height": 25.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "PAP",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1247.111083984375,
+            "y": 25.5,
+            "width": 24,
+            "height": 25.77777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-3",
+          "text": "Home",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 160.11111450195312,
+            "y": 105.5,
+            "width": 41.45833206176758,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-4",
+          "text": "Aanvragen & activeren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 231.56944274902344,
+            "y": 105.5,
+            "width": 148.0208282470703,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-5",
+          "text": "Manieren van inloggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 409.59027099609375,
+            "y": 105.5,
+            "width": 149.63194274902344,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-6",
+          "text": "Veiligheid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 589.2222290039062,
+            "y": 105.5,
+            "width": 64.13194274902344,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-7",
+          "text": "Hulp & Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 683.3541870117188,
+            "y": 105.5,
+            "width": 99.71527862548828,
+            "height": 24
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-8",
+          "text": "Mijn DigiD",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1141.84033203125,
+            "y": 96.5,
+            "width": 68.99305725097656,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-9",
+          "text": "Zoek",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1242.8333740234375,
+            "y": 90.5,
+            "width": 32.27777862548828,
+            "height": 54
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-10",
+          "text": "Sluit",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 1219.7847900390625,
+            "y": 169.88888549804688,
+            "width": 66.3263931274414,
+            "height": 34.39583206176758
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 223, 221)",
+            "fontSize": 17.6,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "4px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-11",
+          "text": "Meer informatie over Inlogproblemen met de DigiD app?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 1142.40283203125,
+            "y": 239.88888549804688,
+            "width": 143.7083282470703,
+            "height": 27
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(249, 223, 221)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-12",
+          "text": "Aanvragen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 119.11111450195312,
+            "y": 778.888916015625,
+            "width": 144.25,
+            "height": 50.27777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(225, 112, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 19,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-13",
+          "text": "Activeren",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 279.3611145019531,
+            "y": 778.888916015625,
+            "width": 134.20138549804688,
+            "height": 50.27777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(225, 112, 0)",
+            "background": "rgb(255, 255, 255)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 19,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-14",
+          "text": "Meer informatie",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 574.4722290039062,
+            "y": 778.888916015625,
+            "width": 189.4166717529297,
+            "height": 50.27777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(225, 112, 0)",
+            "effectiveBackground": "rgb(225, 112, 0)",
+            "fontSize": 19,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(225, 112, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-15",
+          "text": "Code invullen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 934.7916870117188,
+            "y": 778.888916015625,
+            "width": 167.43055725097656,
+            "height": 50.27777862548828
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(225, 112, 0)",
+            "effectiveBackground": "rgb(225, 112, 0)",
+            "fontSize": 19,
+            "fontWeight": "700",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(225, 112, 0)",
+            "padding": "10px 16px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-16",
+          "text": "DigiD app De makkelijkste manier om veilig in te loggen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 119.11111450195312,
+            "y": 1065.1666259765625,
+            "width": 516,
+            "height": 93.8888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px 5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-17",
+          "text": "Sms-controle Inloggen met een sms-code",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 715.1111450195312,
+            "y": 1065.1666259765625,
+            "width": 516,
+            "height": 93.8888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px 5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-18",
+          "text": "Gebruikersnaam en wachtwoord Inloggen met gebruikersnaam en wachtwoord",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 119.11111450195312,
+            "y": 1159.0555419921875,
+            "width": 516,
+            "height": 94.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px 5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-19",
+          "text": "Identiteitsbewijs Voor toegang tot extra privacygevoelige gegevens.",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 715.1111450195312,
+            "y": 1159.0555419921875,
+            "width": 516,
+            "height": 94.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0.888889,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px 5px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-20",
+          "text": "Wat betekent het nieuws over Solvinity voor DigiD?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 134.11111450195312,
+            "y": 1526.7222900390625,
+            "width": 376.0208435058594,
+            "height": 27
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-21",
+          "text": "Ik krijg een foutmelding in de DigiD app",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 134.11111450195312,
+            "y": 1594.611083984375,
+            "width": 290.5416564941406,
+            "height": 27
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-22",
+          "text": "Hoe voeg ik ID-check toe aan de DigiD app?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 134.11111450195312,
+            "y": 1662.5,
+            "width": 320.1666564941406,
+            "height": 27
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-23",
+          "text": "Hoe herken ik een valse e-mail of sms?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 134.11111450195312,
+            "y": 1730.388916015625,
+            "width": 284.3125,
+            "height": 27
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-24",
+          "text": "Waarom lukt het activeren van mijn rijbewijs/ID-kaart niet?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 134.11111450195312,
+            "y": 1798.27783203125,
+            "width": 433.53472900390625,
+            "height": 27
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-25",
+          "text": "Hoe vraag ik een DigiD aan?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 134.11111450195312,
+            "y": 1866.1666259765625,
+            "width": 204.82638549804688,
+            "height": 27
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-26",
+          "text": "Hoe activeer ik de DigiD app?",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 134.11111450195312,
+            "y": 1934.0555419921875,
+            "width": 214.49305725097656,
+            "height": 27
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(40, 40, 40)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(245, 245, 245)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-27",
+          "text": "Algemeen",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 198.11111450195312,
+            "y": 2210.72216796875,
+            "width": 76.90277862548828,
+            "height": 20.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-28",
+          "text": "Over DigiD",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 198.11111450195312,
+            "y": 2239.916748046875,
+            "width": 79.6875,
+            "height": 20.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-29",
+          "text": "Privacy",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 198.11111450195312,
+            "y": 2273.111083984375,
+            "width": 52.41666793823242,
+            "height": 20.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-30",
+          "text": "Toegankelijkheid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 198.11111450195312,
+            "y": 2306.3056640625,
+            "width": 124.3263931274414,
+            "height": 20.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-31",
+          "text": "Contact",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 506.1111145019531,
+            "y": 2210.72216796875,
+            "width": 59.16666793823242,
+            "height": 20.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 18,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-32",
+          "text": "Ik heb een klacht",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 506.1111145019531,
+            "y": 2239.916748046875,
+            "width": 123.97222137451172,
+            "height": 20.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-33",
+          "text": "Meld kwetsbaarheid",
+          "tag": "A",
+          "context": "",
+          "box": {
+            "x": 506.1111145019531,
+            "y": 2273.111083984375,
+            "width": 149.8541717529297,
+            "height": 20.88888931274414
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 18,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(229, 231, 235)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-34",
+          "text": "NL",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 825.6111450195312,
+            "y": 2243.944580078125,
+            "width": 24,
+            "height": 25.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 16,
+            "fontWeight": "700",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-35",
+          "text": "EN",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 861.951416015625,
+            "y": 2243.944580078125,
+            "width": 24,
+            "height": 25.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-36",
+          "text": "PAP",
+          "tag": "BUTTON",
+          "context": "",
+          "box": {
+            "x": 898.2916870117188,
+            "y": 2243.944580078125,
+            "width": 24,
+            "height": 25.77777862548828
+          },
+          "inViewport": false,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(40, 40, 40)",
+            "fontSize": 16,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.digid.nl/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.digid.nl/",
+  "captured_at": "2026-11-03T15:01:58.952338+00:00",
+  "cookies": [
+    {
+      "name": "_pk_id.28.d667",
+      "domain": "www.digid.nl",
+      "path": "/",
+      "expires": 1827673312,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pk_ses.28.d667",
+      "domain": "www.digid.nl",
+      "path": "/",
+      "expires": 1793719912,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.digid.nl",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://digid.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.529460+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.581435+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/media/ROsanswebtextbold-s.p.361huqkt8yia-.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.846546+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/media/ROsanswebtextitalic-s.p.34t6rysdtnf0-.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.847229+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/media/ROsanswebtextregular-s.p.44had0615nrzh.ttf",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.848130+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/132ngudmpziz-.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.848851+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/0i4pfobxz_v-a.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.853295+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.854206+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/media/logo.0naaevloh6u-5.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.909648+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/images/rijksoverheid-logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.910278+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/images/icons/account.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.911784+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/25ixehw_m8fpr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.912242+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/3hxfqoc2z8c20.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.913114+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/29kl_z06lfoes.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.913857+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/3y1re2g7s-hhl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.914602+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/0_hktb-qrl8yl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.915253+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/turbopack-3yv6cmuran_d1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.915866+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/2yd77nztn2p0e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.916478+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/3xfex_qiryr5-.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.917081+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/1l-p3wuuhomw2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.917758+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/3ufilvttx6b7m.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.918695+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/2r_7gtz567buq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.919328+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/00w4y4sw1yr03.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.919963+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/22_-dupm-ev9z.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.920601+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/images/icons/search.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.980665+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.983330+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.983864+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.984657+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.985331+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.985939+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.986527+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.987121+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/image",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:51.987781+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/1hax7ecg3wzga.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.063482+00:00"
+    },
+    {
+      "url": "https://sentry.dtnr.nl/api/27/envelope/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:01:52.127603+00:00"
+    },
+    {
+      "url": "https://sentry.dtnr.nl/api/27/envelope/",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:01:52.128167+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/api/status-message",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.132314+00:00"
+    },
+    {
+      "url": "https://statistiek.digid.nl/matomo.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.139481+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.139990+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.144005+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/inlogmethodes",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.144556+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/veiligheid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.145314+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/hulp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.153908+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/_next/static/chunks/0d6zv6h92x4-g.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.174762+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/images/icons/close.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.178554+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/digid-aanvragen",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.184896+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/digid-activeren",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.185878+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/inlogmethodes/digid-app",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.186548+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/inlogmethodes/sms-controle",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.214761+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/machtigen",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.228167+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/code-ontvangen",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.228806+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/digid-aanvragen",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.230199+00:00"
+    },
+    {
+      "url": "https://statistiek.digid.nl/matomo.php",
+      "resource_type": "ping",
+      "method": "POST",
+      "at": "2026-11-03T15:01:52.279764+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/digid-activeren",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.301719+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/inlogmethodes/digid-app",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.303032+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/inlogmethodes/sms-controle",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.303675+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/machtigen",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.332421+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren/code-ontvangen",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.393524+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/aanvragen-en-activeren",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.405708+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/inlogmethodes",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.410689+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/veiligheid",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.417384+00:00"
+    },
+    {
+      "url": "https://www.digid.nl/hulp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:01:52.520274+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "analytics_cookie",
+      "name": "_pk_id.28.d667",
+      "domain": "www.digid.nl"
+    }
+  ],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

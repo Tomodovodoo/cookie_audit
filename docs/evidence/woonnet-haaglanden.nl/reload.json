@@ -1,0 +1,1467 @@
+{
+  "frames": [
+    {
+      "url": "https://www.woonnet-haaglanden.nl/",
+      "title": "Woonnet Haaglanden",
+      "text": "Hoog contrast\nMenu\nZoeken\nInschrijven\nInloggen\nZoek en vind je huurwoning\nBekijk het aanbod\nZo werkt het\nSpelregels\nWachttijd\nApp\nBetalen\nHuurinkomens­tabel\nContact\nMeeverhuizende personen\n\nReageer je op woningen en heb je meeverhuizende personen op je inschrijving? Let dan goed op! Vanaf 1 januari 2027 veranderen de regels wie er op je inschrijving mag staan. Lees meer over deze veranderingen en klik verder.\n\nBekijk de infographic\nKlik hier voor de veelgestelde vragen\nWijzigingen in de Spelregels\n\nDe spelregels en inschrijfvoorwaarden zijn per 1 juli 2026 gewijzigd. In deze infographic vind je de belangrijkste wijzigingen en wat deze voor jouw inschrijving of reacties op woningen kunnen betekenen. Lees welke regels zijn aangepast voor woningzoekenden op Woonnet Haaglanden.\n\nLees hier de regels\nDe seniorenmakelaar kan met je meedenken\n\nWil je verhuizen naar een woning die beter past bij je huidige of toekomstige woonwensen? De seniorenmakelaar informeert en adviseert je over de mogelijkheden om te verhuizen naar een woning die beter bij je past.\n\nKlik hier voor meer informatie\nNieuws\nNieuwe landelijke website helpt woningzoekenden sneller naar juiste verhuurwebsite voor sociale huurwoningen\n21 september 2026\nBelangrijke veranderingen per 2026 – zorg dat je gegevens kloppen\n30 december 2025\nSeniorenmakelaars kunnen eventueel ondersteunen bij doorstroming naar een gelijkvloerse woning\n22 december 2025\nBekijk nieuwsoverzicht\nWaarmee kunnen wij je helpen?\n\nOp deze website staat het gezamenlijke aanbod van alle woningcorporaties met woningbezit in de regio Haaglanden.\n\nGebruikersnaam vergeten\nWachtwoord vergeten\nVraag & Antwoord\nOnlangs verhuurd\nPrivacy\nCookies\nDisclaimer\nToegankeljikheid",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Open het cookie-instellingen widget",
+          "tag": "BUTTON",
+          "context": "Hoog contrast\nMenu\nZoeken\nInschrijven\nInloggen\nZoek en vind je huurwoning\nBekijk het aanbod\nZo werkt het\nSpelregels\nWachttijd\nApp\nBetalen\nHuurinkomens­tabel\nContact\nMeeverhuizende personen\n\nReageer je op woningen en heb je meeverhuizende personen op je inschrijving? Let dan goed op! Vanaf 1 januari 2027 veranderen de regels wie er op je inschrijving mag staan. Lees meer over deze veranderingen en ",
+          "box": {
+            "x": 10,
+            "y": 842,
+            "width": 48,
+            "height": 48
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgba(0, 0, 0, 0)",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(255, 255, 255)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.woonnet-haaglanden.nl/"
+    },
+    {
+      "url": "nullblank",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 0,
+        "height": 0
+      },
+      "frame_url": "about:"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "title": "",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1,
+        "height": 1
+      },
+      "frame_url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.woonnet-haaglanden.nl/",
+  "captured_at": "2026-11-03T15:25:36.149703+00:00",
+  "cookies": [
+    {
+      "name": "__Host-PHPSESSID",
+      "domain": "www.woonnet-haaglanden.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CookieConsent",
+      "domain": "www.woonnet-haaglanden.nl",
+      "path": "/",
+      "expires": 1809357921,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.woonnet-haaglanden.nl",
+      "localKeys": [
+        "i18nextLng"
+      ],
+      "sessionKeys": [
+        "lastUrl",
+        "currentUrl"
+      ]
+    },
+    {
+      "origin": "null",
+      "localKeys": [
+        "i18nextLng"
+      ],
+      "sessionKeys": [
+        "lastUrl",
+        "currentUrl"
+      ]
+    },
+    {
+      "origin": "https://consentcdn.cookiebot.eu",
+      "localKeys": [],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.woonnet-haaglanden.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.570195+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/ui-components.esm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.658145+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/index.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.658572+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-style/19.3.50/zds/style/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.659592+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-style/19.3.50/zds/style/themes/woonnethaaglanden/fonts.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.664910+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-style/19.3.50/zds/style/themes/woonnethaaglanden/tokens.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.665458+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/typo3temp/assets/compressed/merged-630369474d760d1907c034e29ad706ff-15c970e5af90e750b41d50a5764c817f.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.666658+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/styles-CXEmqsXU.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.669180+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/Notifications-LwGf51Nl.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.670362+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/UnitFormatService-BTdBcLKV.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.671550+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/Search-Lo45AdFj.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.672509+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/SmartAppBanner-B3ade4nN.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.673187+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/main.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.673874+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/93d1f5e96a2bd8334934aa391fa2812d/JavaScript/jQuery/jquery-3.6.4.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.674564+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Js/Lib/jquery-3.6.1.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.675205+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/93d1f5e96a2bd8334934aa391fa2812d/JavaScript/AngularManagement/angular.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.675768+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/93d1f5e96a2bd8334934aa391fa2812d/JavaScript/AngularManagement/angular-delayed-bootstrap.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.676375+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/f8b2b094201d06dae8db70ae8e88754c/jquery-focuspoint-2015-08-31/js/jquery.focuspoint.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.676971+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/typo3temp/assets/compressed/merged-d967b472c1fb306029d9bd3ef4208d95.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.677582+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Js/Lib/angular-locale_nl-nl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.678483+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/_processed_/7/e/csm_Raamstraat_DSC8637_7ece565bf4.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.679058+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/typo3temp/assets/compressed/merged-fa5bb7f7d10c91946444cf3635587caa.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.679778+00:00"
+    },
+    {
+      "url": "https://sdk.zig365.nl/js/hexia.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.680468+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/vanilla-C0IjtiMe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.681128+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/Notifications-ere86bzD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.681749+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/Search-DBoqJdpK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.682380+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/Login.entry-Dc-yqz1u.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.683171+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/SmartAppBanner-Cotg12qs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.684120+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/LoginPopup.entry-DYjO3R4c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.684982+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/RegisterPopup.entry-BaumAkuH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.685984+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/typo3temp/assets/compressed/merged-ce6526458f679f34be09bd6f1c0633b3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.708671+00:00"
+    },
+    {
+      "url": "https://cdn.icomoon.io/30670/WRV-Standaard/style.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.758737+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-react/19.3.1/react.production.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.762581+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-react-dom/19.3.1/react-dom.production.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.777496+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/uc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.796052+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Images/Google_Translate_logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.809148+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/JavaScript/wzp-angular-bundle.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.810274+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/fonts/open-sans/opensans-regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.820442+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-8cdc610e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.821014+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-e1255160.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.822280+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/emotion-element-f0de968e.browser.esm-D38lnBLq.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.823790+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/dist-C6GbiM5u.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.824195+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/min-BuEJlbCQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.824844+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/breakpoints-CtO0rFlO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.825674+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useViewport-EldxRE4I.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.826340+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/outline-CDfYBkdr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.827251+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/truncate-CLAuGxNF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.828346+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/typography-Cc6IpYSD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.829446+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/fonts/lato/lato-700.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.838023+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/fonts/open-sans/opensans-bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.838413+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/_processed_/8/a/csm_279e73b98a14a4f26409610bccbed1b4387e0c8a-fp-16-9-0-0_4c4ad041e8.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.840491+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/focuspoint/2587333adaed4286da53c996f46f30686d55a8f9-fp-16-9-0-0.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.841184+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/focuspoint/cb3eb0ac753fe0994fb14d18fb5c6b9f6d64fe5d-fp-16-9-0-0.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.842144+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/_processed_/7/7/csm_6bcf6c0224b824ea69534d1c2ed36216a577e90a-fp-3-2-0-0_13fd285d68.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.843270+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/_processed_/3/8/csm_eac9f9fc65b642f99696992511ef69d095d35ace-fp-3-2-0-0_91e41f3bb7.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.843619+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/_processed_/e/f/csm_ff2a11b05f32389a999965d7f0a025955ec58dbf-fp-3-2-0-0_846c5814b4.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.844267+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/user_upload/Logos_Corporaties/white_logo_s.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.845025+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/_processed_/c/e/csm_2aae9570-b0d0-4dc1-ad10-a849390a6606_c07ced8e59.png",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.846028+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/jsx-runtime-L_iMkhJv.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.850261+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/ContextConfiguration-y9wbZxf5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.850919+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/renderComponent-ClJfhTei.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.852306+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/src-DibK7iFQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.852874+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/Translation-Bc1JsYcw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.853800+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/server.browser-BfwMlohF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.854678+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/Alert-Dv7jXMEQ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.856301+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/UnitFormatService-DtdTnpwV.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.857208+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/NoResults-BiXdmlnP.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.858129+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/useQueryParams-CYECAvgF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.858988+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/useTranslation-CrJKnZy1.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.860947+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/LoginForm-C8yrKfMC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.861533+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/SettingsApiService-D1qc6qLC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.863070+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/SsoLoginButton-XFi9nn4Y.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.863675+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/emotion-react.browser.esm-LuZVt2Vd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.868070+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-3726f826.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.875911+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-86e3503c.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.876606+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-51b7060d.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.877885+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-e9544378.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.879028+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-cb102fe8.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.879811+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-1e77408c.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.884214+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-4fb5e920.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.884656+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-f028ccfd.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.885619+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-6e0a946b.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.886349+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-206d50a1.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.887140+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-be24b71e.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.887928+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-a6f82e94.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.888738+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-cb53b21e.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.889543+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-07eddf01.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.890300+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-ff9f018a.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.891097+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-1aa813a1.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.891789+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-d77e649f.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.892506+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/classnames-A88hgIHO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.893591+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/71fdeae0-9a00-4814-bc14-d5e891feef7b/settings.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.919278+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/sdk/bc-v5.min.html",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.930647+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/useForm-DJm8g3lH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.939269+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/index-DCVvozoC.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.941617+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-4c2cb5c4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.948488+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-33116313.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.952571+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-4cc78659.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.953228+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-0c7476ef.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.954192+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-d42e741f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.954864+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-c71c4fc0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.955645+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-a294cebc.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.956329+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-a39c01f7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.956981+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-3840b561.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.957782+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-e376e852.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.958612+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-29921d13.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.959303+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-edba5186.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.960030+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-9735a4c4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.961212+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-1db470db.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.961844+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-a0a5155b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.962466+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-3c7856bf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.963096+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-cc85eabd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.963732+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-a98fe246.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.967504+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-098f2100.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.969509+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-11862d95.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.970010+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-dae299c3.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.970717+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-17c8d92c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.971777+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-5f9e3ae8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.974795+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsPopout-BfAPnp-v.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.976210+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/v1/zig-attentieregels/actieve-attentieregels.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.977454+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/index-DJaWgN04.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:28.987920+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-regular/arrow-right-long.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.011057+00:00"
+    },
+    {
+      "url": "https://consentcdn.cookiebot.eu/consentconfig/71fdeae0-9a00-4814-bc14-d5e891feef7b/state.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.026199+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/emotion-react-jsx-runtime.browser.esm-DFmeI3a_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.028491+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/FloatingArrow-CAQodiSR.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.030090+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsPopout.style-B8XZkxn_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.030547+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-1db5ece4.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.096370+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-ui-components/19.3.50/zds/ui-components/ui-components/p-71ff0ac9.entry.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.097142+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-duotone/messages-question.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.098348+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-duotone/wallet.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.099196+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-duotone/alarm-clock.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.100927+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-duotone/chess-pawn.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.102101+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-duotone/phone-flip.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.103220+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-duotone/mobile-notch.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.104157+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-duotone/euro-sign.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.105186+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-regular/pencil.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.106233+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/mui/accessibility.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.107277+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/circle-half-stroke.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.108788+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/arrow-right-long.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.109168+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/mui/close.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.109836+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/mui/menu.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.110527+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/chevron-left.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.111608+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/xmark.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.112250+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/mui/person_outline.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.113106+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-light/magnifying-glass.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.113810+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-regular/home-alt.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.114830+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/chevron-right.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.115206+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/arrows-rotate.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.115950+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-light/newspaper.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.116910+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-light/building.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.117882+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/logo/Logo_Haaglanden_-_Header.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.118706+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/portal/proxy/frontend/api/v1/configuration",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.137325+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/emotion-styled.browser.esm-DSbUcC6p.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.139072+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsTooltip-DMy-IkmH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.139672+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Dialog-DZ4bvtnF.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.140893+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useOverlayTriggerState-C2fjESoL.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.141909+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/v1/zig-sitepackage/settings.json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.143551+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/fileadmin/favicons/favicon-32x32.png",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.177058+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/proxy-haUhrCxX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.178343+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/mergeProps-Dx6z4BoE.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.178779+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useHover-CRrNQVyj.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.179637+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useFocusWithin-Z1hDifRS.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.180450+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/utils-Be2s4LqW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.192064+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/I18nProvider-81BnkIPA.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.192481+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useControlledState-D-t5lAPW.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.193207+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/filterDOMProps--xxuIgM_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.193978+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/number-ge-OLR1m.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.194641+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/FocusScope-Dr6eVDZl.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.195284+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/ad8927e84ac4d76265df086510629ea1/Vite/assets/ua-parser-CdMQhQmr.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.196565+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/SSRProvider-JRzw9VEI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.197438+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useCollection-ChhnPmrZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.197744+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useEvent-BtTvQhqN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.198392+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useLabel-65Olg1UM.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.199083+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useLocalizedStringFormatter-DAFr6oBd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.199778+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Autocomplete-CbAQppPm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.200752+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Collection-CBCDlCKd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.201426+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useFocusRing-Clf22tm5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.202065+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Hidden-kqD7cKAX.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.202733+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/usePress-CpLm1F1g.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.203464+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Button-Bxd2DQ4f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.204122+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Heading-BZtURkec.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.204778+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Text-Dx-CtmzG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.205514+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useDescription-Cgt8CwdK.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.206157+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useCollator-xMjKj0mh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.206784+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/VisuallyHidden-BDeLodA2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.207445+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/getItemCount-nSKinSo2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.208125+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/SelectionIndicator-DPkBIj8H.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.208993+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ProgressBar-n3zSaM6k.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.234348+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useButton-Dfr2VoP4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.235627+00:00"
+    },
+    {
+      "url": "https://consent.cookiebot.eu/Scripts/widgetIcon.min.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.237251+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/portal/core/frontend/gettranslations/format/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.265339+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Label-jbVv905i.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.265882+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useProgressBar-BdhJ7daD.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.266947+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsInputSearch-CHUCEDVw.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.306834+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsIcon-ioAeu90V.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.327739+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsIconButton-Drw1NeFh.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.328777+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsInputText-T7ZKQinZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.329120+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/nl-hTDJ4Kfs.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.330245+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsInputText.style-BwCJGcgd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.371938+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ClearButton-ABcxqiDZ.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.372893+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/handleInstantSaveKeydown-C96S3EzG.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.373211+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/createAriaContextProps-pBUgWkev.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.373826+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsProgressCircle-wIdDBszd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.375191+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsButton-DBMC-TGH.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.389256+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useFormValidation-BrH-G_Tf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.544218+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useFormReset-CwYlcLUe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.546531+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Input-ChCoUSV5.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.546834+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsFormError-DdGtib_E.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.552298+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsFormHint-C4njQWO_.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.552640+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsFormLabel-D-C3-X3h.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.553249+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Link-IhqphO_f.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.553846+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ButtonGroupContext-DToQMQmm.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.554419+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/portal/core/frontend/getportalconfiguration/format/json",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.648191+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-regular/magnifying-glass.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.902437+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/circle-xmark.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.913629+00:00"
+    },
+    {
+      "url": "https://www.woonnet-haaglanden.nl/_assets/c25ace7dfe73fbb8c05f07ae9ca2a4bb/Vite/nl-quSKgWeO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.939987+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsInputPassword-DSXZeJbI.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:29.979451+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsLink-BWPoyFw2.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:30.028571+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsModal-iia_7bey.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:30.061579+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/Modal-CSxNVuuN.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:30.110273+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/ZdsDivider-ghIftCEO.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:30.110798+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-react/19.3.50/lazy/useScrollShadow-D0GMynT0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:25:30.111603+00:00"
+    },
+    {
+      "url": "https://zds-cdn.zig365.nl/@zig-design-system-assets/19.3.50/global-icons/fa-solid/eye.svg",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:25:30.182514+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "reload.jpg",
+  "context_excerpt_limit": 400
+}

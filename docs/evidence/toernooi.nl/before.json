@@ -1,0 +1,225 @@
+{
+  "frames": [
+    {
+      "url": "https://www.toernooi.nl/cookiewall/",
+      "title": "Toernooi.nl",
+      "text": "Nederlands\nEnglish (GBR)\nEnglish (USA)\nDansk\nSvenska\n\nWij vragen toestemming voor het gebruik van cookies en soortgelijke technieken, en informeren je hierbij over het gebruik daarvan op onze website. Wij verzamelen en verwerken persoonlijke gegevens voor de volgende doeleinden: Basisfunctionaliteit, Basis analyse, Gepersonaliseerde advertenties, Analyse en marketing tools, Social media. In ons Privacy statement kan je meer informatie vinden over het verwerken van persoonsgegevens.\n\nINSTELLINGEN\nAKKOORD",
+      "controls": [
+        {
+          "id": "ca-0",
+          "text": "Privacy statement",
+          "tag": "A",
+          "context": "Wij vragen toestemming voor het gebruik van cookies en soortgelijke technieken, en informeren je hierbij over het gebruik daarvan op onze website. Wij verzamelen en verwerken persoonlijke gegevens voor de volgende doeleinden: Basisfunctionaliteit, Basis analyse, Gepersonaliseerde advertenties, Analyse en marketing tools, Social media. In ons Privacy statement kan je meer informatie vinden over het",
+          "box": {
+            "x": 617.2777709960938,
+            "y": 345.96527099609375,
+            "width": 106.99305725097656,
+            "height": 16.88888931274414
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(15, 159, 234)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 12.864,
+            "fontWeight": "400",
+            "borderWidth": 0,
+            "borderColor": "rgb(15, 159, 234)",
+            "padding": "0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-1",
+          "text": "INSTELLINGEN",
+          "tag": "BUTTON",
+          "context": "Nederlands\nEnglish (GBR)\nEnglish (USA)\nDansk\nSvenska\n\nWij vragen toestemming voor het gebruik van cookies en soortgelijke technieken, en informeren je hierbij over het gebruik daarvan op onze website. Wij verzamelen en verwerken persoonlijke gegevens voor de volgende doeleinden: Basisfunctionaliteit, Basis analyse, Gepersonaliseerde advertenties, Analyse en marketing tools, Social media. In ons Pr",
+          "box": {
+            "x": 232.42361450195312,
+            "y": 401.8611145019531,
+            "width": 128.59722900390625,
+            "height": 43.04166793823242
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(112, 117, 133)",
+            "background": "rgba(0, 0, 0, 0)",
+            "effectiveBackground": "rgb(255, 255, 255)",
+            "fontSize": 13.5072,
+            "fontWeight": "600",
+            "borderWidth": 0,
+            "borderColor": "rgb(112, 117, 133)",
+            "padding": "10.72px 21.44px 10.72px 0px"
+          },
+          "disabled": false,
+          "frame": 0
+        },
+        {
+          "id": "ca-2",
+          "text": "AKKOORD",
+          "tag": "BUTTON",
+          "context": "Nederlands\nEnglish (GBR)\nEnglish (USA)\nDansk\nSvenska\n\nWij vragen toestemming voor het gebruik van cookies en soortgelijke technieken, en informeren je hierbij over het gebruik daarvan op onze website. Wij verzamelen en verwerken persoonlijke gegevens voor de volgende doeleinden: Basisfunctionaliteit, Basis analyse, Gepersonaliseerde advertenties, Analyse en marketing tools, Social media. In ons Pr",
+          "box": {
+            "x": 1004.9930419921875,
+            "y": 403.65277099609375,
+            "width": 127.90972137451172,
+            "height": 39.45833206176758
+          },
+          "inViewport": true,
+          "style": {
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(74, 191, 51)",
+            "effectiveBackground": "rgb(74, 191, 51)",
+            "fontSize": 13.5072,
+            "fontWeight": "600",
+            "borderWidth": 0.888889,
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "padding": "8.04px 21.44px"
+          },
+          "disabled": false,
+          "frame": 0
+        }
+      ],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://www.toernooi.nl/cookiewall/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.toernooi.nl/cookiewall/",
+  "captured_at": "2026-11-03T15:05:39.290992+00:00",
+  "cookies": [
+    {
+      "name": "ASP.NET_SessionId",
+      "domain": "www.toernooi.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "st",
+      "domain": "www.toernooi.nl",
+      "path": "/",
+      "expires": 1825254333.139504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.toernooi.nl",
+      "localKeys": [
+        "cookiewall"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://toernooi.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.053627+00:00"
+    },
+    {
+      "url": "https://www.toernooi.nl/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.087783+00:00"
+    },
+    {
+      "url": "https://www.toernooi.nl/cookiewall/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.126504+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/Content/fonts/open-sans/Regular/OpenSans-Regular-webfont.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.156458+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/Content/fonts/open-sans/SemiBold/OpenSans-SemiBold-webfont.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.157389+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/Content/fonts/open-sans/Bold/OpenSans-Bold-webfont.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.162492+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/content/styles/css/themes/toernooi/styles.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.163963+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/Content/images/blur.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.164404+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/Content/images/themes/toernooi/logo.svg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.165192+00:00"
+    },
+    {
+      "url": "https://www.toernooi.nl/Content/scripts/dist/jquery-bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.165891+00:00"
+    },
+    {
+      "url": "https://www.toernooi.nl/Content/scripts/dist/vendor-bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.166561+00:00"
+    },
+    {
+      "url": "https://www.toernooi.nl/Content/scripts/dist/functions-bundle.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.167196+00:00"
+    },
+    {
+      "url": "https://www.toernooi.nl/Content/images/sprite--core.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.167841+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/Content/images/cookie-bg.jpg",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.258039+00:00"
+    },
+    {
+      "url": "https://static.tournamentsoftware.com/content/images/themes/toernooi/app/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:05:32.298657+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "screenshot": "before.jpg",
+  "context_excerpt_limit": 400
+}

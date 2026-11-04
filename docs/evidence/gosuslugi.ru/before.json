@@ -1,0 +1,563 @@
+{
+  "frames": [
+    {
+      "url": "https://www.gosuslugi.ru/",
+      "title": "Портал государственных услуг Российской Федерации",
+      "text": "",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_id": "695866bb7fab4077b833ea734ae457b2",
+      "frame_url": "https://www.gosuslugi.ru/"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://www.gosuslugi.ru/",
+  "consent_state": {
+    "providers": []
+  },
+  "http_status": 200,
+  "captured_at": "2026-11-03T15:43:53.674237+00:00",
+  "cookies": [
+    {
+      "name": "c_AqXa7MbgCBNj",
+      "domain": "gosuslugi.ru",
+      "path": "/",
+      "expires": 1793722427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c_AqXa7MbgCBNj_2",
+      "domain": "gosuslugi.ru",
+      "path": "/",
+      "expires": 1793722427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c_AqXa7MbgCBNj_3",
+      "domain": "gosuslugi.ru",
+      "path": "/",
+      "expires": 1793722427,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c_AqXa7MbgCBNj",
+      "domain": "www.gosuslugi.ru",
+      "path": "/",
+      "expires": 1793722428,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c_AqXa7MbgCBNj_2",
+      "domain": "www.gosuslugi.ru",
+      "path": "/",
+      "expires": 1793722428,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c_AqXa7MbgCBNj_3",
+      "domain": "www.gosuslugi.ru",
+      "path": "/",
+      "expires": 1793722428,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userSelectedLanguage",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": 1828280629.277225,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "nau",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": 1828280629.277252,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "usi_portal",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": 1793722432.099053,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS011c75c2",
+      "domain": "www.gosuslugi.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS019e7a72",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ns-nlb",
+      "domain": "www.gosuslugi.ru",
+      "path": "/",
+      "expires": 1793735033.400227,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userSelectedRegion",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gsmSessionId",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": 1793731433.418452,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gsmTimestamp",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": 1793731433.418607,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gsmFingerprint",
+      "domain": ".gosuslugi.ru",
+      "path": "/",
+      "expires": 1796312633.418652,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NSC_q00qhvtubu",
+      "domain": "www.gosuslugi.ru",
+      "path": "/",
+      "expires": 1793720753.607617,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://www.gosuslugi.ru",
+      "localKeys": [
+        "unleash:repository:sessionId",
+        "unleash:repository:repo",
+        "miniMaxConfig"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://gosuslugi.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:45.984931+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/lib-assets/fonts/Lato-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:46.197169+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/lib-assets/fonts/Lato-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:46.199474+00:00"
+    },
+    {
+      "url": "https://gosuslugi.ru/__jsch/static/script.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:46.210110+00:00"
+    },
+    {
+      "url": "https://gosuslugi.ru/__jsch/schema.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:46.637101+00:00"
+    },
+    {
+      "url": "https://gosuslugi.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:47.296272+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:47.501046+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/lib-assets/fonts/Lato-Regular.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:48.011892+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/lib-assets/fonts/Lato-Bold.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:48.018018+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/__jsch/static/script.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:48.028382+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/__jsch/schema.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:48.143174+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:43:48.751987+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/lib-assets/fonts/Lato-Regular-v3.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.362330+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/lib-assets/fonts/Lato-Bold-v3.woff2",
+      "resource_type": "font",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.398631+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/polyfills.cdf4c96c894db571.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.399273+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/main.1d13c95d341fc68d.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.399936+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/styles.78312d065a7134b6.css",
+      "resource_type": "stylesheet",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.425901+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/8750.3b4a9ce0827c93cd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.854544+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/3133.09a6c5071fbe1110.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.864412+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/2501.9d848814eb5fc247.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.864877+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/7037.351fb9dadd0e4459.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.865712+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/4438.8a130713204f389b.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.866594+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/177.1f53bde3bcf88bb8.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.867542+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/1626.a461e6fbdec447f9.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.868747+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/4761.38137b91c93ecbdd.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.869605+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/345.f7bc28841019baab.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.870228+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/7901.339cf21784b09dbe.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.871601+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/2822.c4a1e6a0049c30d6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.872655+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/9242.dc038713c70893d7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.873682+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/1007.3639a92d2105e9e4.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.874459+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/common.c7ac6223fa90f00e.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.875729+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/9969.baf6537228c9aaf0.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.876395+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/7213.ed43c03bc03324bb.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.877071+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/3955.2d31772ec8876abf.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.877699+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/9842.8e22975dcc1cd188.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.878629+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/7461.102db432f8078f22.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.879811+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/4988.2410f485a74394a6.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.881094+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/1910.6ead6f9e1f0e2666.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.881892+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/2319.480aa46bda4efbd7.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.882755+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/9417.ef40a925c327ea66.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.883665+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/5541.a60dadbc78541971.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:49.884615+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/auth-provider/check-session",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:51.483041+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/favicon.svg",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:43:51.592561+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/widget-minimax/boot/boot-minimax.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:51.810622+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/api/detectregion/v2/region/my",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:51.900413+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/widget-minimax/widget-minimax-180620251.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:51.984351+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/favicon.ico",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:43:51.996207+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/api/feature-toggle",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:52.007526+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/widget-minimax/config.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:52.135836+00:00"
+    },
+    {
+      "url": "https://bot.gosuslugi.ru/api/v1/operator/widget/settings",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:52.842774+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/api/opentracing",
+      "resource_type": "fetch",
+      "method": "POST",
+      "at": "2026-11-03T15:43:53.063729+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/api/mp-metrics/v2/gsm/configuration/fingerprint",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:43:53.297332+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/lib-assets/i18n/ru.3.511.2-0-standalone.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:53.453191+00:00"
+    },
+    {
+      "url": "https://mc.yandex.ru/metrika/tag.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:53.454386+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/assets/i18n/ru.3.511.2-0-standalone.json",
+      "resource_type": "xhr",
+      "method": "GET",
+      "at": "2026-11-03T15:43:53.454945+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/3954.2249bbfea5254a98.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:53.470197+00:00"
+    },
+    {
+      "url": "https://gu-st.ru/portal-st/1461.ca8610967982fc6c.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:53.495899+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/health/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:53.496581+00:00"
+    },
+    {
+      "url": "https://www.gosuslugi.ru/health/",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:43:53.497597+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "unknown",
+    "reason": "Analytics cookies or listed endpoints need purpose/consent-mode review."
+  },
+  "signals": [],
+  "uncertain_signals": [
+    {
+      "kind": "listed_endpoint",
+      "url": "https://mc.yandex.ru/metrika/tag.js",
+      "categories": [
+        "Advertising"
+      ]
+    }
+  ],
+  "blocked": false,
+  "context_excerpt_limit": 400
+}

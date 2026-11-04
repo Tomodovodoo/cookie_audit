@@ -1,0 +1,140 @@
+{
+  "frames": [
+    {
+      "url": "https://torn.com/",
+      "title": "Even geduld...",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 1365,
+        "height": 900
+      },
+      "frame_url": "https://torn.com/"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/ki6p5/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "title": "Checking your Browser…",
+      "text": "[Block-page text omitted to protect network identifiers.]",
+      "controls": [],
+      "webdriver": false,
+      "language": "nl-NL",
+      "viewport": {
+        "width": 300,
+        "height": 65
+      },
+      "frame_url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/ki6p5/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal"
+    }
+  ],
+  "frame_errors": [],
+  "url": "https://torn.com/",
+  "captured_at": "2026-11-03T15:21:28.125804+00:00",
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "domain": ".torn.com",
+      "path": "/",
+      "expires": 1793721081.122221,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "storage_keys": [
+    {
+      "origin": "https://torn.com",
+      "localKeys": [],
+      "sessionKeys": []
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localKeys": [
+        "cf.turnstile.u"
+      ],
+      "sessionKeys": []
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://torn.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:20.680186+00:00"
+    },
+    {
+      "url": "https://torn.com/",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:20.749074+00:00"
+    },
+    {
+      "url": "https://torn.com/cdn-cgi/speculation",
+      "resource_type": "other",
+      "method": "GET",
+      "at": "2026-11-03T15:21:20.812894+00:00"
+    },
+    {
+      "url": "https://torn.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:21:20.826229+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/g/5c2e6b612edd/api.js",
+      "resource_type": "script",
+      "method": "GET",
+      "at": "2026-11-03T15:21:21.025473+00:00"
+    },
+    {
+      "url": "https://torn.com/cdn-cgi/challenge-platform/h/g/fo/799045187:1793715027:N11qHsN0PliLOYsT2ZOaJcs_w7UsH_vndbd-kkHtO6I/a54c5e402c27669e/9iSy91sv1Q7ZK5yGzoSpQ79a5ZTw4pIQniZECwRgHs4-1793719280-1.2.1.1-.EpfBY5PqjF0Cp_l2OSJ7DMoC2pY5ZO1nujI2Q5SEmIM.V0u0s.wZga6WGPcUjW4",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:21:21.055265+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/ki6p5/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal",
+      "resource_type": "document",
+      "method": "GET",
+      "at": "2026-11-03T15:21:21.190860+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c5e43095cc5d6/Cv4xdz2ePU2lQhlBJnBqA2EYG8N7e0dMCNB18Yuy10QEt-4sec0yjgmhRvIRsAwiOxbiyKIoZBCVNId3Yn_cgKHcrXjOKQ5wrJy8wa8YBNEyMDMqjU0X1muKnr5qiw1l5w",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:21:21.503565+00:00"
+    },
+    {
+      "url": "https://hagen.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/a54c5e43095cc5d6/Cv4xdz2ePU2lQhlBJnBqA2EYG8N7e0dMCNB18Yuy10QEt-4sec0yjgmhRvIRsAwiOxbiyKIoZBCVNId3Yn_cgKHcrXjOKQ5wrJy8wa8YBNEyMDMqjU0X1muKnr5qiw1l5w",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:21:21.878056+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a54c5e43095cc5d6/1793719281437/585f49ca706ae0ddefc84f375c9c06c9b0e1acf871193d76cdbaf3b0cbf2826d/Cnefp4FHip1aU8PxJ0xgN0byGwKu8Sf-Zw7RQxkxf2fFFf5WakqoFhdx_osBOhSxc-qMMigpBuIeb0kd-wbT6dXvlpJhpDhDk2iWCvNgae1dvZvFOc5nGSiCKwgWiC99dIS5npmahBMq28AwM-BFH8bsLwRiKhYTGJf9qTBHXeBH4o7LDz0GFOJdl_Do4-_Uc2YDMQVgKIPGSrYUIQhF6hU7GH-hJ1KZJicvOUlABcjcCp1MVEVtRNucNKEp4-I32FLKyKYVS7DChB1Di9YYc2Kwh7pNUqb7n_A5qdAh54kNVcuVzw82dlDc4FjD0REeFSwRezOctKM0oTKXq-7cBOH9ih2L7wqnScQLGftJ1fHL5DaxwEBN26bCx8jAKqZOS5JGXYMZPNWK4HDeARW7HdHjTE6Hm_WdpSDXNknQX_gme1McfJxfIxjWltEL8JDjyFUqsJddbVBcR5R46n_GNJTu57z541OOGAqXMxbk1JTVwwmEipdY-sQzqjd2WSCOMjkguL0NuRYjN1zodSQE6tkWEpQu8xVdTfv9xhbFFIU3kdo6CXQuLHuuSRi3UJCLO_OHD5ZKK3hvFBlbH1Q5LHeK_EjfeKq-9IgpblMZxO6XgOJNJr8dkrG1HwSBr1YyBYSHJRF8NdPzmtiRq3sj0mlp",
+      "resource_type": "fetch",
+      "method": "GET",
+      "at": "2026-11-03T15:21:21.896249+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a54c5e43095cc5d6/1793719281440/CmRO9jXd5IxzrFRsHoHL5-_asJEZOBmKDdyL6EZu6ywdsHdBzNW0ZrCUOv8FvsHK_VLhPK2op_NYPeqF3BKKgVGhn5DMM2sn2QRBNOHuaOjG1qdT-mofg8je0x7_g1bwYoQF5gvB3zE1o6MuhRBnq2I5xZUbyPlvCTPs14ZdeD0X2yevLn_ZZk50MxTcJKP6cnF43Ed6nnSvgaVFBp8BSm9-jEHIOWdQE_f6GMi9vAsXikDomNwGk4PvMzvUPkoVk2x0apJRLLEKbl9xygRUdrPkqWmbppSQIinfBFLqKl5b4cIapzmXtXfwp6utE8uvtYtb4KjjOZLolDyZG4LeUozE_hgeRZJkGI2pU_ZCs6wN_8_577Kdxq_oIBh3tv9lPxwAyrjtTHoLnypavU_Cv2tz6cxsHkZd8qghQew7oObcvbIMa-4-UyQzT_YEBj8GFk9IQvOPs5OSqmkP8XK9srlxgwx5K8GkSz92HxbJvOHkpmHe1cgZ4Gn0B7b0SAXCovayqWUy3ZtqPKygs-shEWpw8bItR3pZG1neOcnsgzdFtya3OheESR2qPQ1L63SGV4leZOlICYWwNJhWNrZB14M",
+      "resource_type": "image",
+      "method": "GET",
+      "at": "2026-11-03T15:21:22.731170+00:00"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/458718561:1793715030:6piNk3Ss7KE0eUoWAAsrEA6j_Ywrzd7LAtnICFdSiLU/a54c5e43095cc5d6/Cv4xdz2ePU2lQhlBJnBqA2EYG8N7e0dMCNB18Yuy10QEt-4sec0yjgmhRvIRsAwiOxbiyKIoZBCVNId3Yn_cgKHcrXjOKQ5wrJy8wa8YBNEyMDMqjU0X1muKnr5qiw1l5w",
+      "resource_type": "xhr",
+      "method": "POST",
+      "at": "2026-11-03T15:21:24.553556+00:00"
+    }
+  ],
+  "tracking": {
+    "status": "pass",
+    "reason": "No configured tracking signals observed within this capture window; not a guarantee of absence."
+  },
+  "signals": [],
+  "uncertain_signals": [],
+  "blocked": true,
+  "context_excerpt_limit": 400
+}
