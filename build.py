@@ -46,13 +46,16 @@ def main(domains=None,sites_path=ROOT/'data/sites.json'):
     rows.sort(key=lambda r:(-r['failures'],r.get('rank') or 999999,r['domain']))
     output={'generated_at':datetime.now(timezone.utc).isoformat(),'custom_cohort':custom,'input_manifest':sites_path.name,'sources':json.loads((ROOT/'data/sources.json').read_text(encoding='utf-8')),'excluded':0 if custom else len(json.loads((ROOT/'data/excluded.json').read_text(encoding='utf-8'))),'supplemental':sum(r['cohort']=='Supplemental .nl global ranking' for r in rows),'rows':rows}
     (docs/'audit.json').write_text(json.dumps(output,ensure_ascii=False,indent=2),encoding='utf-8')
+    nl=json.loads((docs/'nl.json').read_text(encoding='utf-8'))
     index=docs/'index.html'
     if index.exists():
-        version=hashlib.sha256((docs/'app.js').read_bytes()+(docs/'audit.json').read_bytes()).hexdigest()[:16]
+        version=hashlib.sha256(b''.join((docs/name).read_bytes() for name in ('app.js','nl.json','style.css','audit.json'))).hexdigest()[:16]
         index.write_text(re.sub(r'src="app\.js(?:\?v=[0-9a-f]+)?"',f'src="app.js?v={version}"',index.read_text(encoding='utf-8')),encoding='utf-8')
+        for html in docs.glob('*.html'):
+            html.write_text(re.sub(r'href="((?:/cookie_audit/)?style\.css)(?:\?v=[0-9a-f]+)?"',lambda m:f'href="{m[1]}?v={version}"',html.read_text(encoding='utf-8')),encoding='utf-8')
     with (docs/'audit.csv').open('w',newline='',encoding='utf-8-sig') as f:
-        writer=csv.writer(f);writer.writerow(['Company / site','Group','Website','Cohort','NL source rank','Supplemental global rank','Outcome']+KEYS+['Tested UTC','Evidence'])
-        for r in rows:writer.writerow([r['name'],r.get('company') or 'Unverified','https://'+r['domain'],r['cohort'],r.get('rank'),r.get('global_rank'),r['outcome']]+[r['checks'][k]['status'] for k in KEYS]+[r.get('tested_at',''),r.get('evidence') or r.get('result_file','')])
+        writer=csv.writer(f);writer.writerow(['Naam','Bedrijfsgroep','Website','Selectie','Nederlandse bronrang','Wereldrang aanvulling','Bezoekstatus']+[nl['checks'][k] for k in KEYS]+['Gemeten op UTC','Bewijs'])
+        for r in rows:writer.writerow([r['name'],r.get('company') or '', 'https://'+r['domain'],nl['cohorts'].get(r['cohort'],'Eigen selectie'),r.get('rank'),r.get('global_rank'),nl['outcomes'][r['outcome']]]+[nl['statuses'][r['checks'][k]['status']] for k in KEYS]+[r.get('tested_at',''),r.get('evidence') or r.get('result_file','')])
     included={r['domain'] for r in rows if r['outcome']!='not_tested'}
     manifest={str(p.relative_to(docs)).replace('\\','/'):hashlib.sha256(p.read_bytes().replace(b'\r\n',b'\n') if p.suffix=='.json' else p.read_bytes()).hexdigest() for p in (docs/'evidence').rglob('*') if p.is_file() and p.parent.name in included} if (docs/'evidence').exists() else {}
     (docs/'evidence-sha256.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
